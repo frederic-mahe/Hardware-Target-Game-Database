@@ -1,0 +1,312 @@
+3ada75e28ad6b7f2cc41e788a4f855426a365c066dc1b808326ee86dbcf68b13	O:/EverDrive/Atari 5200/Atari 5200 Atarimax Pack Beta 1.7z
+4917edd5d10f87540a58d2fe93bfc792e4751f17b24119c23f44720f43ab29a4	O:/EverDrive/Atari 5200/sd5200.set
+b1a00af9e7b52991cd30855408c6733ead327aa56bb64d950fd3447baeef0464	O:/EverDrive/Atari 5200/sd5200.sto
+9ffda583a583582991ac504d92741a4fe41da094ab63373425937be94eef086d	O:/EverDrive/Atari 5200/1 US - A-Z/Activision Decathlon, The (USA).a52
+f3c1a48b736a06cf5c181e2d3c6c093512a592c4adf91c3e7e8f3e2bbdc2a126	O:/EverDrive/Atari 5200/1 US - A-Z/Astro Chase (USA).a52
+0eaf2b96806f2b6f4f6e0a7dc8887472597b3ad4c48e4a82c49b236637f968ea	O:/EverDrive/Atari 5200/1 US - A-Z/Ballblazer (USA).a52
+1ca70eb59bf139b494f8440ad958794db0f2fa18ee96cbec713426987c853226	O:/EverDrive/Atari 5200/1 US - A-Z/Beamrider (USA).a52
+3f3a9aa1ed3768be015ecba399655d7eb30b1ed4bfaecce472fba3c7f959967d	O:/EverDrive/Atari 5200/1 US - A-Z/BerZerk (USA).a52
+a4bfac6b2b477ac111f3668ed162736e6a134ec59c349b9e4407f52e523043fa	O:/EverDrive/Atari 5200/1 US - A-Z/Blue Print (USA).a52
+957aee5457f89ff9a89b87d045f4803c870b54f40045e3c397b47f716fedadff	O:/EverDrive/Atari 5200/1 US - A-Z/Bounty Bob Strikes Back! (USA).a52
+29d66bb75791a7ced485a49cf2116aa667b32713dc1a67d22430035dde1c4c08	O:/EverDrive/Atari 5200/1 US - A-Z/Buck Rogers - Planet of Zoom (USA).a52
+65a649a34ae8e2942eec74e6ca849145ad605e5742602339427887656a9317d9	O:/EverDrive/Atari 5200/1 US - A-Z/Carol Shaw's River Raid (USA).a52
+06312922c2fe951c6980e9fcec041607db6babab7bfd0ca8d0b2c2b0c8964039	O:/EverDrive/Atari 5200/1 US - A-Z/Centipede (USA).a52
+15583375bc28a8d94d8726a9f35ecb095430ccd817e34c169b715d396c3d379a	O:/EverDrive/Atari 5200/1 US - A-Z/Choplifter! (USA).a52
+254662bb792fddbfe9846dbdd68a2b78479b4b1f4c77a7b85eae2dabdc9888a7	O:/EverDrive/Atari 5200/1 US - A-Z/Congo Bongo (USA).a52
+1a453b467c75c736ba9e96884721286608976ce7f3d8b81fccc619168955f4d1	O:/EverDrive/Atari 5200/1 US - A-Z/Countermeasure (USA).a52
+9095b40ab3b2219a1ce931a99d57de2299a0e641e78005836739323c8a1daca3	O:/EverDrive/Atari 5200/1 US - A-Z/David Crane's Pitfall II - Lost Caverns (USA).a52
+0bc2f5fee89560f286b9c6444642d92ab12b922d1f3a1246c9511ce24ea73507	O:/EverDrive/Atari 5200/1 US - A-Z/Defender (USA).a52
+e68dfe857ae9f602403fa990d97e0e9989768e5f110984babaf9960adb199ac1	O:/EverDrive/Atari 5200/1 US - A-Z/Dig Dug (USA).a52
+5493c7d3145c68392c3f12972be30a2db4c75e14a12740d7b3b0abbfe3f36747	O:/EverDrive/Atari 5200/1 US - A-Z/Dreadnaught Factor, The (USA).a52
+16e4a304548e60b98cf3db125115d8ca11232d4ef8dc7d0ebeb1f06ed764bdd6	O:/EverDrive/Atari 5200/1 US - A-Z/Frogger (USA).a52
+87bdba18b4db61d3701f7c8ce931a9ddc75b5b75892ca69b7e4e419bfa68e46d	O:/EverDrive/Atari 5200/1 US - A-Z/Frogger II - Threeedeep! (USA).a52
+469209803f3c2d9119be2ef4347d25dcb94e6c30930e107cd93a5b94bde16b8c	O:/EverDrive/Atari 5200/1 US - A-Z/Galaxian (USA).a52
+e017a57cd829e6e57f8cc973713178748d5bf25bb9c4fb4e3aa680fa5639693a	O:/EverDrive/Atari 5200/1 US - A-Z/Gorf (USA).a52
+2940b26dc24edc33a9fb840a9f3ef77be73ab0e223525d4bca7d0e0cf14d4a3e	O:/EverDrive/Atari 5200/1 US - A-Z/Gremlins (USA).a52
+8e2a264ee07f486de9b40e74d405acc5405d9d1da5e64a24564d4d769366ba54	O:/EverDrive/Atari 5200/1 US - A-Z/Gyruss (USA).a52
+34a5c081c26a71ae883cd474c7db7e76aa264a5dbd392424d51f224766bf707f	O:/EverDrive/Atari 5200/1 US - A-Z/H.E.R.O. (USA).a52
+5ac85a569f6fe178db4e2111f608949045999d5123b047b20ef03feeccfb1b49	O:/EverDrive/Atari 5200/1 US - A-Z/James Bond 007 (USA).a52
+17ba9da3996bbb907dc8bf0abda17c78512507c3de86171db8e9cbc1f4667f07	O:/EverDrive/Atari 5200/1 US - A-Z/Joust (USA).a52
+53795541ce22cacb9397475926e28ac545940054172a7720650918ab8f693a81	O:/EverDrive/Atari 5200/1 US - A-Z/Jungle Hunt (USA).a52
+2468f75c9ae7a96a2eeb9e9a32b62f56740e6a78687cd90e02d694368577c246	O:/EverDrive/Atari 5200/1 US - A-Z/K-Razy Shoot-Out (USA).a52
+2382504eba619372d7f5fb780a7489163bce198376900405f28f6e8fa452030e	O:/EverDrive/Atari 5200/1 US - A-Z/Kaboom! (USA).a52
+94b994879aa91434da1e72bff6aa1b9fffb1a50cbe26052ea21eed54c6e16ded	O:/EverDrive/Atari 5200/1 US - A-Z/Kangaroo (USA).a52
+2269556b53b9c28a1ed75208605f92ae21ccf5e29fc0cd51b160a50bcc1bb5d0	O:/EverDrive/Atari 5200/1 US - A-Z/Keystone Kapers (USA).a52
+d8b66ea9b9f4f13584ce349ddefea219c31eee99d0a5565627b9322b4b183cbb	O:/EverDrive/Atari 5200/1 US - A-Z/Mario Bros. (USA).a52
+75b60c591276918fa0e208086900133484d5edd050c931422cbbc19cb9b23997	O:/EverDrive/Atari 5200/1 US - A-Z/MegaMania (USA).a52
+73e372b99cdf8f2f30c071dcc0a7ac0bc532ce5300595f166eefa23c46915e77	O:/EverDrive/Atari 5200/1 US - A-Z/Meteorites (USA).a52
+6207cb90590953dd48db0afeb6b40db6f447a8f0a9d48dc758b0654769a2e871	O:/EverDrive/Atari 5200/1 US - A-Z/Miner 2049er Starring Bounty Bob (USA).a52
+792b23a61fd5af990538bf4d7c81bf773079caed875603efca01ca6d6fa4d00b	O:/EverDrive/Atari 5200/1 US - A-Z/Missile Command (USA).a52
+0dcd83e64083e12a358425f6c256bf2bb384d7f9705784035b183dd1db205e16	O:/EverDrive/Atari 5200/1 US - A-Z/Montezuma's Revenge featuring Panama Joe (USA).a52
+549394b200ea0d58aa5d166d81e7a7439b11c810cd53eee186839dd5239b1ad5	O:/EverDrive/Atari 5200/1 US - A-Z/Moon Patrol (USA).a52
+8d99f09862caf68212d1d22a28e5964c41307ef52d8b8be027feefba675f9e6a	O:/EverDrive/Atari 5200/1 US - A-Z/Mountain King (USA).a52
+6b0832baf6b9d84e79c9ec4fc41fb4b40930855d44d554f0f237619849841548	O:/EverDrive/Atari 5200/1 US - A-Z/Mr. Do!'s Castle (USA).a52
+305181464b8ee3733c0de2c8329ea763143f68cd8413aa02731dec2da21ca1ba	O:/EverDrive/Atari 5200/1 US - A-Z/Ms. Pac-Man (USA).a52
+5097b4763eefd8650781698e36b68bc0c9ae0863916312e6fa4364e4da104080	O:/EverDrive/Atari 5200/1 US - A-Z/Pac-Man (USA).a52
+2897aac47fefadd344b5a39e5aaf8bd5d097821cc6321b2d83fa3a04232a2971	O:/EverDrive/Atari 5200/1 US - A-Z/Pengo (USA).a52
+e57563c4f469b58a768c00f3dabcdfa4e52883906ab64263961ed5a033968651	O:/EverDrive/Atari 5200/1 US - A-Z/Pitfall! (USA).a52
+700bdbb98aef4494e39bce978e788dcf2c28a49e06f111c57ff29004f54d7f22	O:/EverDrive/Atari 5200/1 US - A-Z/Pole Position (USA).a52
+2ac41cd4643a81716597de8c4132f421aa9a7d1bec97c30b7706780f66ff9c5c	O:/EverDrive/Atari 5200/1 US - A-Z/Popeye (USA).a52
+dd71b0c2eb40c27bc2e5bf428743e7086f5e23fd23a1125652a9256bcfb55df4	O:/EverDrive/Atari 5200/1 US - A-Z/Q-bert (USA).a52
+29537d2da46d760cdb98c4c968fe37763e3da32c434b2bf7118e811b7e0d7673	O:/EverDrive/Atari 5200/1 US - A-Z/QIX (USA).a52
+7ed12b0ef8746429661006f26acead4a87748e389c89bc19ed2a058bea091857	O:/EverDrive/Atari 5200/1 US - A-Z/Quest for Quintana Roo (USA).a52
+698e156b564645913aef5a9a874bf21b2f0a4e9dde2005a6bb5f4446c4e4edc0	O:/EverDrive/Atari 5200/1 US - A-Z/RealSports Baseball (USA).a52
+4cf2f205a30c7e26653f68733d5c0f07c351c9fa383bb2b7b54caec416ef0868	O:/EverDrive/Atari 5200/1 US - A-Z/RealSports Basketball (USA).a52
+cc8a5829a923361cd1a6898053f199f7b46a00cb3b3c8ab979c52fd4c95089db	O:/EverDrive/Atari 5200/1 US - A-Z/RealSports Football (USA).a52
+b13bbb9e3dc3d47812b7626dcd3483002ca7698c1b2aceb7aa54e09f5dd6de5a	O:/EverDrive/Atari 5200/1 US - A-Z/RealSports Soccer (USA).a52
+5cb84867d6d781e3688c1d346a1947340f6aaefef0c118179b5c89e92e0843b5	O:/EverDrive/Atari 5200/1 US - A-Z/RealSports Tennis (USA).a52
+145514c439665e7d37929283039c1e2d4b4713f067ecfd011c303e34531e144d	O:/EverDrive/Atari 5200/1 US - A-Z/Rescue on Fractalus! (USA).a52
+e70955b742ebba1835ed1f4f95a10e059a1142d0d68a2d81dbeb54a2d7b59016	O:/EverDrive/Atari 5200/1 US - A-Z/Robotron 2084 (USA).a52
+1d688fc6f572e6fb437530e917ff033f6ed037c09a5c95161482a9a1429b3a22	O:/EverDrive/Atari 5200/1 US - A-Z/Space Dungeon (USA).a52
+5ee4d7c4834fb2faee22e326a51d0131faeddc4988d774c81ce84692143a4a84	O:/EverDrive/Atari 5200/1 US - A-Z/Space Invaders (USA).a52
+a7b30ffe1e43e481920e72a5bad30fe81d81d32245c8f0893c42b134eac4eff6	O:/EverDrive/Atari 5200/1 US - A-Z/Space Shuttle - A Journey Into Space (USA).a52
+cffaf52ae0e7755ad908652964598489b66ea3513677114b5d457313260f2c5e	O:/EverDrive/Atari 5200/1 US - A-Z/Star Raiders (USA).a52
+09b9b5e1c23453d3d60c00ed0b35f742640eaeda3f036d105dca958b72cdbc28	O:/EverDrive/Atari 5200/1 US - A-Z/Star Trek - Strategic Operations Simulator (USA).a52
+970d7cdf11f06373828c27ba9cc0a2e01e616b40c59352838fa0ee32d2fae222	O:/EverDrive/Atari 5200/1 US - A-Z/Star Wars - Return of the Jedi - Death Star Battle (USA).a52
+919b65f04ef0c64b3cb551d50bfaa3d923eba4bd33ed17d15af1ed7ad5dc599c	O:/EverDrive/Atari 5200/1 US - A-Z/Star Wars - The Arcade Game (USA).a52
+81d99c73080e57e4066138c44ca34ae9cf5f0fef1ca43f6b3136a36c7435e031	O:/EverDrive/Atari 5200/1 US - A-Z/Super Breakout (USA).a52
+2b06045c19600011b8adab0209e097af367aba0e72cb678211e7fe98738d2d6d	O:/EverDrive/Atari 5200/1 US - A-Z/Super Cobra (USA).a52
+871bd42c17733667ddbd3eca844dbf99f330c350c8da3166f004f4a13b018d02	O:/EverDrive/Atari 5200/1 US - A-Z/Vanguard (USA).a52
+8483d4bf3a7ff75112ef3dad3d2bde44e0698c27629499c9cad0cc3b9cdedff8	O:/EverDrive/Atari 5200/1 US - A-Z/Wizard of Wor (USA).a52
+2644685d76ba806f7f078831cd93644d37d9a5ef62561a70ae4345b2021a8f3d	O:/EverDrive/Atari 5200/1 US - A-Z/Zaxxon (USA).a52
+981df40e898891e098493ae4c5c0c6062c8acbb2cad74510b9fdba3b3e57a0c4	O:/EverDrive/Atari 5200/1 US - A-Z/Zenji (USA).a52
+8edbded59f4fa7182b31dbf0a6ef8da3a3bce1fcca12328aca15446ca1bccd79	O:/EverDrive/Atari 5200/1 US - A-Z/Zone Ranger (USA).a52
+7ef23e0d8f03e5534063e391d20eaa1d66520fc60b18e8567bd0ccf193dc98c7	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/3D Tic-Tac-Toe (XL Conversion).bin
+cfeba447bdfef225da9b458c8664807bc6a93aa51b5f316f54c102c44c2726d2	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Abracadabra (XL Conversion).bin
+d9d3f751240c884503686b37b39c11b5690088d0d8eeb3edc4222ae46bca8daa	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/ANALOG Multicart (XL Conversion).bin
+f5a302fa37a60c95df03c0cd2452f3c6d3d6ed63bb1801e2e165292f7e3bc49e	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Archon (XL Conversion).bin
+dde03b31c9895fa7a273ea2c4b8bf15edbec8a9af824df9343b8fce3541094c0	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Atlantis (XL Conversion).bin
+b7876176a7e851cb685d7beb3f352c3e671d70638428874534281bdd006886e9	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Attack of the Mutant Camels (XL).bin
+3a479324b824aa8f0c1b67564af19adf81b8a3c2ef7307e94cec4a8a6b55289e	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Batty Builders (XL Conversion).bin
+2543a9ec5ea5cc154ef4823de60494687808c9c9657e50ef835c810e01474077	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Bcs Quest For Tires (XL Conversion).bin
+9da5bfee34cf82962744f2a38ba367db637ee7f4e49f0a70ab9c64c72bd554d6	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Buried Bucks (XL Conversion).bin
+289186ff1c799cac98a52583004cd8936077a4f634677155f2beb786faed200e	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Captain Beeble (XL Conversion).bin
+5b8f10543700d58b7dc0fc828b4c7f1a8329581dc19a7a9c9ff343d30b8687a7	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Caverns of Mars (XL Conversion).bin
+f962915db7091916bd5bf3fdceaf36278d3cf214f0dac262274de84a8e080ad9	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Chess (XL Conversion).bin
+215b81a6ab2a4e689e549397999be1694f55a44f4d2c57351db3d6574884dd64	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Chicken (XL Conversion).bin
+89280a18eddee3e7a6e4c6803fe4b86b0f73a6608a689a7fbd1738f174f0bd05	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Claim Jumper (XL Conversion).bin
+7defb01465f1e3c47ee54ac357eec5137198513122c9ff3c0daa67544ea9c6d5	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Clowns & Balloons (XL Conversion).bin
+5d4cf24682afc4b1fe9293e882c775e24b68e582b721ad38257d3303c0a6f2da	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Crossfire (XL Conversion).bin
+a896602eb334f4779ec644f24efd1d4339f39409a27786acb8a025b806cd092e	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Crystal Castles (XL Conversion).bin
+2ae23a0eaaee71f40ca58224a5a01db2461f6e700fcfd2a3d8342302bef72182	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Demon Attack (XL Conversion).bin
+8c2155a67c409310ad4a712852fe8a45945c7e983051306b2f8fb4f175c4e83b	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Desmonds Dungeon (XL Conversion).bin
+0a97a66e6abfedd6c018c2fd53aa0105539b27cf37c146183ba5efd6de218af4	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Diamond Mine (XL Conversion).bin
+bca35870d02edaaf41f530433f576601a218c33f215adb825476a8b1baa7952a	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Donkey Kong (XL Conversion).bin
+db82dab57f6aaba6182e09bd37acebd60c860b0e3e39d5537471bda83aa949f1	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Donkey Kong Jr (XL Conversion).bin
+4799ecc41c1db2c6c5595a3222381e3d02906ab3759cfc45facfc63e0084419f	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Fast Eddie (XL Conversion).bin
+b64e3a91d2e5ca3035c837a6f6a9be81c55b9a177c602bd26fb192a99ea16355	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Ixion (XL Conversion).bin
+42b4f217b22dbb0645b4e5170432e30abc8ad28f3eafc1c45016308fda73d7f2	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Jawbreaker (XL Conversion).bin
+fb77c4f73f923e9b4c2579899ab0b1b19fab7426412ea54ec27861a341f266cb	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Jumpman Jr (XL Conversion).bin
+597696f5b64b85cfe177c70565c77c9ef2ba86d2468d348ba4d79d3910538af6	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/K-Star Patrol (XL Conversion).bin
+fd0724fc3f32818bc981c0426acd69dcad0cad50b1443f12ec3446a247bce0f5	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Mr Cool (XL Conversion).bin
+7a82f3a7fb75205f7517ddb6ecfdae04e66aff0d5e796bdf4cf6cc8590e18053	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/O'Riley's Mine (XL Conversion).bin
+353c107a8679664220a8477fcde9f5da6bb4ea4a613344e461a5e9fcb868449d	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Pacific Coast Hwy (XL Conversion).bin
+7af3423ec2daacfd54c4f49514b68c230b4714f45524587997140bb9535c3c87	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Pastfinder (XL Conversion).bin
+4a1c1064c7919e25464e7797bba00a48efc8185f4fb4f8eaff91c1a62b98bbdc	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Preppie (XL Conversion).bin
+fbbfdcfef86cb0d4abfd7f349e1e4edabb62fb5820fc570f0b4203fa01618e4a	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Raster Music Tracker (XL).bin
+fa4a5736c6e35cecc5b3ff18da1d24ad5d2f13e641dcfcf648fa9546049b0682	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Satans Hollow (XL Conversion).bin
+6ed528062dea39b6d21804f82b346219c100cff09933e7c51ba54bfc68ac0558	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Shamus (XL Conversion).bin
+849591a72b44286ea207e5835c0b144a465fd1c3461a4149eddda9a8cfc72f42	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Spy Hunter (XL Conversion).bin
+14cf6a556713a26b578aca495c68bc105dcbf2ca413fbf30a0b4fbab3acab57e	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Tapper (XL Conversion).bin
+e16e1aeec4fed36b3d9300bc72a0197fcf9205f9ed2e1e1b78c90519a9ea8802	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Turmoil (XL Conversion).bin
+ee947e4906e32cb2709f363f3e7126dffab1d866d54b59e53e54cc59a4d3002e	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Up'n Down (XL Conversion).bin
+5cf3c1f12176c75c44e6508dde36223b93591e1dc54b995ad46f786f06d77d21	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Worm War I (XL Conversion).bin
+c3e487a538c1f2703a9834b1f31a6c8e0080c3913e6af0be4e504e6ac7c90e60	O:/EverDrive/Atari 5200/3 Atari XL Series Conversions/Xagon (XL Conversion).bin
+9ffda583a583582991ac504d92741a4fe41da094ab63373425937be94eef086d	O:/EverDrive/Atari 5200/4 Game Series Collections/Activision Games/Activision Decathlon, The (USA).a52
+1ca70eb59bf139b494f8440ad958794db0f2fa18ee96cbec713426987c853226	O:/EverDrive/Atari 5200/4 Game Series Collections/Activision Games/Beamrider (USA).a52
+65a649a34ae8e2942eec74e6ca849145ad605e5742602339427887656a9317d9	O:/EverDrive/Atari 5200/4 Game Series Collections/Activision Games/Carol Shaw's River Raid (USA).a52
+9095b40ab3b2219a1ce931a99d57de2299a0e641e78005836739323c8a1daca3	O:/EverDrive/Atari 5200/4 Game Series Collections/Activision Games/David Crane's Pitfall II - Lost Caverns (USA).a52
+5493c7d3145c68392c3f12972be30a2db4c75e14a12740d7b3b0abbfe3f36747	O:/EverDrive/Atari 5200/4 Game Series Collections/Activision Games/Dreadnaught Factor, The (USA).a52
+34a5c081c26a71ae883cd474c7db7e76aa264a5dbd392424d51f224766bf707f	O:/EverDrive/Atari 5200/4 Game Series Collections/Activision Games/H.E.R.O. (USA).a52
+2382504eba619372d7f5fb780a7489163bce198376900405f28f6e8fa452030e	O:/EverDrive/Atari 5200/4 Game Series Collections/Activision Games/Kaboom! (USA).a52
+2269556b53b9c28a1ed75208605f92ae21ccf5e29fc0cd51b160a50bcc1bb5d0	O:/EverDrive/Atari 5200/4 Game Series Collections/Activision Games/Keystone Kapers (USA).a52
+75b60c591276918fa0e208086900133484d5edd050c931422cbbc19cb9b23997	O:/EverDrive/Atari 5200/4 Game Series Collections/Activision Games/MegaMania (USA).a52
+a7b30ffe1e43e481920e72a5bad30fe81d81d32245c8f0893c42b134eac4eff6	O:/EverDrive/Atari 5200/4 Game Series Collections/Activision Games/Space Shuttle - A Journey Into Space (USA).a52
+981df40e898891e098493ae4c5c0c6062c8acbb2cad74510b9fdba3b3e57a0c4	O:/EverDrive/Atari 5200/4 Game Series Collections/Activision Games/Zenji (USA).a52
+8edbded59f4fa7182b31dbf0a6ef8da3a3bce1fcca12328aca15446ca1bccd79	O:/EverDrive/Atari 5200/4 Game Series Collections/Activision Games/Zone Ranger (USA).a52
+f3c1a48b736a06cf5c181e2d3c6c093512a592c4adf91c3e7e8f3e2bbdc2a126	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Astro Chase (USA).a52
+3f3a9aa1ed3768be015ecba399655d7eb30b1ed4bfaecce472fba3c7f959967d	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/BerZerk (USA).a52
+a4bfac6b2b477ac111f3668ed162736e6a134ec59c349b9e4407f52e523043fa	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Blue Print (USA).a52
+29d66bb75791a7ced485a49cf2116aa667b32713dc1a67d22430035dde1c4c08	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Buck Rogers - Planet of Zoom (USA).a52
+06312922c2fe951c6980e9fcec041607db6babab7bfd0ca8d0b2c2b0c8964039	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Centipede (USA).a52
+15583375bc28a8d94d8726a9f35ecb095430ccd817e34c169b715d396c3d379a	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Choplifter! (USA).a52
+254662bb792fddbfe9846dbdd68a2b78479b4b1f4c77a7b85eae2dabdc9888a7	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Congo Bongo (USA).a52
+0bc2f5fee89560f286b9c6444642d92ab12b922d1f3a1246c9511ce24ea73507	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Defender (USA).a52
+e68dfe857ae9f602403fa990d97e0e9989768e5f110984babaf9960adb199ac1	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Dig Dug (USA).a52
+16e4a304548e60b98cf3db125115d8ca11232d4ef8dc7d0ebeb1f06ed764bdd6	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Frogger (USA).a52
+469209803f3c2d9119be2ef4347d25dcb94e6c30930e107cd93a5b94bde16b8c	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Galaxian (USA).a52
+e017a57cd829e6e57f8cc973713178748d5bf25bb9c4fb4e3aa680fa5639693a	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Gorf (USA).a52
+8e2a264ee07f486de9b40e74d405acc5405d9d1da5e64a24564d4d769366ba54	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Gyruss (USA).a52
+17ba9da3996bbb907dc8bf0abda17c78512507c3de86171db8e9cbc1f4667f07	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Joust (USA).a52
+53795541ce22cacb9397475926e28ac545940054172a7720650918ab8f693a81	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Jungle Hunt (USA).a52
+94b994879aa91434da1e72bff6aa1b9fffb1a50cbe26052ea21eed54c6e16ded	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Kangaroo (USA).a52
+d8b66ea9b9f4f13584ce349ddefea219c31eee99d0a5565627b9322b4b183cbb	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Mario Bros. (USA).a52
+792b23a61fd5af990538bf4d7c81bf773079caed875603efca01ca6d6fa4d00b	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Missile Command (USA).a52
+549394b200ea0d58aa5d166d81e7a7439b11c810cd53eee186839dd5239b1ad5	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Moon Patrol (USA).a52
+6b0832baf6b9d84e79c9ec4fc41fb4b40930855d44d554f0f237619849841548	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Mr. Do!'s Castle (USA).a52
+305181464b8ee3733c0de2c8329ea763143f68cd8413aa02731dec2da21ca1ba	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Ms. Pac-Man (USA).a52
+5097b4763eefd8650781698e36b68bc0c9ae0863916312e6fa4364e4da104080	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Pac-Man (USA).a52
+2897aac47fefadd344b5a39e5aaf8bd5d097821cc6321b2d83fa3a04232a2971	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Pengo (USA).a52
+700bdbb98aef4494e39bce978e788dcf2c28a49e06f111c57ff29004f54d7f22	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Pole Position (USA).a52
+2ac41cd4643a81716597de8c4132f421aa9a7d1bec97c30b7706780f66ff9c5c	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Popeye (USA).a52
+dd71b0c2eb40c27bc2e5bf428743e7086f5e23fd23a1125652a9256bcfb55df4	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Q-bert (USA).a52
+29537d2da46d760cdb98c4c968fe37763e3da32c434b2bf7118e811b7e0d7673	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/QIX (USA).a52
+e70955b742ebba1835ed1f4f95a10e059a1142d0d68a2d81dbeb54a2d7b59016	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Robotron 2084 (USA).a52
+1d688fc6f572e6fb437530e917ff033f6ed037c09a5c95161482a9a1429b3a22	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Space Dungeon (USA).a52
+5ee4d7c4834fb2faee22e326a51d0131faeddc4988d774c81ce84692143a4a84	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Space Invaders (USA).a52
+09b9b5e1c23453d3d60c00ed0b35f742640eaeda3f036d105dca958b72cdbc28	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Star Trek - Strategic Operations Simulator (USA).a52
+919b65f04ef0c64b3cb551d50bfaa3d923eba4bd33ed17d15af1ed7ad5dc599c	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Star Wars - The Arcade Game (USA).a52
+81d99c73080e57e4066138c44ca34ae9cf5f0fef1ca43f6b3136a36c7435e031	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Super Breakout (USA).a52
+2b06045c19600011b8adab0209e097af367aba0e72cb678211e7fe98738d2d6d	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Super Cobra (USA).a52
+871bd42c17733667ddbd3eca844dbf99f330c350c8da3166f004f4a13b018d02	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Vanguard (USA).a52
+8483d4bf3a7ff75112ef3dad3d2bde44e0698c27629499c9cad0cc3b9cdedff8	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Wizard of Wor (USA).a52
+2644685d76ba806f7f078831cd93644d37d9a5ef62561a70ae4345b2021a8f3d	O:/EverDrive/Atari 5200/4 Game Series Collections/Arcade Conversions/Zaxxon (USA).a52
+698e156b564645913aef5a9a874bf21b2f0a4e9dde2005a6bb5f4446c4e4edc0	O:/EverDrive/Atari 5200/4 Game Series Collections/Sports/RealSports Baseball (USA).a52
+4cf2f205a30c7e26653f68733d5c0f07c351c9fa383bb2b7b54caec416ef0868	O:/EverDrive/Atari 5200/4 Game Series Collections/Sports/RealSports Basketball (USA).a52
+cc8a5829a923361cd1a6898053f199f7b46a00cb3b3c8ab979c52fd4c95089db	O:/EverDrive/Atari 5200/4 Game Series Collections/Sports/RealSports Football (USA).a52
+b13bbb9e3dc3d47812b7626dcd3483002ca7698c1b2aceb7aa54e09f5dd6de5a	O:/EverDrive/Atari 5200/4 Game Series Collections/Sports/RealSports Soccer (USA).a52
+5cb84867d6d781e3688c1d346a1947340f6aaefef0c118179b5c89e92e0843b5	O:/EverDrive/Atari 5200/4 Game Series Collections/Sports/RealSports Tennis (USA).a52
+06312922c2fe951c6980e9fcec041607db6babab7bfd0ca8d0b2c2b0c8964039	O:/EverDrive/Atari 5200/4 Game Series Collections/Trackball Games/Centipede (USA).a52
+469209803f3c2d9119be2ef4347d25dcb94e6c30930e107cd93a5b94bde16b8c	O:/EverDrive/Atari 5200/4 Game Series Collections/Trackball Games/Galaxian (USA).a52
+792b23a61fd5af990538bf4d7c81bf773079caed875603efca01ca6d6fa4d00b	O:/EverDrive/Atari 5200/4 Game Series Collections/Trackball Games/Missile Command (USA).a52
+2897aac47fefadd344b5a39e5aaf8bd5d097821cc6321b2d83fa3a04232a2971	O:/EverDrive/Atari 5200/4 Game Series Collections/Trackball Games/Pengo (USA).a52
+700bdbb98aef4494e39bce978e788dcf2c28a49e06f111c57ff29004f54d7f22	O:/EverDrive/Atari 5200/4 Game Series Collections/Trackball Games/Pole Position (USA).a52
+cc8a5829a923361cd1a6898053f199f7b46a00cb3b3c8ab979c52fd4c95089db	O:/EverDrive/Atari 5200/4 Game Series Collections/Trackball Games/RealSports Football (USA).a52
+b13bbb9e3dc3d47812b7626dcd3483002ca7698c1b2aceb7aa54e09f5dd6de5a	O:/EverDrive/Atari 5200/4 Game Series Collections/Trackball Games/RealSports Soccer (USA).a52
+5cb84867d6d781e3688c1d346a1947340f6aaefef0c118179b5c89e92e0843b5	O:/EverDrive/Atari 5200/4 Game Series Collections/Trackball Games/RealSports Tennis (USA).a52
+5ee4d7c4834fb2faee22e326a51d0131faeddc4988d774c81ce84692143a4a84	O:/EverDrive/Atari 5200/4 Game Series Collections/Trackball Games/Space Invaders (USA).a52
+81d99c73080e57e4066138c44ca34ae9cf5f0fef1ca43f6b3136a36c7435e031	O:/EverDrive/Atari 5200/4 Game Series Collections/Trackball Games/Super Breakout (USA).a52
+c1078744099684130662ccede63834e5d57a221ad76224bf8e7d49aec76c2f62	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/5200 Hangly Man (Sort Of) Hi Nukey! (Hang 5200) (2004.07.04 10.46).bin
+c312cf730b5b8ea89f6292908ce66dfef5f41d95f1adf2be20edfce30e0ddb73	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/5200 Mystery Game #4 (Game4b) (2003.11.26 21.49) (Game4).bin
+da1638321a47baba500accc711d83863bd22fbf5a99d040be1ef7369497f5a6a	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Analog Classics #1.bin
+da1638321a47baba500accc711d83863bd22fbf5a99d040be1ef7369497f5a6a	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Analog Multi-Cart version 2 (Conv).bin
+f5a302fa37a60c95df03c0cd2452f3c6d3d6ed63bb1801e2e165292f7e3bc49e	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Archon (Conv).bin
+58f7e1ab67a664865199c5b0528d1c084f218e32199abd431b9724afdc6d6662	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Asteroids (Prototype).bin
+3856b72ef1d60c6428e633668a12997e93c10317f62209466a17d672e30aac6e	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Asteroids VE Revision 2.bin
+cb31d1df4c8f3893ca65d2c080ae6c383d35e04e50d7f97610d4c3e51c73a1a6	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Asteroids Vector Edition.bin
+4deeb5053249647e2d2ceabbe09299808e766dd33c6c17de922fa002e3eaa541	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Bacterion 5200 v1.1 (2014.03.11 07.08).bin
+ac9c81cde3f5f702dc0b9efae47c2c4aba54dbd887a8218406cf498e12cb0d80	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Beef Drop - Ultimate SD Digital Edition.rom
+a9e44669c27be42a2219df12d18d6b672f249e20efb6b398513bb7b448313b37	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Blaster.bin
+d886f7e96b0128e575d596f4792e0106ae07dc911b326793c3639520494a61a2	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Burger Time For The 5200 (Bd5200) (2006.08.21 11.57).bin
+df7429d8d73c4292e1efe9a8f44b9f6d0804701a6facfc2f59956fc1991d5d0e	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Burger Time For The 5200 (Beef Drop Fixed Level3) (2006.08.21 11.57).bin
+289186ff1c799cac98a52583004cd8936077a4f634677155f2beb786faed200e	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Captain Beeble (Conv).bin
+7787122c5aef19b4a1d8c717c115a41642f8fa610dd0ac4ffc2a5a6f669a6f16	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Capture the Flag.bin
+f9a99054aa9bd6bafb81835f66daa96db79ac9fd8d7f200ea4995749f4f5a298	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Castle Blast (USA) (Unl).a52
+2c8816664654ede5665e21b05161eab39f7d1f7392eeb3173344ebe1224d3c24	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Castle Crisis (Fixed).bin
+2c8816664654ede5665e21b05161eab39f7d1f7392eeb3173344ebe1224d3c24	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Castle Crisis (USA) (Unl).a52
+5b8f10543700d58b7dc0fc828b4c7f1a8329581dc19a7a9c9ff343d30b8687a7	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Caverns of Mars (Conv).bin
+f962915db7091916bd5bf3fdceaf36278d3cf214f0dac262274de84a8e080ad9	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Chess (Conv).bin
+a98205e52025ba1b3d31153e37a06fa6ea40f1d4e43644f125c5b6ca387d9ed4	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Chop Suey.bin
+54324b6f99c98613b9caaee9ac3e5e9e6c59896a17eb17a96655d3a84061bfa6	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Claim Jumper.bin
+610082728fde1d8848fb89e67484fb06954d84fb52abd7a5b8e75d47224f5466	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/COSMI.BIN
+bbcb75a6df4d164ac5bc4c4ecf355362621c078eef62de36bdf0a8324727fc42	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Crystal Castles (Clay Conv).bin
+bbcb75a6df4d164ac5bc4c4ecf355362621c078eef62de36bdf0a8324727fc42	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Crystal Castles V0.6 by Clay Cowgill (2002) (PD).bin
+bca35870d02edaaf41f530433f576601a218c33f215adb825476a8b1baa7952a	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Donkey Kong (Conv).bin
+db82dab57f6aaba6182e09bd37acebd60c860b0e3e39d5537471bda83aa949f1	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Donkey Kong Jr. (Conv).bin
+6905b02aa2237f3adc7bdcbd17c6cdd0b8e1873e799a8fc4d0f6a652bbcc7be9	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Doom by Jeffry Johnston (PD).bin
+c9d4dc69a693decf49d2a32e3e8903603598c260bec74be63246c4106ce10810	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Dreadnaught Factor 2, The.bin
+98eb1983c7bcc3ced175afa3f8d1254b2b9b7a3acbb9a6d60ded2f5129b68afa	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Freecell.bin
+acb789daa6b401015b21b59c608a3519896c1aa207e1a0504e1f4abb4bc93fff	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Frogger (no button hack).bin
+7d772b64a9ee32dde45b99b4687629f470c26540ee493954076cae7263654e6f	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/GalacticcChase.bin
+be20d3128c50c6e5110d2c3120eec5b0f7aa30e6a14ddad81fe0a0891198b8e7	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Gateway to Apshai.bin
+e5499edf24741d9eb2276ca1b3462471447b7d22a7c12e7ab874998934f496ce	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Gorf.bin
+4961ff2b45e40e5c7b9aaa27bcb2c91f0a35e7104be1a07d06e7ac7a0214847f	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Gyruss (autofire hack).bin
+deabb3cc939b445df9505f8dcc94ce8938ed2f6437b3559027cbe6116c619c14	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/HANG (hangs the 5200).BIN
+dbd4780c5e31bd4fc70c18ad1021cf191d0d052f19a603c80de1a027a5a66e6e	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Irata's Quest by John Swiderski (Dec 23) (2002) (PD).bin
+67ee3bd28ee643c5abfa0ffaef5597fefd0f07ddd844f87be4f55107a87bc56b	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/John Anderson's Rally Speedway.bin
+7715570a59ce584f60f6289db15eb1d8f20aa42574fbe676aa7ed7a1bc70f13b	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Journey to the Planets.bin
+85a41d931df81b518d3a5fbfd458bd7af825791eb7df3a40c5f07f999cb5c20f	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Jum's Pong (2000) (PD).bin
+c57c76c4660dd44c72ed0abc59188b32c9dab2e4d3e09b2448667d2390e79289	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/K-Razy Shootout (2 port hack).bin
+d6f1ad68f980c8d5099e43b82cd2b3c2446483977e2b90f46ee7c5f1f1edb1bb	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Kaboom (no 1812 Overture hack).bin
+c1810b57d06909d03f48e6df6f61c08d3a8b05ae9ee4d6ebb01ab505ad37c761	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Kid Grid.bin
+ce8e09624f52f7a488cbb592c11304d0c05340c64e3443cc3d0f9d19926df7fd	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Koffi - Yellow Kopter (USA) (Unl).a52
+4746cd1818a743055e19f0218d2d986744fba464ade56ecb8d5e3d5690fe7882	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Laser Gates.bin
+c080c2dafe3ab634ebcb24c1efb93e29b3db3850d35abb93cc1ea9926041ce01	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/M.U.L.E. (SD Cart compatible).bin
+1661ab227e7dd6cc857e97eef23830d2bedbbf8f2e2d790ea2872986e9c1dfbb	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Missile Command +.bin
+0769bf6393651671c78b47e054443f03096863ebd98caacdd986e712be463fc8	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Mountain King (2 port hack).bin
+397447c41706bfc4792090e666114fc8b6e5139484948cbcb29685b296fc6a17	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Ms Pac-Man (throttle hack).bin
+0633e77e92e5bf1562b1aa719287c59505318c92433eec1473f11e2626f541b1	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Necromancer.bin
+79c1e2270e04b52635441cd91959a3430e3f0dfe41a37aada4ce868ba5497830	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Pac-Man (possible hack).bin
+1478e800dccf242297d1a8f1d94ce867fef563600bdd7fdcac0b8be453ca75d2	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Pac-Man (throttle hack).atr
+bf11344ceea41f9ffe3ab90c0e088ca377db6da81f86d14b2c4972e988799bc7	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Pac-Man Plus (possible hack).BIN
+c64e83e1fb265c01679558839e697b6823dde83e837085ab1af6826954c1ac84	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Pastfinder (HIP Demo).bin
+97e0a3b06e33fe523d0415927d4ce5a5a50bd673fd50b86e5e5411dcf4142f00	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Pete's Diagnostic Cart.bin
+f948d2a74e5e01250435602dce92471e1328e03c8175b41e9de77705c72f37d2	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Pitfall! (2 port hack).bin
+89e95dd71666801501aafe7ce791f3d5fac087cf7fdba910c305b1f2d0d0f47a	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Pitfall! (Classics Fix).bin
+44edf774d504b9d60517edf7f884bdd4c2a094e8f199da40e6261d7d0279e2ca	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Pong (patched).bin
+b87aac3c7344c7f572f45591fe9611e9d550b538a62f7edcbd889775e2d84163	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Popeye Arcade(5200Color).bin
+f670fa0cdce6c1d963a14d2ca9260009d6f21e67f17163a672d4335cda815d64	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Q-bert-nobutton (32k).bin
+27c876f08ede615e3156b94b1cb32196892ac19c6e1b0c5ecc434159dbfff1e7	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Q-bert-nobutton (8k).bin
+0d96cde62783ef31172f5dd1705c129c6cae6871dbc427be8f38ac3d8c033d78	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Q-bert-nobutton.bin
+fbbfdcfef86cb0d4abfd7f349e1e4edabb62fb5820fc570f0b4203fa01618e4a	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Raster Music Tracker Demo (Conv).bin
+6f1a4c0ca3d679363d6615e0903714bd49ac99163965662f6c2c527983dd7f25	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Ratcatcher.bin
+4cf2f205a30c7e26653f68733d5c0f07c351c9fa383bb2b7b54caec416ef0868	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Realsports Basketball Final.bin
+a5af78c5f6892135048d0f36232df343068b97eb7acb58580e1edd8dfa678afc	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Realsports Basketball Rev1 fixed.car
+6d2c4642e18dadeb6bd9d1a1f2132132241f7e088d37cf480d0f01a8bc9e8ff7	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Realsports Basketball Rev1.bin
+fa4a5736c6e35cecc5b3ff18da1d24ad5d2f13e641dcfcf648fa9546049b0682	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Satans Hollow (Conv).bin
+77a9d77e65aa2075a7fac86122fada6860cb7ca7d5d1086bc00b31fed16de755	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Shamus Case II.bin
+29af287d437a500ca79086e35d93d327cee0136b0655a82204a28d59ae869847	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Super Pac Man Final (5200).bin
+755fa1f70e0ca11261b51a05dcaf3a1950aa7dc66aa09a6b41a29014c1a6c648	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Superfly.bin
+619aa4d1c97aee9dad83a486677e23f18e331a6bab634d1a2f119bc9e13afcac	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/SuperPacMan(Adj.Bluetime2chiphack)(32k).bin
+917d771b13a2294ab8b558c72e8cb6d91482570b10d712f612433058037f616b	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/SuperPacMan(Adj.Bluetime2chiphack).bin
+21983042c4ba921b4f48e767065e7bb3e920e7d63cfac2d6292cb12ef81f0e8d	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Tapper (Conv).bin
+bd81474faea8cafd67a39775bcb17ec14ff29d3d1cb07f31df17c4a3ccd649ec	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Time Runner.bin
+ee947e4906e32cb2709f363f3e7126dffab1d866d54b59e53e54cc59a4d3002e	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Up and Down (Conv).bin
+06180de44181bf76388edf7dd48745cdca64deb191b11b1c7f03c9d1b6ee2943	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/XMAS5200.BIN
+06180de44181bf76388edf7dd48745cdca64deb191b11b1c7f03c9d1b6ee2943	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/XMAS5200_1.bin
+06180de44181bf76388edf7dd48745cdca64deb191b11b1c7f03c9d1b6ee2943	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/XMAS5200_2.BIN
+198931bb72a421a0c834a1b2b4c8dd51543c647e137bcda98494e19fc9f37e47	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/5200Basic Games/5200Basic - 3-D Maze by Jeffry Johnston (2002) (PD).bin
+6905b02aa2237f3adc7bdcbd17c6cdd0b8e1873e799a8fc4d0f6a652bbcc7be9	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/5200Basic Games/5200Basic - 5200 Doom by Jeffry Johnston (2002) (PD).bin
+8d4544a4cd8b64223ae0cdbff06056c4536af87de157ef38de1ddc0e2b2f540f	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/5200Basic Games/5200Basic - 99 Bottles of Beer - V.BrainFck by Jeffry Johnston (2001) (PD).bin
+438f3b4b29659a6027181bd3899f5467868a72d29f6d5b3a7aa360fdb80b2a77	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/5200Basic Games/5200Basic - 99 Bottles of Beer by Jeffry Johnston (2001) (PD).bin
+a7eba15e70c2332fd2e3d3dea2e9c69ba64040ec0fe74f7e94c1d971ad6de23f	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/5200Basic Games/5200Basic - Echo - V.BrainFck by Jeffry Johnston (2001) (PD).bin
+99fcac9df5624b32f5cda8adfe1679397b06492d70169aa7b354738ce9fabc6b	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/5200Basic Games/5200Basic - Hello World - V.BrainFck by Jeffry Johnston (2001) (PD).bin
+07d822db6c686766daca93320872be9c0f2c7e65e8424cdc4feeac30ff5b5506	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/5200Basic Games/5200Basic - Hello World by Jeffry Johnston (2001) (PD).bin
+a8ec636df14781793f3852b85b3c485394e9ea8c7199e9f5e57677c4e98403e1	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/5200Basic Games/5200Basic - Missile by Jeffry Johnston (2002) (PD).bin
+50232c2d58a8519998c196fe563378b0a272b58c600bd8b123413d9698473f84	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/5200Basic Games/5200Basic - River Racer by Jeffry Johnston (2002) (PD).bin
+6c459326efd58f85af452cf43fe96797236157e16ef3511364656a9ae22d4e91	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Atari Blast/atariblast.dat
+887f1274594fa098042561c78f54e74cea198685cdb474ea3b2ac4ca87418b42	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Atari Blast/atariblast.hyb
+76ae07e61c00297e2a26497c61049efd77465b9686431d9f26b871cb94d28bff	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Demos & Intros/5200 POK Music - Dust in the Wind by Jeffry Johnston (2002) (PD).bin
+268574c2b81bb4435b0edee993ea6d7b2f6a03a26dba7398d47b771f80927fb6	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Demos & Intros/Adventure 2 Demo (2002) (Ron Lloyd).bin
+8dbac556f89a96cdf9132dce2b8f8d586bb0f21a09a48bab542a91b4ae287d8c	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Demos & Intros/Boogie (USA) (Demo).a52
+13b556b63f7842eaa34dec58752b4aeec7c28348ab977f8a00915cee0a7c7b29	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Demos & Intros/Castle Blast (Demo V.03) (2002) (Ronen Habot).bin
+965696521b2cd5862be18851f799eb73222a2c27a6b5bbcae28f806a9cd0ccd1	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Demos & Intros/Castle Blast (NAVA Demo) (2002) (Ronen Habot).bin
+077b7deae253d181ea83d76c5885634a98826baf511b7facdcba95ce1648da9c	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Demos & Intros/Combat II Demo (2002) (Mean Hamster Software).bin
+04fe75cf3007302102fb3d948a832412be6fa921e209249a48d467e4190fa764	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Demos & Intros/FireFight (Koffi Yellow Kopter Demo) (2002) (Ron Lloyd).bin
+3739349e0ec4c7fc1c457c75590972d864573eb1986517d006f4186fb1c09ce8	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Demos & Intros/Koffi - Yellow Kopter Demo-Nov 15 (2002) (Ron Lloyd).bin
+35a167ac319984cc3e3435a8b8e64eece2651aee9fff56e8ad2bcc6055590fc8	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Demos & Intros/Player & Missle Graphics Demo by Dan Boris (1998) (PD).bin
+84851ed8fb378498b44db38b9a1e3c94cf63e5a55845cfbbd081567428c17619	O:/EverDrive/Atari 5200/4 Hacks & Homebrew/Demos & Intros/Yellow Submarine (USA) (Demo).a52
+8c8b2c40a5c3628b1459697a780dc0ee9d6fa4b1bf2ddcb83a12d5edaf9f98c5	O:/EverDrive/Atari 5200/4 Prototypes/5200 Menu (USA) (Proto).a52
+73b910172bbb3b124be25ccccbcf0ce3db9ac7b886aa67aa82b3ee6cb1eab06a	O:/EverDrive/Atari 5200/4 Prototypes/A.E. (USA) (Proto).a52
+58f7e1ab67a664865199c5b0528d1c084f218e32199abd431b9724afdc6d6662	O:/EverDrive/Atari 5200/4 Prototypes/Asteroids (USA) (Proto).a52
+d31b3d6b341cd99d616408ffe3449d7eaf814146253232123084806d177bb7b8	O:/EverDrive/Atari 5200/4 Prototypes/Barroom Baseball (USA) (Proto).a52
+db6e5251b350e8d09ae53b1f44bb50f6d2c0d6bcec0b5a8b61d6a5b214bfb0d9	O:/EverDrive/Atari 5200/4 Prototypes/Battlezone (USA) (Proto).a52
+aa3ac67931629a17d931c9a1634c46d33dd15c2c5f2373d202b204d121279286	O:/EverDrive/Atari 5200/4 Prototypes/Black Belt (USA) (Proto).a52
+e8c863fd55c1a261a86ea812467119ed6f46b99aea668fa30cbe446447fa48ac	O:/EverDrive/Atari 5200/4 Prototypes/Blaster (USA) (Proto).a52
+29f64b6f3d0daae5a876114cca8faead11f8fd0854f4a69033c66e16a15eaa43	O:/EverDrive/Atari 5200/4 Prototypes/Final Legacy (USA) (Proto).a52
+53dac12aedfd9efaf11a8619a84f6914f67cf63febddc02ed2c48bdf591c3653	O:/EverDrive/Atari 5200/4 Prototypes/Frisky Tom (USA) (Proto).a52
+91cb207d0c6a7ee576a32d591814b22c2539aa5410d0c4a543369937e3a2fdfc	O:/EverDrive/Atari 5200/4 Prototypes/Jr. Pac-Man (USA) (Proto).a52
+01e6f03012aaade5ab6001f75bc52afe5b403edbc4b932cc80b4ba6f23cf178a	O:/EverDrive/Atari 5200/4 Prototypes/Last Starfighter, The (USA) (Proto).a52
+f9ee3a083d89fd78e60d6169888c39faee6bf6b699d371c79bc3f37b00961c3e	O:/EverDrive/Atari 5200/4 Prototypes/Looney Tunes Hotel (USA) (Proto).a52
+c1194c3612fba25dd7bee711688bdab7cdba4b155526cef3d4d88eb7061af7d1	O:/EverDrive/Atari 5200/4 Prototypes/Meebzork (USA) (Proto).a52
+f275c21845c71aaa0fe94bbd93e6bc49b5d740601c82e53dfedd9c64a56e0b2f	O:/EverDrive/Atari 5200/4 Prototypes/Microgammon SB (USA) (Proto).a52
+3cd0e22123f2add19c9af41f1f283d3f2f5739b260a5183b305d1d5fc8aab771	O:/EverDrive/Atari 5200/4 Prototypes/Millipede (USA) (Proto).a52
+9c62ba7e382cb0ddc91623cb114b586b372fd063fe21fd78dd9fcdfeecc9bda3	O:/EverDrive/Atari 5200/4 Prototypes/Miniature Golf (USA) (Proto).a52
+6d2c4642e18dadeb6bd9d1a1f2132132241f7e088d37cf480d0f01a8bc9e8ff7	O:/EverDrive/Atari 5200/4 Prototypes/RealSports Basketball (USA) (82-11-05) (Proto).a52
+5d88a2db75cced05aecb77b7c8dac49669fab4a095dfa6845a83b00235b9e35c	O:/EverDrive/Atari 5200/4 Prototypes/RealSports Basketball (USA) (83-10-31) (Proto).a52
+2f90e50d57d751155cd3553a67e8d92e0ed2880d42fdb7c73bb6295c859cd882	O:/EverDrive/Atari 5200/4 Prototypes/Road Runner (USA) (Proto).a52
+48143ed46227128eba8f1afa16eb2ad6763448f86c19e55f9cdce59e18950e61	O:/EverDrive/Atari 5200/4 Prototypes/Spitfire (USA) (Proto).a52
+a23784ba01982b33179ba8f07683877b498d2f3d143e143d4694d7f1b640cada	O:/EverDrive/Atari 5200/4 Prototypes/Sport Goofy (USA) (Proto).a52
+4bda10d851864513df0ec47c307c7fcc7ea9b0afc141c6a67ef6ab636c79d61e	O:/EverDrive/Atari 5200/4 Prototypes/Stargate (USA) (Proto).a52
+484e2488429eb5b1598566cd832a3e3b0b90cb277b99e8c3dfe7e9fc8ecffaaa	O:/EverDrive/Atari 5200/4 Prototypes/Super Pac-Man (USA) (Proto).a52
+b7283b53cfd6e4972ec3cd04e49ffd20de3195f895ec6a59c92da719f0aa9cce	O:/EverDrive/Atari 5200/4 Prototypes/Tempest (USA) (Proto).a52
+2a74517e4eadd286b8c2d507bba0fc5f530ce6746686a95d6a60d22dd10ae6cd	O:/EverDrive/Atari 5200/4 Prototypes/Track and Field (USA) (Proto).a52
+c4c9a5fe83d70df121233e4187225f3ddf6c240464ea6b35b7df4628e3ae08c9	O:/EverDrive/Atari 5200/4 Prototypes/Xari Arena (USA) (Proto).a52
+82254ee8ba44cf43d0bf728aff85f14f738ee4473334e4c057e9f5c59777dd15	O:/EverDrive/Atari 5200/4 Prototypes/Xevious (USA) (Proto).a52
+3ecbee24baaa079524ff6f8d5d4e78500a665d5752169799099020940b983195	O:/EverDrive/Atari 5200/4 Tools & Service Test Carts/Atari PAM Diagnostics Cart (USA) v2.3.a52
+d9843af118f6046d4dd13ac9f5a86b172dfe9d374dece972bbca4b5c484fa059	O:/EverDrive/Atari 5200/4 Tools & Service Test Carts/Atari PAM Pete's Test Cart (USA).a52
+9bbbd69a676cc86d238d537689666f15682d7ed9717885ef7272521f5b3983ab	O:/EverDrive/Atari 5200/4 Tools & Service Test Carts/Atari PAM SALT Test (PD) v1.1.bin
+f86f6400a627f64161ff43809579828437edeb825aceaccb767df15e45d1fa68	O:/EverDrive/Atari 5200/4 Tools & Service Test Carts/Atari PAM System Test (USA) v1.02.a52
+06a6cbc575182f119cd5a5846de2b438202f1907fd54c2ae1f73bf8557f419d1	O:/EverDrive/Atari 5200/4 Tools & Service Test Carts/Benchmark Test A8 XL XE 5200 (PD) Rev2 doppel.rom
+5917f0336e95ce67004db335523c319175e26595153eb8d806d0f90451430e32	O:/EverDrive/Atari 5200/4 Tools & Service Test Carts/ZeroRam Test (PD) classics 10-2011.bin
+06b250f18983d058c0f156ce7ee88ae48b6eaf11e6f10f21dccf6ac7ffb6a6af	O:/EverDrive/Atari 5200/4 Tools & Service Test Carts/Bios/[BIOS] Atari 5200 (USA).a52

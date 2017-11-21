@@ -1,0 +1,571 @@
+a0c2acc2871dcbd5197272bf7563a862464bcbe71ad47f6482948dbf5e8ff39d	O:/EverDrive/Atari 7800/Atari 7800 Pack v1.0.7z
+35602970be2390d55f55db674f39acdfccca7068dbf6a8cf774e989a66df3b2e	O:/EverDrive/Atari 7800/1 US A-Z/Ace of Aces (USA).a78
+07d4a067ee558468660715dbf735ab8d1a2d58c0f81f44eb40917a97f514cc9d	O:/EverDrive/Atari 7800/1 US A-Z/Alien Brigade (USA).a78
+ec6ef6179644041a9fb77fc6b7c917387219fc388dd5a0fbf8236677f279402e	O:/EverDrive/Atari 7800/1 US A-Z/Asteroids (USA).a78
+b8cdf27ad3cc1b2e607cef95a2439523a7dd32e2e994c4c3e4bc121f5bb4325d	O:/EverDrive/Atari 7800/1 US A-Z/Ballblazer (USA).a78
+79a7804810b2a961665a23c34543b9351461508ac0de7ac4487ed8bb1562f8a7	O:/EverDrive/Atari 7800/1 US A-Z/Barnyard Blaster (USA).a78
+3d858b8190cc5a74e0641e5876a57e44276cde0ce2c99a3cd990741c803c5bc0	O:/EverDrive/Atari 7800/1 US A-Z/Basketbrawl (USA).a78
+50d479e6770cd92a0054ca916d3c46d6279116a3446c28c4f0dd989e4da7e930	O:/EverDrive/Atari 7800/1 US A-Z/Centipede (USA).a78
+13ec351a92f80e92028afeeda0d3c138d84471797b2e27556b65c4eb6cf18234	O:/EverDrive/Atari 7800/1 US A-Z/Choplifter! (USA).a78
+01893e48c349d5d934da0ef92668cb8874e32774194cb212c5d53a3eaff829f6	O:/EverDrive/Atari 7800/1 US A-Z/Commando (USA).a78
+aad4a328987988879505a368017da5091d523dfa9c34fb802dda0cb993e9f07e	O:/EverDrive/Atari 7800/1 US A-Z/Crack'ed (USA).a78
+6a21ae250e3bc2de59435b053d7f1ee415921b5987b7743e7d863a645fcbfdee	O:/EverDrive/Atari 7800/1 US A-Z/Crossbow (USA).a78
+e51b3bbc3572df437685a73d11463c6d5de15002daaa2d07db03c0c551f80429	O:/EverDrive/Atari 7800/1 US A-Z/Dark Chambers (USA).a78
+63df654f2437b8642fec8249a0a46986f5829cd3a2bd1a078f372048f41134f3	O:/EverDrive/Atari 7800/1 US A-Z/Desert Falcon (USA).a78
+fe1af5b04e6511964e4a5a5c27f3020357cbd142f67c3dbe3849cf62aec05555	O:/EverDrive/Atari 7800/1 US A-Z/Dig Dug (USA).a78
+7b1f3eee49e688017fd60a3dff19246e3edb0a2958c15ead7857bfd53e732423	O:/EverDrive/Atari 7800/1 US A-Z/Donkey Kong (USA).a78
+81ed1b9398ed9b73e3c201e5413cba165ffa4ad38e6fb06a1695d31d9efbfb88	O:/EverDrive/Atari 7800/1 US A-Z/Donkey Kong Junior (USA).a78
+96e8b97b078d94c94d942746316567228563a4929ec7236721470954df1d6201	O:/EverDrive/Atari 7800/1 US A-Z/Double Dragon (USA).a78
+3faf47ba31d06ccd0bedb2fe84cd596824a828afabdf4e67d304f73cbe1a336a	O:/EverDrive/Atari 7800/1 US A-Z/F-18 Hornet (USA).a78
+34d70c57a1a3994d31e41cc895498aa27eda52236d06f9c8d0280355da72639e	O:/EverDrive/Atari 7800/1 US A-Z/Fatal Run (USA).a78
+15d3b4249f783a21180b99cdaaad583f6c578a98313e69f27a259c7bfd494f1b	O:/EverDrive/Atari 7800/1 US A-Z/Fight Night (USA).a78
+8a7473422b1c8a8fcf72d192f266ce92542d113c894744d048b88c807a10e9f6	O:/EverDrive/Atari 7800/1 US A-Z/Food Fight (USA).a78
+34e0876a14e07796dadfd97e29935b98ab1edec12883f85af6fa57fee3576fcc	O:/EverDrive/Atari 7800/1 US A-Z/Galaga (USA).a78
+70c6c15ef8f6b7553a9e0510865e8f1efc685976b2bab3b4c51765f2d3c9df8b	O:/EverDrive/Atari 7800/1 US A-Z/Hat Trick (USA).a78
+689af3b37afcb16a4f8f41112e10e1ab445e8196b1635349aebdb629c0d914cf	O:/EverDrive/Atari 7800/1 US A-Z/Ikari Warriors (USA).a78
+b104f2eabc3853a44c06dded01a42f4e3a53bb54c578c065ad75f3e9f1b9ffec	O:/EverDrive/Atari 7800/1 US A-Z/Impossible Mission (USA).a78
+879877e88a71805c19a8ee84a33d3d2b1725952e2a50232391b2d650715bad12	O:/EverDrive/Atari 7800/1 US A-Z/Jinks (USA).a78
+4d935cad590587055bb784bff748ded4b6a10b3ac8dad83f0f7f15cc0f148ea5	O:/EverDrive/Atari 7800/1 US A-Z/Joust (USA).a78
+8d1d463559d295dd6e7dc27d369f5a45f9d8d9b7ab84ad12bde7c26696353ecc	O:/EverDrive/Atari 7800/1 US A-Z/Karateka (USA).a78
+5dcd515e48cce6d8f46ae46efd129bb9ff0b64780162c7851e0df0e75c0f4309	O:/EverDrive/Atari 7800/1 US A-Z/Kung-Fu Master (USA).a78
+5e2c64287856dfc79102e5fbfd4ec6bd98db271ddcc8e39767da865e82870be4	O:/EverDrive/Atari 7800/1 US A-Z/Mario Bros. (USA).a78
+f3f12e4feec0fcf6129da83fdd787d3acd08dcd71d6261f7aca59161da303dc7	O:/EverDrive/Atari 7800/1 US A-Z/Mat Mania Challenge (USA).a78
+5c19afff97b64aec947e40753b1e629037ff660b98588ac8251fbdb8f22c4f0d	O:/EverDrive/Atari 7800/1 US A-Z/Mean 18 Ultimate Golf (USA).a78
+c368c0682b2030480d9b713244b4ab96d650571d779c2d0e7d6dcd99c48c7fd4	O:/EverDrive/Atari 7800/1 US A-Z/Meltdown (USA).a78
+471479b0521d120c0f899c61510b028b4717dd1b09796defa3fef0d3bb4c59d8	O:/EverDrive/Atari 7800/1 US A-Z/Midnight Mutants (USA).a78
+6aebeb9a53e8b40a0941bea3f1d5af34c9370b1a15c88d7bc971f529d434182d	O:/EverDrive/Atari 7800/1 US A-Z/Motor Psycho (USA).a78
+3fc870ef82a7c7c43a61f493ab3a3ca84300a26e75d1e71e50c7961ec0c7d652	O:/EverDrive/Atari 7800/1 US A-Z/Ms. Pac-Man (USA).a78
+777a07cd747ae44d6215e1839c1281e47f1169880469cf16fbc1faed2ea02f08	O:/EverDrive/Atari 7800/1 US A-Z/Ninja Golf (USA).a78
+204fa2c77981f803c6ed3564d82d6eb29a4fc83d36f43ab612ee213a6a2779e4	O:/EverDrive/Atari 7800/1 US A-Z/One-on-One Basketball (USA).a78
+cb0a0762e46d3281a338b4d5c5e499ba478c490cccfeb14978d12bb3b30c8822	O:/EverDrive/Atari 7800/1 US A-Z/Pete Rose Baseball (USA).a78
+49a1cbb37544857fbf921a25e003340e5afe8a3a7754cff34dcb811a72d19167	O:/EverDrive/Atari 7800/1 US A-Z/Planet Smashers (USA).a78
+1278db4608ffcfb1c9bb494e5088626c6b70a1eaeb228f571e7225c3b2088e09	O:/EverDrive/Atari 7800/1 US A-Z/Pole Position II (USA).a78
+f823075af910d61ec7050b16ba7e9a457747c249cf1fdf86bdc7a28825314f70	O:/EverDrive/Atari 7800/1 US A-Z/Rampage (USA).a78
+6c785128c31ad02a97034f100c62108007a558de50ba5f6329ba826845936eb4	O:/EverDrive/Atari 7800/1 US A-Z/RealSports Baseball (USA).a78
+f5fca6e8c489967590a133c443f8cc95ae30fe743c2fd5b44d44ee1858d4ef3f	O:/EverDrive/Atari 7800/1 US A-Z/Robotron - 2084 (USA).a78
+678b737bc8cbfda706181c83c3b4a6e63220f3533e1158e558d7a12fbdb54e0b	O:/EverDrive/Atari 7800/1 US A-Z/Scrapyard Dog (USA).a78
+bb3c27080a60e2daa5c974ee34deb6b8bc171cb96a22410b65fcf901a4b31a5f	O:/EverDrive/Atari 7800/1 US A-Z/Sentinel (1988) (Atari) [!].a78
+d4be3f34914726a8962df98c4be64f5108bc740d318f238593cfa25beb18ff2e	O:/EverDrive/Atari 7800/1 US A-Z/Summer Games (USA).a78
+76dfce561449cfc207536d7076413f0627021ad0363e73884e8b4cd7f0925c7e	O:/EverDrive/Atari 7800/1 US A-Z/Super Huey UH-IX (USA).a78
+db45236a0ccf962c41b93de8725c9db4d96884b24d7cf6c7dbad0b0ccd8e20f1	O:/EverDrive/Atari 7800/1 US A-Z/Super Skateboardin' (USA).a78
+859f544a7b5f613aa23c9d6595860b7ba38503efc84f5fb60992e9e6774b3430	O:/EverDrive/Atari 7800/1 US A-Z/Tank Command (USA).a78
+ea25071d8c5cdcc80148ec0944a641720cf42d86a2930c9439741005a6beb94d	O:/EverDrive/Atari 7800/1 US A-Z/Title Match Pro Wrestling (USA).a78
+1ebf0c66d803dc5e2ab3987a9c92514757a46489b73c7102920a9b7277192436	O:/EverDrive/Atari 7800/1 US A-Z/Tomcat - The F-14 Fighter Simulator (USA).a78
+1d7114a709d2fa0e21ae95b00adda93595283def16dbea981924c1e0ff47df27	O:/EverDrive/Atari 7800/1 US A-Z/Touchdown Football (USA).a78
+1afc084ee2ccc3ec66abd1886886c93334874d4822a9b9b48c04cd863b9086a6	O:/EverDrive/Atari 7800/1 US A-Z/Tower Toppler (USA).a78
+206e567607c6a8b392194bfcac9c5dc4228fb6783f5c7fe2f4bb1ea23c87bafe	O:/EverDrive/Atari 7800/1 US A-Z/Water Ski (USA).a78
+3179a7b62b79f8fe8d35fd7a7dd096ba2429b165bf51f5645853b68b269de352	O:/EverDrive/Atari 7800/1 US A-Z/Winter Games (USA).a78
+cde32492d08bd6623097bae210ca030da220d0288bd779940bcd7301ab7cf9a4	O:/EverDrive/Atari 7800/1 US A-Z/Xenophobe (USA).a78
+bec51deeb3735791ccb49dc1dbe484988b4302d207266b3a495f4117715eebdf	O:/EverDrive/Atari 7800/1 US A-Z/Xevious (USA).a78
+efb907a605891ac04cc5de9deda4dd578c34f145132506f2a44984e769ce2dd7	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Ace of Aces (1988) (Atari) (PAL).a78
+e87722529212657cc97dc515ac7eeef8cc6699b8801e067aec65a83096a7c0f3	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Alien Brigade (1990) (Atari) (PAL) [f1] (CC2).a78
+80ea563038904c88c11094f77de044d2f7d08d2900dc92cd70cedc5e5bb718dd	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Alien Brigade (1990) (Atari) (PAL).a78
+6855c60afef1367963763ec8564f2fb14568221c0bf3d34188dfabed221b393b	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Ballblazer (1987) (Atari-Lucasfilm) (PAL).a78
+626014a47fc852ad6c405af7d9cfdd5eb3202db0906822dd678f271b1a3b543e	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Barnyard Blaster (1988) (Atari) (PAL) [!].a78
+983d9b44213c85a27b7acfe529e2ec9da5ac5e06a5d99f645f465a7633c5fc57	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Baseball (Europe).a78
+f940e77b5e4dceeb02d4c5a12382c545b021b46f49103c5908975a5b24eeb83c	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Basketbrawl (1990) (Atari) (PAL).a78
+398d1edb9733fad5de9697230e588e0ab4aa48d6eec2bd6f0c9a13ef2b9ea408	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Centipede (1987) (Atari) (PAL).a78
+8c8b8e096d9d9fa6ab1365de2f6529ec27492d86b06051bedb7599a7a4603dce	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Choplifter (1987) (Atari) (PAL).a78
+e5339c7adb17cf1f0dbd98ac2f1c4d446de7a62cd70d808ab4a3f955207bc24f	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Commando (1989) (Atari) (PAL).a78
+8e59a968567eac8153534454f8fe86c2e2ea274c920924b330189113375fc10e	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Crack'ed (1988) (Atari) (PAL).a78
+fe254f43f00d24b6a97654a00ee7e9c6d85a40f4a62a90bac8fa3a8347b5a1d8	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Crossbow (1988) (Atari) (PAL) [f1] (CC2).a78
+7f52b4aba655fd491489e94eb25e797ec521594b57e58e79d355bbc5d78c007f	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Crossbow (1988) (Atari) (PAL).a78
+ac3fe866e9c223e9761b0493444b9f4e71e7bd1206d9519d6052a6a9d2fe9947	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Dark Chambers (1988) (Atari) (PAL).a78
+3d1c198a017376dffb6c4caf9f3b2363e029c58d17e4463e8162cfa756337cb3	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Desert Falcon (1987) (Atari) (PAL).a78
+1600038e8977fe7cd24a1482674f3f5c65c15913f97e81c7bb6f7e6fbde3ece4	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Dig Dug (1987) (Atari) (PAL).a78
+0d864a6b9d5a5cc7cdb03073a58b0c63260dd51cf14fa4f785d6089366d83576	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Donkey Kong (1988) (Atari) (PAL).a78
+01ad9222a482321c9c98644eab957eaa408a9796e91a157973209c369b16072b	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Donkey Kong Jr (1988) (Atari) (PAL).a78
+3ea91ed074b7eaf137aa0959e7d46da450524179d4a1b54d299b3c90b53d8a33	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Double Dragon (1989) (Activision) (PAL).a78
+48af02f1c1af8f77bb98c2669ab4428bca818cc778b0191b865799c6987e8b48	O:/EverDrive/Atari 7800/2 PAL EU A-Z/F-18 Hornet (1988) (Absolute) (PAL).a78
+4b96b213912c4faecf63ed397aa5b48ff67e013101208224c7f83ea56a7e0096	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Fatal Run (1990) (Atari) (PAL).a78
+f2ab952881b5773c0f1d7eeb4b2c9fb12717baaa057c671d59739f4fbbf9ab4a	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Fight Night (1988) (Atari) (PAL).a78
+258d37a9eb7b8cb54dbc227f21fcfc8e4ec9d73b2a47de961ff5d5f99d3297c1	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Food Fight (1987) (Atari) (PAL).a78
+996e83ea8ca3fb648261251070b5408126315dffecc892d50d6129dbccfca969	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Galaga (1987) (Atari) (PAL).a78
+be871bc20c12b5e0787864047a7a2bc7ff7d7e9625d946bfa06a26f172992707	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Hat Trick (1987) (Atari) (PAL).a78
+bf01c7da23159debde6101a0d4b7ee4b4b9a1a1ec134333f042c091ece917825	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Ikari Warriors (1989) (Atari) (PAL).a78
+8182464098af1a2595beecbea342d266fa025cd6f3832767cd52a0d42a1c8abf	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Impossible Mission (1987) (Atari) (PAL).a78
+b80422d92a5272dd44a900650eb4e22fdf189628a94d9a5c7a33b30923d4ed3c	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Jinks (1989) (Atari) (PAL).a78
+7452f690a2098ebbfab523bae018562d2ed5ee9400f1c46b81581bd824cd914a	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Joust (1987) (Atari) (PAL).a78
+402413356f60a0da10d0992a6a6ee81d69203567f3b436b1b53f564000eb80e7	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Karateka (1987) (Atari) (PAL).a78
+f5651bbb0db03708efb7c32ab1245b3a114d22030dad66e46f3036fb92dc0593	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Kung Fu Master (1989) (Absolute) (PAL).a78
+26ff7f0f5762a637ed4a583cff63f9fbc3922feae7aa54d1d33113f5fd64da4f	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Mario Brothers (1988) (Atari) (PAL).a78
+2517da952a700730bb0c5e187d27982743a520ab899623ce769f5be76973ee56	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Mat Mania Challenge (1989) (Atari) (PAL).a78
+05edbbb09a7bfb7117b5851cccab5d02b4cb7c68779a3c735d6df50b034e2eff	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Mean 18 Golf (1988) (Atari) (PAL).a78
+4d9a8ee9cce22494f4a53969720520c5880da4322f7abc29c19e5f4a09a08c1f	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Meltdown (1990) (Atari) (PAL).a78
+8dc7d08eeea9e7a3d5f4fa6f39f77e90f92437bb3ea702bffae63687ea3c787a	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Midnight Mutants (1990) (Atari) (PAL).a78
+0fefef0e43ff4c78ab692bf0200c7579907735bdec6a97ae638370f9509b431b	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Motor Psycho (1990) (Atari) (PAL).a78
+c925ddc89011f000a9b24939d9c26322b53b3dae9ccc7e7a9277a5bc2ec36550	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Ms. Pac-Man (1987) (Atari) (PAL).a78
+0c121e649234f3bcfb549298d43b68ba85e14d6683a7ed937003ebfad8574e56	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Ninja Golf (1990) (Atari) (PAL).a78
+82ec2d51998b6037c5f78127b9b467fd05d87dd9e2c20092a514cfb843bfa22c	O:/EverDrive/Atari 7800/2 PAL EU A-Z/One-on-One Basketball (1987) (Atari) (PAL).a78
+55075c8066f7547f51f53e5fa0c36511fe5ab5941c1a146f41b1e94cd7e628ca	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Planet Smashers (1990) (Atari) (PAL).a78
+f98e31fce3bf0c445abe66faf64b89a7f28c6e487b2b32280a306ee4f73f523a	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Pole Position II (1987) (Atari) (PAL).a78
+c56141a0b7d0175ec3b22783687316334766d795f47434767e376c38e4bc260b	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Scrapyard Dog (1990) (Atari) (PAL).a78
+3e7b989cdbb2b18d94408835dfc4d8467e5372dc940aad06d336720229088f76	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Sentinel (1991) (Atari) (PAL) [!].a78
+3e7b989cdbb2b18d94408835dfc4d8467e5372dc940aad06d336720229088f76	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Sentinel (Europe).a78
+4b9f9b95a63713d01b250d6631c121f64705fbf5ffb9091f3215666430a4542e	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Super Huey UH-IX (1989) (Atari) (PAL).a78
+b311a6d81ea1a7e161ff9a61af26e218e03868d83842bfeac6be6f8992e2e4d7	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Super Skateboardin' (1989) (Absolute) (PAL).a78
+ed06208b43ed7ce30c3a9c453d71d3e1a7bf99ee1f4e029eb9f7116bdd20d0a7	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Title Match Pro Wrestling (1989) (Absolute) (PAL).a78
+3548b7026ea481b42acfcb88b532cd9758c131a015e411387627a6bd6fcfd9ef	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Tomcat - The F-14 (1989) (Absolute) (PAL).a78
+9fbd280c8d5ebe2d904a7ff7059f2dffc81266aa89aec94a68613a6e6d1434e5	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Tower Toppler (1988) (Atari) (PAL).a78
+fb08a40bec8da48704b7308b2fe517f65dfd84cca8d76f4d63f4aacc70661fb5	O:/EverDrive/Atari 7800/2 PAL EU A-Z/UFO Invaders (Hack) (PAL).a78
+be8d85014f5801c0f94c5d765022b6eff28e1a5ae42d090bb35456f030078a03	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Xenophobe (1989) (Atari) (PAL).a78
+cef70ad1787bf111aa36cebe93dad758ce56d77ec1975cf7a4fb97d69042a16b	O:/EverDrive/Atari 7800/2 PAL EU A-Z/Xevious (1987) (Atari) (PAL).a78
+07d4a067ee558468660715dbf735ab8d1a2d58c0f81f44eb40917a97f514cc9d	O:/EverDrive/Atari 7800/4 Game Series Collections/Accessories & Add Ons/Light Gun/Alien Brigade (USA).a78
+79a7804810b2a961665a23c34543b9351461508ac0de7ac4487ed8bb1562f8a7	O:/EverDrive/Atari 7800/4 Game Series Collections/Accessories & Add Ons/Light Gun/Barnyard Blaster (USA).a78
+6a21ae250e3bc2de59435b053d7f1ee415921b5987b7743e7d863a645fcbfdee	O:/EverDrive/Atari 7800/4 Game Series Collections/Accessories & Add Ons/Light Gun/Crossbow (USA).a78
+c368c0682b2030480d9b713244b4ab96d650571d779c2d0e7d6dcd99c48c7fd4	O:/EverDrive/Atari 7800/4 Game Series Collections/Accessories & Add Ons/Light Gun/Meltdown (USA).a78
+3fc870ef82a7c7c43a61f493ab3a3ca84300a26e75d1e71e50c7961ec0c7d652	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - BlockFort.com/01. Ms. Pac-Man (USA).a78
+4d935cad590587055bb784bff748ded4b6a10b3ac8dad83f0f7f15cc0f148ea5	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - BlockFort.com/02. Joust (USA).a78
+50d479e6770cd92a0054ca916d3c46d6279116a3446c28c4f0dd989e4da7e930	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - BlockFort.com/03. Centipede (USA).a78
+8a7473422b1c8a8fcf72d192f266ce92542d113c894744d048b88c807a10e9f6	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - BlockFort.com/04. Food Fight (USA).a78
+34e0876a14e07796dadfd97e29935b98ab1edec12883f85af6fa57fee3576fcc	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - BlockFort.com/05. Galaga (USA).a78
+81ed1b9398ed9b73e3c201e5413cba165ffa4ad38e6fb06a1695d31d9efbfb88	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - BlockFort.com/06. Donkey Kong Junior (USA).a78
+777a07cd747ae44d6215e1839c1281e47f1169880469cf16fbc1faed2ea02f08	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - BlockFort.com/07. Ninja Golf (USA).a78
+07d4a067ee558468660715dbf735ab8d1a2d58c0f81f44eb40917a97f514cc9d	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - BlockFort.com/08. Alien Brigade (USA).a78
+f5fca6e8c489967590a133c443f8cc95ae30fe743c2fd5b44d44ee1858d4ef3f	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - BlockFort.com/09. Robotron - 2084 (USA).a78
+01893e48c349d5d934da0ef92668cb8874e32774194cb212c5d53a3eaff829f6	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - BlockFort.com/10. Commando (USA).a78
+8a7473422b1c8a8fcf72d192f266ce92542d113c894744d048b88c807a10e9f6	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - IGN.com/01. Food Fight (USA).a78
+777a07cd747ae44d6215e1839c1281e47f1169880469cf16fbc1faed2ea02f08	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - IGN.com/02. Ninja Golf (USA).a78
+471479b0521d120c0f899c61510b028b4717dd1b09796defa3fef0d3bb4c59d8	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - IGN.com/03. Midnight Mutants (USA).a78
+689af3b37afcb16a4f8f41112e10e1ab445e8196b1635349aebdb629c0d914cf	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - IGN.com/04. Ikari Warriors (USA).a78
+07d4a067ee558468660715dbf735ab8d1a2d58c0f81f44eb40917a97f514cc9d	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - IGN.com/05. Alien Brigade (USA).a78
+3179a7b62b79f8fe8d35fd7a7dd096ba2429b165bf51f5645853b68b269de352	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - IGN.com/06. Winter Games (USA).a78
+ec6ef6179644041a9fb77fc6b7c917387219fc388dd5a0fbf8236677f279402e	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - IGN.com/07. Asteroids (USA).a78
+01893e48c349d5d934da0ef92668cb8874e32774194cb212c5d53a3eaff829f6	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - IGN.com/08. Commando (USA).a78
+bec51deeb3735791ccb49dc1dbe484988b4302d207266b3a495f4117715eebdf	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - IGN.com/09. Xevious (USA).a78
+6a21ae250e3bc2de59435b053d7f1ee415921b5987b7743e7d863a645fcbfdee	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - IGN.com/10. Crossbow (USA).a78
+07d4a067ee558468660715dbf735ab8d1a2d58c0f81f44eb40917a97f514cc9d	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - RetroGamer.net/Alien Brigade (USA).a78
+50d479e6770cd92a0054ca916d3c46d6279116a3446c28c4f0dd989e4da7e930	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - RetroGamer.net/Centipede (USA).a78
+e51b3bbc3572df437685a73d11463c6d5de15002daaa2d07db03c0c551f80429	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - RetroGamer.net/Dark Chambers (USA).a78
+63df654f2437b8642fec8249a0a46986f5829cd3a2bd1a078f372048f41134f3	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - RetroGamer.net/Desert Falcon (USA).a78
+8a7473422b1c8a8fcf72d192f266ce92542d113c894744d048b88c807a10e9f6	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - RetroGamer.net/Food Fight (USA).a78
+34e0876a14e07796dadfd97e29935b98ab1edec12883f85af6fa57fee3576fcc	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - RetroGamer.net/Galaga (USA).a78
+4d935cad590587055bb784bff748ded4b6a10b3ac8dad83f0f7f15cc0f148ea5	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - RetroGamer.net/Joust (USA).a78
+6fe4494097d8edf15a4d329473b5f91792c3a8d3ba1ace17d2265facb7bbee5f	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - RetroGamer.net/Pac-Man Collection (USA) (PacManPlus).a78
+1278db4608ffcfb1c9bb494e5088626c6b70a1eaeb228f571e7225c3b2088e09	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - RetroGamer.net/Pole Position II (USA).a78
+bbe381d9f1e26bb686a36ac8bd3492c55bc084290312e248d67a9de714b163dc	O:/EverDrive/Atari 7800/4 Game Series Collections/Best Of Lists/Top 10 Games - RetroGamer.net/Space Invaders 7800 (USA) (PacManPlus).a78
+f823075af910d61ec7050b16ba7e9a457747c249cf1fdf86bdc7a28825314f70	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Activision/Rampage (USA).a78
+35602970be2390d55f55db674f39acdfccca7068dbf6a8cf774e989a66df3b2e	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Atari/Ace of Aces (USA).a78
+ec6ef6179644041a9fb77fc6b7c917387219fc388dd5a0fbf8236677f279402e	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Atari/Asteroids (USA).a78
+79a7804810b2a961665a23c34543b9351461508ac0de7ac4487ed8bb1562f8a7	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Atari/Barnyard Blaster (USA).a78
+3d858b8190cc5a74e0641e5876a57e44276cde0ce2c99a3cd990741c803c5bc0	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Atari/Basketbrawl (USA).a78
+50d479e6770cd92a0054ca916d3c46d6279116a3446c28c4f0dd989e4da7e930	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Atari/Centipede (USA).a78
+63df654f2437b8642fec8249a0a46986f5829cd3a2bd1a078f372048f41134f3	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Atari/Desert Falcon (USA).a78
+fe1af5b04e6511964e4a5a5c27f3020357cbd142f67c3dbe3849cf62aec05555	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Atari/Dig Dug (USA).a78
+8a7473422b1c8a8fcf72d192f266ce92542d113c894744d048b88c807a10e9f6	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Atari/Food Fight (USA).a78
+34e0876a14e07796dadfd97e29935b98ab1edec12883f85af6fa57fee3576fcc	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Atari/Galaga (USA).a78
+c368c0682b2030480d9b713244b4ab96d650571d779c2d0e7d6dcd99c48c7fd4	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Atari/Meltdown (USA).a78
+471479b0521d120c0f899c61510b028b4717dd1b09796defa3fef0d3bb4c59d8	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Atari/Midnight Mutants (USA).a78
+3fc870ef82a7c7c43a61f493ab3a3ca84300a26e75d1e71e50c7961ec0c7d652	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Atari/Ms. Pac-Man (USA).a78
+49a1cbb37544857fbf921a25e003340e5afe8a3a7754cff34dcb811a72d19167	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Atari/Planet Smashers (USA).a78
+1278db4608ffcfb1c9bb494e5088626c6b70a1eaeb228f571e7225c3b2088e09	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Atari/Pole Position II (USA).a78
+6c785128c31ad02a97034f100c62108007a558de50ba5f6329ba826845936eb4	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Atari/RealSports Baseball (USA).a78
+1afc084ee2ccc3ec66abd1886886c93334874d4822a9b9b48c04cd863b9086a6	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Atari/Tower Toppler (USA).a78
+bec51deeb3735791ccb49dc1dbe484988b4302d207266b3a495f4117715eebdf	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Atari/Xevious (USA).a78
+f3f12e4feec0fcf6129da83fdd787d3acd08dcd71d6261f7aca59161da303dc7	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/BlueSky Software (Titus)/Mat Mania Challenge (USA).a78
+5c19afff97b64aec947e40753b1e629037ff660b98588ac8251fbdb8f22c4f0d	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/BlueSky Software (Titus)/Mean 18 Ultimate Golf (USA).a78
+6aebeb9a53e8b40a0941bea3f1d5af34c9370b1a15c88d7bc971f529d434182d	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/BlueSky Software (Titus)/Motor Psycho (USA).a78
+777a07cd747ae44d6215e1839c1281e47f1169880469cf16fbc1faed2ea02f08	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/BlueSky Software (Titus)/Ninja Golf (USA).a78
+678b737bc8cbfda706181c83c3b4a6e63220f3533e1158e558d7a12fbdb54e0b	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/BlueSky Software (Titus)/Scrapyard Dog (USA).a78
+cde32492d08bd6623097bae210ca030da220d0288bd779940bcd7301ab7cf9a4	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/BlueSky Software (Titus)/Xenophobe (USA).a78
+b104f2eabc3853a44c06dded01a42f4e3a53bb54c578c065ad75f3e9f1b9ffec	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Computer Magic, Ltd/Impossible Mission (USA).a78
+204fa2c77981f803c6ed3564d82d6eb29a4fc83d36f43ab612ee213a6a2779e4	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Computer Magic, Ltd/One-on-One Basketball (USA).a78
+d4be3f34914726a8962df98c4be64f5108bc740d318f238593cfa25beb18ff2e	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Computer Magic, Ltd/Summer Games (USA).a78
+3179a7b62b79f8fe8d35fd7a7dd096ba2429b165bf51f5645853b68b269de352	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Computer Magic, Ltd/Winter Games (USA).a78
+76dfce561449cfc207536d7076413f0627021ad0363e73884e8b4cd7f0925c7e	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Cosmi Corporation/Super Huey UH-IX (USA).a78
+859f544a7b5f613aa23c9d6595860b7ba38503efc84f5fb60992e9e6774b3430	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Froggo/Tank Command (USA).a78
+206e567607c6a8b392194bfcac9c5dc4228fb6783f5c7fe2f4bb1ea23c87bafe	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Froggo/Water Ski (USA).a78
+b8cdf27ad3cc1b2e607cef95a2439523a7dd32e2e994c4c3e4bc121f5bb4325d	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/General Computer Corporation (GCC)/Ballblazer (USA).a78
+4d935cad590587055bb784bff748ded4b6a10b3ac8dad83f0f7f15cc0f148ea5	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/General Computer Corporation (GCC)/Joust (USA).a78
+f5fca6e8c489967590a133c443f8cc95ae30fe743c2fd5b44d44ee1858d4ef3f	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/General Computer Corporation (GCC)/Robotron - 2084 (USA).a78
+13ec351a92f80e92028afeeda0d3c138d84471797b2e27556b65c4eb6cf18234	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/ibidinc/Choplifter! (USA).a78
+70c6c15ef8f6b7553a9e0510865e8f1efc685976b2bab3b4c51765f2d3c9df8b	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/ibidinc/Hat Trick (USA).a78
+8d1d463559d295dd6e7dc27d369f5a45f9d8d9b7ab84ad12bde7c26696353ecc	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/ibidinc/Karateka (USA).a78
+6a21ae250e3bc2de59435b053d7f1ee415921b5987b7743e7d863a645fcbfdee	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Imagineering (Absolute)/Crossbow (USA).a78
+96e8b97b078d94c94d942746316567228563a4929ec7236721470954df1d6201	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Imagineering (Absolute)/Double Dragon (USA).a78
+3faf47ba31d06ccd0bedb2fe84cd596824a828afabdf4e67d304f73cbe1a336a	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Imagineering (Absolute)/F-18 Hornet (USA).a78
+15d3b4249f783a21180b99cdaaad583f6c578a98313e69f27a259c7bfd494f1b	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Imagineering (Absolute)/Fight Night (USA).a78
+5dcd515e48cce6d8f46ae46efd129bb9ff0b64780162c7851e0df0e75c0f4309	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Imagineering (Absolute)/Kung-Fu Master (USA).a78
+cb0a0762e46d3281a338b4d5c5e499ba478c490cccfeb14978d12bb3b30c8822	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Imagineering (Absolute)/Pete Rose Baseball (USA).a78
+bb3c27080a60e2daa5c974ee34deb6b8bc171cb96a22410b65fcf901a4b31a5f	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Imagineering (Absolute)/Sentinel (1988) (Atari) [!].a78
+db45236a0ccf962c41b93de8725c9db4d96884b24d7cf6c7dbad0b0ccd8e20f1	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Imagineering (Absolute)/Super Skateboardin' (USA).a78
+ea25071d8c5cdcc80148ec0944a641720cf42d86a2930c9439741005a6beb94d	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Imagineering (Absolute)/Title Match Pro Wrestling (USA).a78
+1ebf0c66d803dc5e2ab3987a9c92514757a46489b73c7102920a9b7277192436	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Imagineering (Absolute)/Tomcat - The F-14 Fighter Simulator (USA).a78
+1d7114a709d2fa0e21ae95b00adda93595283def16dbea981924c1e0ff47df27	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Imagineering (Absolute)/Touchdown Football (USA).a78
+7b1f3eee49e688017fd60a3dff19246e3edb0a2958c15ead7857bfd53e732423	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/ITDC/Donkey Kong (USA).a78
+81ed1b9398ed9b73e3c201e5413cba165ffa4ad38e6fb06a1695d31d9efbfb88	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/ITDC/Donkey Kong Junior (USA).a78
+5e2c64287856dfc79102e5fbfd4ec6bd98db271ddcc8e39767da865e82870be4	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/ITDC/Mario Bros. (USA).a78
+07d4a067ee558468660715dbf735ab8d1a2d58c0f81f44eb40917a97f514cc9d	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Sculptured Software (Acclaim)/Alien Brigade (USA).a78
+01893e48c349d5d934da0ef92668cb8874e32774194cb212c5d53a3eaff829f6	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Sculptured Software (Acclaim)/Commando (USA).a78
+e51b3bbc3572df437685a73d11463c6d5de15002daaa2d07db03c0c551f80429	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Sculptured Software (Acclaim)/Dark Chambers (USA).a78
+34d70c57a1a3994d31e41cc895498aa27eda52236d06f9c8d0280355da72639e	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Sculptured Software (Acclaim)/Fatal Run (USA).a78
+879877e88a71805c19a8ee84a33d3d2b1725952e2a50232391b2d650715bad12	O:/EverDrive/Atari 7800/4 Game Series Collections/Developer/Softgold (Rainbow Arts)/Jinks (USA).a78
+aad4a328987988879505a368017da5091d523dfa9c34fb802dda0cb993e9f07e	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Action (General)/Crack'ed (USA).a78
+bb3c27080a60e2daa5c974ee34deb6b8bc171cb96a22410b65fcf901a4b31a5f	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Action (General)/Sentinel (1988) (Atari) [!].a78
+cde32492d08bd6623097bae210ca030da220d0288bd779940bcd7301ab7cf9a4	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Action (General)/Xenophobe (USA).a78
+471479b0521d120c0f899c61510b028b4717dd1b09796defa3fef0d3bb4c59d8	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Action Adventure/Midnight Mutants (USA).a78
+ec6ef6179644041a9fb77fc6b7c917387219fc388dd5a0fbf8236677f279402e	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Arcade Ports/Asteroids (USA).a78
+50d479e6770cd92a0054ca916d3c46d6279116a3446c28c4f0dd989e4da7e930	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Arcade Ports/Centipede (USA).a78
+01893e48c349d5d934da0ef92668cb8874e32774194cb212c5d53a3eaff829f6	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Arcade Ports/Commando (USA).a78
+e51b3bbc3572df437685a73d11463c6d5de15002daaa2d07db03c0c551f80429	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Arcade Ports/Dark Chambers (USA).a78
+fe1af5b04e6511964e4a5a5c27f3020357cbd142f67c3dbe3849cf62aec05555	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Arcade Ports/Dig Dug (USA).a78
+7b1f3eee49e688017fd60a3dff19246e3edb0a2958c15ead7857bfd53e732423	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Arcade Ports/Donkey Kong (USA).a78
+81ed1b9398ed9b73e3c201e5413cba165ffa4ad38e6fb06a1695d31d9efbfb88	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Arcade Ports/Donkey Kong Junior (USA).a78
+96e8b97b078d94c94d942746316567228563a4929ec7236721470954df1d6201	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Arcade Ports/Double Dragon (USA).a78
+8a7473422b1c8a8fcf72d192f266ce92542d113c894744d048b88c807a10e9f6	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Arcade Ports/Food Fight (USA).a78
+34e0876a14e07796dadfd97e29935b98ab1edec12883f85af6fa57fee3576fcc	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Arcade Ports/Galaga (USA).a78
+879877e88a71805c19a8ee84a33d3d2b1725952e2a50232391b2d650715bad12	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Arcade Ports/Jinks (USA).a78
+4d935cad590587055bb784bff748ded4b6a10b3ac8dad83f0f7f15cc0f148ea5	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Arcade Ports/Joust (USA).a78
+5e2c64287856dfc79102e5fbfd4ec6bd98db271ddcc8e39767da865e82870be4	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Arcade Ports/Mario Bros. (USA).a78
+f3f12e4feec0fcf6129da83fdd787d3acd08dcd71d6261f7aca59161da303dc7	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Arcade Ports/Mat Mania Challenge (USA).a78
+3fc870ef82a7c7c43a61f493ab3a3ca84300a26e75d1e71e50c7961ec0c7d652	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Arcade Ports/Ms. Pac-Man (USA).a78
+1278db4608ffcfb1c9bb494e5088626c6b70a1eaeb228f571e7225c3b2088e09	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Arcade Ports/Pole Position II (USA).a78
+f823075af910d61ec7050b16ba7e9a457747c249cf1fdf86bdc7a28825314f70	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Arcade Ports/Rampage (USA).a78
+f5fca6e8c489967590a133c443f8cc95ae30fe743c2fd5b44d44ee1858d4ef3f	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Arcade Ports/Robotron - 2084 (USA).a78
+bec51deeb3735791ccb49dc1dbe484988b4302d207266b3a495f4117715eebdf	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Arcade Ports/Xevious (USA).a78
+96e8b97b078d94c94d942746316567228563a4929ec7236721470954df1d6201	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Beat 'em Up/Double Dragon (USA).a78
+8d1d463559d295dd6e7dc27d369f5a45f9d8d9b7ab84ad12bde7c26696353ecc	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Beat 'em Up/Karateka (USA).a78
+5dcd515e48cce6d8f46ae46efd129bb9ff0b64780162c7851e0df0e75c0f4309	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Beat 'em Up/Kung-Fu Master (USA).a78
+7b1f3eee49e688017fd60a3dff19246e3edb0a2958c15ead7857bfd53e732423	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Platformer/Donkey Kong (USA).a78
+81ed1b9398ed9b73e3c201e5413cba165ffa4ad38e6fb06a1695d31d9efbfb88	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Platformer/Donkey Kong Junior (USA).a78
+b104f2eabc3853a44c06dded01a42f4e3a53bb54c578c065ad75f3e9f1b9ffec	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Platformer/Impossible Mission (USA).a78
+4d935cad590587055bb784bff748ded4b6a10b3ac8dad83f0f7f15cc0f148ea5	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Platformer/Joust (USA).a78
+5e2c64287856dfc79102e5fbfd4ec6bd98db271ddcc8e39767da865e82870be4	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Platformer/Mario Bros. (USA).a78
+678b737bc8cbfda706181c83c3b4a6e63220f3533e1158e558d7a12fbdb54e0b	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Platformer/Scrapyard Dog (USA).a78
+1afc084ee2ccc3ec66abd1886886c93334874d4822a9b9b48c04cd863b9086a6	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Platformer/Tower Toppler (USA).a78
+5f77bc58511168ea5ee8eba1561fd9bf85581f6932b04cbbccd460c0177027c5	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Puzzle/Klax (Europe).a26
+34d70c57a1a3994d31e41cc895498aa27eda52236d06f9c8d0280355da72639e	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Racing/Fatal Run (USA).a78
+6aebeb9a53e8b40a0941bea3f1d5af34c9370b1a15c88d7bc971f529d434182d	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Racing/Motor Psycho (USA).a78
+1278db4608ffcfb1c9bb494e5088626c6b70a1eaeb228f571e7225c3b2088e09	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Racing/Pole Position II (USA).a78
+206e567607c6a8b392194bfcac9c5dc4228fb6783f5c7fe2f4bb1ea23c87bafe	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Racing/Water Ski (USA).a78
+ec6ef6179644041a9fb77fc6b7c917387219fc388dd5a0fbf8236677f279402e	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Asteroids (USA).a78
+50d479e6770cd92a0054ca916d3c46d6279116a3446c28c4f0dd989e4da7e930	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Centipede (USA).a78
+13ec351a92f80e92028afeeda0d3c138d84471797b2e27556b65c4eb6cf18234	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Choplifter! (USA).a78
+01893e48c349d5d934da0ef92668cb8874e32774194cb212c5d53a3eaff829f6	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Commando (USA).a78
+63df654f2437b8642fec8249a0a46986f5829cd3a2bd1a078f372048f41134f3	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Desert Falcon (USA).a78
+34e0876a14e07796dadfd97e29935b98ab1edec12883f85af6fa57fee3576fcc	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Galaga (USA).a78
+689af3b37afcb16a4f8f41112e10e1ab445e8196b1635349aebdb629c0d914cf	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Ikari Warriors (USA).a78
+49a1cbb37544857fbf921a25e003340e5afe8a3a7754cff34dcb811a72d19167	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Planet Smashers (USA).a78
+f5fca6e8c489967590a133c443f8cc95ae30fe743c2fd5b44d44ee1858d4ef3f	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Robotron - 2084 (USA).a78
+859f544a7b5f613aa23c9d6595860b7ba38503efc84f5fb60992e9e6774b3430	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Tank Command (USA).a78
+bec51deeb3735791ccb49dc1dbe484988b4302d207266b3a495f4117715eebdf	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Xevious (USA).a78
+ec6ef6179644041a9fb77fc6b7c917387219fc388dd5a0fbf8236677f279402e	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Top Down View/Asteroids (USA).a78
+01893e48c349d5d934da0ef92668cb8874e32774194cb212c5d53a3eaff829f6	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Top Down View/Commando (USA).a78
+689af3b37afcb16a4f8f41112e10e1ab445e8196b1635349aebdb629c0d914cf	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Top Down View/Ikari Warriors (USA).a78
+f5fca6e8c489967590a133c443f8cc95ae30fe743c2fd5b44d44ee1858d4ef3f	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Top Down View/Robotron - 2084 (USA).a78
+859f544a7b5f613aa23c9d6595860b7ba38503efc84f5fb60992e9e6774b3430	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Top Down View/Tank Command (USA).a78
+50d479e6770cd92a0054ca916d3c46d6279116a3446c28c4f0dd989e4da7e930	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Vertical View/Centipede (USA).a78
+13ec351a92f80e92028afeeda0d3c138d84471797b2e27556b65c4eb6cf18234	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Vertical View/Choplifter! (USA).a78
+63df654f2437b8642fec8249a0a46986f5829cd3a2bd1a078f372048f41134f3	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Vertical View/Desert Falcon (USA).a78
+34e0876a14e07796dadfd97e29935b98ab1edec12883f85af6fa57fee3576fcc	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Vertical View/Galaga (USA).a78
+49a1cbb37544857fbf921a25e003340e5afe8a3a7754cff34dcb811a72d19167	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Vertical View/Planet Smashers (USA).a78
+bec51deeb3735791ccb49dc1dbe484988b4302d207266b3a495f4117715eebdf	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Vertical View/Xevious (USA).a78
+35602970be2390d55f55db674f39acdfccca7068dbf6a8cf774e989a66df3b2e	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Simulation/Ace of Aces (USA).a78
+3faf47ba31d06ccd0bedb2fe84cd596824a828afabdf4e67d304f73cbe1a336a	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Simulation/F-18 Hornet (USA).a78
+76dfce561449cfc207536d7076413f0627021ad0363e73884e8b4cd7f0925c7e	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Simulation/Super Huey UH-IX (USA).a78
+1ebf0c66d803dc5e2ab3987a9c92514757a46489b73c7102920a9b7277192436	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Simulation/Tomcat - The F-14 Fighter Simulator (USA).a78
+b8cdf27ad3cc1b2e607cef95a2439523a7dd32e2e994c4c3e4bc121f5bb4325d	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Sports/Ballblazer (USA).a78
+3d858b8190cc5a74e0641e5876a57e44276cde0ce2c99a3cd990741c803c5bc0	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Sports/Basketbrawl (USA).a78
+15d3b4249f783a21180b99cdaaad583f6c578a98313e69f27a259c7bfd494f1b	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Sports/Fight Night (USA).a78
+70c6c15ef8f6b7553a9e0510865e8f1efc685976b2bab3b4c51765f2d3c9df8b	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Sports/Hat Trick (USA).a78
+f3f12e4feec0fcf6129da83fdd787d3acd08dcd71d6261f7aca59161da303dc7	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Sports/Mat Mania Challenge (USA).a78
+5c19afff97b64aec947e40753b1e629037ff660b98588ac8251fbdb8f22c4f0d	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Sports/Mean 18 Ultimate Golf (USA).a78
+777a07cd747ae44d6215e1839c1281e47f1169880469cf16fbc1faed2ea02f08	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Sports/Ninja Golf (USA).a78
+204fa2c77981f803c6ed3564d82d6eb29a4fc83d36f43ab612ee213a6a2779e4	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Sports/One-on-One Basketball (USA).a78
+cb0a0762e46d3281a338b4d5c5e499ba478c490cccfeb14978d12bb3b30c8822	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Sports/Pete Rose Baseball (USA).a78
+6c785128c31ad02a97034f100c62108007a558de50ba5f6329ba826845936eb4	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Sports/RealSports Baseball (USA).a78
+d4be3f34914726a8962df98c4be64f5108bc740d318f238593cfa25beb18ff2e	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Sports/Summer Games (USA).a78
+db45236a0ccf962c41b93de8725c9db4d96884b24d7cf6c7dbad0b0ccd8e20f1	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Sports/Super Skateboardin' (USA).a78
+ea25071d8c5cdcc80148ec0944a641720cf42d86a2930c9439741005a6beb94d	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Sports/Title Match Pro Wrestling (USA).a78
+1d7114a709d2fa0e21ae95b00adda93595283def16dbea981924c1e0ff47df27	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Sports/Touchdown Football (USA).a78
+3179a7b62b79f8fe8d35fd7a7dd096ba2429b165bf51f5645853b68b269de352	O:/EverDrive/Atari 7800/4 Game Series Collections/Genre/Sports/Winter Games (USA).a78
+ec6ef6179644041a9fb77fc6b7c917387219fc388dd5a0fbf8236677f279402e	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Asteroids (USA).a78
+b8cdf27ad3cc1b2e607cef95a2439523a7dd32e2e994c4c3e4bc121f5bb4325d	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Ballblazer (USA).a78
+79a7804810b2a961665a23c34543b9351461508ac0de7ac4487ed8bb1562f8a7	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Barnyard Blaster (USA).a78
+3d858b8190cc5a74e0641e5876a57e44276cde0ce2c99a3cd990741c803c5bc0	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Basketbrawl (USA).a78
+50d479e6770cd92a0054ca916d3c46d6279116a3446c28c4f0dd989e4da7e930	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Centipede (USA).a78
+01893e48c349d5d934da0ef92668cb8874e32774194cb212c5d53a3eaff829f6	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Commando (USA).a78
+e51b3bbc3572df437685a73d11463c6d5de15002daaa2d07db03c0c551f80429	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Dark Chambers (USA).a78
+fe1af5b04e6511964e4a5a5c27f3020357cbd142f67c3dbe3849cf62aec05555	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Dig Dug (USA).a78
+7b1f3eee49e688017fd60a3dff19246e3edb0a2958c15ead7857bfd53e732423	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Donkey Kong (USA).a78
+81ed1b9398ed9b73e3c201e5413cba165ffa4ad38e6fb06a1695d31d9efbfb88	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Donkey Kong Junior (USA).a78
+96e8b97b078d94c94d942746316567228563a4929ec7236721470954df1d6201	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Double Dragon (USA).a78
+15d3b4249f783a21180b99cdaaad583f6c578a98313e69f27a259c7bfd494f1b	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Fight Night (USA).a78
+8a7473422b1c8a8fcf72d192f266ce92542d113c894744d048b88c807a10e9f6	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Food Fight (USA).a78
+34e0876a14e07796dadfd97e29935b98ab1edec12883f85af6fa57fee3576fcc	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Galaga (USA).a78
+70c6c15ef8f6b7553a9e0510865e8f1efc685976b2bab3b4c51765f2d3c9df8b	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Hat Trick (USA).a78
+689af3b37afcb16a4f8f41112e10e1ab445e8196b1635349aebdb629c0d914cf	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Ikari Warriors (USA).a78
+4d935cad590587055bb784bff748ded4b6a10b3ac8dad83f0f7f15cc0f148ea5	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Joust (USA).a78
+5dcd515e48cce6d8f46ae46efd129bb9ff0b64780162c7851e0df0e75c0f4309	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Kung-Fu Master (USA).a78
+5e2c64287856dfc79102e5fbfd4ec6bd98db271ddcc8e39767da865e82870be4	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Mario Bros. (USA).a78
+f3f12e4feec0fcf6129da83fdd787d3acd08dcd71d6261f7aca59161da303dc7	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Mat Mania Challenge (USA).a78
+5c19afff97b64aec947e40753b1e629037ff660b98588ac8251fbdb8f22c4f0d	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Mean 18 Ultimate Golf (USA).a78
+3fc870ef82a7c7c43a61f493ab3a3ca84300a26e75d1e71e50c7961ec0c7d652	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Ms. Pac-Man (USA).a78
+204fa2c77981f803c6ed3564d82d6eb29a4fc83d36f43ab612ee213a6a2779e4	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/One-on-One Basketball (USA).a78
+cb0a0762e46d3281a338b4d5c5e499ba478c490cccfeb14978d12bb3b30c8822	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Pete Rose Baseball (USA).a78
+49a1cbb37544857fbf921a25e003340e5afe8a3a7754cff34dcb811a72d19167	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Planet Smashers (USA).a78
+f823075af910d61ec7050b16ba7e9a457747c249cf1fdf86bdc7a28825314f70	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Rampage (USA).a78
+6c785128c31ad02a97034f100c62108007a558de50ba5f6329ba826845936eb4	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/RealSports Baseball (USA).a78
+f5fca6e8c489967590a133c443f8cc95ae30fe743c2fd5b44d44ee1858d4ef3f	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Robotron - 2084 (USA).a78
+bb3c27080a60e2daa5c974ee34deb6b8bc171cb96a22410b65fcf901a4b31a5f	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Sentinel (1988) (Atari) [!].a78
+d4be3f34914726a8962df98c4be64f5108bc740d318f238593cfa25beb18ff2e	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Summer Games (USA).a78
+ea25071d8c5cdcc80148ec0944a641720cf42d86a2930c9439741005a6beb94d	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Title Match Pro Wrestling (USA).a78
+1d7114a709d2fa0e21ae95b00adda93595283def16dbea981924c1e0ff47df27	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Touchdown Football (USA).a78
+1afc084ee2ccc3ec66abd1886886c93334874d4822a9b9b48c04cd863b9086a6	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Tower Toppler (USA).a78
+3179a7b62b79f8fe8d35fd7a7dd096ba2429b165bf51f5645853b68b269de352	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Winter Games (USA).a78
+cde32492d08bd6623097bae210ca030da220d0288bd779940bcd7301ab7cf9a4	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Xenophobe (USA).a78
+bec51deeb3735791ccb49dc1dbe484988b4302d207266b3a495f4117715eebdf	O:/EverDrive/Atari 7800/4 Game Series Collections/Multiplayer (2 Player)/Xevious (USA).a78
+6d8bcb6a566c17741231addc7754f730c4c261d8254e8457beb2f24776890e3a	O:/EverDrive/Atari 7800/4 Hacks/Armor Attack II by Blue Azure (V20130407_NTSC) (Armor Attack II Hack) [t1] (99 Lives).a78
+53ecf869d1e9c601a859c0393bfe268d2274123b446636aaad08fc020bc6443a	O:/EverDrive/Atari 7800/4 Hacks/Baby Pac-Man by Justin De Lucia (Vx.xx) (Ms. Pac-Man Hack).a78
+95764ba95dfbcf9882d22a2bd18bbd5d5da55cf180130d11c8d727e8265e2950	O:/EverDrive/Atari 7800/4 Hacks/Beef Drop (Merry Christmas) (gambler172).a78
+29327a970741857b1b473799028a8f36deb46a48e986923defef5a70443cf3da	O:/EverDrive/Atari 7800/4 Hacks/Bleach Pac-Man (Hack).a78
+0639e111ba56e01e1f76f6ee103238814e016198f5fb1198bab74683d1d68fa2	O:/EverDrive/Atari 7800/4 Hacks/Caterpiller (jwierer) (gambler172).bin
+50387b4bc70306bdb2aef4de89a5f48a115e0f867f662f03dd8036ad7f2d4ed0	O:/EverDrive/Atari 7800/4 Hacks/Centipede (Trackball Hack) (kenfused).bin
+9638bb9aed7ff79b1d8964bbadbcb0f90d963465b7be161dd84710014a9d6807	O:/EverDrive/Atari 7800/4 Hacks/Centipede Plus by Blue Azure (Hack) [t1] (Lives).a78
+1b220eae077d9cea085c4353985be0cd83802f5f68c202e9bd3b6fe2f4966652	O:/EverDrive/Atari 7800/4 Hacks/Centipede PMI by Blue Azure (V20150927) (Hack).a78
+6df78521778d50f0164f800203558a0630e388f0d078a6d672eaaf0686995286	O:/EverDrive/Atari 7800/4 Hacks/Choplifter - Editv3 (Hack).a78
+3f4de71985b3721599b3db75836e391f8920d9975515c9592726a6b60b6a3938	O:/EverDrive/Atari 7800/4 Hacks/Choplifter - HUD (Hack).a78
+29491fc1d4fda7972d37cb9bba534f9b30f7931855cd40f3d3a16c4fd902d343	O:/EverDrive/Atari 7800/4 Hacks/Choplifter - HUD Green (Hack).a78
+6b89ef34e13b1d8a993ca8e9763af6129a750de910d55a77f62ea5cfff7f3ab8	O:/EverDrive/Atari 7800/4 Hacks/Choplifter - HUD2 (Hack).a78
+e1df09f4f95ab0274b144de2ef8f27d90f04728841970df6e796be56fd35e631	O:/EverDrive/Atari 7800/4 Hacks/Choplifter - HUD3 (Hack).a78
+10c8b32cad15fe73cc9504b2f2a4fc35e6f76ecba4e54da40186e122cf74b54b	O:/EverDrive/Atari 7800/4 Hacks/Choplifter - Wings (Hack).a78
+8a46bc31462954e401860611dabbef6d1ed7a7db9122a235875aa4d9d93f1308	O:/EverDrive/Atari 7800/4 Hacks/Crazy Otto (USA) (PacManPlus).a78
+9708f1938dce6af3f11f2decbcc3f06bee8fccf91a1770e723cc8373036cbb42	O:/EverDrive/Atari 7800/4 Hacks/Donkey Kong with Pokey Sound by tep392 (Hack).a78
+85694fe8d2d2a8dadcfe9aad5dc1c27e15d1b91dd7bcfa2aaefdc284d45b9b92	O:/EverDrive/Atari 7800/4 Hacks/Food Fight X (Hack).a78
+cf29eea71c1fed3b7ceceee85b2045a50df2c0e2e79dd9921d6d7d93a40c244c	O:/EverDrive/Atari 7800/4 Hacks/Galaga (1987) (Atari) [t1] (14 Lives by Blue Azure).a78
+e54a4d1bae299132bf529c5c338d8a4478c75a154454f3211fb592f6f96177c9	O:/EverDrive/Atari 7800/4 Hacks/Galaga (1987) (Atari) [t1] (Fast Fire+14 Lives by Blue Azure).a78
+e586d4515f0f3e15a9546fe913f55a0ff80071080ee7dc311f30c6bc74117a7d	O:/EverDrive/Atari 7800/4 Hacks/Galaga (1987) (Atari) [t1] (Infinite Play by Blue Azure).a78
+6d2bceed548e5a4f274683fe8c7b0a925caa0fc0a3576406e1899da162e1d173	O:/EverDrive/Atari 7800/4 Hacks/Galaga - Ship Edit by KevinMO3 (Hack).a78
+777e169a63e69a4835f49d34e242f69987398398779f2f9964a288a234457520	O:/EverDrive/Atari 7800/4 Hacks/Griffey The Dog (Ms. Pac-Man Hack) [t1] (Fast).a78
+583fbeb9597f7c8eac1f2731d697ad6beb9a00916e9e7a9b7a175c383d9af440	O:/EverDrive/Atari 7800/4 Hacks/Griffey The Dog (Ms. Pac-Man Hack).a78
+a9972824201d12497a595fe58456ebe9fa861eea25c82499b6297559003461d8	O:/EverDrive/Atari 7800/4 Hacks/Halloween Griffey The Dog (Ms. Pac-Man Hack).a78
+74a80c845604e26fc3789fc87ef2ed2c67867726081633e5e64d8f5a6ce5a461	O:/EverDrive/Atari 7800/4 Hacks/Happy Halloween (gambler172).bin
+c82ce57a0e73f0945a74dbff5648a2d91e0ab64f72d9e7b3db4f1b6d1128a899	O:/EverDrive/Atari 7800/4 Hacks/Impossible Mission - Blue (Hack).a78
+5abfd5b43f1e03537e0ea4e091132620e87069cb9f42fed419501c4510dda531	O:/EverDrive/Atari 7800/4 Hacks/Impossible Mission - C64 (Hack).a78
+e19abed5cf8266b42a551aaf905a4ad0120e6ebb8848c60aba4c9676db29808d	O:/EverDrive/Atari 7800/4 Hacks/Invisible Pac-Man (Hack).a78
+9076560a64771839a1759c3bec13c4aae651a32cdb135458472ff57eba903642	O:/EverDrive/Atari 7800/4 Hacks/Java Ms. Pac-Man by Justin De Lucia (Hack).a78
+7fa3fe73a4701f97f7b470802abb45e85ffcb932621cdbdbbe607f71d2ffd843	O:/EverDrive/Atari 7800/4 Hacks/Joust X (Hack).a78
+bfe921ed28e1689b43c96f3df941336731865d57e9d3b6eccd5da688709183ac	O:/EverDrive/Atari 7800/4 Hacks/Jr. Ms. Pac-Man (Better Santa Hat) (jwierer).a78
+b599bafec9b38d3932c0ec3a82858f9cedb4b8437e4e2b35ad2eacccd31df98a	O:/EverDrive/Atari 7800/4 Hacks/Jr. Ms. Pac-Man (jwierer).a78
+315a641e080553e9e053e10edc770cb02b39fd4038e76f592531b20f20bdd51b	O:/EverDrive/Atari 7800/4 Hacks/Klax - Impossible Level 1 (Hack).a78
+d5b5a13075ba6d46e1f1c847d17a6a8aab55d17d4f31ec74a34191366a4dcb91	O:/EverDrive/Atari 7800/4 Hacks/Klax - Impossible Level 2 (Hack).a78
+ece06540d6b75a746d30ba3fda5748115f03d1f75cf1e1692f731f662aa5f656	O:/EverDrive/Atari 7800/4 Hacks/Klax - Impossible Level 3 (Hack).a78
+48d75f9309bc4344ef6ddde330fe3f687ee177a979270d173f666951f1c99fe6	O:/EverDrive/Atari 7800/4 Hacks/Kung-Fu Master - Edited (Hack).a78
+bff2d8f6d4016b4d11b9384efa4a25d984838d2090f2424552ec23e4ee79c315	O:/EverDrive/Atari 7800/4 Hacks/Kung-Fu Master - New Sprites (Hack).a78
+0486aa0f4bfe649d168b050deb5452c0a6753e79a6902fa88dbc20e33fa85ab6	O:/EverDrive/Atari 7800/4 Hacks/Mestor and Polax (Pac-Man Hack).a78
+fbcf3c0957aee293de3df6c9ff87160afba96b7a27441ec47afe6de14007baba	O:/EverDrive/Atari 7800/4 Hacks/Miss Pac Attack by Bob DeCrescenzo (Final Version for HSC) (Hack).a78
+9f4fdb7b8f912652832de57d2b984cdc9a608cc1bbfcf11d1761a67d6f1d2b78	O:/EverDrive/Atari 7800/4 Hacks/Miss Pac Attack by Bob DeCrescenzo (Final Version) (Hack).a78
+d45205795ae6b7df808095029f344af9664fca6abe36effd6fc0edabacc5ade9	O:/EverDrive/Atari 7800/4 Hacks/Miss Pac Attack by Bob DeCrescenzo (Hack) [t1] (Fast).a78
+ed52a2937d88bf097fc963cbd95fe3f6e80d1a50fdc0d73030c0f5b158478e89	O:/EverDrive/Atari 7800/4 Hacks/More Beef Drop (jwierer).a78
+e846503dad5756e30def2a4f854f144fb43576e16d2406506e56107e4b16e6ca	O:/EverDrive/Atari 7800/4 Hacks/Ms. Fruit-Man by Justin De Lucia (Ms. Pac-Man Hack).a78
+e482583510b586809b130aefed176bf1ce417542602cbf5186bae78d0ecbae76	O:/EverDrive/Atari 7800/4 Hacks/Ms. Pac-Man 320Mode (Hack).a78
+d18d823c6ae55985078f51e8ae47cb466461ddb7384daf9d51c52db9effe6f1d	O:/EverDrive/Atari 7800/4 Hacks/Ms. Pac-Man 320Mode+Pokey (Hack) [t1] (Fast,Invincible).a78
+2cdcebae1d5b72edd86cc093e84e64a887961a02ffc8563e1ab7eee2319cdaca	O:/EverDrive/Atari 7800/4 Hacks/Ms. Pac-Man 320Mode+Pokey (Hack) [t1] (Invincible).a78
+dbd212a3a605d615f316cd0987909003159ed4df2f509bbd6c1b5a0e2371113a	O:/EverDrive/Atari 7800/4 Hacks/Ms. Pac-Man 320Mode+Pokey (Hack).a78
+cf9f4df2b33af1e0b95a2897f22abc586f7f1718a57916608dc8c6d3688b6ccc	O:/EverDrive/Atari 7800/4 Hacks/Ms. Pac-Man by Bob DeCrescenzo (Arcade Graphics+bugfix) (Hack).a78
+3596c0622df280e6bb160b97253927892aa7f0f5ac95258890a20f76db41ad1b	O:/EverDrive/Atari 7800/4 Hacks/New Ms. Pac-Man by Bob DeCrescenzo (New Ghost Graphics) (Hack).a78
+b58de9561ccb25834002f2a07306feec5107e9a6ff3fdae7c3440cd6a817ff71	O:/EverDrive/Atari 7800/4 Hacks/Pac Nestor (gambler172).bin
+7c3072697eb997343bc6fe8a5ed55a301de73c442ed9dcb3a2509eb4554f532b	O:/EverDrive/Atari 7800/4 Hacks/Pac Nestor (Ms. Pac-Man Hack).a78
+0486aa0f4bfe649d168b050deb5452c0a6753e79a6902fa88dbc20e33fa85ab6	O:/EverDrive/Atari 7800/4 Hacks/Pac Pollux (PacManPlus).a78
+a3a4bb4e2e3ad2aadc2bfb360e07e4a95a3f2be6e27cb59b96c31c618cb8d460	O:/EverDrive/Atari 7800/4 Hacks/Pac-Handheld-Lynx by Justin De Lucia (Hack).a78
+a273dce58cef6c882881b53d5f47aad1285301d13c76b4ed7624b1e9427d13a7	O:/EverDrive/Atari 7800/4 Hacks/Pac-Jason by Walter Lauer (Hack).a78
+7e4bf758766e07e3a3b5dcfae587ae3ec4e88df94864e5a6a38ed17562759b9b	O:/EverDrive/Atari 7800/4 Hacks/Pac-Maine by Justin De Lucia (Ms. Pac-Man Hack).a78
+3fe859be5c9728a27880977cf317f95c85d7221052aeb7f4ce18018e5ad55fd3	O:/EverDrive/Atari 7800/4 Hacks/Pac-Man Collection (Sound Hack) (tep392).a78
+af1f1b27d58b5d0897d286548a8a65b168ade03205ba9443fc8090f01a1e85c8	O:/EverDrive/Atari 7800/4 Hacks/Pac-Man Improvment (Hack).a78
+dfddea087df0e6e7718f5508a14f1f7b385ee2fea488086b50db0f92e7396f87	O:/EverDrive/Atari 7800/4 Hacks/Pac-Man Pirahna (Hack) [t1] (Invincible).a78
+7d36b93ea4f59cd05bde2f64a4af52cc92ed1927ce17a31313edc729e4ea162e	O:/EverDrive/Atari 7800/4 Hacks/Pac-Man Remix NES by Justin De Lucia (Hack).a78
+6a5a18d29d0a5c5132e04ea7547e2876e593ea182fcce625e5df6df349db4534	O:/EverDrive/Atari 7800/4 Hacks/Pac-Prototype by Justin De Lucia (Hack).a78
+3fe859be5c9728a27880977cf317f95c85d7221052aeb7f4ce18018e5ad55fd3	O:/EverDrive/Atari 7800/4 Hacks/Pac_snd_hack by tep392 (Pac-Man Collection Hack).a78
+99507b4dff7f213b2dbe8e8ace65858353109cccaec4dec6070710a95c6fe197	O:/EverDrive/Atari 7800/4 Hacks/Papa Smurf in Pacland (jwierer).a78
+cbcc92c5f0e9845da83c8b5f6b6700044af5eeb98cb997aed9fa4059aa5b4395	O:/EverDrive/Atari 7800/4 Hacks/Papa Smurf in Pacland II (jwierer).a78
+99507b4dff7f213b2dbe8e8ace65858353109cccaec4dec6070710a95c6fe197	O:/EverDrive/Atari 7800/4 Hacks/Papasmurf in Pacland by Jeff Wierer (Ms. Pac-Man Hack).a78
+cbcc92c5f0e9845da83c8b5f6b6700044af5eeb98cb997aed9fa4059aa5b4395	O:/EverDrive/Atari 7800/4 Hacks/Papasmurf in Pacland II by Jeff Wierer (Ms. Pac-Man Hack).a78
+8b980ecc0230f0e4f6077bee0e9350e7a0bd21e18f698b2c36e0858cd4b7b2d4	O:/EverDrive/Atari 7800/4 Hacks/Pc-Man 7800 (Hack).a78
+19d7dc2b2ceb8ce619d583bab174fe3c646cb17897150e29cb0d7f6d2c8b1179	O:/EverDrive/Atari 7800/4 Hacks/Piranha (jwierer) (gambler172).bin
+5f62cb85c0fe33a6612aff0e6bdc3b3460793445d6e285b4a996f98d9a964132	O:/EverDrive/Atari 7800/4 Hacks/Pokey Kong (WIP) (tep392).a78
+b87c6216241b9d1e3a6b538adf53e64774aa1fe062b2d3cbd0509648d76d6f5f	O:/EverDrive/Atari 7800/4 Hacks/Possible Mission by John K Harvey (Impossible Mission Hack).a78
+a7eb330e37e8eaf4391bf77f3e76b20a19989c3d51fee9c2d656b6dbdb0cccc8	O:/EverDrive/Atari 7800/4 Hacks/Rescue on Fractalus (1984) (Atari) (Prototype) (CC2 Hack).a78
+60d56d57982f73a2857114629013b7cbe3b11a3f598f6ef7f8b37980e04c2c6a	O:/EverDrive/Atari 7800/4 Hacks/Robotron X (Hack).a78
+0e4325357b01297e65180bf8bac79015c2b271555aec7d1df69f8945a3763ae8	O:/EverDrive/Atari 7800/4 Hacks/Rowdytron (Hack).a78
+bfe921ed28e1689b43c96f3df941336731865d57e9d3b6eccd5da688709183ac	O:/EverDrive/Atari 7800/4 Hacks/Snow Day (Jr. Pac-Man Hack).a78
+bfe921ed28e1689b43c96f3df941336731865d57e9d3b6eccd5da688709183ac	O:/EverDrive/Atari 7800/4 Hacks/Snow Day Jr. Pac-Man (Better Santa Hat) (jwierer).a78
+b599bafec9b38d3932c0ec3a82858f9cedb4b8437e4e2b35ad2eacccd31df98a	O:/EverDrive/Atari 7800/4 Hacks/Snow Day Jr. Pac-Man (jwierer).a78
+e96bf2beb6e8bb1ea2a0ba4e7ed9c5022c42515d5205bb37b2c7dfe56647ff1c	O:/EverDrive/Atari 7800/4 Hacks/Space Invincivaders (Hack).a78
+1240458a951415008e7ea1413cf8bdef0f3164a28b374f56aeb94f4629575a74	O:/EverDrive/Atari 7800/4 Hacks/Star Wars 7800 (gambler172).bin
+f3948a26f3c03a842144b552a6d8f245f7b96fabed881aa51a2f5320f4520e9c	O:/EverDrive/Atari 7800/4 Hacks/Star Wars X (Xevious Hack).a78
+d5c287ccd71362de522ea9f3aa660444a28f313e2b82701eac4a4e227049ea6c	O:/EverDrive/Atari 7800/4 Hacks/Super Cobra (Scramble Hack) (gambler172).a78
+bee5017813a1596c112886c92cc245ff35bd42c941242b9435c0db061a0533e2	O:/EverDrive/Atari 7800/4 Hacks/Symbolic Debugger & Downloader (1988) (Atari) (Crypt Hack).a78
+cdee3db77d9a68de6252f96e7d3c4180287979fb5797bcae08412d2acf4d5415	O:/EverDrive/Atari 7800/4 Hacks/Tank Command - Color+Sprite+Title Edit 128K by KevinMos3 (V20141221) (Hack).a78
+cecd40bed599d9409971773ac19b282ece395348fcc82630149817e7218eda0c	O:/EverDrive/Atari 7800/4 Hacks/Tank Command - Midnight Run 128K by KevinMos3 (Hack).a78
+86d9a0c11a2bf83685702673c1b43a071f6bad4b0bef89129779fb5e4df205ae	O:/EverDrive/Atari 7800/4 Hacks/Tank Command - Midnight Run by KevinMos3 (V29141221) [f1] (MESS).a78
+4c66edb4d1db3ee40149adc39b4fa91ebd4f6721f76f82fc77bbebf48f3e1629	O:/EverDrive/Atari 7800/4 Hacks/Titan-Man by Justin De Lucia (Ms. Pac-Man Hack).a78
+ffffc069043f20bf039a31ca0afede2dea403fe2a84def5fead9c7ee84a42e05	O:/EverDrive/Atari 7800/4 Hacks/UFO Invaders (Hack).a78
+029bdb1fadb20e58df3b0003d18321b77865afa9bc4ae69e83861eddb60b1087	O:/EverDrive/Atari 7800/4 Hacks/Upside Down Ms. Pac-Man (jwierer).bin
+b7c31cf28401201fe90514d2a0137ae49b2950d2db19c40623e62c273ea6de01	O:/EverDrive/Atari 7800/4 Hacks/Upside Down Pac-Man (jwierer).bin
+6310f4fc1b8ee035dd3c9caf5114e9e21ab20011a4f32f96d2c913f4ea6948d9	O:/EverDrive/Atari 7800/4 Hacks/Water Ski (Color Edit 128K) (Hack).a78
+31b4843ed85d2569a593064ee0e4de8952e2ef43bf009bb168d1b8ca6c725738	O:/EverDrive/Atari 7800/4 Hacks/Water Ski (Title+Color+Realign 128k) (Hack).a78
+cdd96aac7e980ed5ba4cfbf288450a1f02bdf28d0c87d3b4806e737b9f0600d4	O:/EverDrive/Atari 7800/4 Hacks/WWE Title Match (Alt Colors) (Hack).a78
+1c7ed38b4750c1b064363b9937cd94beafbfcd728596356d76bb4d0bc3955fb6	O:/EverDrive/Atari 7800/4 Hacks/WWE Title Match (Hack).a78
+ddd4aea40ba7110cf2cc6e205a9ef722612dd2a106ef82b04cffbf184fa03526	O:/EverDrive/Atari 7800/4 Hacks/Xevious - Title+Color Edit (Hack).a78
+e19d99d88c8844edfda8d3a6f7ab93ba9c57cc421219e7dc452a64308d7ac2d3	O:/EverDrive/Atari 7800/4 Hacks/Xevious Insane (V20070102) (Hack).a78
+a058b53f8519fc58eb633046233659405d158414d91a57d9571feb474dc02ede	O:/EverDrive/Atari 7800/4 Hacks/Xevious X (Hack).a78
+48bceabcb1d3aaadd4469e78c1d4239f317eac7e41575d8705ffea484eaa18cb	O:/EverDrive/Atari 7800/4 Hacks/Xmas Time 2006 (jwierer).a78
+48bceabcb1d3aaadd4469e78c1d4239f317eac7e41575d8705ffea484eaa18cb	O:/EverDrive/Atari 7800/4 Hacks/XmasTime (V20061225) (Beef Drop Hack).a78
+43c6a05e4e1e3a7ea324438651dd8be6c2c62ef78788541863f71bf84563a82c	O:/EverDrive/Atari 7800/4 Hacks/Zevious (V20130326) (Xevious Hack).a78
+1c70965afa8be5766ef84f0e3533d64bc47d622312b5ba5dc95ff3e5b1e9a699	O:/EverDrive/Atari 7800/4 Hacks/PAL/Centipede Plus by Blue Azure (Hack) [f1] (PAL).a78
+8a75909cc5afe6b6e6eb3f8032a3c506470a0e6ffc03077a9ca7c0dbd06d9293	O:/EverDrive/Atari 7800/4 Hacks/PAL/Centipede PMI by Blue Azure (V20150927) (Hack) (PAL).a78
+15e4d4fd24d3f2113ad16f96fbb3ff7ce0ef06a550affe97e0548779992b6e3d	O:/EverDrive/Atari 7800/4 Hacks/PAL/Crazy Otto PAL (Europe) (PacManPlus).a78
+a0a506a6560613899d7c51184c5a6582dfbbb15fbd842b59dd02cf9135f2ca46	O:/EverDrive/Atari 7800/4 Hacks/PAL/Food Fight X (V_PAL) (Hack).a78
+04215b5f2fa80f8b52f0987105231d1b4d03c418f5ac3182f46747d2bbbe8f58	O:/EverDrive/Atari 7800/4 Hacks/PAL/Galaga (1987) (Atari) (PAL) [t1] (14 Lives by Blue Azure).a78
+b9f1b16bd62c1aaae0f25003170a66d0a1615edbfea8e7f10d1d2ebd248ab999	O:/EverDrive/Atari 7800/4 Hacks/PAL/Joust X (Hack) (PAL).a78
+a2275e2bdf0f90068abfc38a62ab598510a76d94975e1599a7bcf65d53ee1f7d	O:/EverDrive/Atari 7800/4 Hacks/PAL/Ms. Pac-Man 320Mode (Hack) (PAL).a78
+31cbc57eddb65a96eaa82d3adc1a1aea4da35d8f224e7d260da6c59313741a43	O:/EverDrive/Atari 7800/4 Hacks/PAL/Space Invincivaders (Hack) (PAL).a78
+fb08a40bec8da48704b7308b2fe517f65dfd84cca8d76f4d63f4aacc70661fb5	O:/EverDrive/Atari 7800/4 Hacks/PAL/UFO Invaders (Hack) (PAL).a78
+9ebfeaf2a37065b132e867cce185e6b795f2d48960f793449500cd6de4f679c4	O:/EverDrive/Atari 7800/4 Hacks/PAL/Xevious X (Hack) (PAL).a78
+65643f1a07ba217f99f8c6563eb1fb22defcf1888945b4f4d26ae8726798757e	O:/EverDrive/Atari 7800/4 Homebrew/Alpha Race for Atari 7800 (PD) V20150911.a78
+28bf0492e4b84dc1a2332ae1b06d9f11466b6de8c8047f67295f7e7ee8e1ffa0	O:/EverDrive/Atari 7800/4 Homebrew/Apple Snaffle (GroovyBee).a78
+570da22b8057cf384b0e6d65757b4b89afb43e36d2aacaebad9e6c4d6e4758b2	O:/EverDrive/Atari 7800/4 Homebrew/Arkanoid by John K. Harvey (V20110911).a78
+635c262f93f4ea9c5887c290ac5f941ab0752513fe11fd3c67c493867a071d34	O:/EverDrive/Atari 7800/4 Homebrew/Armor Attack II by Bob DeCrescenzo (V20130416_Final).a78
+c7c3526e772f1b914a8250459b6ae0bc08e762588ac9c0148bf13cf491403136	O:/EverDrive/Atari 7800/4 Homebrew/Asteroids Deluxe (USA) (PacManPlus).a78
+f209e1bc8ba5cc5551c2e1258cabaaa2584885f4b3a563bff2ce01c33c1b3ac3	O:/EverDrive/Atari 7800/4 Homebrew/Asteroids Vector Edition (PD) Bob DeCrescenzo V20050724.a78
+71aa75a71d1cfb7d77a6c2997247e4a1f090336cad84c6db5efc3b1a5a3b856f	O:/EverDrive/Atari 7800/4 Homebrew/Beebx (Tempest) by Mark Ball (V1.04).a78
+8e51fbf56f9e2a02f6188ce8d399f5cbe1986015654f40266e8ea0dae9527bf2	O:/EverDrive/Atari 7800/4 Homebrew/Beef Drop (kenfused).a78
+07c6f764912e29679e5e5342f8d386b857714f3bbb15c9048b49d87f104a2374	O:/EverDrive/Atari 7800/4 Homebrew/Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130718RC5).a78
+eb5f8904b4b0ccbd87f05d73f680888055881f6290effc0710c7d8b30c61d2d9	O:/EverDrive/Atari 7800/4 Homebrew/Blocdrop (PD) Ken Siders V20130310.a78
+39fff1a3ed36814100d66d481790bf51976c93aa17fa558e411d4f8e96152a0d	O:/EverDrive/Atari 7800/4 Homebrew/bonQ (kenfused).a78
+0efe7c3f8248cb94ccd8d63940a201758fb74d45a2cdea0c9bff1962d468f86b	O:/EverDrive/Atari 7800/4 Homebrew/Crazy Bricks by Bob DeCrescenzo (V20111111).a78
+c30aeef191035bad1b973c68f107dc639097179e68651689d78cc3772134cb5c	O:/EverDrive/Atari 7800/4 Homebrew/Dual Pac-Man by Bob DeCrescenzo (V.3) (2005) (PD).a78
+05c6e78a565dfd1fabd5d8053f36f71212351e9928a1a898b0967950cd3766a0	O:/EverDrive/Atari 7800/4 Homebrew/FailSafe (USA) (PacManPlus).a78
+e3f67f3a9ddb2e00034e696c46d4ef037dc1647a27b0d4021e57d17ed713c6d3	O:/EverDrive/Atari 7800/4 Homebrew/Frenzy by Bob DeCrescenzo (V20131217final).a78
+df6da632c4793560782e6db692e9026c85f11166c2c66f11567844a2ea0aa0f0	O:/EverDrive/Atari 7800/4 Homebrew/Frogger by Matthias Luedtke (V20061126_POKEY) (PD).a78
+838f94721b3bb287a369dcca2e649604bebeaffe1d2f5739a657af2daa1b7f62	O:/EverDrive/Atari 7800/4 Homebrew/Frogger by Matthias Luedtke (V20070606) (PD).a78
+7fed73fbf80bb3ae3560bbe49ff713fa49bf0da9c1cb329839e26d8dd4148de0	O:/EverDrive/Atari 7800/4 Homebrew/Froggie by Matthias Luedtke (V20061231_POKEY) (PD).a78
+4d84c26cbfd86875aa348556cac920f37fdc7288c23ccb5601d608f838574d04	O:/EverDrive/Atari 7800/4 Homebrew/Froggie by Matthias Luedtke (V20070107) (PD).a78
+c45cd57f8f895aef3dd0e077029dc7ecad1b8ac021c6ea536482a24ed35f485e	O:/EverDrive/Atari 7800/4 Homebrew/Get Lost! (WIP) (Propane13).a78
+8bbe1000ef3c6827b2ddcf008c957a1d50c94d841727d47325eaadb5c2123fc9	O:/EverDrive/Atari 7800/4 Homebrew/Gorf (PD) Steve Scavone.a78
+50ec6d3b2cbc2c5b98145d8923db893e803aac29cfdd4b1eb6825fcae400f974	O:/EverDrive/Atari 7800/4 Homebrew/Hangly-Man by Bob DeCrescenzo (V20050531_HSC_FIX).a78
+cac615c7db5c4472d307d11fe469630f72b8ad1997b609dbb094ae0e3ebefe5c	O:/EverDrive/Atari 7800/4 Homebrew/Harry's Hen House by Mark Ball (V1.07_20100117).a78
+8f40bccbb3a2d5737e2048e262e37fdcb506c16fe8d94b13be205fb3a09000c7	O:/EverDrive/Atari 7800/4 Homebrew/Impossible Mission - Fixed New PDA (Hack).a78
+bf13a5754d3de8e304f8904864ee301bfe3fbc56bd47d5b449eafc7015d02c0f	O:/EverDrive/Atari 7800/4 Homebrew/Impossible Mission - Fixed New PDA - Alt Head (Hack).a78
+72ba6be6830b652fbfca926897159ea15a1f86b525f635e9ec9d54ff22fe0266	O:/EverDrive/Atari 7800/4 Homebrew/Jr. Pac-Man 7800 by Bob DeCrescenzo (V20190401update).a78
+8e1e691023987975e2cd08e0b2d7fcea39066b33733847047eebf374acbf0a88	O:/EverDrive/Atari 7800/4 Homebrew/Junior Pack-Man (PacManPlus).a78
+d471c881ce833ac7eefb621d45a7ea1d464a8173888e5fc235e92420cb583d98	O:/EverDrive/Atari 7800/4 Homebrew/Meteor Shower (PacManPlus).a78
+ed3c8a88ea4177f3b88f1a757875ae71351e9949ba3179840d1207889a99a0b5	O:/EverDrive/Atari 7800/4 Homebrew/Meteor Shower by Bob DeCrescenzo (V20110527_final).a78
+3a3362940cc44777d373518a6a890fc84c3827fbc798545617826ce9bb7ab52d	O:/EverDrive/Atari 7800/4 Homebrew/Moon Cresta (USA) (PacManPlus).a78
+3a3362940cc44777d373518a6a890fc84c3827fbc798545617826ce9bb7ab52d	O:/EverDrive/Atari 7800/4 Homebrew/Moon Cresta by Bob DeCrescenzo (V20111115).a78
+dbd212a3a605d615f316cd0987909003159ed4df2f509bbd6c1b5a0e2371113a	O:/EverDrive/Atari 7800/4 Homebrew/Ms. Pac-Man 320 (Pokey) (PacManPlus).a78
+e482583510b586809b130aefed176bf1ce417542602cbf5186bae78d0ecbae76	O:/EverDrive/Atari 7800/4 Homebrew/Ms. Pac-Man 320 (USA) (PacManPlus).a78
+127da8ca0079368f0eaa347b56a19cd37de7927fc97f89067614fa6d95e8e214	O:/EverDrive/Atari 7800/4 Homebrew/Nyan Cat! (Vantage).a78
+8868ab99b3ee62ab64a0b2ad7d13ae412695637c2059dfb6a46a02ff5486f081	O:/EverDrive/Atari 7800/4 Homebrew/Pac-Man 320 (Pokey) (PacManPlus).a78
+a38b1a1e32724c83746ceb352f6cc0957e71a6bc5608235b34896f58ac83a945	O:/EverDrive/Atari 7800/4 Homebrew/Pac-Man 320 (USA) (PacManPlus).a78
+06947ecc801001c3237f86f70f583e7eb4b9031ffa5630e4e4faffe72a74805e	O:/EverDrive/Atari 7800/4 Homebrew/Pac-Man 7800 by Bob DeCrescenzo (Vx.x) [t1] (Fast).a78
+a38b1a1e32724c83746ceb352f6cc0957e71a6bc5608235b34896f58ac83a945	O:/EverDrive/Atari 7800/4 Homebrew/Pac-Man Arcade by Bob DeCrescenzo (V20110810).a78
+8868ab99b3ee62ab64a0b2ad7d13ae412695637c2059dfb6a46a02ff5486f081	O:/EverDrive/Atari 7800/4 Homebrew/Pac-Man Arcade by Bob DeCrescenzo (V20110810POKEY).a78
+5539842d797140b4a911a5f9458f3626712406eff284c18f0ba033593fb19d98	O:/EverDrive/Atari 7800/4 Homebrew/Pac-Man Collection (Pokey) (PacManPlus).a78
+6fe4494097d8edf15a4d329473b5f91792c3a8d3ba1ace17d2265facb7bbee5f	O:/EverDrive/Atari 7800/4 Homebrew/Pac-Man Collection (USA) (PacManPlus).a78
+b806ead6155d9f791ab984494162bc15051f7ba9be95df4ba17bf290270c6f20	O:/EverDrive/Atari 7800/4 Homebrew/Pac-Man Collection Arcade by Bob DeCrescenzo (Pokey) (V3).a78
+5128b9c617560d6a78b263457382e4ff745caba85af4b24e0c47f0567126f150	O:/EverDrive/Atari 7800/4 Homebrew/Pac-Man Collection by Bob DeCrescenzo (V20070829).a78
+952ef443fef73ba53e367b188a71abf1919b9e065bdecc8d40d44498d364d2cd	O:/EverDrive/Atari 7800/4 Homebrew/Pac-Man Plus 7800 by Bob DeCrescenzo (V20050602).a78
+2ef30553bbd41b1f4d7e492c4b3ac3fa75abf0879874d5e40752f65ce8127d1e	O:/EverDrive/Atari 7800/4 Homebrew/Q-bert by Ken Siders (V20060530).a78
+a7ae4d7e5ca7ae5fa0dca840d2bd3fb2a7c4b592596b866ff059fa84f84dbc7d	O:/EverDrive/Atari 7800/4 Homebrew/Rip-Off (USA) (PacManPlus).a78
+8ba293389dfc6885d3c5d1eb2224a68b8e2493bd48525406b533dfa2bd9ad91d	O:/EverDrive/Atari 7800/4 Homebrew/Robot Finds Kitten (Thomas Mathys).a78
+f9b83146af045fbf965cdb600fa0dc2a1e5dafab6bd9a48a046aa0cf6fb66a42	O:/EverDrive/Atari 7800/4 Homebrew/S1k by vdub_bobby (V20080510) (PD).a78
+4393f045cf5729c4e1272d2b078d62197e2d3d0a786ce8749bdb533c27fb3203	O:/EverDrive/Atari 7800/4 Homebrew/Santa Simon (Schmutzpuppe).a78
+07f45fcec2ed58828dc83ef902aa95f293d350c26faa7364533628451d1616c6	O:/EverDrive/Atari 7800/4 Homebrew/Scramble (USA) (PacManPlus).a78
+ade353dc8d57bc48d7c16b0e51fa9df585d9f5a7b4d0f461261baa60f74dfbba	O:/EverDrive/Atari 7800/4 Homebrew/Senso 7800 DX4 (PD) Karolj Nadj 2003.a78
+828d2a1d7784adc7c4b850eca060e6d4e8275451ec1f7e74eae3e287c93539f4	O:/EverDrive/Atari 7800/4 Homebrew/Space Duel (USA) (PacManPlus).a78
+bbe381d9f1e26bb686a36ac8bd3492c55bc084290312e248d67a9de714b163dc	O:/EverDrive/Atari 7800/4 Homebrew/Space Invaders 7800 (USA) (PacManPlus).a78
+8c87eaf9cd0aee805aa4c7fd604b50f7448a92f6c0f1edf412d4569a1f466718	O:/EverDrive/Atari 7800/4 Homebrew/Space War (PD) Eric Ball V20070321.a78
+d4f944e5fc7938a9f86e002543bc67b9e9f2e41b967306ca2118d88f9cbe6bc5	O:/EverDrive/Atari 7800/4 Homebrew/Super Circus AtariAge by Bob DeCrescenzo (NTSC).a78
+1da25d4d8eb333c4d8153681b996a75128dee47b33856187e4f677958619b2de	O:/EverDrive/Atari 7800/4 Homebrew/Super Pac-Man (USA) (PacManPlus).a78
+59538b5963dd3ed49b9488f622f91441fe8c6b118c5834981ceb74d78e9d59d9	O:/EverDrive/Atari 7800/4 Homebrew/Tubes (PD) Bruce Tomlin V20050809.a78
+49d4a908105beca66f2f946a3d278d5968b469d4065106cf6798da700b9a04b9	O:/EverDrive/Atari 7800/4 Homebrew/UFO! (PD) Steve Scavone.a78
+241bc39f2fde4b8c236b9aed2a42570d564f032f2fcd6c427d841cdea4b65f40	O:/EverDrive/Atari 7800/4 Homebrew/Ultra Pacman (PD) Bob DeCrescenzo.a78
+ecab7b08c5b72ebc58d402300b31e796f50148c02e20cb9d6e1e9d5960d62858	O:/EverDrive/Atari 7800/4 Homebrew/Ultra Pacman Fast (PD) Bob DeCrescenzo.a78
+e59f04ab1757b6e09b80d3199926da554665c63af1aaa4e32f991630956e86f2	O:/EverDrive/Atari 7800/4 Homebrew/WarBirds (PD) Steve Scavone.a78
+2181514d01a3eecb97d06d11ab28af5c65b3126775b8cdc6a70c68dbcca3ad08	O:/EverDrive/Atari 7800/4 Homebrew/Wasp! Standard Edition (GroovyBee).a78
+5540a7fbeda83f2253b471b31783e3f7c50079c2b145eeae6d52c2b61b4e7b57	O:/EverDrive/Atari 7800/4 Homebrew/Worm! (GroovyBee).a78
+ec760a7062b7ff8a9bc25adb1432b6041d99aebac485182c1f5cf3dc3797fc60	O:/EverDrive/Atari 7800/4 Homebrew/Demos/320btest by Schmutzpuppe (PD).a78
+ab404aab4575243d82957b9cf30e3aa632af588bebc9c461d0eea6cba4c354a3	O:/EverDrive/Atari 7800/4 Homebrew/Demos/7800 Kern Demo by Christopher Tumber (2004).a78
+d0acb1fa111d65e58074283e0207f57e8249e8c0ad7ca3a675190e698a93df98	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Aim Demo Source (V20150731) (PD).a78
+8e51fbf56f9e2a02f6188ce8d399f5cbe1986015654f40266e8ea0dae9527bf2	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Beef Drop 7800 Demo by Ken Siders (V20060704_new2).a78
+4617773562ade06ccbb8a82715fff888addd94e6465fa9fded80948a86966163	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Bero Test B&W (2005) (PD).a78
+db79af6c0b42acbf177443979523fd80b9960df22bb8ece88497cd208a9696f6	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Bero Test Color (2005) (PD).a78
+38daf7cb839af804a66c3b1c267c21db06899ecc5422e65a54df7ede2c16398c	O:/EverDrive/Atari 7800/4 Homebrew/Demos/bonQ Demo by Ken Siders (V20080205).a78
+2913a91221132617381b267cb09689b2b0c07aa004d5693fe0dc0fd2257bdf40	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Bouncing Balls Demo 2 by Eric Ball (2007) (PD).a78
+865b972246e5bc256a994c434824cdf276f85efe5e558aac51212f05ded6769a	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Bouncing Balls Demo by Eric Ball (2004) (PD).a78
+1b8cdb28bbfd3854054e84f49e5fc4396c2094216fef85f69605e9a1a5e5d08f	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Castlevania Demo (PD).a78
+b645452373062be8b3f845da0efd95da10b49506455bfa2d10aa946c2161a5e2	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Christ 2020 eCard Demo by Mark Ball (PD).a78
+220b4a07481820fd74121a1136bf0c624d01ee291b5e014fd254ec02097bb9f5	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Color Demo (Propane13).a78
+4bb2caaac8c681944dacbeed2cfd34532564aabc094e2ae1ff6df2c87fb2455f	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Color Grid by Eric Ball (PD).a78
+ec604307fb5d8244dd6024265f8323473ec6f87a8d9b19726da69162d0b329d5	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Color Selector Demo (2003) (PD).a78
+5f42b6bfa5a45130bef9a160873c6bcb2efceac4111055e0bd1f5effa50a844b	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Demox by Mark Ball (PD).a78
+8b803d4a6afc7a8f1c2c2f230de1ae72aab9de693e4634486f175cc3a0476f7c	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Donkey Kong XM Demo by tep392 (NTSC).a78
+248d7fa21c7b431e2c01dc3cc9f66ebf2504dd9a756b2f464e5d09c4c89583c9	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Donkey Kong XM Final Demo by tep392 (NTSC).a78
+5ba45b7c788ed3c24efd5427a31fa4859d3568d01b91159179d626cdf5e36531	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Donkey Kong XM Final Demo HSC by tep392 (NTSC).a78
+1d65a9c981343182161600099a92eba3e630c46c136b42e82ba33142f4cdf32e	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Draker Quest Alpha Test5 (PD).a78
+b62b29c2f62cb1006836c696228cd0417dd0476f7e31ce54e5c53ed50616aa5b	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Expensive Planetarium 7800 by Eric Ball (V20070315).a78
+3a24cb20d5f5bfe64a1a64c6422cc26236467f9ae7f71d37a7f53ba75dfcb28f	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Falling Demo (Propane13).a78
+d2f9492ef03060c3623da07b956d59462013f44983315dfe3fb3ffa09a12f291	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Frogger (No Sound) (Propane13).a78
+619126287bcd23a3f547581535db1e1740179475c1b66e00b5489834e3ce1021	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Frogger Demo by Matthias Luedtke (V20051008) (PD).a78
+c6bff459378604c176cd917efeefd8dee125b900943467c2fa9d06c3a57fe185	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Galaga Demo (PD).a78
+88d80043bce1b649b4f7f908e549f18eb5641ff574e9c1c48ba513919edea165	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Happy Halloween 7800 by Walter Lauer (Vfinal) (PD).a78
+01959087c950fa626c1955395d2c2bed08d7ef4ef595b49326041958f78eadc6	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Haunted Demo (PD).a78
+00bc9bbdec65d250bf530d610f0fd5d7782c4ba0a5913f37636cffaa6ce9bec4	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Hello World (Propane13).a78
+f724943c29b8ea6bc5b11d1552272b60d8b9dcd7ca1fb5d8683509693e7379bc	O:/EverDrive/Atari 7800/4 Homebrew/Demos/International Karate Plus Demo (PD).a78
+eea20f62be525288c4622ace39cf5a38e8b2f72266b64ac9100c3c4cd69c580e	O:/EverDrive/Atari 7800/4 Homebrew/Demos/KDEMO by Ken Siders (V20021013) (PD).a78
+f7080eb132cd53a49109dc49b10cacfa3d807d7cd784305dcdafb2322eb7613a	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Ladders 2 Demo (V20091123) (PD).a78
+456c8e8d29a06ea2247b708a1fb4b561b354d848b0b828bdb254d9f65c06038e	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Ladders 3 Demo (V20091123) (PD).a78
+05e08ed42e424ebc7c6b6c666f6b846c03b3f7855524da5dd6249e500e7d8ae2	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Ladders Demo (V20091121) (PD).a78
+985ae2a8b96beb620685399c93a8c324868531e6141e41da6ac4e82ab3c55c42	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Mister Purple Pants (Propane13).a78
+58fd94a7f9a0c02c1b47a13f7aa603da442823fae5a26b610fb489c411894aa9	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Project1 Demo by Bob DeCrescenzo (PD).a78
+47d17fffa93cca8030b6197335c2c1960a8ef0ae5a0f0e37a2f33fe7a9784e17	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Q-bert Demo by Ken Siders (V20021109) (PD).a78
+b0d19b9bbd683bfe82d0fb7dae3c39d89cf1f0d20f2d27773d6f9ba2cc70fab6	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Scramble Demo by Bob DeCrescenzo (PD).a78
+bc7ae0de867aee40eafd1a406446a04a99e86d86bb0db825027d4dc2923fa0d6	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Scroll Demo (PD).a78
+c1cbad1e1b2ac14ba90aa7bdb96f7e8ae4890765f224095458bc3bae9ee8629f	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Small Sprite Demo 2 - Animations by Heaven_TQA (V20040117) (PD).a78
+e473aeb82e451f870b036f8a74337c67d477a5232f8f6db10162fe30b93e1c99	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Small Sprite Demo by Heaven_TQA (V20040117) (PD).a78
+c0c98f7ef5ed3bf0a99ffd7eafc8656fcb3971e4d14eb1c91a0e73c8fb93f8ba	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Swing1 Demo (PD).a78
+ffd9e905bed30460cea428ec3c8b33f384de8f5bea6a2316ce643681839a057c	O:/EverDrive/Atari 7800/4 Homebrew/Demos/Zelda-Like Game (Propane13).a78
+caf808c9b7dc01180e3868d68c5235e26bac04d80586a1f6efa465b95701cde9	O:/EverDrive/Atari 7800/4 Homebrew/Demos/PAL/Donkey Kong XM Demo by tep392 (PAL).a78
+e133672c1f4643462b753da4bfd36f9e1b2c1726a82f276d405a653ae9a260a3	O:/EverDrive/Atari 7800/4 Homebrew/Demos/PAL/Donkey Kong XM Final Demo by tep392 (PAL).a78
+be068dad12a127cdfc8a1a3aec35a3079eac5762764c22762e1080b4510bfdcb	O:/EverDrive/Atari 7800/4 Homebrew/Demos/PAL/Donkey Kong XM Final Demo HSC by tep392 (PAL).a78
+9f5d6997f4abc21c9032f667afa2d0d5de78247439dd216427347e4a3474a5e5	O:/EverDrive/Atari 7800/4 Homebrew/PAL Homebrew/Asteroids Deluxe (Europe) (PacManPlus).a78
+d6f4f7f2a1895f11e0fb3899c397982fa36624a116575dd1d2d3e7089c65674b	O:/EverDrive/Atari 7800/4 Homebrew/PAL Homebrew/Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130718RC5_PAL).a78
+c85a7e78f3d1a78fba09d35bd41c5932bc6d96673b874440a93617dabc5aad68	O:/EverDrive/Atari 7800/4 Homebrew/PAL Homebrew/Crazy Bricks by Bob DeCrescenzo (V20111111PAL).a78
+e4fae748820a605110734c48f455a43429b5501f2fb4087939bb4242fb1454e9	O:/EverDrive/Atari 7800/4 Homebrew/PAL Homebrew/FailSafe (Europe) (PacManPlus).a78
+8de752ba5e91c32b32fba3d3e6bb6d953c389c779291ead57f7c655cdd9426fa	O:/EverDrive/Atari 7800/4 Homebrew/PAL Homebrew/Jr. Pac-Man 7800 by Bob DeCrescenzo (V20120924PAL).a78
+f4e5947fbc1f75d0c136aa829dcb2e7ccd9ed00dc49b6371abb134baa1847676	O:/EverDrive/Atari 7800/4 Homebrew/PAL Homebrew/Meteor Shower by Bob DeCrescenzo (V20110527_final_PAL).a78
+c748cde7307ba0c09d0806d756a31b525a6080ea8c98a72dbb26990ca613ec88	O:/EverDrive/Atari 7800/4 Homebrew/PAL Homebrew/Moon Cresta (Europe) (PacManPlus).a78
+a2275e2bdf0f90068abfc38a62ab598510a76d94975e1599a7bcf65d53ee1f7d	O:/EverDrive/Atari 7800/4 Homebrew/PAL Homebrew/Ms. Pac-Man 320 (Europe) (PacManPlus).a78
+22203cfe74c3d2f9d6ec8ab0b103365b19505e719ea81c1750d35f94b2eb777d	O:/EverDrive/Atari 7800/4 Homebrew/PAL Homebrew/Pac-Man 320 (Europe) (PacManPlus).a78
+47036301d82b5a78dba6fac3d9f74c6ae73383dec558cddbcc5d71e549a91d89	O:/EverDrive/Atari 7800/4 Homebrew/PAL Homebrew/Pac-Man Collection (Europe) (PacManPlus).a78
+4c789bf3f8c3d42d46108c19401396ccf17046d7ab920d7bd69162dc546b46c3	O:/EverDrive/Atari 7800/4 Homebrew/PAL Homebrew/Rip-Off (Europe) (PacManPlus).a78
+3fb2c135e493b8851675b6df49ed1faca933801c753bc5d58808983dacf91619	O:/EverDrive/Atari 7800/4 Homebrew/PAL Homebrew/Scramble (Europe) (PacManPlus).a78
+bb39c2131cd3f52bc95f2049bebb4d03c30babbdec6d73d29e6cfdaf5c5772fd	O:/EverDrive/Atari 7800/4 Homebrew/PAL Homebrew/Space Duel (Europe) (PacManPlus).a78
+6ffaae5b2b51e22f3303591fd0038eb5ffc79b1d4b2d7593315ab761fdfc8f5c	O:/EverDrive/Atari 7800/4 Homebrew/PAL Homebrew/Space Invaders 7800 (Europe) (PacManPlus).a78
+aa3bbdcf022a968858513265418e94c1fe3ab2dbbd1e2b332cfa1d54b2b59068	O:/EverDrive/Atari 7800/4 Homebrew/PAL Homebrew/Super Circus AtariAge by Bob DeCrescenzo (PAL).a78
+d7995522e39695e4af31d599025dfb9f4493798e73b1628edc496c6f5d4a19c9	O:/EverDrive/Atari 7800/4 Homebrew/PAL Homebrew/Super Pac-Man (Europe) (PacManPlus).a78
+53e6395bc900a6ccf56d93f9b41d8993efd3875fa01212dd7a9397b8745fdebe	O:/EverDrive/Atari 7800/4 Prototypes/3D Asteroids (1987) (Atari) (Prototype).a78
+c5070bc9c630bc9f41a01660da3b4676845ccf71bb03048afae5494b35dda0ac	O:/EverDrive/Atari 7800/4 Prototypes/3D Asteroids (1987) (Atari) (Prototype-NTSC).a78
+02f2fa41c1ebf9eb80c8e63e93d09d893910698b00ce5ad5093c76cb2dab87c3	O:/EverDrive/Atari 7800/4 Prototypes/Asteroids (1987) (Atari) (Prototype).a78
+c1bfbbddc8104ba759e1a5c5235cdf14fa08e46a18a9bb4ae1e10dc4918e4af6	O:/EverDrive/Atari 7800/4 Prototypes/Commando (1988) (Atari) (Prototype 4-29-88).a78
+2d883dfbe5a54475a51477aee1483ba5fd5db5fd34024b6efc9094b100b0fa86	O:/EverDrive/Atari 7800/4 Prototypes/Crossbow (1988) (Atari) (Prototype 4-18-88).a78
+5e1d0a8d42bd3c03bb7acb3f577af61789e2ad0e7306d14d008278696d4b12a2	O:/EverDrive/Atari 7800/4 Prototypes/Food Fight (1987) (Atari) (Prototype).a78
+1d3edbcf6b87a28d14649aa9860ab2575aac758b35ab0fcf2e2ab51416487191	O:/EverDrive/Atari 7800/4 Prototypes/Galaga (1984) (Atari) (Prototype).a78
+4d9d3b92f6538c0e3f67d451f5e4fa878eafd2eef0ca4b2449e10db850b6cc6f	O:/EverDrive/Atari 7800/4 Prototypes/Gato (1987) (Atari) (Prototype).a78
+79c8310317755b76fad69c9120e70152537249a0c76efda0b466a40ec4d25222	O:/EverDrive/Atari 7800/4 Prototypes/Klax (USA) (Proto).a78
+c9c4f5eb03f46d1fa6597da059cc771502ab27c75fe6035f64c51e4b5bc3fd75	O:/EverDrive/Atari 7800/4 Prototypes/Midnight Mutants (1990) (Atari) (Prototype).a78
+6dbc6b00454da4f229e9a8b7252ae16ae37df5f306cdf00ac3ce2eaa37dce43c	O:/EverDrive/Atari 7800/4 Prototypes/Missing In Action (Unknown) (Proto).a78
+ddc0d07fba2e3f1e1a24da7c5d5ea1d45c32c32e195766002fd00b45c54f61a0	O:/EverDrive/Atari 7800/4 Prototypes/Ms. Pac-Man (1987) (Atari) (Prototype).a78
+cbb82e49a67dc2ab6e77ac29349df522bd21415405e4c7c0844d1e8a2166cb2d	O:/EverDrive/Atari 7800/4 Prototypes/Pit Fighter (Unknown) (Proto).a78
+b260e35d57959ead4b5807026504e938405dae350ca40e94833ecc4e4f7632f9	O:/EverDrive/Atari 7800/4 Prototypes/Plutos (Unknown) (Proto).a78
+8f3f12ca99d4bb995c9bf4a7f33385985ac0cf06dd717d8d04063a8be16891d4	O:/EverDrive/Atari 7800/4 Prototypes/Rampart (Unknown) (Proto).a78
+9ff3ec4f6bf57f1d66870b712bc924ddfeea5fcca6d0a4de99b3799589db625c	O:/EverDrive/Atari 7800/4 Prototypes/Rescue on Fractalus (USA) (Proto).a78
+2a78c13cacc874bdf261e999a5ffe743c0c28401efaf23a47075c836b0c86a3c	O:/EverDrive/Atari 7800/4 Prototypes/Sentinel (USA) (Proto).a78
+3fdce3c2c4545851b7ca684c5208a29982d1ed3022260ddec3c693eac039a6b5	O:/EverDrive/Atari 7800/4 Prototypes/Sirius (Unknown) (Proto).a78
+4e783cd95b28541af6701efd190c5346617e163ce8fc7ecda09ff19c4d6a1d87	O:/EverDrive/Atari 7800/4 Prototypes/Xevious (1987) (Atari) (Prototype).a78
+f1e5bd1a1957fcf333db76a70dd4c99343fd53e31fa92c89f882118432f5e4a9	O:/EverDrive/Atari 7800/5 Tools & Service Test Carts/7800 Utility Cart 32k (PD) RevEng 2015-1.a78
+f29f6babc1f79f1bb8bafb885883732d80a710134a6696d994b4792593534401	O:/EverDrive/Atari 7800/5 Tools & Service Test Carts/Diagnostic Cartridge ROM by John K Harvey (PD).a78
+45efd76ee6d413b2bd0ba58975e6abac27c3fc33a78b5101c79a81c2f39cb6db	O:/EverDrive/Atari 7800/5 Tools & Service Test Carts/Diagnostic Test Cartridge (1984) (Atari) (Prototype).a78
+644c731cf8a5723688ce5b51c0d9e7c43d4df1920927a55ba9d31f01d48ecbfd	O:/EverDrive/Atari 7800/5 Tools & Service Test Carts/Lores Kernel Test 7800 (PD).a78
+4ff8405e0c7d2ce37c1d055132b2c73d3f7419a19f1d873fb5306ecc9c5e9e18	O:/EverDrive/Atari 7800/5 Tools & Service Test Carts/NTSC Encryption Backdoor Test (2000) (PD).a78

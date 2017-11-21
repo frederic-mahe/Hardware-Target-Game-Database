@@ -1,0 +1,343 @@
+8c5e5f60fe68c824f8813b5dd4d1d4d60d0f26c0a954fe8bf901efa4031678ff	O:/EverDrive/NGPC RetroHQ/Neo Geo Pocket SD RetroHQ Pack v1.0.7z
+d6458ab437832f04747074dd6f818a54fc7cdfc79608a2e0c13eceb4ca4ed82b	O:/EverDrive/NGPC RetroHQ/update.dat
+647dc8cd38063fa0fd460a57d11c9b8751f7b0e3f72f32e262c6e0aaa4f4661c	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/Baseball Stars Color (World) (En,Ja).ngc
+30fa480670a2d3d703289b4857cf5a2afc85cbd7495dec01aacba379554054f9	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/Biomotor Unitron (USA, Europe).ngc
+b3cfd9fd8f0b5fe15eeffe347c0298c44e1e925baab0aa8f7327c3eb603fc5f1	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/Bust-A-Move Pocket (USA).ngc
+6c77811daa965f193de02079b30f3e2dfd50198eff9f754f8af588d3b148ac9f	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/Cool Cool Jam (USA, Europe) (Sample).ngc
+d4c70b24a51923a60a715b77bbc205f6c06146bedb11d066e629f498af3392bd	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/Crush Roller (World) (En,Ja).ngc
+71dd3240489eb0cbb843a135bcbe71e47f42f53e83deab7fb49ca76f08206fc4	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/Dark Arms - Beast Buster 1999 (World) (En,Ja).ngc
+977e4d520f4c885acc8b6ba815623d9b1ff8f3924ccab4db02a24b7bff0f80c7	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/Dive Alert - Becky's Version (USA, Europe).ngc
+7a16dda1c503e272544e25b336cd0e67c5c8e36ef57c4dedf72d590604893704	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/Dive Alert - Matt's Version (USA, Europe).ngc
+248adc7b9f75567f08b0306cb298bd17a8b33e42f09fc34174cc0587a46329f5	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).ngc
+9d68850f2ab8f23aba5bea6fa58c0e1b62ef17fc2282281ed8722a5676e9fb24	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).ngc
+fb3fc89575af69b2b14de942d5e54adb94584fcd5b8bc9c342fd275c4b0b7646	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/Magical Drop Pocket (USA, Europe).ngc
+6a1c41898139629ecb9e744546ab209a1a009dc37e01b08e7dbc914b3cc1476e	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/Metal Slug - 1st Mission (World) (En,Ja).ngc
+b8405e71817b7f73b148f46599f950fee3edba32dd66e996112cddb9cc416d70	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/Metal Slug - 2nd Mission (World) (En,Ja).ngc
+a3f8dda1b138384e41b410e6a0455f53ab773a6431873b23b55e5c6bd71b56ed	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/Neo 21 - Real Casino Series (World).ngc
+4056a358ea804d61f53dc876c3ce9da6dc3dd1a24a3916cdd8cb14c45839d6ce	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/Neo Baccarat - Real Casino Series (World).ngc
+3d550fb0114c30d65a17475ed26a98a4e40cb96088f5f48250978a0daa3b7ca2	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/Neo Cherry Master Color - Real Casino Series (World) (En,Ja).ngc
+40a006d32d1b0cbc249903100accb9a90c975a460e0d11d4ff460e2002ccd333	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.13).ngc
+ab897e8bfa112a0056b75926ce771009cbcb2b05b4b256c2f1fc8f98350c1cb4	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/Neo Geo Cup '98 Plus (World) (En,Ja).ngc
+421914d275e780ef6dd2d23a47a92156df9130dcb1928f2c771249336bdc9631	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/Neo Mystery Bonus - Real Casino Series (World) (En,Ja).ngc
+6d0a19f5b976ce2a61140d956842366f87660ae7edd793d6508ee28baa1f2257	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/Neo Turf Masters (World) (En,Ja).ngc
+8c5485e736b6061729e5028f97d03e46c7db911059cd01df8490d6860e46f843	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/Pac-Man (World) (En,Ja).ngc
+5c83328f884eba850754b100251cdae772c88b006f8dd7d635d1783f9863063f	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/Picture Puzzle (USA, Europe).ngc
+1f8f4c92983985450d4aad92e3f6d0199751f451593bb26d55a04eb0fba8be1d	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).ngc
+7be64b6d129454df8f6f434b4173065222079a10c6ecf80a3df472af7570586f	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/Puyo Pop (World) (En,Ja) (v1.06).ngc
+7fb201f71eb4dac08fb351ab6c6bdc1dd3fde5681f0cc460a800696953a70d6e	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/Puzzle Link 2 (USA, Europe).ngc
+f0d89fcef129450105e1e45bb29693f30d30a00dd2e92168e7253438dca38a63	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).ngc
+df62c25ab53620263cc7478708e982bf81e3a3fcdd1ef6c8b36a82f9226312a5	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/Shanghai Mini (World) (En,Ja).ngc
+b002ff9568107834c170a4da03912e3a4b54d6cb767967fc6dae7fcaaa89c782	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/SNK Gals' Fighters (USA, Europe).ngc
+e59e0ebf810200a634c6063fcbdf3489635d7d3521b43e569f7251236a4548f6	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).ngc
+3c0e17694c9476fa8995b56b74a9f92966451025a5712ab8f9a7e08cffd86baf	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).ngc
+70d77cefb8a99350a53790d04c23ad874e2ef2bc92d2bd4211ea4407c08c0bdc	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).ngc
+86d592daafd3392b26246212da7e50fca400e9fb0c511eced30242881b9e781a	O:/EverDrive/NGPC RetroHQ/1 NGPC US - A-Z/Sonic The Hedgehog - Pocket Adventure (World).ngc
+1bd7ebf4f61660df0cf76184fe3107f33f5576ab78e68136a7b80f6f39b435ea	O:/EverDrive/NGPC RetroHQ/2 NGPC Europe - A-Z/Cool Boarders Pocket (Japan, Europe) (En,Ja).ngc
+c8a31bb171d8991fd8b78b6b4a229b4c7f5d97a33353e85358062a35440a74f3	O:/EverDrive/NGPC RetroHQ/2 NGPC Europe - A-Z/Dynamite Slugger (Japan, Europe) (En,Ja).ngc
+9376a26b88ede768fad6f1840d6c458f2b600a47b378f33828ab8c865e3ed8b0	O:/EverDrive/NGPC RetroHQ/2 NGPC Europe - A-Z/Evolution - Eternal Dungeons (Europe).ngc
+5ec665bc713eec4b591b153504be7657a0f45acc7412b3e1899beeacd92b05bd	O:/EverDrive/NGPC RetroHQ/2 NGPC Europe - A-Z/Fantastic Night Dreams Cotton (Europe).ngc
+80bc61b6e63f53292a20f88277f2b3b706982779f79d4c383ee2b82ee035d279	O:/EverDrive/NGPC RetroHQ/2 NGPC Europe - A-Z/Faselei! (Europe).ngc
+3195add48337336c958eb2db285e6a0616d025d784ef0c8cb236da5342967bfd	O:/EverDrive/NGPC RetroHQ/2 NGPC Europe - A-Z/Last Blade, The - Beyond the Destiny (Europe).ngc
+204a6d8905545f338ff0bc29b86373326787b7fa728c197cb2d2c407e3a45150	O:/EverDrive/NGPC RetroHQ/2 NGPC Europe - A-Z/Pocket Reversi (Europe).ngc
+a75ad5d83994d09f9acc7f8e1c538a0f58e0593d4fe362f2b03b9154ff118ad5	O:/EverDrive/NGPC RetroHQ/2 NGPC Europe - A-Z/Puzzle Link (Europe).ngc
+dfc25d1ef71d9009e65b61bef774dfd5ca59d866647fff3b6fedad6e3ae0c4cd	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan).ngc
+3b52342fe0d117e31cc4f1e18642a7c098aaef4736cf22d04cd74f01edd43474	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Big Bang Pro Wrestling (Japan) (En,Ja).ngc
+2f930f4711ed36c66889a6ee84bc6446753aae264c27b1b3d0100bcf4f2e813a	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Bikkuriman 2000 - Viva! Pocket Festiva! (Japan).ngc
+ba8de468725ae9c842a33577510656e4ba35fa794704ac65d10f18bcef592e6b	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Biomotor Unitron (Japan).ngc
+60cd239e0259a0cf284db5b116f085c40187a71bb83b686eca6ac80baf6f7029	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Cool Cool Jam (Japan).ngc
+8ee845e7b0f3c546d5764363a090763682e88d69188430aa2a7c0250e422040f	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Delta Warp - RetroHQ Fixed (Japan) (En,Ja).ngc
+d8f69f3d622d5ee3927c1b049cefd445aed4292e7f91b6b86c4341e1f8da1fda	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan).ngc
+b0bb2bf1eb49e92961716f24ac4649f8e56d4b7ff67aa3cf95694b0ff50a85eb	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Densha de Go! 2 on Neo Geo Pocket (Japan).ngc
+73c036ba53cf2530736e4668f5487c819b9b7b6c1ad6fe912a1c0cd2ab397a4b	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Dive Alert - Burn Hen (Japan).ngc
+e14feb986c64c0a5fac5babe233eef5572d1961d8a11ddf15e3713fef6f4773f	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Dive Alert - Rebecca Hen (Japan).ngc
+7475fe4d70401273e23b4c1898cd0ac3747763a43ff532b87334e600e7f1639c	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Dokodemo Mahjong (Japan).ngc
+738e4d4b7c74c5dcec1f4fef9001667790833d93c92496adf4985ca121bf2d51	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Fantastic Night Dreams Cotton (Japan).ngc
+c607e2512a77edc2a3797a631bebc5a0d32cbf45371c14b702eb7c9b61ecafee	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Faselei! (Japan).ngc
+a2771b07d93934501b3bc66bc5ba1d237b98aa5d676b4dcd6c505c00d22eefbf	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Ganbare Neo Poke-kun (Ka) (Japan).ngc
+bbe8e14810acb5af816a9d6f55c1e1c71a11ced1ab411e69751fbf0c0be73666	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Infinity Cure (Japan).ngc
+940ba46bd9b6ecdbc4f3d4383867d0d8a96308caa5c9dca76c45a44152db58d3	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan).ngc
+1b188c99e4fc6f6e5fc55748a32dd7cdc82dda9335dc99deee45528fd6083780	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/King of Fighters, The - Battle de Paradise (Japan).ngc
+3e818f0c4db2c8e0e6440728d3729c17e7287b4370a327b973e634358d0292f0	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Koi Koi Mahjong (Japan).ngc
+861fdbee68da69bd114f8ec1b7719ed84a8a650438b2f92fcb15fc91434c0aa7	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Magical Drop Pocket (Japan).ngc
+9b0ce4c2009eac755eb7613b3b98ce055f71f5f0623b9e8971312ee5ec90bc6a	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Memories Off - Pure (Japan).ngc
+5f68d39f8dfb7d86caec61c7b3301c4a1abea003f1379e5fc9512ccf31b68d29	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Mezase! Kanji Ou (Japan).ngc
+e1d59f8765b893fc9a636c8dabb8853bfa63a1fd186fa6eac6ec08a08240c00e	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Mizuki Shigeru no Youkai Shashinkan (Japan).ngc
+d0d39ca210297985069b2e22ff61f464533dc70215e2bda735ac8c888fd04b6c	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Neo Derby Champ Daiyosou (Japan).ngc
+0b2aea3f4498a621728f1031a46aa4298992b0d7510f405e6a4112fcbc5a4111	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Neo Poke Pro Yakyuu (Japan).ngc
+34a48731de6f2ef9bd431c1c022d7c72e7d006213dd3683ec9db67aeab1f0858	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Nigeronpa (Japan).ngc
+cc40dbbaa505e5b76e4156c248b59cad80fedd1782fbc07e73007ed5def1057c	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Oekaki Puzzle (Japan).ngc
+875a55f96a43886b1682e95094090306360c8db96bfae3320309ffb12e3c994a	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan).ngc
+2d3f48467c624ead27fdce93e1cfb0168fc5d7787210ef61098cdf10c3656fa9	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan).ngc
+3835c6e7be0cbc03df6f4c55675392393b069e0907b032a26005654c690b4e5c	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan).ngc
+97275fb5ffb3e38b25059af693f6d0c74c3b90eebec27202b7801a8b64079c54	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Pachi-Slot Aruze Oukoku Pocket - e-Cup (Japan).ngc
+0a07e5647b60dd4f2c8433440a313512e6a791d1c34dc5f73f18a4e4d8e5752b	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v1.04).ngc
+f61106d10d8654afc5206ddf46e7d66d228d9c2bd4c0a6ada154d3cf8d09d528	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Pachi-Slot Aruze Oukoku Pocket - Oohanabi (Japan).ngc
+ee5e4df0f4f84b065b96c37cd5f7ecbe6c6ccda35c744d7869c07e4bd9eef268	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Pachi-Slot Aruze Oukoku Pocket - Porcano 2 (Japan).ngc
+891b59d744a15b8e481c039d6e87519ea7ddb47d17697297809d412d46708932	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan).ngc
+e3ef18b432201ad9f41847ef7d9c3975015181d2ff3ca1f8d8a990d10ec41d3d	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Pachinko Hisshou Guide - Pocket Parlor (Japan).ngc
+83c7665f72ec910acd6536191d2d7aadb0e09f7e73055e217164b155490b3e50	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Party Mail (Japan).ngc
+9aa72a5bd6b224ef182c3d05ae3346fc53ad513198da4917767c5960aec62f30	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Pocket Love if (Japan).ngc
+d717085c578d2cf4af407b1a78d29546c09aa052e7f23c8e208ff169aed29455	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Pocket Reversi (Japan).ngc
+c5faa5cd1d00566493dd098067aaf7cadf6a506e6d4e8f277bd06b205f82ff4a	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Prize Game - PP-AA01 Pusher Program (Japan).ngc
+2721b10ef9b1e488354f2f79037a3f55d799b354fa58ed1e110c1da8301fd200	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Puzzle Bobble Mini (Japan, Europe) (v1.10).ngc
+b28b9276eb2ededeadcc4a0255bf11cc68fe998659aeef1020acae17872711c3	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Renketsu Puzzle Tsunagete Pon! Color (Japan).ngc
+be5c8a2d54426cdc46c033c2bb1e6904e240354fe3ca3d1c65ac32c329c3b63f	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Rockman - Battle & Fighters (Japan).ngc
+bb2abad4bf803a916ff3c730e938742e1c4cc1a716d4300088c52d8253db8eba	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Shinki Sekai Evolution - Hateshinai Dungeon (Japan).ngc
+c87a5fa1a5698b4cd0e25aae54dad52ef996a61068183eb0c2ad9c1d21753586	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Shougi no Tatsujin Color (Japan).ngc
+6e3afc011afcd384c3bb5c47ad77fda08ae95fd42b70c5ce43dfc0e0ba622552	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/SNK Gals' Fighters (Japan).ngc
+aa09950fd6e6b79e372f937262ba53eaf81fe940556126c0f05f13eca47ffad5	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan).ngc
+e231a728bb54d919635ce3bc4be5f2ad77195c1cd87efe3d17960e8ffbd1c392	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan).ngc
+5405869c77fa0f5c6b978f92cd9557bd7740d42d22169d9830a4cf3706cc5787	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan).ngc
+bb8041999e622996221cd6ebc8bcfff2e1ae4b36cc8af2f5c12359b596fa578e	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Soreike!! Hanafuda Doujou (Japan).ngc
+154dece5fdce8dde43eb63b9bb3ad05539eb538b73e3bc9cbc0d2ff855df2885	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Super Real Mahjong - Premium Collection (Japan).ngc
+966d5330646bf87b54cc304f71d8874d951cd17fda010a4ad8f385d2980cae33	O:/EverDrive/NGPC RetroHQ/2 NGPC Japan - A-Z/Tsunagete Pon! 2 (Japan).ngc
+c74a724df0e48a3a2faf00d5aa68ca8d12abd24e4090b648d8b7f6b537727f20	O:/EverDrive/NGPC RetroHQ/3 NGP - A-Z/Baseball Stars (Japan, Europe) (En,Ja).ngp
+82e897347b4c4717d88cbf8d494dfa5c448a505060102815ecd5c7ae5564d911	O:/EverDrive/NGPC RetroHQ/3 NGP - A-Z/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp
+681c4aa9d49692f0ef31457a90de4ffc3ca5b0cb9635277da7b2efa12a768f91	O:/EverDrive/NGPC RetroHQ/3 NGP - A-Z/Melon-chan no Seichou Nikki (Japan).ngp
+c4b9dda5336df2f6fef6d81f65f39c4b1de0d17395baa29616fdad4562355c8a	O:/EverDrive/NGPC RetroHQ/3 NGP - A-Z/Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja).ngp
+b9394e92dc0215cafcc0087c0e26d0efafb49b5f5f899ede6ac4410072276ded	O:/EverDrive/NGPC RetroHQ/3 NGP - A-Z/Neo Geo Cup '98 (Japan, Europe) (En,Ja).ngp
+23203e175ba8651f096c390abeceea8dd7ba5b38876d92f1d08d5211e6642849	O:/EverDrive/NGPC RetroHQ/3 NGP - A-Z/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).ngp
+91f46b0ddc986a278b1334f7509fa2a814d82a150f2d00e9ef3650beddc8c129	O:/EverDrive/NGPC RetroHQ/3 NGP - A-Z/Renketsu Puzzle Tsunagete Pon! (Japan).ngp
+7ff8599e6cd07e613fb46876d864653d6835a6ff60d851ebd131f508f94e11da	O:/EverDrive/NGPC RetroHQ/3 NGP - A-Z/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp
+0d693ff2b551c839ac3714419e7909c39e32f7ea1b51ed882e350299dfb591e4	O:/EverDrive/NGPC RetroHQ/3 NGP - A-Z/Shougi no Tatsujin (Japan).ngp
+753a5d4003ec8facaf794a2d8cd930055e516ddfa465be49f11a3e1e17707c9d	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Betas/Bust-A-Move Pocket (USA) (Beta).ngc
+127eb5b597920f6f7aab2e0f92671b46c0d865cd5dec63581312af9b116cfd24	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Betas/Dark Arms - Beast Buster 1999 (World) (En,Ja) (Beta).ngc
+c4104709759161214ac70b579f451d7cb8e5282a55a393d7fc2096beee483dbc	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Betas/Dive Alert - Burn Hen (Japan) (Beta).ngc
+6b2d57511d5818fdadec9116e1e665472a20496c027e00ed20d28981e1216ed4	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Betas/Neo Baccarat - Real Casino Series (World) (Beta).ngc
+3e98f89511643fc1f37308d44d784896e488c51084116b8d3233f6cfa4348176	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Betas/Party Mail (Japan) (Beta).ngc
+b310dcb43d2ef20ee890403ed08a08452c0a4898be6365d08b19cda249623988	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Betas/Shanghai Mini (World) (En,Ja) (Beta 1).ngc
+ba094be1fb25e6562094a62bd3bce736862f74495fe31ba1974bb594e906a0ba	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Betas/Shanghai Mini (World) (En,Ja) (Beta 2).ngc
+ff22cdf136256be6d9b7a6c553e9c0f93949bd1d1498b2b610fb519b45965e35	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Betas/Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22).ngc
+8fb845a2f71514cec20728e2f0fecfade69444f8d50898b92c2259f1ba63e10d	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Bios/[BIOS] SNK Neo Geo Pocket (Japan, Europe) (En,Ja).ngp
+0293555b21c4fac516d25199df7809b26beeae150e1d4504a050db32264a6ad7	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Bios/[BIOS] SNK Neo Geo Pocket (Japan, Europe).ngp
+d13a9d7458bb719afaf5da43257fe21f7416af42ffc8257acba3d89141220a23	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Revisions/Biomotor Unitron (Japan) (Demo).ngc
+1a80997dacd5786a1639fd62b09809c621a437283a7f861e4ba81558f3aaf13f	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Revisions/Delta Warp (Japan) (Demo).ngc
+c2e2ee9eac38e21ed56072541d2521cad6de52850eed45059cb848548caa0ae3	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Revisions/Densha de Go! 2 on Neo Geo Pocket (Japan) (Demo).ngc
+6f088209f5000f52a68f70e64bf1def9146d9dbbbd0bbaa2c457634f45143f88	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Revisions/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja) (Demo).ngc
+4cf53f22ccf2d955d35c926f46c5141b15e77f261ac04d997526d7da00e22264	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Revisions/King of Fighters R-1 & Melon-chan no Seichou Nikki - Pocket Fighting Series (Japan) (Demo).ngp
+d1802d83a39c55988e3ed41f54bc1a5557bc856c2f8ddc07901fea5b94588303	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Revisions/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja) (Demo).ngc
+559ce3e47b5c52b4a679b1da27ba4fdd8ee4c1558674c82779a71a0b987c7d8b	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Revisions/King of Fighters R-2 Version 2 - Pocket Fighting Series (World) (En,Ja) (Demo).ngc
+1667a62ceb5fe155b64db4e4d16691db3f382fb750183cb8640e04745bfbbba1	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Revisions/Magical Drop Pocket (Japan) (Demo).ngc
+62998282b8c3b02e264c3a6cca3e273f9e4d18a12b01f71532d47064b391c6da	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Revisions/Metal Slug - 2nd Mission (World) (En,Ja) (Demo).ngc
+679754e47a2354a01700772d72f45d12abf712ded0627d37281faca292b64120	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Revisions/Neo Cherry Master Color - Real Casino Series (World) (En,Ja) (Demo).ngc
+3d6bcdced28ecd516018c0577084904ed860608540e8f71c54141c346e288d2a	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Revisions/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.11).ngc
+77739fc078257f4bb03d702ccfc50205a3b8195d210c31869ccbbbce914a0361	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Revisions/Neo Turf Masters (World) (En,Ja) (Demo).ngc
+5584788b2f25f3413999f1276e0090aed1f96da9fa3aee9d4ca6ab29a69c769a	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Revisions/Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v1.02).ngc
+205b6472832c609286b9881ef7eef9a4322320a519440d4cbb8cb67b591acf2f	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Revisions/Puyo Pop (World) (En,Ja) (v1.05).ngc
+5375a6bc8dd42decf9e1a63e3d5cb951893f0e09533bb5c41ade9fd9549e4554	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Revisions/Puzzle Bobble Mini (Japan, Europe) (En,Ja) (Demo).ngc
+cf140cb5dbeeb9acb40440c6757719c067ab2dbcc52285d2c39a3d4b86e362b9	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Revisions/Puzzle Bobble Mini (Japan, Europe) (v1.09).ngc
+ea026e91b7a3a5ab78fa365e3af67435bac531e3d24c850f14a90b67c0e06f45	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Revisions/Rockman - Battle & Fighters (Japan) (Demo).ngc
+13a199e72f929359067403b046ba9450e102538fd9cb1c0ac6f1ea3ab90fd1e9	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Revisions/SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo).ngc
+b7e9f897f8f8e60c33faf966bdd18f29da2084db73c24713540f3ae9efd769c7	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Revisions/SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Demo).ngc
+9646e0d7c7bac6ee1f4848bc70aa434c9ac95d63bca86f62beb6952671e86a2c	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Revisions/Sonic The Hedgehog - Pocket Adventure (World) (Demo).ngc
+4b9284e8f734b63870a6d6436e5b30fbbcba073d5c99298a3c5a31b601999fd5	O:/EverDrive/NGPC RetroHQ/4 Betas, Bios, Revisions/Revisions/Wrestling Madness (USA, Europe) (Demo).ngc
+30fa480670a2d3d703289b4857cf5a2afc85cbd7495dec01aacba379554054f9	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Games That Defined the NGP- RacketBoy.com/Biomotor Unitron (USA, Europe).ngc
+fb3fc89575af69b2b14de942d5e54adb94584fcd5b8bc9c342fd275c4b0b7646	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Games That Defined the NGP- RacketBoy.com/Magical Drop Pocket (USA, Europe).ngc
+6a1c41898139629ecb9e744546ab209a1a009dc37e01b08e7dbc914b3cc1476e	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Games That Defined the NGP- RacketBoy.com/Metal Slug - 1st Mission (World) (En,Ja).ngc
+b8405e71817b7f73b148f46599f950fee3edba32dd66e996112cddb9cc416d70	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Games That Defined the NGP- RacketBoy.com/Metal Slug - 2nd Mission (World) (En,Ja).ngc
+6d0a19f5b976ce2a61140d956842366f87660ae7edd793d6508ee28baa1f2257	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Games That Defined the NGP- RacketBoy.com/Neo Turf Masters (World) (En,Ja).ngc
+b002ff9568107834c170a4da03912e3a4b54d6cb767967fc6dae7fcaaa89c782	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Games That Defined the NGP- RacketBoy.com/SNK Gals' Fighters (USA, Europe).ngc
+b9c249cc03c6c115c7e887035de0386dc9ec6308d3bd8dba16c5e8bbf03fdb93	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Games That Defined the NGP- RacketBoy.com/SNK vs. Capcom - Card Fighters 2 - Expand Edition (J) T+Eng v1 Raohmaru.ngc
+e59e0ebf810200a634c6063fcbdf3489635d7d3521b43e569f7251236a4548f6	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Games That Defined the NGP- RacketBoy.com/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).ngc
+3c0e17694c9476fa8995b56b74a9f92966451025a5712ab8f9a7e08cffd86baf	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Games That Defined the NGP- RacketBoy.com/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).ngc
+70d77cefb8a99350a53790d04c23ad874e2ef2bc92d2bd4211ea4407c08c0bdc	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Games That Defined the NGP- RacketBoy.com/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).ngc
+86d592daafd3392b26246212da7e50fca400e9fb0c511eced30242881b9e781a	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Games That Defined the NGP- RacketBoy.com/Sonic The Hedgehog - Pocket Adventure (World).ngc
+647dc8cd38063fa0fd460a57d11c9b8751f7b0e3f72f32e262c6e0aaa4f4661c	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Games That Defined the NGP- RacketBoy.com/Honorable Mentions/Baseball Stars Color (World) (En,Ja).ngc
+b3cfd9fd8f0b5fe15eeffe347c0298c44e1e925baab0aa8f7327c3eb603fc5f1	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Games That Defined the NGP- RacketBoy.com/Honorable Mentions/Bust-A-Move Pocket (USA).ngc
+71dd3240489eb0cbb843a135bcbe71e47f42f53e83deab7fb49ca76f08206fc4	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Games That Defined the NGP- RacketBoy.com/Honorable Mentions/Dark Arms - Beast Buster 1999 (World) (En,Ja).ngc
+37492908054a7b3d7927f2f3bed9d5439d43e9573ab6b8956514e83948181792	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Games That Defined the NGP- RacketBoy.com/Honorable Mentions/Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (J) T+Eng v0.05 WyndCrosser.ngc
+5ec665bc713eec4b591b153504be7657a0f45acc7412b3e1899beeacd92b05bd	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Games That Defined the NGP- RacketBoy.com/Honorable Mentions/Fantastic Night Dreams Cotton (Europe).ngc
+80bc61b6e63f53292a20f88277f2b3b706982779f79d4c383ee2b82ee035d279	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Games That Defined the NGP- RacketBoy.com/Honorable Mentions/Faselei! (Europe).ngc
+8c5485e736b6061729e5028f97d03e46c7db911059cd01df8490d6860e46f843	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Games That Defined the NGP- RacketBoy.com/Honorable Mentions/Pac-Man (World) (En,Ja).ngc
+374979c70bf702dbbaf5dac7c90f10cfd2d503f3ae10a0f5eac4976de39765d7	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Games That Defined the NGP- RacketBoy.com/Honorable Mentions/Rockman - Battle & Fighters (J) T+Eng v0.10 Rockx2.ngc
+70d77cefb8a99350a53790d04c23ad874e2ef2bc92d2bd4211ea4407c08c0bdc	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Top 10 Games - GameFaqs.net/01. SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).ngc
+86d592daafd3392b26246212da7e50fca400e9fb0c511eced30242881b9e781a	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Top 10 Games - GameFaqs.net/02. Sonic The Hedgehog - Pocket Adventure (World).ngc
+3c0e17694c9476fa8995b56b74a9f92966451025a5712ab8f9a7e08cffd86baf	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Top 10 Games - GameFaqs.net/03. SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).ngc
+7fb201f71eb4dac08fb351ab6c6bdc1dd3fde5681f0cc460a800696953a70d6e	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Top 10 Games - GameFaqs.net/04. Puzzle Link 2 (USA, Europe).ngc
+5c83328f884eba850754b100251cdae772c88b006f8dd7d635d1783f9863063f	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Top 10 Games - GameFaqs.net/05. Picture Puzzle (USA, Europe).ngc
+a75ad5d83994d09f9acc7f8e1c538a0f58e0593d4fe362f2b03b9154ff118ad5	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Top 10 Games - GameFaqs.net/06. Puzzle Link (Europe).ngc
+6d0a19f5b976ce2a61140d956842366f87660ae7edd793d6508ee28baa1f2257	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Top 10 Games - GameFaqs.net/07. Neo Turf Masters (World) (En,Ja).ngc
+b3cfd9fd8f0b5fe15eeffe347c0298c44e1e925baab0aa8f7327c3eb603fc5f1	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Top 10 Games - GameFaqs.net/08. Bust-A-Move Pocket (USA).ngc
+7be64b6d129454df8f6f434b4173065222079a10c6ecf80a3df472af7570586f	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Top 10 Games - GameFaqs.net/09. Puyo Pop (World) (En,Ja) (v1.06).ngc
+421914d275e780ef6dd2d23a47a92156df9130dcb1928f2c771249336bdc9631	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Top 10 Games - GameFaqs.net/10. Neo Mystery Bonus - Real Casino Series (World) (En,Ja).ngc
+80bc61b6e63f53292a20f88277f2b3b706982779f79d4c383ee2b82ee035d279	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Top 10 Games - retrogamer.net/Faselei! (Europe).ngc
+3195add48337336c958eb2db285e6a0616d025d784ef0c8cb236da5342967bfd	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Top 10 Games - retrogamer.net/Last Blade, The - Beyond the Destiny (Europe).ngc
+6a1c41898139629ecb9e744546ab209a1a009dc37e01b08e7dbc914b3cc1476e	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Top 10 Games - retrogamer.net/Metal Slug - 1st Mission (World) (En,Ja).ngc
+6d0a19f5b976ce2a61140d956842366f87660ae7edd793d6508ee28baa1f2257	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Top 10 Games - retrogamer.net/Neo Turf Masters (World) (En,Ja).ngc
+1f8f4c92983985450d4aad92e3f6d0199751f451593bb26d55a04eb0fba8be1d	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Top 10 Games - retrogamer.net/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).ngc
+2721b10ef9b1e488354f2f79037a3f55d799b354fa58ed1e110c1da8301fd200	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Top 10 Games - retrogamer.net/Puzzle Bobble Mini (Japan, Europe) (v1.10).ngc
+e59e0ebf810200a634c6063fcbdf3489635d7d3521b43e569f7251236a4548f6	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Top 10 Games - retrogamer.net/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).ngc
+3c0e17694c9476fa8995b56b74a9f92966451025a5712ab8f9a7e08cffd86baf	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Top 10 Games - retrogamer.net/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).ngc
+70d77cefb8a99350a53790d04c23ad874e2ef2bc92d2bd4211ea4407c08c0bdc	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Top 10 Games - retrogamer.net/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).ngc
+86d592daafd3392b26246212da7e50fca400e9fb0c511eced30242881b9e781a	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Top 10 Games - retrogamer.net/Sonic The Hedgehog - Pocket Adventure (World).ngc
+df62c25ab53620263cc7478708e982bf81e3a3fcdd1ef6c8b36a82f9226312a5	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/Activision/Shanghai Mini (World) (En,Ja).ngc
+d4c70b24a51923a60a715b77bbc205f6c06146bedb11d066e629f498af3392bd	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/ADK/Crush Roller (World) (En,Ja).ngc
+c8a31bb171d8991fd8b78b6b4a229b4c7f5d97a33353e85358062a35440a74f3	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/ADK/Dynamite Slugger (Japan, Europe) (En,Ja).ngc
+374979c70bf702dbbaf5dac7c90f10cfd2d503f3ae10a0f5eac4976de39765d7	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/Capcom/Rockman - Battle & Fighters (J) T+Eng v0.10 Rockx2.ngc
+fb3fc89575af69b2b14de942d5e54adb94584fcd5b8bc9c342fd275c4b0b7646	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/Data East/Magical Drop Pocket (USA, Europe).ngc
+a3f8dda1b138384e41b410e6a0455f53ab773a6431873b23b55e5c6bd71b56ed	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/Dyna/Neo 21 - Real Casino Series (World).ngc
+4056a358ea804d61f53dc876c3ce9da6dc3dd1a24a3916cdd8cb14c45839d6ce	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/Dyna/Neo Baccarat - Real Casino Series (World).ngc
+3d550fb0114c30d65a17475ed26a98a4e40cb96088f5f48250978a0daa3b7ca2	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/Dyna/Neo Cherry Master Color - Real Casino Series (World) (En,Ja).ngc
+40a006d32d1b0cbc249903100accb9a90c975a460e0d11d4ff460e2002ccd333	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/Dyna/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.13).ngc
+421914d275e780ef6dd2d23a47a92156df9130dcb1928f2c771249336bdc9631	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/Dyna/Neo Mystery Bonus - Real Casino Series (World) (En,Ja).ngc
+8c5485e736b6061729e5028f97d03e46c7db911059cd01df8490d6860e46f843	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/Namco/Pac-Man (World) (En,Ja).ngc
+37492908054a7b3d7927f2f3bed9d5439d43e9573ab6b8956514e83948181792	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/Quest/Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (J) T+Eng v0.05 WyndCrosser.ngc
+977e4d520f4c885acc8b6ba815623d9b1ff8f3924ccab4db02a24b7bff0f80c7	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/Sacnoth/Dive Alert - Becky's Version (USA, Europe).ngc
+7a16dda1c503e272544e25b336cd0e67c5c8e36ef57c4dedf72d590604893704	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/Sacnoth/Dive Alert - Matt's Version (USA, Europe).ngc
+80bc61b6e63f53292a20f88277f2b3b706982779f79d4c383ee2b82ee035d279	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/Sacnoth/Faselei! (Europe).ngc
+7be64b6d129454df8f6f434b4173065222079a10c6ecf80a3df472af7570586f	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/Sega/Puyo Pop (World) (En,Ja) (v1.06).ngc
+86d592daafd3392b26246212da7e50fca400e9fb0c511eced30242881b9e781a	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/Sega/Sonic The Hedgehog - Pocket Adventure (World).ngc
+3b52342fe0d117e31cc4f1e18642a7c098aaef4736cf22d04cd74f01edd43474	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/SNK/Big Bang Pro Wrestling (Japan) (En,Ja).ngc
+04dda94a8543d6c9681124bcbc354b9a58b180676652465fe07193f6d1153fff	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/SNK/Cool Cool Jam (J) T+Eng v0.01 WyndCrosser.ngc
+71dd3240489eb0cbb843a135bcbe71e47f42f53e83deab7fb49ca76f08206fc4	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/SNK/Dark Arms - Beast Buster 1999 (World) (En,Ja).ngc
+248adc7b9f75567f08b0306cb298bd17a8b33e42f09fc34174cc0587a46329f5	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/SNK/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).ngc
+82e897347b4c4717d88cbf8d494dfa5c448a505060102815ecd5c7ae5564d911	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/SNK/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp
+9d68850f2ab8f23aba5bea6fa58c0e1b62ef17fc2282281ed8722a5676e9fb24	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/SNK/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).ngc
+3195add48337336c958eb2db285e6a0616d025d784ef0c8cb236da5342967bfd	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/SNK/Last Blade, The - Beyond the Destiny (Europe).ngc
+6a1c41898139629ecb9e744546ab209a1a009dc37e01b08e7dbc914b3cc1476e	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/SNK/Metal Slug - 1st Mission (World) (En,Ja).ngc
+b8405e71817b7f73b148f46599f950fee3edba32dd66e996112cddb9cc416d70	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/SNK/Metal Slug - 2nd Mission (World) (En,Ja).ngc
+b9394e92dc0215cafcc0087c0e26d0efafb49b5f5f899ede6ac4410072276ded	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/SNK/Neo Geo Cup '98 (Japan, Europe) (En,Ja).ngp
+ab897e8bfa112a0056b75926ce771009cbcb2b05b4b256c2f1fc8f98350c1cb4	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/SNK/Neo Geo Cup '98 Plus (World) (En,Ja).ngc
+6d0a19f5b976ce2a61140d956842366f87660ae7edd793d6508ee28baa1f2257	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/SNK/Neo Turf Masters (World) (En,Ja).ngc
+7ff8599e6cd07e613fb46876d864653d6835a6ff60d851ebd131f508f94e11da	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/SNK/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp
+f0d89fcef129450105e1e45bb29693f30d30a00dd2e92168e7253438dca38a63	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/SNK/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).ngc
+b9c249cc03c6c115c7e887035de0386dc9ec6308d3bd8dba16c5e8bbf03fdb93	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/SNK/SNK vs. Capcom - Card Fighters 2 - Expand Edition (J) T+Eng 5-03-08 CFC2 Translation Team.ngc
+b9c249cc03c6c115c7e887035de0386dc9ec6308d3bd8dba16c5e8bbf03fdb93	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/SNK/SNK vs. Capcom - Card Fighters 2 - Expand Edition (J) T+Eng v1 Raohmaru.ngc
+e59e0ebf810200a634c6063fcbdf3489635d7d3521b43e569f7251236a4548f6	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/SNK/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).ngc
+3c0e17694c9476fa8995b56b74a9f92966451025a5712ab8f9a7e08cffd86baf	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/SNK/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).ngc
+b3cfd9fd8f0b5fe15eeffe347c0298c44e1e925baab0aa8f7327c3eb603fc5f1	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/Taito/Bust-A-Move Pocket (USA).ngc
+2721b10ef9b1e488354f2f79037a3f55d799b354fa58ed1e110c1da8301fd200	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/Taito/Puzzle Bobble Mini (Japan, Europe) (v1.10).ngc
+30fa480670a2d3d703289b4857cf5a2afc85cbd7495dec01aacba379554054f9	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/Yumekobo/Biomotor Unitron (USA, Europe).ngc
+1f8f4c92983985450d4aad92e3f6d0199751f451593bb26d55a04eb0fba8be1d	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/Yumekobo/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).ngc
+a75ad5d83994d09f9acc7f8e1c538a0f58e0593d4fe362f2b03b9154ff118ad5	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/Yumekobo/Puzzle Link (Europe).ngc
+7fb201f71eb4dac08fb351ab6c6bdc1dd3fde5681f0cc460a800696953a70d6e	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/Yumekobo/Puzzle Link 2 (USA, Europe).ngc
+b002ff9568107834c170a4da03912e3a4b54d6cb767967fc6dae7fcaaa89c782	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Developers/Yumekobo/SNK Gals' Fighters (USA, Europe).ngc
+374979c70bf702dbbaf5dac7c90f10cfd2d503f3ae10a0f5eac4976de39765d7	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Action (General)/Rockman - Battle & Fighters (J) T+Eng v0.10 Rockx2.ngc
+d4c70b24a51923a60a715b77bbc205f6c06146bedb11d066e629f498af3392bd	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Arcade/Crush Roller (World) (En,Ja).ngc
+8c5485e736b6061729e5028f97d03e46c7db911059cd01df8490d6860e46f843	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Arcade/Pac-Man (World) (En,Ja).ngc
+248adc7b9f75567f08b0306cb298bd17a8b33e42f09fc34174cc0587a46329f5	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Fighters (1v1)/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).ngc
+82e897347b4c4717d88cbf8d494dfa5c448a505060102815ecd5c7ae5564d911	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Fighters (1v1)/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp
+9d68850f2ab8f23aba5bea6fa58c0e1b62ef17fc2282281ed8722a5676e9fb24	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Fighters (1v1)/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).ngc
+3195add48337336c958eb2db285e6a0616d025d784ef0c8cb236da5342967bfd	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Fighters (1v1)/Last Blade, The - Beyond the Destiny (Europe).ngc
+374979c70bf702dbbaf5dac7c90f10cfd2d503f3ae10a0f5eac4976de39765d7	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Fighters (1v1)/Rockman - Battle & Fighters (J) T+Eng v0.10 Rockx2.ngc
+7ff8599e6cd07e613fb46876d864653d6835a6ff60d851ebd131f508f94e11da	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Fighters (1v1)/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp
+f0d89fcef129450105e1e45bb29693f30d30a00dd2e92168e7253438dca38a63	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Fighters (1v1)/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).ngc
+b002ff9568107834c170a4da03912e3a4b54d6cb767967fc6dae7fcaaa89c782	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Fighters (1v1)/SNK Gals' Fighters (USA, Europe).ngc
+70d77cefb8a99350a53790d04c23ad874e2ef2bc92d2bd4211ea4407c08c0bdc	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Fighters (1v1)/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).ngc
+a3f8dda1b138384e41b410e6a0455f53ab773a6431873b23b55e5c6bd71b56ed	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Gambling/Neo 21 - Real Casino Series (World).ngc
+4056a358ea804d61f53dc876c3ce9da6dc3dd1a24a3916cdd8cb14c45839d6ce	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Gambling/Neo Baccarat - Real Casino Series (World).ngc
+c4b9dda5336df2f6fef6d81f65f39c4b1de0d17395baa29616fdad4562355c8a	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Gambling/Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja).ngp
+3d550fb0114c30d65a17475ed26a98a4e40cb96088f5f48250978a0daa3b7ca2	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Gambling/Neo Cherry Master Color - Real Casino Series (World) (En,Ja).ngc
+40a006d32d1b0cbc249903100accb9a90c975a460e0d11d4ff460e2002ccd333	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Gambling/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.13).ngc
+421914d275e780ef6dd2d23a47a92156df9130dcb1928f2c771249336bdc9631	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Gambling/Neo Mystery Bonus - Real Casino Series (World) (En,Ja).ngc
+86d592daafd3392b26246212da7e50fca400e9fb0c511eced30242881b9e781a	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Platformers/Sonic The Hedgehog - Pocket Adventure (World).ngc
+b3cfd9fd8f0b5fe15eeffe347c0298c44e1e925baab0aa8f7327c3eb603fc5f1	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Puzzle/All Puzzle Games/Bust-A-Move Pocket (USA).ngc
+8ee845e7b0f3c546d5764363a090763682e88d69188430aa2a7c0250e422040f	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Puzzle/All Puzzle Games/Delta Warp - RetroHQ Fixed (Japan) (En,Ja).ngc
+fb3fc89575af69b2b14de942d5e54adb94584fcd5b8bc9c342fd275c4b0b7646	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Puzzle/All Puzzle Games/Magical Drop Pocket (USA, Europe).ngc
+5c83328f884eba850754b100251cdae772c88b006f8dd7d635d1783f9863063f	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Puzzle/All Puzzle Games/Picture Puzzle (USA, Europe).ngc
+7be64b6d129454df8f6f434b4173065222079a10c6ecf80a3df472af7570586f	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Puzzle/All Puzzle Games/Puyo Pop (World) (En,Ja) (v1.06).ngc
+a75ad5d83994d09f9acc7f8e1c538a0f58e0593d4fe362f2b03b9154ff118ad5	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Puzzle/All Puzzle Games/Puzzle Link (Europe).ngc
+7fb201f71eb4dac08fb351ab6c6bdc1dd3fde5681f0cc460a800696953a70d6e	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Puzzle/All Puzzle Games/Puzzle Link 2 (USA, Europe).ngc
+df62c25ab53620263cc7478708e982bf81e3a3fcdd1ef6c8b36a82f9226312a5	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Puzzle/All Puzzle Games/Shanghai Mini (World) (En,Ja).ngc
+8ee845e7b0f3c546d5764363a090763682e88d69188430aa2a7c0250e422040f	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Puzzle/Sort By - General Puzzle/Delta Warp - RetroHQ Fixed (Japan) (En,Ja).ngc
+5c83328f884eba850754b100251cdae772c88b006f8dd7d635d1783f9863063f	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Puzzle/Sort By - General Puzzle/Picture Puzzle (USA, Europe).ngc
+a75ad5d83994d09f9acc7f8e1c538a0f58e0593d4fe362f2b03b9154ff118ad5	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Puzzle/Sort By - General Puzzle/Puzzle Link (Europe).ngc
+7fb201f71eb4dac08fb351ab6c6bdc1dd3fde5681f0cc460a800696953a70d6e	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Puzzle/Sort By - General Puzzle/Puzzle Link 2 (USA, Europe).ngc
+df62c25ab53620263cc7478708e982bf81e3a3fcdd1ef6c8b36a82f9226312a5	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Puzzle/Sort By - General Puzzle/Shanghai Mini (World) (En,Ja).ngc
+b3cfd9fd8f0b5fe15eeffe347c0298c44e1e925baab0aa8f7327c3eb603fc5f1	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Puzzle/Sort By - Matching Puzzle/Bust-A-Move Pocket (USA).ngc
+fb3fc89575af69b2b14de942d5e54adb94584fcd5b8bc9c342fd275c4b0b7646	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Puzzle/Sort By - Matching Puzzle/Magical Drop Pocket (USA, Europe).ngc
+7be64b6d129454df8f6f434b4173065222079a10c6ecf80a3df472af7570586f	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Puzzle/Sort By - Matching Puzzle/Puyo Pop (World) (En,Ja) (v1.06).ngc
+04dda94a8543d6c9681124bcbc354b9a58b180676652465fe07193f6d1153fff	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Rhythm/Cool Cool Jam (J) T+Eng v0.01 WyndCrosser.ngc
+71dd3240489eb0cbb843a135bcbe71e47f42f53e83deab7fb49ca76f08206fc4	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Role Playing Games/All Role Playing Games/Dark Arms - Beast Buster 1999 (World) (En,Ja).ngc
+977e4d520f4c885acc8b6ba815623d9b1ff8f3924ccab4db02a24b7bff0f80c7	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Role Playing Games/All Role Playing Games/Dive Alert - Becky's Version (USA, Europe).ngc
+7a16dda1c503e272544e25b336cd0e67c5c8e36ef57c4dedf72d590604893704	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Role Playing Games/All Role Playing Games/Dive Alert - Matt's Version (USA, Europe).ngc
+9376a26b88ede768fad6f1840d6c458f2b600a47b378f33828ab8c865e3ed8b0	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Role Playing Games/All Role Playing Games/Evolution - Eternal Dungeons (Europe).ngc
+0f141ab0b039e0f8afaad815268810e1fb762a47072dec1456beb21a5fb30916	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Role Playing Games/All Role Playing Games/Kikou Seiki Unitron (J) T+Eng v0.38 WyndCrosser.ngc
+34a48731de6f2ef9bd431c1c022d7c72e7d006213dd3683ec9db67aeab1f0858	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Role Playing Games/All Role Playing Games/Nigeronpa (J) T+Eng v0.01 WyndCrosser.ngc
+71dd3240489eb0cbb843a135bcbe71e47f42f53e83deab7fb49ca76f08206fc4	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Role Playing Games/Sort By - Action RPG/Dark Arms - Beast Buster 1999 (World) (En,Ja).ngc
+9376a26b88ede768fad6f1840d6c458f2b600a47b378f33828ab8c865e3ed8b0	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Role Playing Games/Sort By - General RPG/Evolution - Eternal Dungeons (Europe).ngc
+0f141ab0b039e0f8afaad815268810e1fb762a47072dec1456beb21a5fb30916	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Role Playing Games/Sort By - General RPG/Kikou Seiki Unitron (J) T+Eng v0.38 WyndCrosser.ngc
+34a48731de6f2ef9bd431c1c022d7c72e7d006213dd3683ec9db67aeab1f0858	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Role Playing Games/Sort By - General RPG/Nigeronpa (J) T+Eng v0.01 WyndCrosser.ngc
+977e4d520f4c885acc8b6ba815623d9b1ff8f3924ccab4db02a24b7bff0f80c7	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Role Playing Games/Sort By - Japanese Style RPG/Dive Alert - Becky's Version (USA, Europe).ngc
+7a16dda1c503e272544e25b336cd0e67c5c8e36ef57c4dedf72d590604893704	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Role Playing Games/Sort By - Japanese Style RPG/Dive Alert - Matt's Version (USA, Europe).ngc
+6a1c41898139629ecb9e744546ab209a1a009dc37e01b08e7dbc914b3cc1476e	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Run 'n Gun/Metal Slug - 1st Mission (World) (En,Ja).ngc
+b8405e71817b7f73b148f46599f950fee3edba32dd66e996112cddb9cc416d70	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Run 'n Gun/Metal Slug - 2nd Mission (World) (En,Ja).ngc
+5ec665bc713eec4b591b153504be7657a0f45acc7412b3e1899beeacd92b05bd	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Shoot 'em Up/Fantastic Night Dreams Cotton (Europe).ngc
+c74a724df0e48a3a2faf00d5aa68ca8d12abd24e4090b648d8b7f6b537727f20	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Sports/Baseball/Baseball Stars (Japan, Europe) (En,Ja).ngp
+647dc8cd38063fa0fd460a57d11c9b8751f7b0e3f72f32e262c6e0aaa4f4661c	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Sports/Baseball/Baseball Stars Color (World) (En,Ja).ngc
+c8a31bb171d8991fd8b78b6b4a229b4c7f5d97a33353e85358062a35440a74f3	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Sports/Baseball/Dynamite Slugger (Japan, Europe) (En,Ja).ngc
+6d0a19f5b976ce2a61140d956842366f87660ae7edd793d6508ee28baa1f2257	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Sports/Golf/Neo Turf Masters (World) (En,Ja).ngc
+1bd7ebf4f61660df0cf76184fe3107f33f5576ab78e68136a7b80f6f39b435ea	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Sports/Snowboarding/Cool Boarders Pocket (Japan, Europe) (En,Ja).ngc
+b9394e92dc0215cafcc0087c0e26d0efafb49b5f5f899ede6ac4410072276ded	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Sports/Soccer/Neo Geo Cup '98 (Japan, Europe) (En,Ja).ngp
+ab897e8bfa112a0056b75926ce771009cbcb2b05b4b256c2f1fc8f98350c1cb4	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Sports/Soccer/Neo Geo Cup '98 Plus (World) (En,Ja).ngc
+23203e175ba8651f096c390abeceea8dd7ba5b38876d92f1d08d5211e6642849	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Sports/Tennis/Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).ngp
+1f8f4c92983985450d4aad92e3f6d0199751f451593bb26d55a04eb0fba8be1d	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Sports/Tennis/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).ngc
+3b52342fe0d117e31cc4f1e18642a7c098aaef4736cf22d04cd74f01edd43474	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Sports/Wrestling/Big Bang Pro Wrestling (Japan) (En,Ja).ngc
+30fa480670a2d3d703289b4857cf5a2afc85cbd7495dec01aacba379554054f9	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Strategy/All Strategy Games/Biomotor Unitron (USA, Europe).ngc
+37492908054a7b3d7927f2f3bed9d5439d43e9573ab6b8956514e83948181792	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Strategy/All Strategy Games/Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (J) T+Eng v0.05 WyndCrosser.ngc
+80bc61b6e63f53292a20f88277f2b3b706982779f79d4c383ee2b82ee035d279	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Strategy/All Strategy Games/Faselei! (Europe).ngc
+62077376f1ea5b20e94c6222fd1d3575869ddf3620f3d5625cf506cc0a86151e	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Strategy/All Strategy Games/Mizuki Shigeru no Youkai Shashinkan (J) T+Eng v0.01 WyndCrosser.ngc
+b9c249cc03c6c115c7e887035de0386dc9ec6308d3bd8dba16c5e8bbf03fdb93	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Strategy/All Strategy Games/SNK vs. Capcom - Card Fighters 2 - Expand Edition (J) T+Eng v1 Raohmaru.ngc
+e59e0ebf810200a634c6063fcbdf3489635d7d3521b43e569f7251236a4548f6	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Strategy/All Strategy Games/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).ngc
+3c0e17694c9476fa8995b56b74a9f92966451025a5712ab8f9a7e08cffd86baf	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Strategy/All Strategy Games/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).ngc
+30fa480670a2d3d703289b4857cf5a2afc85cbd7495dec01aacba379554054f9	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Strategy/Sort By - General Strategy/Biomotor Unitron (USA, Europe).ngc
+80bc61b6e63f53292a20f88277f2b3b706982779f79d4c383ee2b82ee035d279	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Strategy/Sort By - General Strategy/Faselei! (Europe).ngc
+62077376f1ea5b20e94c6222fd1d3575869ddf3620f3d5625cf506cc0a86151e	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Strategy/Sort By - General Strategy/Mizuki Shigeru no Youkai Shashinkan (J) T+Eng v0.01 WyndCrosser.ngc
+37492908054a7b3d7927f2f3bed9d5439d43e9573ab6b8956514e83948181792	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Strategy/Sort By - Turn Based Strategy/Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (J) T+Eng v0.05 WyndCrosser.ngc
+b9c249cc03c6c115c7e887035de0386dc9ec6308d3bd8dba16c5e8bbf03fdb93	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Strategy/Sort By - Turn Based Strategy/SNK vs. Capcom - Card Fighters 2 - Expand Edition (J) T+Eng v1 Raohmaru.ngc
+e59e0ebf810200a634c6063fcbdf3489635d7d3521b43e569f7251236a4548f6	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Strategy/Sort By - Turn Based Strategy/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).ngc
+3c0e17694c9476fa8995b56b74a9f92966451025a5712ab8f9a7e08cffd86baf	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Genre/Strategy/Sort By - Turn Based Strategy/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).ngc
+647dc8cd38063fa0fd460a57d11c9b8751f7b0e3f72f32e262c6e0aaa4f4661c	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Baseball Stars Color (World) (En,Ja).ngc
+30fa480670a2d3d703289b4857cf5a2afc85cbd7495dec01aacba379554054f9	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Biomotor Unitron (USA, Europe).ngc
+b3cfd9fd8f0b5fe15eeffe347c0298c44e1e925baab0aa8f7327c3eb603fc5f1	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Bust-A-Move Pocket (USA).ngc
+04dda94a8543d6c9681124bcbc354b9a58b180676652465fe07193f6d1153fff	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Cool Cool Jam (J) T+Eng v0.01 WyndCrosser.ngc
+6c77811daa965f193de02079b30f3e2dfd50198eff9f754f8af588d3b148ac9f	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Cool Cool Jam (USA, Europe) (Sample).ngc
+d4c70b24a51923a60a715b77bbc205f6c06146bedb11d066e629f498af3392bd	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Crush Roller (World) (En,Ja).ngc
+71dd3240489eb0cbb843a135bcbe71e47f42f53e83deab7fb49ca76f08206fc4	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Dark Arms - Beast Buster 1999 (World) (En,Ja).ngc
+37492908054a7b3d7927f2f3bed9d5439d43e9573ab6b8956514e83948181792	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (J) T+Eng v0.05 WyndCrosser.ngc
+977e4d520f4c885acc8b6ba815623d9b1ff8f3924ccab4db02a24b7bff0f80c7	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Dive Alert - Becky's Version (USA, Europe).ngc
+7a16dda1c503e272544e25b336cd0e67c5c8e36ef57c4dedf72d590604893704	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Dive Alert - Matt's Version (USA, Europe).ngc
+c8a31bb171d8991fd8b78b6b4a229b4c7f5d97a33353e85358062a35440a74f3	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Dynamite Slugger (Japan, Europe) (En,Ja).ngc
+9376a26b88ede768fad6f1840d6c458f2b600a47b378f33828ab8c865e3ed8b0	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Evolution - Eternal Dungeons (Europe).ngc
+80bc61b6e63f53292a20f88277f2b3b706982779f79d4c383ee2b82ee035d279	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Faselei! (Europe).ngc
+248adc7b9f75567f08b0306cb298bd17a8b33e42f09fc34174cc0587a46329f5	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).ngc
+0f141ab0b039e0f8afaad815268810e1fb762a47072dec1456beb21a5fb30916	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Kikou Seiki Unitron (J) T+Eng v0.38 WyndCrosser.ngc
+9d68850f2ab8f23aba5bea6fa58c0e1b62ef17fc2282281ed8722a5676e9fb24	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).ngc
+3195add48337336c958eb2db285e6a0616d025d784ef0c8cb236da5342967bfd	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Last Blade, The - Beyond the Destiny (Europe).ngc
+a3f8dda1b138384e41b410e6a0455f53ab773a6431873b23b55e5c6bd71b56ed	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Neo 21 - Real Casino Series (World).ngc
+4056a358ea804d61f53dc876c3ce9da6dc3dd1a24a3916cdd8cb14c45839d6ce	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Neo Baccarat - Real Casino Series (World).ngc
+40a006d32d1b0cbc249903100accb9a90c975a460e0d11d4ff460e2002ccd333	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.13).ngc
+ab897e8bfa112a0056b75926ce771009cbcb2b05b4b256c2f1fc8f98350c1cb4	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Neo Geo Cup '98 Plus (World) (En,Ja).ngc
+6d0a19f5b976ce2a61140d956842366f87660ae7edd793d6508ee28baa1f2257	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Neo Turf Masters (World) (En,Ja).ngc
+5c83328f884eba850754b100251cdae772c88b006f8dd7d635d1783f9863063f	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Picture Puzzle (USA, Europe).ngc
+204a6d8905545f338ff0bc29b86373326787b7fa728c197cb2d2c407e3a45150	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Pocket Reversi (Europe).ngc
+1f8f4c92983985450d4aad92e3f6d0199751f451593bb26d55a04eb0fba8be1d	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).ngc
+7be64b6d129454df8f6f434b4173065222079a10c6ecf80a3df472af7570586f	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Puyo Pop (World) (En,Ja) (v1.06).ngc
+a75ad5d83994d09f9acc7f8e1c538a0f58e0593d4fe362f2b03b9154ff118ad5	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Puzzle Link (Europe).ngc
+7fb201f71eb4dac08fb351ab6c6bdc1dd3fde5681f0cc460a800696953a70d6e	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Puzzle Link 2 (USA, Europe).ngc
+374979c70bf702dbbaf5dac7c90f10cfd2d503f3ae10a0f5eac4976de39765d7	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Rockman - Battle & Fighters (J) T+Eng v0.10 Rockx2.ngc
+f0d89fcef129450105e1e45bb29693f30d30a00dd2e92168e7253438dca38a63	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).ngc
+df62c25ab53620263cc7478708e982bf81e3a3fcdd1ef6c8b36a82f9226312a5	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Shanghai Mini (World) (En,Ja).ngc
+b002ff9568107834c170a4da03912e3a4b54d6cb767967fc6dae7fcaaa89c782	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/SNK Gals' Fighters (USA, Europe).ngc
+b9c249cc03c6c115c7e887035de0386dc9ec6308d3bd8dba16c5e8bbf03fdb93	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/SNK vs. Capcom - Card Fighters 2 - Expand Edition (J) T+Eng 5-03-08 CFC2 Translation Team.ngc
+b9c249cc03c6c115c7e887035de0386dc9ec6308d3bd8dba16c5e8bbf03fdb93	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/SNK vs. Capcom - Card Fighters 2 - Expand Edition (J) T+Eng v1 Raohmaru.ngc
+e59e0ebf810200a634c6063fcbdf3489635d7d3521b43e569f7251236a4548f6	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).ngc
+3c0e17694c9476fa8995b56b74a9f92966451025a5712ab8f9a7e08cffd86baf	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).ngc
+70d77cefb8a99350a53790d04c23ad874e2ef2bc92d2bd4211ea4407c08c0bdc	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).ngc
+86d592daafd3392b26246212da7e50fca400e9fb0c511eced30242881b9e781a	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Sonic The Hedgehog - Pocket Adventure (World).ngc
+977e4d520f4c885acc8b6ba815623d9b1ff8f3924ccab4db02a24b7bff0f80c7	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Wireless Communication Unit Support/Dive Alert - Becky's Version (USA, Europe).ngc
+7a16dda1c503e272544e25b336cd0e67c5c8e36ef57c4dedf72d590604893704	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Wireless Communication Unit Support/Dive Alert - Matt's Version (USA, Europe).ngc
+4056a358ea804d61f53dc876c3ce9da6dc3dd1a24a3916cdd8cb14c45839d6ce	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Wireless Communication Unit Support/Neo Baccarat - Real Casino Series (World).ngc
+e59e0ebf810200a634c6063fcbdf3489635d7d3521b43e569f7251236a4548f6	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Wireless Communication Unit Support/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).ngc
+3c0e17694c9476fa8995b56b74a9f92966451025a5712ab8f9a7e08cffd86baf	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Wireless Communication Unit Support/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).ngc
+80bc61b6e63f53292a20f88277f2b3b706982779f79d4c383ee2b82ee035d279	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Wireless Communication Unit Support/Wireless Unit Enhanced (Non-Multiplayer)/Faselei! (Europe).ngc
+b9c249cc03c6c115c7e887035de0386dc9ec6308d3bd8dba16c5e8bbf03fdb93	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Wireless Communication Unit Support/Wireless Unit Enhanced (Non-Multiplayer)/SNK vs. Capcom - Card Fighters 2 - Expand Edition (J) T+Eng 5-03-08 CFC2 Translation Team.ngc
+b9c249cc03c6c115c7e887035de0386dc9ec6308d3bd8dba16c5e8bbf03fdb93	O:/EverDrive/NGPC RetroHQ/4 Game Series Collections/Multiplayer/Wireless Communication Unit Support/Wireless Unit Enhanced (Non-Multiplayer)/SNK vs. Capcom - Card Fighters 2 - Expand Edition (J) T+Eng v1 Raohmaru.ngc
+04dda94a8543d6c9681124bcbc354b9a58b180676652465fe07193f6d1153fff	O:/EverDrive/NGPC RetroHQ/4 Translations/Cool Cool Jam (J) T+Eng v0.01 WyndCrosser.ngc
+37492908054a7b3d7927f2f3bed9d5439d43e9573ab6b8956514e83948181792	O:/EverDrive/NGPC RetroHQ/4 Translations/Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (J) T+Eng v0.05 WyndCrosser.ngc
+0f141ab0b039e0f8afaad815268810e1fb762a47072dec1456beb21a5fb30916	O:/EverDrive/NGPC RetroHQ/4 Translations/Kikou Seiki Unitron (J) T+Eng v0.38 WyndCrosser.ngc
+62077376f1ea5b20e94c6222fd1d3575869ddf3620f3d5625cf506cc0a86151e	O:/EverDrive/NGPC RetroHQ/4 Translations/Mizuki Shigeru no Youkai Shashinkan (J) T+Eng v0.01 WyndCrosser.ngc
+34a48731de6f2ef9bd431c1c022d7c72e7d006213dd3683ec9db67aeab1f0858	O:/EverDrive/NGPC RetroHQ/4 Translations/Nigeronpa (J) T+Eng v0.01 WyndCrosser.ngc
+374979c70bf702dbbaf5dac7c90f10cfd2d503f3ae10a0f5eac4976de39765d7	O:/EverDrive/NGPC RetroHQ/4 Translations/Rockman - Battle & Fighters (J) T+Eng v0.10 Rockx2.ngc
+b9c249cc03c6c115c7e887035de0386dc9ec6308d3bd8dba16c5e8bbf03fdb93	O:/EverDrive/NGPC RetroHQ/4 Translations/SNK vs. Capcom - Card Fighters 2 - Expand Edition (J) T+Eng 5-03-08 CFC2 Translation Team.ngc
+b9c249cc03c6c115c7e887035de0386dc9ec6308d3bd8dba16c5e8bbf03fdb93	O:/EverDrive/NGPC RetroHQ/4 Translations/SNK vs. Capcom - Card Fighters 2 - Expand Edition (J) T+Eng v1 Raohmaru.ngc

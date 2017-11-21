@@ -1,0 +1,560 @@
+5d657363bd64bf3d59251de84c59730668188816fc64bb15414a66af3b4eb6b4	O:/EverDrive/Darksoft STV/Darksoft Boot Sound Audacity File.aup
+4fe4751034c7de1dc16d8dfacded2ead2ecf844b051fadc540c1ac8d00685bd0	O:/EverDrive/Darksoft STV/Darksoft STV Logo.pdn
+3458897f09b496044761f6fb0a80d1adc69a414cd08a19af0afd0457ee9e3234	O:/EverDrive/Darksoft STV/Soukyugurentai-Terra Diver OST - Scroll for the S.O.Q. [OPENING-TITLE DEMO].aup
+479856dfdb035a245edb748506fddc46fc0760047cccb320b480fd3458d33c33	O:/EverDrive/Darksoft STV/Thumbs.db
+d678320e80e1fa9e845e882b84b3378553999a771a0c792d823978007e7907e0	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/SOUNDS.7z
+379c56a21b706f2860b2c6400e668545814c5ef7fe5dde94150f74687bace0e2	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/STV Game List.ods - Shortcut.lnk
+de9c13001e302d03d44a02abea64877c7f312a11a1ec43867e7cfb97b972f23b	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/STV Release Thread Post.odt
+702e8f4a58cfa7ce4d9f932f9f1d37786bd4300f1055aedf98ede7c33e1c7447	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/STV Roll-Up Pack 2017-6-5.7z
+ea8d0b80937e3bd3c740f02432b916b7e68d9aa05cce483f3b5d1d7820620f0e	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/Thumbs.db
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_01/astrasss.txt
+dadd8c59f80251b05519532e50419a23de4029610ed7182f2135be920ee38954	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_01/file.01
+f259a809b1f9c8ebf72722f5539f903b62302adc1c8859fa9e96bdcf95a50911	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_01/file.02
+07ffce2a9e32bd92818fb8430d4ae366cf54b348ee914d0a0fc9a28a0329dba8	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_01/file.03
+6fc4dfb4d87d01caf21ca77592431df1203251d1dcbe438890a2421c4747462e	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_01/file.04
+e85a1affda8d250c6e4f8eefa7e460b14f3857ce998d95d79ba722ea4c04e008	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_01/file.05
+75084c492011b0494bd0c18be6cb11b26324a556002fe6fe4b2691f1774da64d	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_01/file.06
+ebdd1142d720d92172f2e8d9c76927978829b6d848df0b673f8a425570b60693	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_01/file.07
+0af003d3bfd6ce61478c90925bd203ba21f6b01fb5cdfe5bb781cd2788771608	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_01/file.08
+2ff52345c86e9548f5a95bd407104f2902c8cb3967e391da56fb2809162d03aa	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_01/file.09
+da83d0ccff19626e17106c508a2bae8026c42d8744e97ad8418834a9b770a20d	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_01/file.13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_02/bakubaku.txt
+5e621f06a4588e07dd0145cbb54fcc89bb242a9ec0f6210e457aa3f47c97dc18	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_02/file.02
+903a808538eb09bec8196de3f61aa3f567482f75079d0666389c5fc607e80726	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_02/file.03
+1e5306878721f0762df744140984b13bee35e309f0feffcc1358988c2ae210bb	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_02/file.04
+0e36a321423a456190168059cdb3074466b9c4362b04605d0bf3f5ef15b54204	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_02/file.05
+c096ea2ce7e185912fb58d3906570d54d755657b27293872377ec496f4c069cf	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_02/file.07
+249230ebf1164ef6bd0e92205b021228b6fba0d11fa1dc377ab6b63ec0402a4a	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_02/file.09
+9ccd70924dc9366dcadd934ff405e7e78869ea6d1b384acc764690a0a7f1d837	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_02/file.13
+4d1aa0ccf0a756ef91ee028b2c2e71069ef1fa24c19dfb4f38c39cb441bae02c	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_03/350-mpa1.u16
+deb3cd9f6dac6a55e68486c9421eba1939627e079c499a171d23bc8cbdb54dcd	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_03/350-mpa1.u19
+8be593fadf61be3c0dce47d8c88ab23fbe428bd71c68e47df6b24086384a7ab3	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_03/350snda1.u52
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_03/batmanfr.txt
+7d66ee9c4fdaf4fc39f8012a43c8f40fe9190512da2cf8722f6e739d58bfce54	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_03/file.01
+b67ca91e2f073fcd1dd8276037f161c4e039de31b328d139c021a9a81b9f1af3	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_03/file.02
+0613ec5afb0f703d153c41d1800427e849764abf54fff8ba74f464c8742a701e	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_03/file.03
+366cf49ec9dcca208bbbc7fff244d9348f4a25004830719086fe27d976644ac2	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_03/file.04
+60f71ae1e98549e92f1cf1f8ad911920a3b6498f2f3624be0c4fa13cf764d9ff	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_03/file.05
+fe7578f785744e89ed0de3548f396f8ca2924a25dad25fa8f8cf0bc8387c3386	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_03/file.06
+b023051f42b4a18546d73a70bef23004f640297bc04d7203745e782aab1a0398	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_03/file.07
+f43632d21484448a27324df9c526a7f6199c49edea46cb371dcf8a1fafe919c3	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_03/file.08
+ccac68f81d4d8b81b8867b92a34d4eb6aa334e3a10b21a38a7ab2074586ada6e	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_03/snd0.u48
+937f7940fb45f3da3f5962392f8fc7db618e4897cbd8132ee017eb0ca60413b0	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_03/snd1.u49
+60179d8aa9465afaa481631e213b4f1421b88768c61a7454eaec1f3f469be897	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_03/snd2.u50
+aa0cb337c04af74125317a8c561f889f4cca06b7471e4dff32afd1572e098529	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_03/snd3.u51
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_04/colmns97.txt
+63d2964085337f115a9a445e1a847d7f47750ed2f73252eb7132fd91ba7d08ee	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_04/file.02
+f7050d9131faae5e9fbcdaf8bf0b26ceeee1d2f503c91a8e9ba944a29dab76fd	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_04/file.03
+8d870f101a5274a13d36e8dc5a3e3fe5a7c704409bedd7e49b20617172d64ddf	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_04/file.13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_05/cotton2.txt
+4710a6d645bfaf5359ff29a7eaa8a220a4bdc26b46d0c929d9e25bb4268ff677	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_05/file.01
+e2eed55c9fb7c47b99f154b1afcd330440824fce1b9e43510631d4195632cd32	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_05/file.02
+7ddb47f672f29bca711a6e2ce28b265bead6497022490e66f9cf4364d6c7a487	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_05/file.03
+edd22e266da95796f992fbcf227932f5f8826242d5c878e459bf073d10b346b6	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_05/file.04
+b41ca4c56851139552a0f61fe8add761f75ea6d4c4dbe793262ffe042d8536d9	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_05/file.05
+138238f124ba0a91569c02f140fb6d8a669dd2f76634c6ec329280694e2d443c	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_05/file.06
+eba7ebc68f5d3fa8ee2c4e8ffb3d5d1dc68072ede3aeb0ed81aec6a10289cb14	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_05/file.07
+9284cd1fc1127594f962a48313221f84715c90d407556bf844971300c060ec7d	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_05/file.08
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_06/cottonbm.txt
+dbfea3faf8c71597b6669a348209474f5fc3d6d8db114d08201a9f48509fdf88	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_06/file.01
+24aaf9b3ad5b4c9e2ca9699b68b72705d3fd2ac2c75df07e86565deaaa044564	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_06/file.02
+3742fd6786541c89d92223de253bfd430b8a635e0d4759100b4a7d34bc4a6da1	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_06/file.03
+79566fff9ef360b214ad2ec712589c74ad9dce6706150124cd65ef714c164287	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_06/file.04
+c631e89600dddf2d7004f4ece7b9ede85d86ef3e634a50db0ef3c20a5838ca44	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_06/file.05
+8959320996a0ffa4f2ac9be38e836d7a6972f0ce5eae67a00551631507ce223f	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_06/file.06
+f09f9fcca1bad9d5e53c6a1859d4ab22f40827e8cf03b913543041371053bd37	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_06/file.07
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_07/danchih.txt
+2c0cb95756f075739b0fe0325e5448d66abf508f329941a64d830b3df701c1c9	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_07/file.02
+c40215655da7f38e1d532b730f78952e8fd02cd41b43977534f8c55c392e0181	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_07/file.03
+d53d9db62fc346c2af33f3fabe0b65c00d7d22eff6e90c32e813ad095552584c	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_07/file.04
+37a6623f3ba362d96476f0f914a05471c645056670466d2191902c58cfe54824	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_07/file.05
+049806efe9ca7d332f9541092282db9aa16b672243dfe3c8160111fc3b0dfe0c	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_07/file.07
+9932f2a73fbc32ab570e332941c2fe6802edb6203c951f5afb3268d0a4f19c64	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_07/file.13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_08/decathlt.txt
+7805f0a879ad810d0dc17d66402f7a93473f06140dd30b2a8c39f274bb2b1472	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_08/file.02
+02e6d6aeb329714296f7ef049d180bdd45c22f815c2a130ea511cf0ee4ba16ed	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_08/file.03
+801df66a32fe3783e31caa72dec93a115f30ed93e5985a189b76b39f0e00ef32	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_08/file.04
+58cbec628cfca851f3123f405d7fee3c3cda297c8462139e16c548fcc705b293	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_08/file.05
+f7309c9e6852e5b0ea257fc2874c3fef99791cc4149c64bdf2d81517ef3d269e	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_08/file.06
+1e673123ad787ebada9f7de0b2f339cf6d74703d39ef8a9446b0f82d3bcfe1d4	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_08/file.13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_09/diehard.txt
+66368b8ac2b1587f82cc781c7ba8cfade4e2c4ed4b7ed3b1ff952c4f65fbecf2	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_09/file.02
+a7600f79385070bfa39b97ae9a2373689dfbd5698a768585042469d4f83e67c0	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_09/file.03
+fa414700e51eeeac588d7d5c3652318e52b626ef463ab40c7b320d6fa729226c	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_09/file.04
+1d13ac0ad57104c6b4ad5566bf713c2bec2c5338d928c9aa6fb675b2167e1f03	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_09/file.05
+0ea7a3127dcf8c663986000b4a567dd1e58af6031a058ebaef6ff187161db855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_09/file.13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_10/elandore.txt
+bd357d4fddc0b7d8fa3b00fcfe485408fe58cb6706d223cae95b7c6cc51c0b02	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_10/file.01
+35cc46d6d7cadac3ffd01a3da99f06fb77ce778c8b3a0c1b2c21c2232fbef79f	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_10/file.02
+70e9a7dae706e3875751dc72182e8118de72228682bf428896556a8c996ad701	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_10/file.03
+ae0ce29b5e03e650d284beac9c5b1eea0ec90e7df9732713c0b76d48de474b3c	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_10/file.04
+369d41cfc3811f2783cb790784b5a8554fb91283302c2ffca42ba92e574cfbfc	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_10/file.05
+fbaffa9c7a9164834b04133b92fd143f878171d9c07655851130eb8819a01b4a	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_10/file.06
+291d773ff697b7a9353b792174ca1587a4affd3b907dc6d4e6c9dcd19560e557	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_10/file.07
+91ba1df1e02beffc99a8bdcbd43d67fb147f6453022b0803b51ee7b26df66670	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_10/file.08
+041c9cd1b33f5b579cf0de5b0d841cfaf9fcf4f7278b02192868d214f37655e7	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_10/file.13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_11/ffreveng.txt
+547280fec1347567ca3c4d1388254d90f174eca0c079b07c37045b772768fabf	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_11/file.01
+da7c0b341984417d95555a9923ca634e54f3c7a8df63e681b250f34fef1176fa	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_11/file.02
+cf153776ceeac314e82bb603bf99ba8127c101879bdc9afe4825eb606a319ff0	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_11/file.03
+6869db6f7e50d13cb9c0dda47860551f6e25971e81f13829d89c814d72d12370	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_11/file.04
+5790a6b010d02ccb6d1db272dafeae6056493b4da19a0b9c242dcb6b8dc88aaf	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_11/file.05
+ae7e692769d81a829b68115b7e856dd9af1d5944b85d865ec048e4fbe76017c5	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_11/file.06
+4b9144ea6880f8ca63777f03ecc8172ed10c216cfa48f164c4f962084596b7aa	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_11/file.07
+17da2c998b8a5fe16790891e4dfea9f7d887bf5d0e3793e9377b12963c4f27b9	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_11/file.13
+5e911dc5c12c7cef3f650fcfd88a1a94fba71ff925a4472a01a0bcbbc27636a1	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_12/fhboxers.nv
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_12/fhboxers.txt
+0472abba5e8b878dca4f33c64ac71762617c88a8b39f822f0eca3ef4977c32a5	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_12/file.01
+603462de32711c4e37eba65108c4ff8fe4877c2347ff03ffcdf05c6888dc9cdd	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_12/file.02
+a53e7e28ec5df48b1fe7cfa1af04505e5f901bab96bd19d31413a08d6ea7c462	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_12/file.03
+c9e7290b6f33f1c6bb7eb6a31b8d2256dccb04301de7d2493ad59a1af6acc0e3	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_12/file.04
+f69f14d2869b528819cd47e649286b798c762363065ec7e8a72da5e13d646e82	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_12/file.05
+53b66a2717826af2368d8852c7aeeb4ff3703630d656382f0d2c6e4114b273ca	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_12/file.06
+86ac4863c1006919e19b0a0e0035dd215484076b60f2fa05f3788423c7887cc7	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_12/file.07
+51cee25bf3345b2578ce0ff71a9c9a7139cdb2808b1580fa8fb28316aaac9923	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_12/file.08
+bce053deac9485c36462f42487ccb3b17c8cbfaabe164283b4c457abc53b81ff	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_12/file.09
+446a92d00bd08287c15dab35ed721692c5a222c8c28cd5722394d8cd383ace11	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_12/file.13
+753c97694319f366fd054fa5469488386be2b3357bb00b28a24a28af50110cda	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_13/file.01
+3b3a33bc7971d6a0a0f3f1a7c97c542a782a9e1ff3ff1c01d54cb7073217bffb	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_13/file.02
+b0c6e1f41814b5e9747ff81e65dc307772ae1561b3368a0b55c7857501485557	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_13/file.03
+d53bfa2bf03b5b36bb09a698741b99309a16e6a7630cfc0be20ef565cda1429d	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_13/file.04
+0bfb2b4418c2a428d04491e41f5aa3f80b93e335ee1298a5aefdc83f90111380	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_13/file.05
+a701b39e949e7f10cda6bea8a18b2e4e43ff97257e470c763c0249a015f103ac	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_13/file.06
+cfb95462629d48c5392db86b3dd0ec077a7367c6bb324aa11dca0ba026141bf9	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_13/file.07
+8a4970adf86745ec68bbc6eaf037e94145258bfafe66b0123d0d4241e0f18fbc	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_13/file.08
+a8017bb8b10a29e1bb20c98def0f056595432f2d370d7fb7b6ae6ceaec40b490	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_13/file.09
+62dbd86355d2b8d361fc53aaaf07cdf0ffc641a4925fb180b9c98dea1c0aaf5b	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_13/file.10
+2a07117b27b73a9469773540555b1cab7c467a0970fef688342daac6de81e44d	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_13/file.11
+1a6e106d98fa1eb2b0534d84e68918056c30d507d1046ec2ced6583ef6f78573	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_13/file.12
+222f66319e5ba0785fc8ad03f5247459b8661bd36e3ccb1733ebad05185a93f5	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_13/file.13
+9a8dd5f2da577b3fa9ff86b3304bb6c255a393e73c54b50c0b1b8e71bb6ac814	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_13/findlove.nv
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_13/findlove.txt
+eff9db2e2a80719f61f458b73bfef1f80b5b43ba76e36be2d9ae20f9b63b6b29	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_14/file.02
+f24f683c65d19b9078671f708729b770fb54beb4054580968e979979c17d1a6a	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_14/file.03
+e92d66c3a2797b4071863fffeae22c21bdf9236a889c4e005447371c47da79af	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_14/file.04
+d9bd86de9e227b9cb3a4050ce47cfe10e92bb38c48039e77a98d313bc0a986a0	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_14/file.05
+a8518de1eb58e0b28a1ef66ea4fdc5f0fd92c707fc03583ce375787ac37326f6	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_14/file.13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_14/finlarch.txt
+cc93a876cb050c27e08d4af0de9931bbd8c12f053f74211f4d3bb0721bc47b7f	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_15/file.01
+a49a91cd69740ac5987b22f10558db818f605aacb34bb1a6bf8ff83a705143b1	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_15/file.02
+389437286df7a213a0b59d1b58f3194e55e7e9ef056164e2589a245c16ab260f	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_15/file.03
+559d343378eab0dcfadb1736558c1e6bdee290e36fc78697477d6486d1212a17	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_15/file.04
+c8d5b312a01f12c9f9bc42abbf22bd66074f53cf57775f81fe8428c397964445	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_15/file.05
+49234977dcd5f01471a6725b848d012e3380d509076bc16644f6522561326816	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_15/file.06
+2142f6808d8101814e902d279246fa86e8d6d1e5b99d907c63286602d0816b6e	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_15/file.13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_15/gaxeduel.txt
+f9f042e01fc1fcfd9e7d43a2563873656cb6ff5a21de2f62612bb78116523f52	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_16/file.02
+dfae4854212a77267c4a71b9729e040776013fa9f6e8975273e40383f00cf0d7	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_16/file.03
+5fc02f3868c6f7f15278e868d22283c0cb952c89e2c741bb4c7799906790d26e	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_16/file.04
+1997caafaf25023196ff440a484c9179505547f455fcfc459582ca2b43086870	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_16/file.05
+59c93098571e9741a7361b23aa3507c58e109e475b6d64da51b7c5f136150e62	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_16/file.06
+d2971ac261ff4f1abf2ecf5bd4c9e316fd2561d937e4c42b225a04de4137aadd	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_16/file.07
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_16/grdforce.txt
+ae9dec5ee454f49586d789788407e93ae8628a9009112bb951220e7d0c4a3c28	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_17/file.01
+e784c78fbf73c5c4132d6f55546dbdaae5382df8af181e1e67bd048e1383edcd	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_17/file.02
+b3a3f85b5656a49ee78115b4a6ffa319cf20e0dcbc5bbb60fcf0f94d37a90676	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_17/file.03
+987e72ccfd354d662e5df87d47ae902d7953764e418d96fcc5ae0eebdb22118e	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_17/file.04
+5a26388230379b52e41a3b6f4b2c42b8d3581d4dd44e50dd4225824423d7d09b	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_17/file.05
+692119dc00fe5689ad298cdbf1dee2949a926b2126ae4aaff83f07f86e6ef371	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_17/file.06
+e218eb2f99bf3c10b280234a4cd8a396dc4c48fd0fafc07e154e37e6948fe1df	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_17/file.07
+1897d289768e078fb308f6c5ee1f1fc242ee0843462937003dd7f3937cfb8121	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_17/file.08
+f4092b63e6ce93187a855495d2489ca3e42e4f2a9af5a3e2f75229178a05ee77	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_17/file.09
+63f7cb993e46dec802986f48a3aaa9048c031ba94db3cc6f474f1975c42b4d4c	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_17/file.13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_17/groovef.txt
+a681ed9bbb979f5706d606f97dbff5d9d6bc80af07e932508a7d7714c1b241f4	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_18/file.01
+6ddda96fbe102c035223608f73ff09e7e24d8bebd0acd3ac468be6a30f9e0727	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_18/file.02
+c0c4663ea6d4cd8765950a19ada3f9b93902176081525186169e42ba4a5e4a18	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_18/file.03
+ade0da4c439ddcfeb0343d9838ab912b586ce6e5231712378e0d0490bfa60624	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_18/file.04
+97c31b10a777968a89867a90f6955a8fc722725d178029e27fee456412cc1a33	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_18/file.05
+dea265cdd62839882aa45631d460886118366a70978553f76cb01f0ac06949bb	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_18/file.06
+75a7b921d752c50caefba8e171495d24336e2d114c7117790071169dd4c86f49	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_18/file.07
+bf5edb282bafc1498e261d8fce461823b61ef772b3e3903387cb296eba1b7386	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_18/file.08
+4e65259b358228e50baca77ba6fc897954f1918f51b46b623d68b249b1a49269	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_18/file.09
+1eba8849a1835f98e5d4c010a194886d11863a2b3420835a58bc46bf33e68002	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_18/file.10
+22f52a1a5ea94889accae2fe7c24d8db3110f23d50680aa08a4715e54b9a2fa9	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_18/file.11
+2e6a8265728d1907d9890b9a1b97e321ac0c5ad5cecc5c7fba8b1cab8afcc968	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_18/file.12
+dcb89083a092acc29b22d891b8ea8a555fc7db6851fe62bf80f3f5d5ac3f6245	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_18/file.13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_18/hanagumi.txt
+5432404af9b5cac88fe95c671680f5687684ae0c0bb4aa95d3eb91fcb4e3fd1f	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_19/file.01
+c879b54da83919dfcee59f45ea11e96f3b2a6fb841e4b2c49bb7585779ba1df5	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_19/file.02
+26b34c57040a364155e1d8f81ad63d163b5e87c1f5cc231dd5fc80e75a046791	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_19/file.03
+1d897fc44863013c5ecae78d10394cae20df785ac48bc53bb5ed3cc941059c40	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_19/file.04
+3326add066f779d0904aecbfacda8521da40946e245cca02240bda103a92ce1d	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_19/file.05
+daccceb1dde027de0612ed3104995fa5244754bd05043f1083dc2ed5c6daf72f	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_19/file.06
+3f2482b92a4377fcfbce0f1e69485dcebfe196271a3737a6780a4dc33d727847	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_19/file.07
+384d099f65ce1e88a971f58fd2e346b8b1c48aee1dce0dc67e717487d2e5111c	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_19/file.13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_19/introdon.txt
+682dfc7ea07a3f0d4a71744ba72bdc702819ad267bef57eaff6552d7d4af7f46	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_19/introdon/epr18937.13
+f6f796f98f7a9e148f292f3c3a8c056c7d9e219d42ad1b92b0de0087c92dfac4	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_19/introdon/mpr18944.7
+d4063ddb53926ed4a1e56fbda55d517d9737f758720adb9f2ee7410d2d501528	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_20/file.02
+d3d2d9fa4a5681311376bb3b57d93776914dd3dba1e2a6420c23eeab8ea22810	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_20/file.03
+f8352f4edc61fdeae28531abfdd9d96882daf9f72c692895e42547e0cf949d5a	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_20/file.04
+c395065d5504d0aa309d46e25f0d2b23a1001eb6058b08d870c8662fe993b276	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_20/file.07
+231f1cfa3eb0d65ea5d23a8cc5ec7582ccada0861fba1b99dba11c4d29952fa5	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_20/file.13
+e355d5ee07920ac857962fd3291040672e5f3728ab38f5312cdec9cb972509e6	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_20/kiwames.nv
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_20/kiwames.txt
+3bedff870008a1b7f989afef237bafeb70cd137d844021cb69d267ac4f213ced	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_21/file.01
+1304d2cccd5946cd090d1aaf41eb3ebfa96c77454331cd73605711e60959b720	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_21/file.02
+9070dbf5dc8700d637cbe3be4d9f4fa77befc6824c048cd3bc426aa26d3199d5	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_21/file.03
+ae4f33fc10b1ae21ab0f9875d161c89d99b6ffb1482b28a3fc28c8bbb011a8f8	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_21/file.04
+8793119a2817ae0a8c2334c0477619fd12ac3a9a2a1f56cdf385915aebac14c4	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_21/file.05
+ee61df58b9693fdd1374b7f51a47b6df86be8d7fb51c62c587471613d67dc9b9	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_21/file.06
+bf2c6c414c4c75ae4e681e6dc10c605d6952f68814d1b49f3363515040dcf0bf	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_21/file.08
+e08248aeb031c847ba5c616e9299a342ef67e291510cf75f0b5b68c2362e3f0e	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_21/file.09
+7865e46b911b8211bf38278d4543197688e27194d2b7346b4f68ae2a113fb2c9	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_21/file.13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_21/maruchan.txt
+e5b6200b5b2dc3c966ce24fcb7a701127e9dc4174c12618d01c333101977b7de	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_22/file.01
+e53708abd38a4d38d9d1d4ac0c5a0cc33e6e596def3b57aa32cd52a557d45fcb	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_22/file.02
+c7d18f6583cef710540f067f844c156cbbd1c9d42f0ed5521e71a83e6237cb70	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_22/file.03
+2adeed4675dbefc597e413b0aa8bcdc9b297beeb11fd50425a12ef9bc264898c	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_22/file.04
+1dccdd4882c16076ad6f5b35db4d1b69816b66443c59676d907d38ad10719544	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_22/file.05
+70d535e65c2fdc2e90968e37d32d1b63599b453bc12bd6c0278ed07600b9384b	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_22/file.06
+48c0d36ffbf2c955a13ad9b6701a45a5d67ae0dc1f27b86db931aecff6b43890	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_22/file.07
+9d1ad04b381377b3a7106a7b1cdfc7b4b7d98a23783fbcce7c0e41c2d89cb2d6	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_22/file.08
+2431944a14be509e8191d3b171d51d2b0bbea3da42743632d6dd044dafe68324	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_22/file.13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_22/mausuke.txt
+5c4b9afa56eb43ccf411cf8ebfac1a65936cd14b5c4837b9f4d35f09b3c15915	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_23/file.01
+0853e4ce89bdde3dc600a2923e64624dcb2e9fea0a87ac6c943b48324a9adf7a	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_23/file.02
+052be48ae09920d616532db32f0fead39b57c0f34dc0c1deb509559bc511ec2c	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_23/file.03
+d9986d22f7b55f920958ca8e33786674942c396e91d40e76bafde8defc983eca	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_23/file.04
+1fb1b573e8b128cdf54c0cea4189bb39b73b700870fda9409b17f56aeaee15f3	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_23/file.05
+ab47befec8c1904ab82ffab38998d88b5877492a652d6b46b2543f301d4dd72d	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_23/file.06
+e6a729caae65c12a767988d0189847ed239aced7d86b8e776d693877492b486d	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_23/file.07
+b1545d3a5819bb466e0822d375518524bec260381a52cb9e5123143e1850763a	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_23/file.08
+75d9ca8a2fd9481c36753add39180435c2251da978adf4dedfbb47daa9d48e2c	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_23/file.13
+0976d0848de869055af6d6a1481c5918821c8a0c962c4ee96edd191fe6c0b5ab	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_23/myfairld.nv
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_23/myfairld.txt
+7f37effa0b84f862c7a911954e40c3b0e95b24a8a7a9a1eae33411236f7a5f0d	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_24/file.02
+6260a3878cf409743cd9450f19935b4c96cd044e427dce171211a503b835f2e5	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_24/file.03
+a27145d39868b83112a6b250bbbaeb911f20c8d65b61c4fc076df7f5c746f1df	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_24/file.04
+32100f2b95a4b30f02313430d3f42f961cff5adf22e733cf4e704275133bf0e0	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_24/file.05
+1c1ef08908ce84bd67535ba0136feced549721238b428aae34a9f011e34bfa61	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_24/file.07
+9673d7f92196699e5875fc6846787e048b69f2516f2f16f7f56bf078b943c747	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_24/file.13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_24/othellos.txt
+796e00edf57ad3fc2367f1d635a53cab1a26be57943b1920b441ebc48f5ef195	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_25/file.02
+c13dc59fe09c44f27b21e4c4569216d9a2ee68ac8875bde5755fae50f41f735f	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_25/file.03
+a9b3162c52fb734e9ea2b88334f7c7d616c145e7e941bca277e47e4eb0c00136	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_25/file.04
+e91d267c66340d48e023926e471625a73dbb3762c475a5903c10ff092135185a	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_25/file.05
+cab6abcf5a3f2d3f4f4e98fb93222b2631c224f280c52bcb2673dd0e03fa6be3	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_25/file.07
+5635c0518d0718f03c11fb789a7616207a3aa10e85cf65fa688c668f1e1e3a53	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_25/file.09
+1839628731ccf7d8af1f3dbd9d02bfaa76722a7e180b879ce961d9fa02131f1a	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_25/file.13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_25/pblbeach.txt
+9649916daac08bce1f011dbf41bdcc30c2ce85b0bc7982b8e909978b10ea0e0d	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_26/file.02
+71adf981edb9a086530237d521a58d4bd8601a450befadbeca1abcaa0ec87714	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_26/file.03
+3230ee0e673c17b9f0195fc2275f873803b425f46be5eccb66a3e91f97adf4f4	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_26/file.04
+513acdf6c250e58b0e6104eff63fecb507e5f79572944339c54213c17851b3a2	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_26/file.05
+dfbc89a78922047a1d799da1f7f32ef35022dd7a74a9e148c8cc94f9df31c96e	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_26/file.07
+a09a5adb03f1bad08052e97d7cdfa1257319349b48d548fe21ef1faeab15529b	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_26/file.13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_26/prikura.txt
+354b49922711048eddbd6bceefb4c2eed9d37baf9215492bf309fb86837fb69b	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_27/file.01
+5e6dcdd19b1f8141925a7f4c6a4df6aa7155a618e625ba248d0d58e5c76c8a20	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_27/file.02
+c62dc6b438f9457343455713707c45138c026907c0a6f8e20e674b1c7a35ac91	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_27/file.03
+7ca1f2bddc1f372f60bf38f474a6a22e4ddc4c2ff6ded3888d4aed8bc6674c8a	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_27/file.04
+59c2c1cb654c6d6b3fa129b1c4fa55b6cd23d046b8332abceb84b4f324550c78	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_27/file.05
+13490af9cb5fa10636fc140771c7b337e7352757a0ef9c65a43f670cf9bbe5ab	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_27/file.06
+c965545d2660ea7b13e39b0fab2f13ea0a8ea4c783e6926e36fa8ba31027642c	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_27/file.08
+0211f5db0c19dbfd045789b01c89af496d835638bb30b240ad90793ab899afff	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_27/file.09
+a652435ceececc9e233860b593875acb8b913e565f5c2322bcda493067354908	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_27/file.13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_27/puyosun.txt
+4cc786c51f44b75bd5a441cf82dddc26679cfe0321c0356f9ebc6db319ad985b	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_28/file.02
+bbd398faf667fbad6957175a651a588fd4669923875487fade673e01e4772c41	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_28/file.03
+49033c4e32ff056fc179edd7a8716904c4d05a3935e75ab97c717ce147761441	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_28/file.04
+a1d5a5a820a2dc34e7d26545c22f37d8b848cdd336ac09de20a1add9daa6e874	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_28/file.05
+c78e3247b32013bd3a397dd62ec69ad6571316c7fbccbb535a5d2a29f9dbab26	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_28/file.07
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_28/rsgun.txt
+79818e6ca31484322d744d086b8f541bcd538c3be9fc916ba0ff35221ffe08f1	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_29/file.08
+09531f9714585ce6e3336bf8fc6aff2b750dc7715c973ce2a668ef9faa1a93dd	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_29/file.09
+11c127a5eb3e86e1b4c97a67e0da7267d669501f8c2668f4dabbecb754ef2071	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_29/file.10
+eb37aae8f1afdc49e6caefb9a1668a08deb617c9ba29bfe358a06487689cddef	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_29/file.11
+1d176b9c77ff3ac8230acc91bb2f34ca432732c72b43c1ef49316d68a884a2f8	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_29/file.13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_29/sandor.txt
+ec9313711746322e9ff1486e7f2c4304fd86d4ef002a0b5d6ce3be6d76408707	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_30/file.01
+aba5aec592eb260e0d83a72fc111529da032688b0883ed99353036312876868a	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_30/file.02
+9885807976829a60022004af5ae1faf189ed442b4bc7b788e0888eee9574db99	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_30/file.03
+ff7ab0f4dbfd472a952de7a1b5fe251fc90c506202bce0b1831e5fd557d10ae8	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_30/file.04
+d8b1ffa49e2affd6c8a9c1fd7023af086fdf40081ec137127112bc187b6048a4	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_30/file.05
+9837856565d9b1c5a605c5793f5ad828baf9a644c16e97c5b5206e513bd8e2fb	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_30/file.06
+60b13403a37dc59040617e43da261df106ee33a9c494c9f3f01e02a0ef2f6147	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_30/file.08
+e913e67bb291ea9fd47682d349e1fe059f66cf0688bf4f9369765c2a5e2ff31d	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_30/file.09
+fe712bdeb0d6658ebb6413ba882abf8a502c5b93e4b27b5b16fc387908297022	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_30/file.13
+6161c68e683bc28e64db0e29baa4569a9d6e48d5816d0784f6c59476ab7d9053	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_30/seabass.nv
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_30/seabass.txt
+897cb0155bba71e70907105aafcdcb0720b6f32d5966ed8c52ecbf55af2d2053	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_31/file.02
+44f9f74c868feb617d9bc2a6857c31d15de998ee04103a221cd30d2c9736be97	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_31/file.07
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_31/shanhigw.txt
+71dd9840de1dd5c2c587e336645b23e4d1d84e6bcd25558dbb1c01f4831b84ee	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_32/eeprom-shienryu.bin
+fe17c05289f0a92427061f9be4d01f338bbdb03a2de9c08c196de1e05641bae8	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_32/file.02
+a8bc46dbbbc0674e517fa99ccb806ae126e3824e5fff151ad64089d184a89102	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_32/file.03
+e29f58a22393dc3262f796b875b2957c66fbce85c75e34ac2f0b5079c163964e	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_32/file.07
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_32/shienryu.txt
+010683d4f5715968120b4d850040cbd9a735062119520c2df2377550f52e41f1	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_33/file.02
+1a49993cc19aa58357d876680fcaf069cc00319acd4d829c002ec4068420068d	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_33/file.03
+1dfb3a74a5fb39116febb2dbd25b3336824cfd3b55a598544d5eaa68e21ce577	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_33/file.04
+8ba1c733f6fa7cf58398ed2d5f70005f2e9d290d5243c16dc7d754fecf7b02ce	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_33/file.05
+c5efa7401220f23eb753bdaac243dc4b8c079aa1d9fff7e1290b31f007644630	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_33/file.06
+c5efa7401220f23eb753bdaac243dc4b8c079aa1d9fff7e1290b31f007644630	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_33/file.07
+c5efa7401220f23eb753bdaac243dc4b8c079aa1d9fff7e1290b31f007644630	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_33/file.09
+c497a868a832da5fb9159e1d7bbb4a1fda4aa8e1a23b7ea11669dd52280683cf	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_33/file.13
+d75b90941a993cd0bb7968c491f96f6037df4ca94ab939a5eada6aa723177f38	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_33/sokyugrt.txt
+8f9ac9abd13ef1bd7b5b54a4baae8b800acae1f35fea5c52dba9b1b9864f2fdf	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_34/file.02
+e44dfac242763d9fd3f28b1f934f6e0dd3a88e921f496177287dc17663fee01b	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_34/file.03
+0ec3a476ca9e97646b89a720320110814f254ee9cc7abb1f576f1a6dd09fd46c	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_34/file.04
+867b62defb44eb1f80b21eae28dd23418439a825636630946b19a54658fc04dd	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_34/file.05
+193d8a8b6c607f4c785b74e036a28f5964f7f9384544dc8d4e8251cd95942663	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_34/file.06
+8fc11603dee83df2dab937f3657bd3faf679b0058ac4b48ac0fc30cd906266af	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_34/file.13
+e7d1141f14cda3faac8586f36d959fbfc47d0b843c25aa810843e1142aa91785	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_34/sss.nv
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_34/sss.txt
+bfb0ce4ad1513b059412b07caf06945c4c0008b764459ae6f4c4c915b2f1f53c	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_35/file.01
+cb3c1ea61aceb23b9d7ab51ea4fb2ea14fd4f23162113f351114a535668fe17c	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_35/file.02
+a05427c1162b732f6527455e41c6286247e38158209cedc169356e7e754bfc5c	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_35/file.03
+5008a9edd71ace22fa13ce70949b4930e954dc23bc31084e64f6c190248fa922	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_35/file.04
+972bb5c5ca14f48e89c3dabb6d22e29e569cc4f5116cfa152ee341b6b7b79e11	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_35/file.05
+3a06a4f21327b2f7d04d724e01e40c5b60eebbabe1379208cbc9b032180aacde	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_35/file.06
+66a07e2913dfc25ab4c4e29d6a34ef82e798a49e84d6db8d2df87beb92aa7fca	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_35/file.08
+9851714f39d7941978ae9824cf7d43d93965507255e768b26b27c4003fbee06d	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_35/file.09
+118fe43213c7605a20acf891161151f1fa49fa9fdead0050dfb56c3b08bbe010	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_35/file.13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_35/suikoenb.txt
+d18b65bd0a0ed643ecb31b15da70f5ec3f22a9571d7e01f23c97309ce1de3af1	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_36/file.02
+94840806901d44d0d1da5fed36f039238e0503e4d6b4fbc883c59c69c2d72c40	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_36/file.03
+78cda826bf201a69b62239d6dfb038c0af2cf66a3136fbd51142042d0b345868	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_36/file.04
+81e8849739119bfb95c0018a3dc99251739a573bd03b86188f6520007a825dfa	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_36/file.05
+5d4c14d2ca6627a188792a414e2cf95dcb913a8636f819e0a3d752283e2480df	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_36/file.07
+443107bde2d0408d5e2274f255276d0cf51758753cd2fed364525cf65f2989f7	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_36/file.13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_36/twcup98.txt
+f69dbe47f8413d39aa9d092092d93f3437c5ac6704334928455acc88c0f720aa	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_37/file.01
+ba62fa21db33fc018dc9daff8991bd3f0d710030c97873a87ede9529a98e55d8	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_37/file.04
+c2c25557baefd366204ad88da4359e9f335b9e631b0c7f78934f587d038b1620	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_37/file.05
+a01fb4de44180f953bb106a078f576e8f32151dec5639a82f47074aeb15f98da	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_37/file.06
+47f48b74dcaa8c3c4307a942e44171c12a7ad8ce3e94ceda9a8165852eaead69	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_37/file.08
+ef82a062767ccb70d4356ce277cf6b3f5dfe9d4c1a118c144b1ee85afda83b33	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_37/file.09
+319bb537ff27b72d4da540234b90774381298cab5b4b40ded21323a5d9f1bf50	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_37/file.10
+6d7e033a292b9485eb2f5ca20776154df0292bdfc76fb45e140226d5070e11ea	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_37/file.11
+6391144fcdf3371e2240b1260a3bab45cf424545372bcb2929e2b826c2372dac	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_37/file.12
+27ec46cf9e45ca620628570ebd89c049a68eecab785e900903213f3c5c42dc46	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_37/file.13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_37/vfkids.txt
+7332496fc02086a7551414f77e49fca4011428ee93251e99717816ccb9b34a25	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_38/file.01
+9228be653b2117cbb532e5264a99f276c26f6da223e1ad92b9f9cb65e0df4923	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_38/file.02
+f4348074bdafa2e361e686b69d6f41be925a00e25defce0bcc51e27be83ef628	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_38/file.03
+929f1fd8de7297a893cbc3703aea8365c2154e0d9bcf3b4f71b1afcc12bcf2c6	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_38/file.04
+7fc3146619ea9d47675a68579570183864473f31fb7a38f4621e4967cd1333c6	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_38/file.05
+646f749b372756bd84fdec3004565890a5c5036fc0d8dc5aa180ad7dcb366b6f	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_38/file.06
+7a0ca13d0ca3407a95e14cd9aff4c34f38348d3a1823927783f03fee15fb9d17	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_38/file.13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_38/vfremix.txt
+ebab3d315f5e0c90c21b0f52bf48c97b32fccc8b29a63aa0d7371f6e7d17f4c2	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_39/file.01
+69c99527bdff1cfa14a98100b85ffd5cff7129b9763dd917787844835db93221	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_39/file.02
+ffed8228db019a6a65faf53d614e3e78fd8e70279cfe8f74de5571b5b5a43fe1	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_39/file.03
+e5bee001356dce18d67d4b0b13d4bae7144ace6c2a4c63a47e165f5ac2005656	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_39/file.04
+99e02924c380d4abe33e543499183b5f45a1848143d1d8f645cf1d412ac23449	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_39/file.05
+b5262ba43b6c121d3cf69adc969513abad4d295b5ac21975d038a7918ffd27ca	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_39/file.06
+de03c632c2a1688e494057e8eabd4350ef716132c795e8a11d5919718721c90b	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_39/file.08
+a29615e3608f1215282496c3b394db3617343d12280c19ad6eaaeba0bcb3667b	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_39/file.13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_39/winterht.txt
+7623bffe0f10054b24d793218a501019247cb95647b06d4c263f8191fbffb8a8	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_40/file.01
+3bbfc3c2977045c62554dad51ad0d01cf96844f39a373790aa0431e2f9b11aa4	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_40/file.02
+fdca332dcba89845fee2ed3ae8ce2e23ece70fa3e36b31e9533baf9ad63b3438	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_40/file.03
+431b9784c35ba20be1a6b53d52ec22f62a92675fb8525601fc950887e054b7c0	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_40/file.04
+6c65c133482d2962ab26be22d20583572957b196d79b858ac3f301ea204bfa27	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_40/file.05
+ff0b34a5c4f07efa0141755677f62ac4572fed14c5356f8375cf69c7cadb26ef	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_40/file.06
+f4dd54bb39bbefd7f88681dcab0e9228c654ab699b0c01535eff77e1e677b8fd	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_40/file.07
+d16b8a5dfa7aebaf57ce77dc96005132da69a73303a0f7e38ef125c010d9e3a9	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_40/file.08
+51189f3663146aff44868c6f3ee26ab38b91c6d20ba1c133f132ce7910a13d50	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_40/file.09
+776de3941e23a9b9bd0ab1917cd5372dce0f4fc589504c4f4e4081f28f2967ba	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_40/file.10
+4939f59b9f3a3ea0e3f9c8e98b829343aba186f1a1d7f7afd00c12f8d9595ddf	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_40/file.13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_40/znpwfv.txt
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_41/ejihon.txt
+9623caccca985dbd10c1e7f1504fe5f39144876d27496df55c08857867deba22	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_41/file.02
+237bc936050d2434944fdd304678d49c97bcc7f34351ac673a02655e9e042fa7	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_41/file.03
+e7bcf28cee24cf4bf0dee1305de0cff6bad2cf827464ffae001c1f0085bd2854	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_41/file.04
+d17455e3aa48f8ebb8f01d466beb00aed47ee6872be9d71e4c69b8373dd1e0a3	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_41/file.05
+5e261d08c1ab3d0b19d183fff4d2e94a730517464bc679fcdb79c4916842f381	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_41/file.06
+e604eb833e01230b81f5727a1196eeeabfdea238c3b23b057dac13e2572e9d6e	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_41/file.07
+e604eb833e01230b81f5727a1196eeeabfdea238c3b23b057dac13e2572e9d6e	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_41/file.13
+f8c11d51d32999bc0810ea366ecf0f0bdbf51dcb90e5ed5d2c7fdfdd589c2d00	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_42/file.01
+7d3d7141e474e603a01b316e4f9e407e065176901c692bf6c0944576e6c36d55	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_42/file.02
+9c5f1b11b58a7bb33d75c56d93ae02383eaa8ac0526d17d34423543bd690fef2	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_42/file.03
+2f148d3021aefce64b3459461b7cdf4fcfe40061bcabf7ed53886550f8b482f8	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_42/file.04
+288acd7085d981ab379d752a07f4a033c27c21d24aeceebdfd1b0f9ff944798e	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_42/file.05
+b495f8c742b6c2f9ebbc57b23cc4743948bf0c04bfc7fdd87ae84d03fd6b3e38	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_42/file.06
+2f6cf84798732c00627d1680736873f49f302549d3818b401dddd0e37f85f09d	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_42/file.13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_42/sasissu.txt
+d582d8391bef4d6d733330d00a5b399d398b85d7f60db39c518c92a87a357979	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_43/critcrsh.nv
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_43/critcrsh.txt
+c5a57abe007097622c1a5002ea29019b8778a6a2640b3cfcf32bcfb20f2f467b	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_43/file.08
+6e9aa7d440ea5703cc4c5b789af1a4ee19f556c7a011cf1531033ce1c9e880b3	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_43/file.09
+d88ce32a428380400809ba005643495d337ff133ba446ae646053c003d1fc571	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_43/file.13
+7360dc63ba91fb954a0325b004f3988e058682cf5232568f894f32de9d093463	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_44/file.01
+ebb961bb0f56b6a18f6ce4cd01dcffe894bb00c5ac61d4ab03973a4499b37e97	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_44/file.02
+c05224146dcd9c63e0e2fea47e969574e582b8d42276c5e52703eefe3ce463f4	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_44/file.03
+520fb7d0bdcc57fc892474ee54b7980998997390f135a71207353bdcc52105e0	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_44/file.04
+d42b1bcff0a1dbfeb82eabf303ef613e4b41f9c3032840ecc5da971e466714e6	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_44/file.05
+b71252845c7b4da4d9da833696892d33b3794b65c34f2fd42e5d6032cafca8bb	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_44/file.06
+a75d290187c9da838b2df77c707e434e286afc1ae2f7ceeab7999d5c6b1b5a01	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_44/file.13
+3e323ade94fda2ee98d7313c6efa56e8a40b3179de76a2dbe62c35c2f9d52f68	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_44/magzun.nv
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_44/magzun.txt
+bd739371982bf636506a1ee23e338dd401297c6982719c5ecc2fa8bb05e58c34	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_45/file.02
+55592544693fb4b60bb5323f5d700aac3ad31e98ce30815f012ac835f2485bfc	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_45/file.03
+2a1aa0a697e2c2fa8a9831d9b517a213498b1b0b69aa1aa086d53c81d07e52af	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_45/file.04
+bb9f8df61474d25e71fa00722318cd387396ca1736605e1248821cc0de3d3af8	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_45/file.05
+640745c256b3a5a163bd106cb482fd5da653d9f7d688ccd35455651032854f66	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_45/file.07
+953c76fbd4cb26158a09c5fdc8f853052657a31433ed11289afbb135f3047d4e	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_45/file.13
+d07596bc28b043820129025b8578c4236db2a607f08d2e82720c58f70161885e	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_45/micrombc.nv
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_45/micrombc.txt
+d04cc9170af74138a18f8bb2d995faab27fcf68d46747065ab0ca0b0a7d068af	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_46/file.02
+97ee4d2755f0f4ac4fda155fad4c3557be081784e47224df54db512828458c82	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_46/file.03
+b829fce3d6c78f1b8224d8028214f71fcac24d31a92e4af9acd27957930c9622	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_46/file.04
+42fb1c0766e8847aa0e8a41490003387017cafdebc1bece52556aa0e0d491f12	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_46/file.05
+f708bb7835f527825a0a77f8f4f363ff517d9d3f2efde79645421c1e92cb5a2b	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_46/file.06
+44c43c42efe0f386b7701cd434282178164186c478feaaf44d0996ba6c76fbea	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_46/file.07
+d7df97db2bce4ff77d652f00c05d67ca215cd74ce4e061539405ff81dfdf039e	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_46/file.13
+a63984ba8758d0e7f39f131e834b03920bfe4f99038e3c2c4fc91bee41fbd131	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_46/nclubv3.nv
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_46/nclubv3.txt
+ecbec25ad282418bded93f5aaea43e36d0f07c1b350eef5d6287d03cf92de098	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_47/file.02
+d829d7005e335915bd7ec5a862bd09cba9cd3229687bc0bb89032a2bd58681a1	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_47/file.03
+67bd96842fa2c084320e2c0108126b293766f6852c658c93378e26a0f4cf2745	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_47/file.07
+f998283a5ce86183ff0383a4be27ca937eb26f274e58c83afbbd7988add56cb1	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_47/file.13
+f26a5135093a7633a024f99b1ae3ff7ef3f3f85cd0dbca8e4f099d0383f7b499	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_47/pclub2.nv
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_47/pclub2.txt
+92b015aae71f3a796023c3342b223b31ad1836d2a3678aac8b8ab35a1d565b8d	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_48/file.02
+8782729697a68f7c41c290153b8ab38769ab0df6e0dc5f16ec39dee78e141c43	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_48/file.03
+16b28aebd07adf0de4b18a79d0c01ba8f9af8bb21bcdec2b2f3835f2456d03da	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_48/file.07
+ca96508bf252cf4629941d54d7a2ebe37d88bffed20ecf967b32caee56dd93bc	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_48/file.13
+1c5ed018d949ea20c182e1f9c66e0f1e030df9e6e8bb8ad65deba3808b9abf9e	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_48/pclub2v3.nv
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_48/pclub2v3.txt
+d051d166b87064fa8468b22d0ae77d4d1a25d04ea3050d148b0b56c3fc9ef8db	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_49/file.02
+54a9f7ff6a4d6007b04eabed8cec949d731866c858a5e6a253a4d506b17ef1e2	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_49/file.03
+f3077f2cbccd50456c80f289a6c51976f3b4f34ee8dcec38116cc2f2b654a5c4	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_49/file.07
+dd38d8af825e0694dbf5eeb9223dd65cd7873833d6b873a4cf91b25c013fd56f	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_49/file.13
+1bd69351ca151e93210d07b590e48b5f5294bd48272b55e0bd334c8f5f936d0f	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_49/pclubpok.nv
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_49/pclubpok.txt
+a32a69b7e5db9a78a3fbbf716fb6313218ae7396cec03195a235a93c44b0304c	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_50/file.01
+06eed3919e628c6d2e585d30a5f3ba4b124fde2284e3ade5bf6997874b001e4b	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_50/file.02
+6aa8e8bdf98b8352aab3d511fd1f77bb7003e3d1bcc1859f80d4a0b9c05495e3	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_50/file.03
+7030858ed7fce474c11588a1a384d2f9a0f5afa4a8ac06126fe0499625631f98	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_50/file.04
+d4a451a2e0e1a59ff589cb189d9c97c59552270494362722682432d7de2aeda4	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_50/file.05
+798cba8aeaaeb217d5b25609e08e6e3f05b55ed2fac6b90cfd5e6323938fe50b	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_50/file.06
+9b9717ff761ed6367fe5ff5348e6a7f859fe886e0b5bc4102e354b502a64ab26	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_50/file.08
+ea0c4966d5d5f45c1640d3ff587564bad30ff7c133fc08a2d4ce36c87ec8c18c	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_50/file.09
+ff20508953b719559e00cda59305bdecd630eb30fe6344b6d1ff2a6880b7559d	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_50/file.10
+35b623f6233d3623be29a45b97286dd7c6f6cd69189f5734b95b9900ce68b224	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_50/file.11
+e149badfa5753cc3c259bf093e00d76504926cfdfcabd06b47c23ddabc00c06f	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_50/file.13
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_50/stress.txt
+0cbc5cfee9e4017ecf300d1069300be65d3ba555ca97a8f5880194c9292731a3	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_51/file.02
+7acb58827ade99fdc2d3e75110fb0a520807344b8cbcfc9ccfd35b7a41ec8a06	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_51/file.03
+9db8227081f931c83b0c596c5d9dd8b60efb17ee89f316dd91fea783d8c6dc0e	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_51/file.07
+88d12d44b707234be9b125ef1a511958e5420fcb4c1b26609a8fa4c4ed196081	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_51/file.13
+734b856386026d409570ce211ba18c29694e009f0a79b092f296fecc09258fa3	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_51/techbowl.nv
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_51/techbowl.txt
+2aa2e3774f351babaedcf9123204909b89bdc93e97e7386e947bae299ca85b60	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_52/file.01
+f929301c07590648e8705cc49c7cc18f99c4824f263614e3e6b4a14dbaab622d	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_52/file.02
+5c67641a6aebfc5e72a16cbcb7540c9efedddf4ffcd29acbe02a1db9a89a7c3a	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_52/file.03
+3cfb7689cacbeaf276f8974945118fc2d26e72c0a6f63243d52748b2e379695c	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_52/file.04
+5e0acc4a6324c62ec978b2e6aeab05cc3b3db752c7ca212848f74daac5b06303	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_52/file.05
+ab62fb6b6b6f74259ccfaea8ee1714bdf26de74060ae6cd11e87b1b536f8d841	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_52/file.06
+a45182ea03f228bc853c8ac0aed197bdf5d9c830c61690e7838d7e0cb3833390	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_52/file.07
+f9fa977211e4be6004ce0fdfae0dbd1cb056f818784c13ae4787f0588d330f3c	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_52/file.08
+931b156b4530c4839f7558232b556efe7d723777cc1c28e7a6252f42e5e536cc	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_52/file.13
+5208e38d6d9ecf761461d8f530456a7cd123228892aaf35376e49db2b9587a54	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_52/vmahjong.nv
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_52/vmahjong.txt
+37b5d5b573b55d9fd5f47aade8210c4c2c37e415ec8ceace396bdd75b6d3ab82	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_53/choro.02
+254232bafe958ec37b45752f16a8e7913d8a918a7f0114baffc9dbb322d71522	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_53/choro.03
+3a76308e8412ad7b5401005414dec50555eaa6e1150f5dc38b32bcb49c9fa994	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_53/choro.04
+cd3517473707d59c3d915b52a3e16213cadce80d9ffb2b4371958fb7acb51a08	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_53/choro.05
+086035c3a028b7015c0f7691f48be51430b7eab1dcfb45a0b7a61c0603e2a2b1	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_53/choro.07
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_53/choroq.txt
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_60/dnmtdeka.txt
+66368b8ac2b1587f82cc781c7ba8cfade4e2c4ed4b7ed3b1ff952c4f65fbecf2	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_60/file.02
+a7600f79385070bfa39b97ae9a2373689dfbd5698a768585042469d4f83e67c0	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_60/file.03
+fa414700e51eeeac588d7d5c3652318e52b626ef463ab40c7b320d6fa729226c	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_60/file.04
+1d13ac0ad57104c6b4ad5566bf713c2bec2c5338d928c9aa6fb675b2167e1f03	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_60/file.05
+beaf348b97069d02e43ca3e664d041a081e9dac4afb7b8ea6808feaa376676ee	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_60/file.13
+75de68a85981faa60dae708e877504a62e0f6ab8bd8ea81953584b26957f403a	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_61/file.10
+721bbfc5d2b9a5035a683c5e8fb7a78277b156f4e8e7f9bf716e3fe6cba624cf	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_61/file.11
+628a4a95248b0249eaf5a8d5822c670f1ad8bcbdf4a41295032ad7bc43e803b3	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_61/file.12
+fd7e4be704ce6c269fc8563fa6ba18288792ec665b3d38db3ed0e94989c0f6e2	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_61/file.13
+582e5971eb11c57bd993ac9cd1526e5d9500764c8f9bc6c999e24eb306ccf09f	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_61/file.8
+5c5c6624d1afc3b02bc1f2d9fbfd5bce14595974d10c7fcca46fc50ff84bdfa1	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_61/file.9
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/games/game_61/smleague.txt
+4f3ade19bc909f6fcd29e1a55890fbfb8ce4218bf6c893a84c4b86ad4043da39	O:/EverDrive/Darksoft STV/@STV Roll-Up Pack/System Volume Information/IndexerVolumeGuid
+34850eda094c3aa73267dab3fd93769e40f7ea7cc317f5078afc72c9396b256f	O:/EverDrive/Darksoft STV/Darksoft Boot Sound Audacity File_data/e00/d00/e0000055.au
+884f4a3b81fcca734142d2d2b4880f4feb8bdab9c6c35a7c7213a4c25c4597e3	O:/EverDrive/Darksoft STV/Darksoft Boot Sound Audacity File_data/e00/d00/e0000219.au
+b055602dc243e0a8a31e524e7d3d623f32a41f6b4517bfa2a2608d92684c1e17	O:/EverDrive/Darksoft STV/Darksoft Boot Sound Audacity File_data/e00/d00/e000063f.au
+607b527de4da538148efacbe5537fde888b85906c741af21e5c2a5dcae65f3fa	O:/EverDrive/Darksoft STV/Darksoft Boot Sound Audacity File_data/e00/d00/e00007b0.au
+beabb828c48b6a7db312747376f37ec96de19e23222ffff3165c6d522c31952a	O:/EverDrive/Darksoft STV/Darksoft Boot Sound Audacity File_data/e00/d00/e0000834.au
+60c0243d267b4822eee23fbe8e6092d3262ca74f712d7b68d1d549f3da2815f3	O:/EverDrive/Darksoft STV/Darksoft Boot Sound Audacity File_data/e00/d00/e0000ac1.au
+2982b21dd5cc504c232aa0eab16acbdfdf9d03a93e3149a5b3afed2f9e3320bc	O:/EverDrive/Darksoft STV/Darksoft Boot Sound Audacity File_data/e00/d00/e0000c1e.au
+59ea33af929a69c9617f92eac6e6bb06e6247310f02d1b5e7b65a6785e5babdd	O:/EverDrive/Darksoft STV/Darksoft Boot Sound Audacity File_data/e00/d00/e0000daf.au
+f72d70224535f1a378156b6856eff96dc024a8b59aa98e6ac4c01c4d78f2d1ff	O:/EverDrive/Darksoft STV/Darksoft Boot Sound Audacity File_data/e00/d00/e0000f18.au
+5b2942d537dc71391e4d389a25f419b110c1b3f43268b077531120bfb9ad5378	O:/EverDrive/Darksoft STV/Darksoft Boot Sound Audacity File_data/e00/d00/e0000f33.au
+13094425a4ed10648bb7346b1c612223af2f0cc8c1af2afba521f8430c67bb07	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Altered Beast  - Rise From Your Grave.wav
+07de9d93b1e3bd240faf103bb721f092b80bfe7222a3ba22d84059890b4d8e94	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Cotton 2 - Castle in the Sky.wav
+efd09d904d9488b761d0ae0f1c4a47a0f27039b34dd0e10fdb64f9f97c6f9e25	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Cotton 2 - Start.wav
+743e41ff812aa281dfd3b7eb0c7008c08bb8b895921a051c03123fe7d58f5fe4	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Cotton Boomerang - Intro.wav
+4a2df60abdc0f8490ebe518ae7c3c927a530b0f60693ca83f6a9b5b3d3b98d93	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Darksoft SMS Jingle 16bit.wav
+8a70009cc64a380c50bcd98cf9eece603af4cb5c12a0369ec05c83a728133f07	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Darksoft SMS Jingle 32bit.wav
+8b82d934cdf8c2282945e2c013cadfe34723de0b9eec7e08f4d3a4e362702391	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Darksoft SMS Jingle v1 32bit.wav
+f62277d393dba2061258decfc02cddfc3c11e2232d1a89476ddd68facde8df6e	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Darksoft SMS Jingle v2 32bit.wav
+25fe9af6fa4cf06eaa5d6064dddb54910162cd2aaa416a0af5bb3868fca286ab	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/end.wav
+834f66b7df10b2096695e33ca680ef58770e598fb05e6e550fabca90ac39bbed	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Ghouls 'n Ghosts  Level Complete.wav
+f64b3a5e2f7cc3678496525b2966abc184c2cd71e7d362362bf13cacccb2f0f5	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Ghouls 'n Ghosts Level Start.wav
+5b546b9138fa03addbbb1baa4b4782905d66438f09347367e09de02ab1992dec	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Ghouls 'n Ghosts Menu.wav
+25fe9af6fa4cf06eaa5d6064dddb54910162cd2aaa416a0af5bb3868fca286ab	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Hawking - Auto Reboot (end).wav
+f78d78af09c51f0e8937902e38e2ecad1acdb25d45d6ff463d4422d4514c8856	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Hawking - Darksoft.wav
+7bb9fcbf4c83cceb3fd2a25b9ffeedb60b7a83efb74e89b7e790ccb6beab4136	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Hawking - Game Loading (start).wav
+600e82b08d711c11c8917fa47e50c5a651e1a2dd3dde1d8e98b931e2dfd07d2f	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Hawking - Manual Reboot (end).wav
+380ce2da2031cadbdb9322accf74ad0074562021784c92dc1195ec3576f03067	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Mega Bomberman - Battle Start.wav
+0f05cc3192929c0a6099698c093fec795a4efc3494dce69ff3fadfcd27a33890	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/MUSHA - Puyo Puyo Bonus SE.wav
+9d8a9cf49e39aa28b77aea2faf2ec76a9d66f297c48cbeb771366b195f8020e3	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Puyo Puyo Tetris English Sega.wav
+a6c8c79dbab2aeb4ea17162c42cbd4c6b64d298093f6b7091ebe7be180353d82	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Puyo Puyo Tetris Japanese Sega.wav
+09b91ee481c4111bb49d1cfbb86d146803d17fa5ea12618cf92b97d9d158fbf5	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Radiant Silvergun - 01 Quickening.wav
+4fe164d5832afb847bb2e03803b8db3ace12e39725bb5c1fd8450ba6002ce91a	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Radiant Silvergun - 02 Return.wav
+89af6f75904f0b036341065d16d8fd21bc7f14f18ae3a394ca8c961d977e826b	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Radiant Silvergun - 05 Origin.wav
+22c2da38302b4f949819e820ea2189470901f4fec2d93d72f272d19e727db6fe	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Sega Dreamcast Boot.wav
+6594bb62f06b34ebeeec586533295cebd9f3ba06217015b39d176928483bc9c9	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Sega Logo - Battle Mania.wav
+37ace53c745442e98b9c41eb80960e808cbd5b27b4b8c8ce85f6464d6d9cea70	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Sega Master System Boot.wav
+97371cf36d9e776d17d7cd6e0bdebe314d8adcd6a5a3e7d729eab1df1ff3188d	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Sega Megadrive Boot.wav
+dc80ab9527b46727baa1f889c02d9b220fdf1b88e47a8306742d7b7141d2193f	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Sega Saturn Boot - NTSC 2.wav
+6e5d9ab676eff31e3817ef5f8c102e67eeb28e4654a1a34a61a86e428703bd32	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Sega Saturn Boot - NTSC.wav
+3d5d2afb04486601e442d176231583128a7e1e260e35f497ada429f78ae47970	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Sega Saturn Boot - PAL.wav
+d5a65dae99705a6f009222362bccf147cfb3b7534a6c6fafe5cd408e659b3839	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Sega Scream.wav
+094555acd15b823ba6839ac38107f194c52156c3539863ebdcbfc85e7bd36dac	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Segata End.wav
+094555acd15b823ba6839ac38107f194c52156c3539863ebdcbfc85e7bd36dac	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Segata Long.wav
+e45e06c79e35456003bf8735bb66884104178e2e79ee0d038dd8b5f1f9a01a96	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Segata Short.wav
+4bd9e60bcf4e9ef99a34e6498d65b762637e2718a3ffe8e3bbcbd9252b31f7a6	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/SFX Coin Credit - sgtpepperarc360.wav
+cf5016eba73813212d046373fa833902d01d5ff8a5fb4d9b2eadcfeb7b3fc6ac	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/SFX Deep 'Sega' Voice - deletecookies.wav
+77a4e11e879870d40d20800394f00aa4e00aa00873b1a1be9878ded1f8e5e44e	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/SFX Retro Bonus-Pickup - suntemple.wav
+2719c80cdcdccf5c744d9df99cef04fcc08db7d003e2418d3fd3ee7737ad71cd	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/SFX Startramp-1 - dneproman.wav
+0bf569f911de30ce131e66fe97090a525624c26e85f0185577bc6b2a62146f0d	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Shienryu - Intro 2.wav
+a4d29b16e261d15cfaa87d589022a282bd7d0c9519305583facda15123fbfa96	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Shienryu - Intro.wav
+ce0b8118bc244eaf7ee192c0b2104d56e4f26fc9bd2bf72c90615cdf7c81e5a0	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Shienryu - Stage 1.wav
+97371cf36d9e776d17d7cd6e0bdebe314d8adcd6a5a3e7d729eab1df1ff3188d	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/START.wav
+0e173ce987c9806a300a6a200b4912ae09593a8b4af0efaed390b9eb530e7988	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Street Fighter Chun Li Kick.wav
+485a98ed32cbd14619899449f1c0bc6ec876a11bc83512b04cb69111d31bfeea	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Street Fighter Hadouken.wav
+0c0a1cf1cc79c1061fd2c840159bafef4eed53d1a78e1552d66f430b373bac56	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Terra Diver - Above Ota City.wav
+126ea0136bf717bdd98f722c44ef3c62368402e73a630faee4b1e7861f16dc49	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Terra Diver - Assault Akitaka-kun.wav
+862a456f87a3d7f1b174360b38b6b1a26edd7c9ad631563799a6bdadd897f84b	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Terra Diver - Bakuzan, the Ammo Dump.wav
+8402a1c306d14a77470d30da63deafbe19bf11a5ac280617dac317ab078b6180	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Terra Diver - Finale and Retirement.wav
+2f4898f1443615bcc3707cb611ff492e690b5fee624f1a059314bb904dc7e156	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Terra Diver - On the Satellite's Orbit.wav
+5c90a37f165abacee35c45b6fa3986c7bc85f033afc0652cb9004dbac06eb4cf	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Terra Diver Chime Sound Effect.wav
+677145c7794836f53b103843ae9f4469f26caf6252d22e7ffa42e98417edc6c7	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Terra Diver Intro.wav
+36478648b9aab4fa6573be4572cd1fa6902e901368f9cb9772346d7906b57e95	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Thunder Force III Stage Clear.wav
+bd0ec7de71c3cb773361123bbdbd172c4819c2bc3137b3ee14af21be2c706229	O:/EverDrive/Darksoft STV/My HQ Boot WAVs/Ys III Get Item!.wav
+7578329c30ab62f0015cff6bfbcc4b9ae4285dea52aacc9e604b0fa066f420b9	O:/EverDrive/Darksoft STV/Original Art/1axresdefault.jpg
+46ad96b123a673a0891e9ad9eec1237e34edb8d53c2c7bc5852048aec3b5d737	O:/EverDrive/Darksoft STV/Original Art/3maxresdefault.jpg
+83626472f7db5d2d370270cd9c9374bc93d1d87bbddebd48db3c93a7df5f5401	O:/EverDrive/Darksoft STV/Original Art/3maxresdefault_blue.pdn
+c4bf9eb2dfcdffa87bb1d84eebd3f601f796bce304ba8f4b2ba457ca6ef73d1c	O:/EverDrive/Darksoft STV/Original Art/Darksoft Vector Logo Long.pdn
+db6c2aacc5302d696685767f455f1c2e346dd5ee7b1758868025f1d5a936f932	O:/EverDrive/Darksoft STV/Original Art/Darksoft Vector Logo.ai
+b67f4020b75760b52fac2958f602718c437bd93b32b29d6e8f12c9b6f19def31	O:/EverDrive/Darksoft STV/Original Art/maxresdefault.jpg
+e1c0f8752106b8dfaab9e2ab001ff4ef0356c0093ed8627a4e977966a8b7c332	O:/EverDrive/Darksoft STV/Original Art/NiseAstroCity.TTF
+44cbb205593e403ecda61e2bdae2f125795f8a32d3473e53ec88aea050472803	O:/EverDrive/Darksoft STV/Original Art/NiseSegaSaturn.TTF
+e7d46fda60a3ed2180b17fb09b959cf9c4fbc605f2c9270e8c458e707fa1d743	O:/EverDrive/Darksoft STV/Original Art/NiseSegaSaturnU.TTF
+2cf9c0d51e0c63ca4bd0fa6d70da951aa9798c5a2e1c80e6606df89124bf2675	O:/EverDrive/Darksoft STV/Original Art/STV Mike.pdn
+1597f64da786f12ed91aaa8a88a49cbc47628f14d0bfa40d33d0501b04c657db	O:/EverDrive/Darksoft STV/Original Art/STV Mike_transparent.pdn
+f13cd1ada98614d339b5c56c4fd1bc22e326803cd3cc587bf7c5eebcc57dda60	O:/EverDrive/Darksoft STV/Original Art/Stvlabel-darksoft-blue.jpg
+e12ec11257a58c3b74eaa86895321a3a3665835554c248f8c648dd6dfd545e7f	O:/EverDrive/Darksoft STV/Original Art/Stvlabel-darksoft-blue.pdn
+298ac339a4cdf926e66cb7c48b3d75b3ec5163d4e7dc11ee206e65b9130c4455	O:/EverDrive/Darksoft STV/Original Art/Stvlabel-darksoft-blue_2.pdn
+4fc8cd197248d0ff737726d6b8ea36923cc3ede7e38f7075232ff883b106a7e5	O:/EverDrive/Darksoft STV/Original Art/STV_logo.pdn
+8c15e5cd2fa565156c809f251f156cd41fb67c4a951bb4e622c4de0505848936	O:/EverDrive/Darksoft STV/Original Art/Thumbs.db
+d21aabccd09d444bfb42dfe5b5ccddd60428bb2c0c7d157174a83774dd9484aa	O:/EverDrive/Darksoft STV/Soukyugurentai-Terra Diver OST - Scroll for the S.O.Q. [OPENING-TITLE DEMO]_data/e00/d00/e000007c.au
+14d3108088c8c62b7ae8aec47a79e92529ba7b5275fc32b9ae9355d17ee54a28	O:/EverDrive/Darksoft STV/Soukyugurentai-Terra Diver OST - Scroll for the S.O.Q. [OPENING-TITLE DEMO]_data/e00/d00/e0000172.au
+813de70b5b21c0c6884324b08f74949fb2334e7194c888204240137db62ec0f0	O:/EverDrive/Darksoft STV/Soukyugurentai-Terra Diver OST - Scroll for the S.O.Q. [OPENING-TITLE DEMO]_data/e00/d00/e0000754.au
+1f1fa71d0b3e1acd574d167f91832edd0a552c856636a91b7586c78415823e50	O:/EverDrive/Darksoft STV/Soukyugurentai-Terra Diver OST - Scroll for the S.O.Q. [OPENING-TITLE DEMO]_data/e00/d00/e0000e45.au
