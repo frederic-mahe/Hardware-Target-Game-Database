@@ -47,15 +47,16 @@ def parse_folder(target_folder, output_file):
     read each file and produce a hash value.
     """
     # list folders to exclude
-    banned = ["/MEGA/", "/EDMD/", "/EDFC/", "/EDGB/",
+    banned_folders = ["/MEGA/", "/EDMD/", "/EDFC/", "/EDGB/",
               "/SYSTEM/", "/PALETTE/", "/PATTERN/",
               "/SPED/", "/TBED/", "/TEXT/", "/SNAP/",
               "/sd2snes/", "/sd2snes Themes/", "/Firmware Backup/",
               "/Images/", "/Manuals/", "/System Test Images/", "/menu/",
               "/_PREVIEW/", "/Documentation/", "/SOUNDS/", "/ED64/",
-              "/SAVE/", "/AUTO/", "/CPAK/", "/GBASYS/",
-              "menu.bin", "OS.PCE", "FlashBoy 2010-11-02.exe",
-              "FlashBoy Manual.7z", ".png"]
+              "/SAVE/", "/AUTO/", "/CPAK/", "/GBASYS/"]
+    banned_suffixes = ("menu.bin", "OS.PCE", ".exe", ".7z", ".png", ".zip",
+                       ".jpg", ".ods", ".odt", ".dat", ".sto", ".pc", ".db",
+                       ".ips", ".bps", ".asm", "Thumbs.db")
     with open(output_file, "w") as output_file:
         for dirpath, dirnames, filenames in os.walk(target_folder):
             if filenames:
@@ -66,8 +67,8 @@ def parse_folder(target_folder, output_file):
                     # convert to Unix format by default
                     filename = filename.replace("\\", "/")
                     h = hashlib.sha256()
-                    # exclude certain folders
-                    if not any(s in filename for s in banned):
+                    # exclude certain folders and files
+                    if not (any(s in filename for s in banned_folders) or filename.endswith(banned_suffixes)):
                         try:
                             with open(absolute_filename, "rb", buffering=0) as f:
                                 # use a small buffer to compute hash
