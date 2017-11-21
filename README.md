@@ -38,13 +38,16 @@ of unorganized files to match an exact layout.
 
 `-m` is the text file that will list the ROMs missing in order to reach the 100% mark
 
-Depending on your Python installation, you may need to begin your command with the location of python.exe "C:\XXX\python.exe"
+Depending on your python installation, you may need to begin your command with the location of `python.exe` (for example, `C:\Users\XXX\AppData\Local\Programs\Python\Python36-32\python.exe`)
 
 ## Requirements
 
 [python](https://www.python.org) 3.5 or newer
 
 Linux, MacOS, or Windows
+
+(Linux and MacOS users might need to convert the script and SMDB files
+first with the command `dos2unix`)
 
 ## Coding
 
