@@ -15,7 +15,7 @@ The build_pack script takes the SMDB information and organizes a set of unorgani
 
 -o is the text file that will contain the hash values, filenames, and folder structure
 
-Depending on your Python installation, you may need to begin your command with the location of python.exe "C:\XXXXX\python.exe"
+
 
 **build_pack.py** For building a pack based on a pre-made SMDB
 
@@ -27,6 +27,10 @@ folder for rebuilt pack" -m "C:\XXXXX\Missing.txt"
 -o is the folder in which to build the ROM pack
 
 -m is the text file that will list the ROMs missing in order to reach the 100% mark
+
+* Depending on your Python installation, you may need to begin your command with the location of python.exe "C:\XXXXX\python.exe" *
+
+
 
 **EverDrive Pack SMDBs** For building your own Packs from collections of unorganized files
 
