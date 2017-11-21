@@ -38,7 +38,10 @@ Linux or Windows
 
 ## Coding
 
-Scripts & code by @frederic-mahe
+Scripts and code by @frederic-mahe
+
+https://github.com/frederic-mahe
 
 EverDrive Pack SMDBs by @SmokeMonsterPacks
-## 
+
+https://github.com/SmokeMonsterPacks
