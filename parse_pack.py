@@ -48,12 +48,13 @@ def parse_folder(target_folder, output_file):
     """
     # list folders to exclude
     banned_folders = ["/MEGA/", "/EDMD/", "/EDFC/", "/EDGB/",
-              "/SYSTEM/", "/PALETTE/", "/PATTERN/",
-              "/SPED/", "/TBED/", "/TEXT/", "/SNAP/",
-              "/sd2snes/", "/sd2snes Themes/", "/Firmware Backup/",
-              "/Images/", "/Manuals/", "/System Test Images/", "/menu/",
-              "/_PREVIEW/", "/Documentation/", "/SOUNDS/", "/ED64/",
-              "/SAVE/", "/AUTO/", "/CPAK/", "/GBASYS/"]
+                      "/SYSTEM/", "/PALETTE/", "/PATTERN/",
+                      "/SPED/", "/TBED/", "/TEXT/", "/SNAP/",
+                      "/sd2snes/", "/sd2snes Themes/", "/Firmware Backup/",
+                      "/Images/", "/Manuals/", "/System Test Images/", "/menu/",
+                      "/_PREVIEW/", "/Documentation/", "/SOUNDS/", "/ED64/",
+                      "/SAVE/", "/AUTO/", "/CPAK/", "/GBASYS/",
+                      "/ntm_firmware_ver"]
     banned_suffixes = ("menu.bin", "OS.PCE", ".exe", ".7z", ".png", ".zip",
                        ".jpg", ".ods", ".odt", ".dat", ".sto", ".pc", ".db",
                        ".ips", ".bps", ".asm", "Thumbs.db", ".txt", "*.mso")
