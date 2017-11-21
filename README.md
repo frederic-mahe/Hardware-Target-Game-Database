@@ -28,7 +28,7 @@ folder for rebuilt pack" -m "C:\XXXXX\Missing.txt"
 
 -m is the text file that will list the ROMs missing in order to reach the 100% mark
 
-* Depending on your Python installation, you may need to begin your command with the location of python.exe "C:\XXXXX\python.exe" *
+* Depending on your Python installation, you may need to begin your command with the location of python.exe "C:\XXXXX\python.exe"
 
 
 
