@@ -7,7 +7,7 @@ paths and hash values.
 
 __author__ = "aquaman"
 __date__ = "2017/11/17"
-__version__ = "$Revision: 3.0"
+__version__ = "$Revision: 3.1"
 
 
 import os
@@ -62,11 +62,7 @@ def parse_folder(target_folder, output_file):
                 for f in filenames:
                     filename = os.path.join(os.path.normpath(dirpath), f)
                     absolute_filename = os.path.abspath(filename)
-                    try:
-                        os.path.isfile(absolute_filename)
-                    except FileNotFoundError:
-                        print(absolute_filename)
-                        sys.exit(-1)
+                    os.path.isfile(absolute_filename)
                     # convert to Unix format by default
                     filename = filename.replace("\\", "/")
                     h = hashlib.sha256()
