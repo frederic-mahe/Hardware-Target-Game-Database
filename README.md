@@ -15,36 +15,30 @@ of unorganized files to match an exact layout.
 
 ## Tools Included
 
-**parse_pack.py** For making SMDBs
-
-*Example command*
-
+**parse_pack.py** For making SMDBs (example command):
 ```DOS .bat
 "C:\XXX\parse_pack.py" -f "C:\XXX\Folder to be parsed" -o "C:\XXX\SMDB.txt"
 ```
 
--f indicates the target ROM pack
+`-f` indicates the target ROM pack
 
--o is the text file that will contain the hash values, filenames, and folder structure
-
-
-
-**build_pack.py** For building a pack based on a pre-made SMDB
-
-*Example command* "C:\XXX\build_pack.py" -i "C:\XXX\Folder with unorganized ROMs" -d "C:\XXX\SMDB.txt" -o "C:\XXX\Output 
-folder for rebuilt pack" -m "C:\XXX\Missing.txt"
-
--d is the SMDB file describing the way your ROMs are organized
-
--o is the folder in which to build the ROM pack
-
--m is the text file that will list the ROMs missing in order to reach the 100% mark
-
-* Depending on your Python installation, you may need to begin your command with the location of python.exe "C:\XXX\python.exe"
+`-o` is the text file that will contain the hash values, filenames, and folder structure
 
 
+**build_pack.py** For building a pack based on a pre-made SMDB (example command):
+```DOS .bat
+"C:\XXX\build_pack.py" -i "C:\XXX\Folder with unorganized ROMs" -d "C:\XXX\SMDB.txt" -o "C:\XXX\Output folder for rebuilt pack" -m "C:\XXX\Missing.txt"
+```
 
-**EverDrive Pack SMDBs** For building your own Packs from collections of unorganized files
+`-i` is the folder containing the unorganized ROMs
+
+`-d` is the SMDB file describing the way your ROMs are organized
+
+`-o` is the folder in which to build the ROM pack
+
+`-m` is the text file that will list the ROMs missing in order to reach the 100% mark
+
+Depending on your Python installation, you may need to begin your command with the location of python.exe "C:\XXX\python.exe"
 
 ## Requirements
 
