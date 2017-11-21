@@ -1,165 +1,164 @@
-f13e67dcd1e469dd043c449320fd97aa6adc865285d814dc0bcc242a9706df33	O:/EverDrive/Vectrex/Vectrex Pack v1.1.7z
-53ee6d6dff80f1bd423e99b8f524ef44ee94ac6e5cebc47e98d6c8159b857e07	O:/EverDrive/Vectrex/1 A-Z World/3D Crazy Coaster (USA).vec
-18ff7782a7cc5c529db4d18f7c9824d82e70713c8eef369268c47e16134c3e16	O:/EverDrive/Vectrex/1 A-Z World/3D Mine Storm (USA).vec
-8e02392a44073b79363726f0b5ac815e402312d911b3e8e93ef2445e4f017597	O:/EverDrive/Vectrex/1 A-Z World/3D Narrow Escape (USA).vec
-ca2fca8757ada3d6b4702bc52ab407e657153e3ae552ce6bc90723931c3a2d03	O:/EverDrive/Vectrex/1 A-Z World/AnimAction - Advanced Animation (USA).vec
-bdfd09c8add35a297bb7af041f84a578958a652c275770eee188b9b98645615c	O:/EverDrive/Vectrex/1 A-Z World/Armor..Attack (World).vec
-fe50f564eddd26e61cfd9ec315402054a9bfebe0686212b1c3602fc7bd35e02c	O:/EverDrive/Vectrex/1 A-Z World/Art Master (USA).vec
-412db12b047786969f19314c634d0e9b9cccc532a05a0029829740853f7a1373	O:/EverDrive/Vectrex/1 A-Z World/Bedlam (USA, Europe).vec
-4a6e422e0ddcdad1a37671681664cccbce976db11ae3f6ac360db4498d17c5e2	O:/EverDrive/Vectrex/1 A-Z World/Berzerk (World).vec
-f3f06f0edf2aa77cda866d9104aa75b1996cd8f4c4614fef19f3f3d29d306ffd	O:/EverDrive/Vectrex/1 A-Z World/Blitz! - Action Football (USA, Europe) (0F11CE0C).vec
-029e76b7d20385b8a2933bb35d4a98ba0472fbf7a9b07583180a3ae38c7b1004	O:/EverDrive/Vectrex/1 A-Z World/Blitz! - Action Football (USA, Europe) (881B27C5).vec
-5e4d4095a7faef4cfd947f17efdafb64fb152e480b907d14bb5f4397ef20dd57	O:/EverDrive/Vectrex/1 A-Z World/Clean Sweep (World).vec
-a79f701000840ab5f9481a3cef9c0ec0a4adcf75ae04eaa4503d5067f0b2c354	O:/EverDrive/Vectrex/1 A-Z World/Cosmic Chasm (World).vec
-4c775e5fa601fea0105392d8bac2004987c62376f4c66e6a1c25fd45417622af	O:/EverDrive/Vectrex/1 A-Z World/Dark Tower (USA) (Proto).vec
-a242815eb121780cc3dfba54465e108cb45d5b566dba022012469fae0d31489b	O:/EverDrive/Vectrex/1 A-Z World/Engine Analyzer (USA) (Proto).vec
-315ecd40a2c909ef3a7a6f8e50a58f9273c5110807085324a0af285265a4b688	O:/EverDrive/Vectrex/1 A-Z World/Fortress of Narzod (USA, Europe).vec
-300cc2862af3c8a5958de085c3387d131a8f41e1ddc1b5b367ed66b7cd6bf9f6	O:/EverDrive/Vectrex/1 A-Z World/Heads-Up - Action Soccer (USA).vec
-9c548e5e9c042ebb72bf369516c1d87d3460a7ed10ba01662e6ffd00719a5947	O:/EverDrive/Vectrex/1 A-Z World/HyperChase - Auto Race (World).vec
-e5af41c68594a2b4881bfcccd2775a809905bab5e04aea56dfb43fecdddcdefa	O:/EverDrive/Vectrex/1 A-Z World/Mail Plane (USA) (Proto) (05838962).vec
-5c855d370265aa3b3f4527ecd017a54e84cfca30ca1312734c175df22ccbbbce	O:/EverDrive/Vectrex/1 A-Z World/Mail Plane (USA) (Proto) (DA1AC0DB).vec
-ba9645c45cc7d41e891cbcbb16ad62fe19f1140b87097c9233c1c58fb5f20f94	O:/EverDrive/Vectrex/1 A-Z World/Melody Master - Music Composition and Entertainment (USA).vec
-4f995decc083ca50812010141e276f349d0193f6c77b02e65b13b6eddce45c5f	O:/EverDrive/Vectrex/1 A-Z World/Mine Storm (World).vec
-0d752971f8947db8a740fba8e88cee4c2becded4a6833609cf23e4570354b653	O:/EverDrive/Vectrex/1 A-Z World/Mine Storm II (USA) (Rev 2).vec
-80f89e0445d8dc311139298caa4a451fd538fd1df844ad0a48ee56eeb0049930	O:/EverDrive/Vectrex/1 A-Z World/Mr. Boston Clean Sweep (Europe).vec
-4e4d01add301dc6c186ef09442547d26eca243b3f67ea8a22091dcedb06dbc6b	O:/EverDrive/Vectrex/1 A-Z World/Pitcher's Duel (USA) (Proto).vec
-2921150e808b5543a0ee2d0378954a501546a842f33f21a04934180fe847cf31	O:/EverDrive/Vectrex/1 A-Z World/Polar Rescue (USA) (Beta).vec
-35baaf2d0ce06e0853590f5c305989ca660f9bbbd813ca59cf60f2cf3f4d2f95	O:/EverDrive/Vectrex/1 A-Z World/Polar Rescue (USA).vec
-c3f2947aadcb0ec04a53999c253a931aa7a13ad0483753b57efa422242190109	O:/EverDrive/Vectrex/1 A-Z World/Pole Position (USA) (A00ED3D6).vec
-913f68afae13064cac3604b500a537226129c48ac9c213badb86b84b5d69d118	O:/EverDrive/Vectrex/1 A-Z World/Pole Position (USA) (C10F37D8).vec
-7a6a03ea3046c9fd5b25961de5d96919fc02cd7777972a38339d2823c793b750	O:/EverDrive/Vectrex/1 A-Z World/RA+A Spectrum I+ Stress Tester (USA) (Proto).vec
-028fbe617dd8a6f861008ae97ba6a52ca133f5a1e3ea717ac9f85e17ac1fa359	O:/EverDrive/Vectrex/1 A-Z World/Rip Off (World).vec
-c28338139608ff202ad69210db049f5dd9d2fe9298c19ca53af79e2c61ff29ff	O:/EverDrive/Vectrex/1 A-Z World/Scramble (USA, Europe).vec
-8c93225c03a865e9c1cfbd5e90dd91c0ce7dd742469bc54b196134c88690ccda	O:/EverDrive/Vectrex/1 A-Z World/Sledge 3D (USA) (Sample).vec
-3c330d35beef9ad98f80f06dce4ca85b0a8aeba916fe1af6ace47d7f22a7be4f	O:/EverDrive/Vectrex/1 A-Z World/Solar Quest (World).vec
-df9fae1ca9eae8bd2823002b17cdf9e48cbc7bc70a3f6efa8d98c9a82de63651	O:/EverDrive/Vectrex/1 A-Z World/Space Wars (World).vec
-fb181fbd73f853b29e465a99dfdb2a0c50e1c135c10838eae4f4d719e3f9a7d0	O:/EverDrive/Vectrex/1 A-Z World/Spike (USA, Europe).vec
-95b017cd04ce695ec8bcf49b07670891dc1367dbe25c24b30b0befa5d4f77a8c	O:/EverDrive/Vectrex/1 A-Z World/Spin ball (USA).vec
-bf3ab118f2157e08af1cf86adfcc9873d2f745fe848c1c3475554189c628269a	O:/EverDrive/Vectrex/1 A-Z World/Star Castle (USA).vec
-7a6cb40998da5e16d25574ce86e61432f23af3055ac9293f9ab59166974f1a6a	O:/EverDrive/Vectrex/1 A-Z World/Star Ship (Europe).vec
-4951861253eed45f0c02f76c5543e5f702c5b9014126aa0285b606fee3b93d2b	O:/EverDrive/Vectrex/1 A-Z World/Star Trek - The Motion Picture (USA).vec
-892bf7f74397b9bb6b3a371e86de6bf6f7863ca358a661e79cec0ee03d1e2ce3	O:/EverDrive/Vectrex/1 A-Z World/StarHawk (World).vec
-39ec9e79718a1c1203b253bff7a144691009808cc42fb7edf4400f538664e7f1	O:/EverDrive/Vectrex/1 A-Z World/Test Cartridge (USA) (Rev 4) (Proto).vec
-d8a61ba96051bf5e82da2f098ddb4c6879918848bb5be0c823113174f6ed57ad	O:/EverDrive/Vectrex/1 A-Z World/Tour De France (USA) (Proto).vec
-57ced92fb0646aa4e0ccf1a03ac1d8d001a48f9ebef9b719d4812dde2ec6f19b	O:/EverDrive/Vectrex/1 A-Z World/WebWarp (Europe).vec
-603f19bb8b486aa72853d1fd0b18de2d1efc9ee8a98f8e4d3927d727228bc689	O:/EverDrive/Vectrex/1 A-Z World/WebWars (USA).vec
-d699ad9a65ad301300fe68af9fd66b2e4cab63ad51dbf07b5b6e0ed6e575851a	O:/EverDrive/Vectrex/Demos/'NO' Sound by Chris Salomon (1998) (PD).BIN
-d3294042e59f72968d58a63e321a56c18af4648e201679d385dfd8e88b99e824	O:/EverDrive/Vectrex/Demos/0ldsk00l Demo by Manu (2002) (PD).BIN
-65b6eca4c697cf2be2ec317b22e480879f5a268b88628db2204d989b150211c4	O:/EverDrive/Vectrex/Demos/3-D Demo by Chris (Mar 08) (2000) (PD).BIN
-5a0c655250ec1b82e6d10b2a38a38d5d517e0366208325c7e065e30fa8018063	O:/EverDrive/Vectrex/Demos/3-D Scrolling Demo by Christopher Tumber (2001) (PD).BIN
-181a236aa9aeb29dbac6c2d494bbfb09cb8a4fd70a93e23ca9e5fed78adce86e	O:/EverDrive/Vectrex/Demos/4-D Rotating Cube Demo (19xx) (PD).BIN
-fd16a366d63953961770023fea5726a62f3253c913157d7a4bda43c1731303e8	O:/EverDrive/Vectrex/Demos/Abyss Demo (1999) (PD).BIN
-4766cbe057251788f63c5d68d799e31703d265fa57cb1992b786562ecb4a8e83	O:/EverDrive/Vectrex/Demos/All Your Base Demo by Manu (2001) (PD).BIN
-2042b52d029434b67198f0801713973f81d3f8c3daf6cac8dbc89c74f8dd1fcb	O:/EverDrive/Vectrex/Demos/Alpha Demo (2001) (PD).BIN
-ad36787a4f4b1628765ca6af5f92f1548c019df12ac2e36e48b03e555966d084	O:/EverDrive/Vectrex/Demos/Amen Break Live (PD) v1 binarystarsoftware.BIN
-88d0f9654e1f6d01b4c71b16a30b322155a1eb1df3b9f81cea95ce57b6d3705b	O:/EverDrive/Vectrex/Demos/Animation Demo by Manu (2002) (PD).BIN
-94b431f98dc510dc4f3e0e61e71e1d2391db05a67c4e2a5e0e05ef8efec569a1	O:/EverDrive/Vectrex/Demos/Arkanoid - Revenge of DOH Sound by Chris Salomon (1998) (PD).BIN
-4d50f9419cb025baafcdf7c7673f8d5a796286f6a86c70bf942561eab2af5b09	O:/EverDrive/Vectrex/Demos/Battlezone Demo by Christopher Tumber (2001) (PD).BIN
-4bfc3d073e9630c85db934a2f4290fbaf2eec93280a715547ce7e8b8c82a75c3	O:/EverDrive/Vectrex/Demos/BB2 Demo by Manu (2002) (PD).BIN
-bc81f6e979e958bf9b771a84c8cb2e9e0364d275037d038a7dff5fcdca0c341f	O:/EverDrive/Vectrex/Demos/BCor-FTS Demo by Clay Cowgill (1997) (PD).BIN
-37dce975a1bf4e831fd147e3e469a5c1465e1604cb6cc1bf901606dcd69e931d	O:/EverDrive/Vectrex/Demos/Bebop Best Sound by Chris Salomon (1998) (PD).BIN
-5e7c52e139e120611a2fc51075c8725d0ea2636aba01cb4d114130724b3a3c07	O:/EverDrive/Vectrex/Demos/Bebop Sound by Chris Salomon (1998) (PD).BIN
-0131389749b0c3c26c6051151306c3c6145b33849c6d5365b697526417eb9daf	O:/EverDrive/Vectrex/Demos/Bresenham VOZ 2008 (PD) BNZ17 METALVOTZE.BIN
-0722fbb43539896b8f170222fe38d57fc233b54e798ad3f4ad9acc105207591f	O:/EverDrive/Vectrex/Demos/Calibration Demo (19xx) (Christopher Tumber) (PD).BIN
-04cf4cb3b5c049681ac86e694b1c30ce2adb0d3bb6aa8a603f8df3fd2c915e7d	O:/EverDrive/Vectrex/Demos/Cantina Band (PD) binarystar.BIN
-2b6911579a3c7d435288f3fb285629572cc0a7e082bc38f8bec15647991a9119	O:/EverDrive/Vectrex/Demos/Commando - High Score Sound by Chris Salomon (1998) (PD).BIN
-9ac21b0c318f8b6675e30f82c1b31128f65718878c605b0b20015d5bda748b59	O:/EverDrive/Vectrex/Demos/Count05 Sound by Chris Salomon (1998) (PD).BIN
-bb5f0bfeabd3754d38163d9b0742fa76f543736051bfc03ea9fe8819867ac459	O:/EverDrive/Vectrex/Demos/Curved Lines Demo (1998) (PD).BIN
-b2ceb89bb22fa6278cf47c0531d0427eb06ad42d0dc9276740a0d376655aba34	O:/EverDrive/Vectrex/Demos/Disc Duel Demo (1997) (PD).BIN
-841b8b352cc9681f2876b656d0b634981872e6e40202eae0fcf066be36999d82	O:/EverDrive/Vectrex/Demos/Doodle - Joystick (PD) v1 binarystarsoftware.BIN
-2db53261f5008241bfd8a3c9231f4778a5ded28b83c478c8ba9f90ad1eaea8ae	O:/EverDrive/Vectrex/Demos/Doodle - Lightpen (PD) v1 binarystarsoftware.BIN
-32b6e27d452c8acb84260a6ce7f9b29894eef167b013ec2ea246c7dac32e7198	O:/EverDrive/Vectrex/Demos/Dots (PD) v1 Binary Star Software.BIN
-c37e1cb3a9cf074f6b1b80db11c695b414cf782f5f763478d03b4c6a8ae8e5b6	O:/EverDrive/Vectrex/Demos/Dr. Who Theme (PD) Chris Salomon 1998.BIN
-c4afb98ec7bc50ce92ddd90e3891a362dff3bd6f29faf6a836952a9fc7241e06	O:/EverDrive/Vectrex/Demos/Electric Force (PD) realm of illusion 8-2015.bin
-77e134c92d334b6ebffd501a2664e325d13bdf4410eedfb0cd676e95ac0d9675	O:/EverDrive/Vectrex/Demos/EmptyScreentro (PD) realm of illusion 6-2015.bin
-47c03fd3a738febd81eab6a25c3d7f599439bf490725c10679211a647fa8cb9a	O:/EverDrive/Vectrex/Demos/Epic Realtime (PD) Nuance 12-2012.bin
-b657dcb3f2ec7815347f1515e034ff6ad5a160cdba076c97587768be9a548d28	O:/EverDrive/Vectrex/Demos/Fast Food Sound 1 by Chris Salomon (1998) (PD).BIN
-dc02e48ece8373ec33d9004f5978eb2d990ea74e05280f062c373b9094db7dc8	O:/EverDrive/Vectrex/Demos/Fast Food Sound 2 by Chris Salomon (1998) (PD).BIN
-4eeed827b78cb6e6450fbba3b65caecc53b54e6a088447ac06027f000324b385	O:/EverDrive/Vectrex/Demos/Figgy Pudding Music Demo (PD).BIN
-6d3dcd6c4da283f7d1476e523ff1fc21371dc29790651e35e136c1322defb64e	O:/EverDrive/Vectrex/Demos/Ghostbusters Sound by Chris Salomon (1998) (PD).BIN
-8693c7ca4e509ead4fab1ce5cb3b1f363fed7c6a5c86be4d4f2136883bfb1768	O:/EverDrive/Vectrex/Demos/Ghouls 'n' Ghosts Sound by Chris Salomon (1998) (PD).BIN
-0613ac06e8edddb311f268f040b86d9b173d7eb8d2cc23a2e6f8aadddab12ca7	O:/EverDrive/Vectrex/Demos/Heps Q Q (PD) Fit 7-2014.BIN
-44765ae7977aca0aab88b22e7f0ed0c971e4552820e10cebda51a9db62e10c3c	O:/EverDrive/Vectrex/Demos/Hey, Music Lover Sound by Chris Salomon (1998) (PD).BIN
-86c5c934f01525cbccdef804a2395614851adeb244cd1a17a8d1b2277bbcf534	O:/EverDrive/Vectrex/Demos/Invitron (PD) realm of illusion 6-2015.bin
-63c0f79ab8001944926237624957c7037aba61fa81ebb57d98059d5995f8a5a2	O:/EverDrive/Vectrex/Demos/Joystick Demo by Manu (2000) (PD).BIN
-2e7592c2b212b325240c97788e00211f2dafdbfe22b99b2dd6292a9662ea9df4	O:/EverDrive/Vectrex/Demos/Klax (Level Begin) Sound by Chris Salomon (1998) (PD).BIN
-da7d3237540b9c0f60bede8c75b4d9b78de23e7fbe34a40a0437100e2c680804	O:/EverDrive/Vectrex/Demos/Line Demo (2001) (PD).BIN
-f8e8cd3d353300be721b7d0d0e5f1767615aa1404b4939aa3298d7f21b106e38	O:/EverDrive/Vectrex/Demos/Lineart 1 (PD) Nuance, METALVOTZE 4-2010.bin
-a04ae1f802b88cc5d717d9f13c60ad8925d232635018c777879f71c5db0f17df	O:/EverDrive/Vectrex/Demos/Lineart 2 (PD) Nuance, METALVOTZE 4-2010.bin
-0a09539f4e138acfb69887ba803803f6070fea18a2d86f3510b0dbc2252e36ee	O:/EverDrive/Vectrex/Demos/Lineart 3 (PD) Nuance, METALVOTZE 4-2010.bin
-fba0cc7549f4ca229d7e62d14864518229fbebc723b5a0b464c9ee0cd35410d6	O:/EverDrive/Vectrex/Demos/Lineart 4 (PD) Nuance, METALVOTZE 4-2010.bin
-40fa331b052e0c9559192ac8019655c3178c4957770d5b28b7e94f9fa0c5e20a	O:/EverDrive/Vectrex/Demos/Lines and Digitized Sounds Demo (1998) (PD).BIN
-60817f5e86158a4896f46ddcc7e6adf74c3e9028e4923a3e52feb8c7ce3a065c	O:/EverDrive/Vectrex/Demos/Lords of Code (PD) Nuance, METALVOTZE 12-2013.bin
-0e95747cc0d81da74bca9cce786f55d06476274eab29246f575321d7f4b04a93	O:/EverDrive/Vectrex/Demos/Lunar Lander Demo by Thomas Landspurg (19xx) (PD).BIN
-7a82b988789b90865755fb3dc21b2193e1fb18cb572e76329c2efb3b1cbbe2ef	O:/EverDrive/Vectrex/Demos/Mad Planetoids Demo by John Dondzila (2001) (PD).BIN
-c3a881d77f5074af38b367467304fa43bf2879a49b594c1c7628de90a3ea897c	O:/EverDrive/Vectrex/Demos/Mike's Molecules Demo by Mike Blackwell (1985) (PD).BIN
-922da90f99703f38a9a9425d83f056c01683d2a9733e3b9ea1ed2929ca034b8d	O:/EverDrive/Vectrex/Demos/Monster House Demo (PD) Garry.bin
-9ed8bb8bbc746448b84e4a1ec3725dc3623fac863cfffe69ec66817fb5ee9fc9	O:/EverDrive/Vectrex/Demos/Monty on the Run HiScore Sound by Chris Salomon (1998) (PD).BIN
-cae97f2df32776524c9c6260ce9a8464e7522d23a01ae28ed38a14668903cb0a	O:/EverDrive/Vectrex/Demos/Monty on the Run Sound by Chris Salomon (1998) (PD).BIN
-a1ba66e868791728384a83c3fc927cb99c7be96f9edffb775fd63fbe30075c83	O:/EverDrive/Vectrex/Demos/Moon Lander Demo by Clay Cowgill (1997) (PD).BIN
-00ea9376914dae45f62a2c5c59d862addb26214f9cf3e3375b786dd923f67905	O:/EverDrive/Vectrex/Demos/Music Demo (2001) (PD).BIN
-c411fdabfec2b59d2ea5ae3442b3ca85565ffd999d41a6555672824ef835ff47	O:/EverDrive/Vectrex/Demos/Pac-Mania Sound 1 by Chris Salomon (1998) (PD).BIN
-45857e3a70fcc4fda064d76ae9e16b0ec5e2b3cd545bb0dd096fbb0bdd699741	O:/EverDrive/Vectrex/Demos/Pac-Mania Sound 2 by Chris Salomon (1998) (PD).BIN
-b2371bb7e177ca5f0ca075872255bfa2f9cc6893500c99668eda185505acd45d	O:/EverDrive/Vectrex/Demos/Performance VX (PD) Revival Studios 11-2003.bin
-a57528039a090b59c48cc73a2181efc8e79f5189959ac3a9facf0b8ee776e46f	O:/EverDrive/Vectrex/Demos/Philly Classic 3 Demo (2002) (PD).BIN
-b6ba890caf9baf61561d77c2dab9533df41e5141784d41ffe540c47c0d506dfd	O:/EverDrive/Vectrex/Demos/Pimmelsafari II (PD) METALVOTZE 10-2005.bin
-084781349a02c876c204bbb5be027c7d18f19f2e2de2563e88b34e01448827ba	O:/EverDrive/Vectrex/Demos/POP Demo by Christopher Tumber (19xx) (PD).BIN
-253735aa61afe40b13d49741142792ad5a8105fb2c9c3c2e99ed4d6ef6664ef5	O:/EverDrive/Vectrex/Demos/Quick Shot (PD) v1.01 binarystarsoftware.BIN
-1b241b45dd3d502ef5a0a3ebf34793d854151184af37150e69583956e80f4ae3	O:/EverDrive/Vectrex/Demos/Raiding Party (PD) Rift 6-2017.bin
-ae953c3a233d6b0179a40550ae4f4db960f1ce011bdf4995b303a336437d8b5b	O:/EverDrive/Vectrex/Demos/Rainbow Islands Sound by Chris Salomon (1998) (PD).BIN
-664a470114efcfb165cd3f51430684cc495cbb98c2d4d51946c968f2bd338c57	O:/EverDrive/Vectrex/Demos/Rainy (PD) realm of illusion 6-2015.bin
-1d3e7272b36a9b440ef0ed9c4d9e541aed189a6c37778a800479f01590a0aed8	O:/EverDrive/Vectrex/Demos/Random Access Vector (PD) Fit 10-2013.BIN
-50cdcc3e766be4f78d3aa59bb2f84d59efe3e94bd8e066cb74786950b4859ae5	O:/EverDrive/Vectrex/Demos/Robin Hood Sound by Chris Salomon (1998) (PD).BIN
-8c93225c03a865e9c1cfbd5e90dd91c0ce7dd742469bc54b196134c88690ccda	O:/EverDrive/Vectrex/Demos/Rocket Sledge Demo (1985) (PD).BIN
-19b6f61a7c35220df4e68c34090c10a9bc3842ea525236304a850c729090d834	O:/EverDrive/Vectrex/Demos/ROM Music Demo by Manu (2000) (PD).BIN
-0cac1f980d885570f130996d1775cd2e54031623cd33e996ed2bcb9c1044de83	O:/EverDrive/Vectrex/Demos/Rotation Demo by Manu (2000) (PD).BIN
-5b95dabbcc40dee85296e83c90cec035c5b2ba547c3faf6545251f0e549baab5	O:/EverDrive/Vectrex/Demos/SAW Gallery 1 by Christopher Tumber (1999) (PD).BIN
-44d8a23943a5a455f34cf9428f1ec46f253f31f98fe99334d41171ba4d0dbf4f	O:/EverDrive/Vectrex/Demos/SAW Gallery 2 by Christopher Tumber (1999) (PD).BIN
-42b9b060f7070edc2894b314f5001b5fa881c85a04cb922da33d93efd18316fd	O:/EverDrive/Vectrex/Demos/SAW Gallery 3 by Christopher Tumber (1999) (PD).BIN
-85de814f239670366ccc8838b16959dd57cda5a3b2ce2223e4d1f7febe61a29a	O:/EverDrive/Vectrex/Demos/sinZ (PD) LA1N.CH 4-2015.BIN
-52e6a9296b9d6cbc63f2b51ea8a8f367a4bd3b806367a3b207cb57cfb750d759	O:/EverDrive/Vectrex/Demos/Song Demo by Christopher Tumber (1998) (PD).BIN
-9184aa821040fc7a5465d736348b597863a49c7741f966057e5edd5debb96c79	O:/EverDrive/Vectrex/Demos/Sound1 Demo (19xx) (PD).BIN
-710b944025c91f59971d5fbbd2751dc44dcb99dcedfeae6d2783bbaf8a3d4111	O:/EverDrive/Vectrex/Demos/Space16 Demo by Manu (2000) (PD).BIN
-7a6a03ea3046c9fd5b25961de5d96919fc02cd7777972a38339d2823c793b750	O:/EverDrive/Vectrex/Demos/Spectrum I+ Demo (1982) (PD).BIN
-585402df1b65315c4edb003fc45037507d6b868d0ea7a2b4066a9b0a936da30e	O:/EverDrive/Vectrex/Demos/Spike Goes Skiing Demo V.03 (1998) (PD).BIN
-facc53a1c1a90fdac001a93060abc5e080a370e131eeaa993897b21c87f2f57a	O:/EverDrive/Vectrex/Demos/Spike's Slam Pit Demo by Gauze (2001) (PD).BIN
-fe1bca1a8d31c1436d29b2316d9286ead461a518f757af7e77634e14c6a2506a	O:/EverDrive/Vectrex/Demos/Springs are Going to the Party (PD) realm of illusion 8-2017.bin
-1361427c1a907d0182de5a0f4a46cb8c9fb9e6aa7bea1d3a8979e01ea519b9a8	O:/EverDrive/Vectrex/Demos/Star Spangles Banner Music Demo by Jeff Woolsey (1985) (PD).BIN
-3ee3b4211a40e8667f5729c14b11970118e2fa37662e04f91e9d3473677bcafb	O:/EverDrive/Vectrex/Demos/Star Wars Sound by Chris Salomon (1998) (PD).BIN
-ebc8a39eba10c33db1a3837367ac844135cfec3b6ae29afa8b0bfa01d8aeeeef	O:/EverDrive/Vectrex/Demos/Super Vectrex Bunny Princess - Vibri (PD) FierceTheBandit.BIN
-4fe9776def22d7e92a945c79d9f1fe873c97acbb64f587c851855dfe0c714fb3	O:/EverDrive/Vectrex/Demos/T-Rex in the Vectrex (PD) DEFAME 6-2015.bin
-ffbce08f88ab0bc59f06802933a5913b0ffd7b35411ad842ed1da8eaa93e816f	O:/EverDrive/Vectrex/Demos/Tank Demo 2 (2001) (PD).BIN
-45f6a2362ed9d3ee8e6d3a56e0427d2e997a14867c5aa285e2b3bac2df62d447	O:/EverDrive/Vectrex/Demos/Taulukko Demo by Manu (2002) (PD).BIN
-5e020c33b067975bf45b0d9459013ae72a7eb60363acab31b53c756d8a7d1406	O:/EverDrive/Vectrex/Demos/Text Demo (2001) (PD).BIN
-305492b11aaf57916359c3ee71685566cb200d4c9d36d645ac9fad1890208581	O:/EverDrive/Vectrex/Demos/This is Just a Non-Playable Demo (1999) (PD).BIN
-813ed272671e15f232aa6b38f91bc945cf65a2c01ee9ec1722d621f1a83b18e1	O:/EverDrive/Vectrex/Demos/Tono Demo by Marq & Antti (2000) (PD).BIN
-7b5d022eefd198df721918dc965254267ae3104ee48df8967ff55a28317d1729	O:/EverDrive/Vectrex/Demos/Trapped Demo (PD) Garry.bin
-11b9e6bdb6fef1afb5d149cfca8fbe85c2690e253b427ca2769a209537f331a5	O:/EverDrive/Vectrex/Demos/Turrican 1 Sound by Chris Salomon (1998) (PD).BIN
-3d2535b72e4ec168fb37581d6998cfa46eeb55b76d864ad54715f9a8f877b301	O:/EverDrive/Vectrex/Demos/Turrican 2 Sound by Chris Salomon (1998) (PD).BIN
-d64544749036b691595552b48c9b6d9c296377dcb0643663b326d72827fdb279	O:/EverDrive/Vectrex/Demos/Twistex (PD) Orb 5-2011.bin
-b87fd48c1dd7c478ae01853e58670623c8d57093987c0e11af7ba51d56e877e8	O:/EverDrive/Vectrex/Demos/Vecsports Boxing Demo by Manu (2000) (PD).BIN
-000d4e2bdbec6347848eb3b8b447acd139839e45b77386347570b5d08ab7df06	O:/EverDrive/Vectrex/Demos/Vecsports Boxing With Sound Demo by Manu (2000) (PD).BIN
-c4cb12a04ac56186c16ebb10cb6f7141f9c1ec08e460e0dda13710a0006cb3fc	O:/EverDrive/Vectrex/Demos/VecSports Kingpin Bowling Demo by Manu (Aug 19) (2002).BIN
-cb6411a3d4be2702fa08c5e85f30f9494a6e6ee583dc2c97571cbfc19002b79e	O:/EverDrive/Vectrex/Demos/Vector Clock (PD) v1.02 binarystarsoftware.BIN
-c94bc8f478dee71eb89656458257c730d2c3ccd064459dae0b464853b626dd96	O:/EverDrive/Vectrex/Demos/Vectrex Demo 1 by Manu (2000) (PD).BIN
-e0a80f34b581d19fecb9f993ccad516618115922d2d4c9172d76e4c02fb9599e	O:/EverDrive/Vectrex/Demos/Vectrex Demo 2 by Manu (2000) (PD).BIN
-6a9d58c3a74d8db7e0d49ecf8d18c1825987b2a11b53fa90a2b060dfe9ef28ec	O:/EverDrive/Vectrex/Demos/Vectrex Demo 3 by Manu (2000) (PD).BIN
-da2f96bb634e37327b52b7310f193f0ad172714d8530e87cbaa94a0adaac1dd3	O:/EverDrive/Vectrex/Demos/VecVoice Demo by Richard Hutchinson (2002).BIN
-01bcd7002429b0d503e1d3ddf611d8d66bee7b790193c4e6cc288ed83798fd2a	O:/EverDrive/Vectrex/Demos/vecZ Shoot-em-up (PD) v0.84 LA1N.CH 2016.BIN
-a6dedf4d6d3e900471403ac13b554338536c7e249897f332e6147a5dce4997d5	O:/EverDrive/Vectrex/Demos/Very Vectight (PD) Pex Mahoney Tufvesson 4-2014.bin
-2c682dc7d6fc8127d88e5b866b88736e2f6ce25624dd18047c068a3811894ca0	O:/EverDrive/Vectrex/Demos/Where Have All The Pixels Gone (PD) v184 Carnegie Mellon Computer Club.bin
-a203ec1f0b84470dd84234a7ef8833136483a1b3f69ae8c7de4131b8e6b9d93e	O:/EverDrive/Vectrex/Demos/YM001 Sound by Chris Salomon (1998) (PD).BIN
-dc5dea204f9c5c553ad6e7d739c1f010be88c1020fbf5908dd626a693ac99e7c	O:/EverDrive/Vectrex/Demos/ZZAP - Scrolling Space Game Demo (1989) (PD).BIN
-3ff48de0619e2f1555b3e3dc13fbf76fe5cf6d757be29e7208afa2fbb80444e1	O:/EverDrive/Vectrex/Hacks/Armor Attack (1982) (Spinner Hack).BIN
-d89b6a1f7e8d9ae66e612c78def38bc569c140e8c0f36bca3be5f8d52469da28	O:/EverDrive/Vectrex/Hacks/Bedlam (1983) (Spinner Hack).BIN
-5502ea4d7533ba5eb7ab8d53c4f9cde2aaffec84780cc6be5437c450d06098dd	O:/EverDrive/Vectrex/Hacks/Dark Tower (1983) (Prototype) (Fred Taft Hack) [h1].BIN
-33e248b2464754015c09d2b5c3e8b18e11628af1575d1d4b3c7d610a2d8c6519	O:/EverDrive/Vectrex/Hacks/Mine Storm (1982) (Karrsoft Hack) [h1].BIN
-543566eb7d14946add7613afdcfd5134132673af9ac7afcb1cfde920e7d52c6d	O:/EverDrive/Vectrex/Hacks/Mine Storm (1982) (RLB Hack) [h1].BIN
-6d5c46fcc0e18b8f200140580db0cf9908a082f452dea1ec2708c2f8134f25b3	O:/EverDrive/Vectrex/Hacks/Mine Storm II (1983) (Fred Taft Hack) [h1].BIN
-bbde1ee7bf45378976dc38146a04d4f076fa92568b93b761a977cd9f92d7c11d	O:/EverDrive/Vectrex/Hacks/Mine Storm II (1983) (Spinner Hack).BIN
-18ff7782a7cc5c529db4d18f7c9824d82e70713c8eef369268c47e16134c3e16	O:/EverDrive/Vectrex/Hacks/Mine Storm III 3D (hack) Fred Taft.bin
-f54cd5d6dfc389486c130de6fc2cb4cd593a9f9c942b3cd4529a6b67d5d59c81	O:/EverDrive/Vectrex/Hacks/Pole Position (1982) (Spinner Hack).BIN
-913f68afae13064cac3604b500a537226129c48ac9c213badb86b84b5d69d118	O:/EverDrive/Vectrex/Hacks/Pole Position (1982) [f1].BIN
-28ba4e3a520793a6b3128f0c4a9486c811207c14739f6c1329355f2834915843	O:/EverDrive/Vectrex/Hacks/Solar Quest (1982) (Spinner Hack).BIN
-3a77e7bbc4197d9380386448773b0775077a44bfa98133a6b79d38a4ed6fa4d0	O:/EverDrive/Vectrex/Hacks/Star Castle (1983) (Spinner Hack).BIN
-25c1a22a4e9f5cada04c882f5801dc70123dde679c649e1d201eb58688a26155	O:/EverDrive/Vectrex/Hacks/Star Trek - The Motion Picture (1982) (controller hack) [h1].BIN
+53ee6d6dff80f1bd423e99b8f524ef44ee94ac6e5cebc47e98d6c8159b857e07	Vectrex/1 A-Z World/3D Crazy Coaster (USA).vec
+18ff7782a7cc5c529db4d18f7c9824d82e70713c8eef369268c47e16134c3e16	Vectrex/1 A-Z World/3D Mine Storm (USA).vec
+8e02392a44073b79363726f0b5ac815e402312d911b3e8e93ef2445e4f017597	Vectrex/1 A-Z World/3D Narrow Escape (USA).vec
+ca2fca8757ada3d6b4702bc52ab407e657153e3ae552ce6bc90723931c3a2d03	Vectrex/1 A-Z World/AnimAction - Advanced Animation (USA).vec
+bdfd09c8add35a297bb7af041f84a578958a652c275770eee188b9b98645615c	Vectrex/1 A-Z World/Armor..Attack (World).vec
+fe50f564eddd26e61cfd9ec315402054a9bfebe0686212b1c3602fc7bd35e02c	Vectrex/1 A-Z World/Art Master (USA).vec
+412db12b047786969f19314c634d0e9b9cccc532a05a0029829740853f7a1373	Vectrex/1 A-Z World/Bedlam (USA, Europe).vec
+4a6e422e0ddcdad1a37671681664cccbce976db11ae3f6ac360db4498d17c5e2	Vectrex/1 A-Z World/Berzerk (World).vec
+f3f06f0edf2aa77cda866d9104aa75b1996cd8f4c4614fef19f3f3d29d306ffd	Vectrex/1 A-Z World/Blitz! - Action Football (USA, Europe) (0F11CE0C).vec
+029e76b7d20385b8a2933bb35d4a98ba0472fbf7a9b07583180a3ae38c7b1004	Vectrex/1 A-Z World/Blitz! - Action Football (USA, Europe) (881B27C5).vec
+5e4d4095a7faef4cfd947f17efdafb64fb152e480b907d14bb5f4397ef20dd57	Vectrex/1 A-Z World/Clean Sweep (World).vec
+a79f701000840ab5f9481a3cef9c0ec0a4adcf75ae04eaa4503d5067f0b2c354	Vectrex/1 A-Z World/Cosmic Chasm (World).vec
+4c775e5fa601fea0105392d8bac2004987c62376f4c66e6a1c25fd45417622af	Vectrex/1 A-Z World/Dark Tower (USA) (Proto).vec
+a242815eb121780cc3dfba54465e108cb45d5b566dba022012469fae0d31489b	Vectrex/1 A-Z World/Engine Analyzer (USA) (Proto).vec
+315ecd40a2c909ef3a7a6f8e50a58f9273c5110807085324a0af285265a4b688	Vectrex/1 A-Z World/Fortress of Narzod (USA, Europe).vec
+300cc2862af3c8a5958de085c3387d131a8f41e1ddc1b5b367ed66b7cd6bf9f6	Vectrex/1 A-Z World/Heads-Up - Action Soccer (USA).vec
+9c548e5e9c042ebb72bf369516c1d87d3460a7ed10ba01662e6ffd00719a5947	Vectrex/1 A-Z World/HyperChase - Auto Race (World).vec
+e5af41c68594a2b4881bfcccd2775a809905bab5e04aea56dfb43fecdddcdefa	Vectrex/1 A-Z World/Mail Plane (USA) (Proto) (05838962).vec
+5c855d370265aa3b3f4527ecd017a54e84cfca30ca1312734c175df22ccbbbce	Vectrex/1 A-Z World/Mail Plane (USA) (Proto) (DA1AC0DB).vec
+ba9645c45cc7d41e891cbcbb16ad62fe19f1140b87097c9233c1c58fb5f20f94	Vectrex/1 A-Z World/Melody Master - Music Composition and Entertainment (USA).vec
+4f995decc083ca50812010141e276f349d0193f6c77b02e65b13b6eddce45c5f	Vectrex/1 A-Z World/Mine Storm (World).vec
+0d752971f8947db8a740fba8e88cee4c2becded4a6833609cf23e4570354b653	Vectrex/1 A-Z World/Mine Storm II (USA) (Rev 2).vec
+80f89e0445d8dc311139298caa4a451fd538fd1df844ad0a48ee56eeb0049930	Vectrex/1 A-Z World/Mr. Boston Clean Sweep (Europe).vec
+4e4d01add301dc6c186ef09442547d26eca243b3f67ea8a22091dcedb06dbc6b	Vectrex/1 A-Z World/Pitcher's Duel (USA) (Proto).vec
+2921150e808b5543a0ee2d0378954a501546a842f33f21a04934180fe847cf31	Vectrex/1 A-Z World/Polar Rescue (USA) (Beta).vec
+35baaf2d0ce06e0853590f5c305989ca660f9bbbd813ca59cf60f2cf3f4d2f95	Vectrex/1 A-Z World/Polar Rescue (USA).vec
+c3f2947aadcb0ec04a53999c253a931aa7a13ad0483753b57efa422242190109	Vectrex/1 A-Z World/Pole Position (USA) (A00ED3D6).vec
+913f68afae13064cac3604b500a537226129c48ac9c213badb86b84b5d69d118	Vectrex/1 A-Z World/Pole Position (USA) (C10F37D8).vec
+7a6a03ea3046c9fd5b25961de5d96919fc02cd7777972a38339d2823c793b750	Vectrex/1 A-Z World/RA+A Spectrum I+ Stress Tester (USA) (Proto).vec
+028fbe617dd8a6f861008ae97ba6a52ca133f5a1e3ea717ac9f85e17ac1fa359	Vectrex/1 A-Z World/Rip Off (World).vec
+c28338139608ff202ad69210db049f5dd9d2fe9298c19ca53af79e2c61ff29ff	Vectrex/1 A-Z World/Scramble (USA, Europe).vec
+8c93225c03a865e9c1cfbd5e90dd91c0ce7dd742469bc54b196134c88690ccda	Vectrex/1 A-Z World/Sledge 3D (USA) (Sample).vec
+3c330d35beef9ad98f80f06dce4ca85b0a8aeba916fe1af6ace47d7f22a7be4f	Vectrex/1 A-Z World/Solar Quest (World).vec
+df9fae1ca9eae8bd2823002b17cdf9e48cbc7bc70a3f6efa8d98c9a82de63651	Vectrex/1 A-Z World/Space Wars (World).vec
+fb181fbd73f853b29e465a99dfdb2a0c50e1c135c10838eae4f4d719e3f9a7d0	Vectrex/1 A-Z World/Spike (USA, Europe).vec
+95b017cd04ce695ec8bcf49b07670891dc1367dbe25c24b30b0befa5d4f77a8c	Vectrex/1 A-Z World/Spin ball (USA).vec
+bf3ab118f2157e08af1cf86adfcc9873d2f745fe848c1c3475554189c628269a	Vectrex/1 A-Z World/Star Castle (USA).vec
+7a6cb40998da5e16d25574ce86e61432f23af3055ac9293f9ab59166974f1a6a	Vectrex/1 A-Z World/Star Ship (Europe).vec
+4951861253eed45f0c02f76c5543e5f702c5b9014126aa0285b606fee3b93d2b	Vectrex/1 A-Z World/Star Trek - The Motion Picture (USA).vec
+892bf7f74397b9bb6b3a371e86de6bf6f7863ca358a661e79cec0ee03d1e2ce3	Vectrex/1 A-Z World/StarHawk (World).vec
+39ec9e79718a1c1203b253bff7a144691009808cc42fb7edf4400f538664e7f1	Vectrex/1 A-Z World/Test Cartridge (USA) (Rev 4) (Proto).vec
+d8a61ba96051bf5e82da2f098ddb4c6879918848bb5be0c823113174f6ed57ad	Vectrex/1 A-Z World/Tour De France (USA) (Proto).vec
+57ced92fb0646aa4e0ccf1a03ac1d8d001a48f9ebef9b719d4812dde2ec6f19b	Vectrex/1 A-Z World/WebWarp (Europe).vec
+603f19bb8b486aa72853d1fd0b18de2d1efc9ee8a98f8e4d3927d727228bc689	Vectrex/1 A-Z World/WebWars (USA).vec
+d699ad9a65ad301300fe68af9fd66b2e4cab63ad51dbf07b5b6e0ed6e575851a	Vectrex/Demos/'NO' Sound by Chris Salomon (1998) (PD).BIN
+d3294042e59f72968d58a63e321a56c18af4648e201679d385dfd8e88b99e824	Vectrex/Demos/0ldsk00l Demo by Manu (2002) (PD).BIN
+65b6eca4c697cf2be2ec317b22e480879f5a268b88628db2204d989b150211c4	Vectrex/Demos/3-D Demo by Chris (Mar 08) (2000) (PD).BIN
+5a0c655250ec1b82e6d10b2a38a38d5d517e0366208325c7e065e30fa8018063	Vectrex/Demos/3-D Scrolling Demo by Christopher Tumber (2001) (PD).BIN
+181a236aa9aeb29dbac6c2d494bbfb09cb8a4fd70a93e23ca9e5fed78adce86e	Vectrex/Demos/4-D Rotating Cube Demo (19xx) (PD).BIN
+fd16a366d63953961770023fea5726a62f3253c913157d7a4bda43c1731303e8	Vectrex/Demos/Abyss Demo (1999) (PD).BIN
+4766cbe057251788f63c5d68d799e31703d265fa57cb1992b786562ecb4a8e83	Vectrex/Demos/All Your Base Demo by Manu (2001) (PD).BIN
+2042b52d029434b67198f0801713973f81d3f8c3daf6cac8dbc89c74f8dd1fcb	Vectrex/Demos/Alpha Demo (2001) (PD).BIN
+ad36787a4f4b1628765ca6af5f92f1548c019df12ac2e36e48b03e555966d084	Vectrex/Demos/Amen Break Live (PD) v1 binarystarsoftware.BIN
+88d0f9654e1f6d01b4c71b16a30b322155a1eb1df3b9f81cea95ce57b6d3705b	Vectrex/Demos/Animation Demo by Manu (2002) (PD).BIN
+94b431f98dc510dc4f3e0e61e71e1d2391db05a67c4e2a5e0e05ef8efec569a1	Vectrex/Demos/Arkanoid - Revenge of DOH Sound by Chris Salomon (1998) (PD).BIN
+4d50f9419cb025baafcdf7c7673f8d5a796286f6a86c70bf942561eab2af5b09	Vectrex/Demos/Battlezone Demo by Christopher Tumber (2001) (PD).BIN
+4bfc3d073e9630c85db934a2f4290fbaf2eec93280a715547ce7e8b8c82a75c3	Vectrex/Demos/BB2 Demo by Manu (2002) (PD).BIN
+bc81f6e979e958bf9b771a84c8cb2e9e0364d275037d038a7dff5fcdca0c341f	Vectrex/Demos/BCor-FTS Demo by Clay Cowgill (1997) (PD).BIN
+37dce975a1bf4e831fd147e3e469a5c1465e1604cb6cc1bf901606dcd69e931d	Vectrex/Demos/Bebop Best Sound by Chris Salomon (1998) (PD).BIN
+5e7c52e139e120611a2fc51075c8725d0ea2636aba01cb4d114130724b3a3c07	Vectrex/Demos/Bebop Sound by Chris Salomon (1998) (PD).BIN
+0131389749b0c3c26c6051151306c3c6145b33849c6d5365b697526417eb9daf	Vectrex/Demos/Bresenham VOZ 2008 (PD) BNZ17 METALVOTZE.BIN
+0722fbb43539896b8f170222fe38d57fc233b54e798ad3f4ad9acc105207591f	Vectrex/Demos/Calibration Demo (19xx) (Christopher Tumber) (PD).BIN
+04cf4cb3b5c049681ac86e694b1c30ce2adb0d3bb6aa8a603f8df3fd2c915e7d	Vectrex/Demos/Cantina Band (PD) binarystar.BIN
+2b6911579a3c7d435288f3fb285629572cc0a7e082bc38f8bec15647991a9119	Vectrex/Demos/Commando - High Score Sound by Chris Salomon (1998) (PD).BIN
+9ac21b0c318f8b6675e30f82c1b31128f65718878c605b0b20015d5bda748b59	Vectrex/Demos/Count05 Sound by Chris Salomon (1998) (PD).BIN
+bb5f0bfeabd3754d38163d9b0742fa76f543736051bfc03ea9fe8819867ac459	Vectrex/Demos/Curved Lines Demo (1998) (PD).BIN
+b2ceb89bb22fa6278cf47c0531d0427eb06ad42d0dc9276740a0d376655aba34	Vectrex/Demos/Disc Duel Demo (1997) (PD).BIN
+841b8b352cc9681f2876b656d0b634981872e6e40202eae0fcf066be36999d82	Vectrex/Demos/Doodle - Joystick (PD) v1 binarystarsoftware.BIN
+2db53261f5008241bfd8a3c9231f4778a5ded28b83c478c8ba9f90ad1eaea8ae	Vectrex/Demos/Doodle - Lightpen (PD) v1 binarystarsoftware.BIN
+32b6e27d452c8acb84260a6ce7f9b29894eef167b013ec2ea246c7dac32e7198	Vectrex/Demos/Dots (PD) v1 Binary Star Software.BIN
+c37e1cb3a9cf074f6b1b80db11c695b414cf782f5f763478d03b4c6a8ae8e5b6	Vectrex/Demos/Dr. Who Theme (PD) Chris Salomon 1998.BIN
+c4afb98ec7bc50ce92ddd90e3891a362dff3bd6f29faf6a836952a9fc7241e06	Vectrex/Demos/Electric Force (PD) realm of illusion 8-2015.bin
+77e134c92d334b6ebffd501a2664e325d13bdf4410eedfb0cd676e95ac0d9675	Vectrex/Demos/EmptyScreentro (PD) realm of illusion 6-2015.bin
+47c03fd3a738febd81eab6a25c3d7f599439bf490725c10679211a647fa8cb9a	Vectrex/Demos/Epic Realtime (PD) Nuance 12-2012.bin
+b657dcb3f2ec7815347f1515e034ff6ad5a160cdba076c97587768be9a548d28	Vectrex/Demos/Fast Food Sound 1 by Chris Salomon (1998) (PD).BIN
+dc02e48ece8373ec33d9004f5978eb2d990ea74e05280f062c373b9094db7dc8	Vectrex/Demos/Fast Food Sound 2 by Chris Salomon (1998) (PD).BIN
+4eeed827b78cb6e6450fbba3b65caecc53b54e6a088447ac06027f000324b385	Vectrex/Demos/Figgy Pudding Music Demo (PD).BIN
+6d3dcd6c4da283f7d1476e523ff1fc21371dc29790651e35e136c1322defb64e	Vectrex/Demos/Ghostbusters Sound by Chris Salomon (1998) (PD).BIN
+8693c7ca4e509ead4fab1ce5cb3b1f363fed7c6a5c86be4d4f2136883bfb1768	Vectrex/Demos/Ghouls 'n' Ghosts Sound by Chris Salomon (1998) (PD).BIN
+0613ac06e8edddb311f268f040b86d9b173d7eb8d2cc23a2e6f8aadddab12ca7	Vectrex/Demos/Heps Q Q (PD) Fit 7-2014.BIN
+44765ae7977aca0aab88b22e7f0ed0c971e4552820e10cebda51a9db62e10c3c	Vectrex/Demos/Hey, Music Lover Sound by Chris Salomon (1998) (PD).BIN
+86c5c934f01525cbccdef804a2395614851adeb244cd1a17a8d1b2277bbcf534	Vectrex/Demos/Invitron (PD) realm of illusion 6-2015.bin
+63c0f79ab8001944926237624957c7037aba61fa81ebb57d98059d5995f8a5a2	Vectrex/Demos/Joystick Demo by Manu (2000) (PD).BIN
+2e7592c2b212b325240c97788e00211f2dafdbfe22b99b2dd6292a9662ea9df4	Vectrex/Demos/Klax (Level Begin) Sound by Chris Salomon (1998) (PD).BIN
+da7d3237540b9c0f60bede8c75b4d9b78de23e7fbe34a40a0437100e2c680804	Vectrex/Demos/Line Demo (2001) (PD).BIN
+f8e8cd3d353300be721b7d0d0e5f1767615aa1404b4939aa3298d7f21b106e38	Vectrex/Demos/Lineart 1 (PD) Nuance, METALVOTZE 4-2010.bin
+a04ae1f802b88cc5d717d9f13c60ad8925d232635018c777879f71c5db0f17df	Vectrex/Demos/Lineart 2 (PD) Nuance, METALVOTZE 4-2010.bin
+0a09539f4e138acfb69887ba803803f6070fea18a2d86f3510b0dbc2252e36ee	Vectrex/Demos/Lineart 3 (PD) Nuance, METALVOTZE 4-2010.bin
+fba0cc7549f4ca229d7e62d14864518229fbebc723b5a0b464c9ee0cd35410d6	Vectrex/Demos/Lineart 4 (PD) Nuance, METALVOTZE 4-2010.bin
+40fa331b052e0c9559192ac8019655c3178c4957770d5b28b7e94f9fa0c5e20a	Vectrex/Demos/Lines and Digitized Sounds Demo (1998) (PD).BIN
+60817f5e86158a4896f46ddcc7e6adf74c3e9028e4923a3e52feb8c7ce3a065c	Vectrex/Demos/Lords of Code (PD) Nuance, METALVOTZE 12-2013.bin
+0e95747cc0d81da74bca9cce786f55d06476274eab29246f575321d7f4b04a93	Vectrex/Demos/Lunar Lander Demo by Thomas Landspurg (19xx) (PD).BIN
+7a82b988789b90865755fb3dc21b2193e1fb18cb572e76329c2efb3b1cbbe2ef	Vectrex/Demos/Mad Planetoids Demo by John Dondzila (2001) (PD).BIN
+c3a881d77f5074af38b367467304fa43bf2879a49b594c1c7628de90a3ea897c	Vectrex/Demos/Mike's Molecules Demo by Mike Blackwell (1985) (PD).BIN
+922da90f99703f38a9a9425d83f056c01683d2a9733e3b9ea1ed2929ca034b8d	Vectrex/Demos/Monster House Demo (PD) Garry.bin
+9ed8bb8bbc746448b84e4a1ec3725dc3623fac863cfffe69ec66817fb5ee9fc9	Vectrex/Demos/Monty on the Run HiScore Sound by Chris Salomon (1998) (PD).BIN
+cae97f2df32776524c9c6260ce9a8464e7522d23a01ae28ed38a14668903cb0a	Vectrex/Demos/Monty on the Run Sound by Chris Salomon (1998) (PD).BIN
+a1ba66e868791728384a83c3fc927cb99c7be96f9edffb775fd63fbe30075c83	Vectrex/Demos/Moon Lander Demo by Clay Cowgill (1997) (PD).BIN
+00ea9376914dae45f62a2c5c59d862addb26214f9cf3e3375b786dd923f67905	Vectrex/Demos/Music Demo (2001) (PD).BIN
+c411fdabfec2b59d2ea5ae3442b3ca85565ffd999d41a6555672824ef835ff47	Vectrex/Demos/Pac-Mania Sound 1 by Chris Salomon (1998) (PD).BIN
+45857e3a70fcc4fda064d76ae9e16b0ec5e2b3cd545bb0dd096fbb0bdd699741	Vectrex/Demos/Pac-Mania Sound 2 by Chris Salomon (1998) (PD).BIN
+b2371bb7e177ca5f0ca075872255bfa2f9cc6893500c99668eda185505acd45d	Vectrex/Demos/Performance VX (PD) Revival Studios 11-2003.bin
+a57528039a090b59c48cc73a2181efc8e79f5189959ac3a9facf0b8ee776e46f	Vectrex/Demos/Philly Classic 3 Demo (2002) (PD).BIN
+b6ba890caf9baf61561d77c2dab9533df41e5141784d41ffe540c47c0d506dfd	Vectrex/Demos/Pimmelsafari II (PD) METALVOTZE 10-2005.bin
+084781349a02c876c204bbb5be027c7d18f19f2e2de2563e88b34e01448827ba	Vectrex/Demos/POP Demo by Christopher Tumber (19xx) (PD).BIN
+253735aa61afe40b13d49741142792ad5a8105fb2c9c3c2e99ed4d6ef6664ef5	Vectrex/Demos/Quick Shot (PD) v1.01 binarystarsoftware.BIN
+1b241b45dd3d502ef5a0a3ebf34793d854151184af37150e69583956e80f4ae3	Vectrex/Demos/Raiding Party (PD) Rift 6-2017.bin
+ae953c3a233d6b0179a40550ae4f4db960f1ce011bdf4995b303a336437d8b5b	Vectrex/Demos/Rainbow Islands Sound by Chris Salomon (1998) (PD).BIN
+664a470114efcfb165cd3f51430684cc495cbb98c2d4d51946c968f2bd338c57	Vectrex/Demos/Rainy (PD) realm of illusion 6-2015.bin
+1d3e7272b36a9b440ef0ed9c4d9e541aed189a6c37778a800479f01590a0aed8	Vectrex/Demos/Random Access Vector (PD) Fit 10-2013.BIN
+50cdcc3e766be4f78d3aa59bb2f84d59efe3e94bd8e066cb74786950b4859ae5	Vectrex/Demos/Robin Hood Sound by Chris Salomon (1998) (PD).BIN
+8c93225c03a865e9c1cfbd5e90dd91c0ce7dd742469bc54b196134c88690ccda	Vectrex/Demos/Rocket Sledge Demo (1985) (PD).BIN
+19b6f61a7c35220df4e68c34090c10a9bc3842ea525236304a850c729090d834	Vectrex/Demos/ROM Music Demo by Manu (2000) (PD).BIN
+0cac1f980d885570f130996d1775cd2e54031623cd33e996ed2bcb9c1044de83	Vectrex/Demos/Rotation Demo by Manu (2000) (PD).BIN
+5b95dabbcc40dee85296e83c90cec035c5b2ba547c3faf6545251f0e549baab5	Vectrex/Demos/SAW Gallery 1 by Christopher Tumber (1999) (PD).BIN
+44d8a23943a5a455f34cf9428f1ec46f253f31f98fe99334d41171ba4d0dbf4f	Vectrex/Demos/SAW Gallery 2 by Christopher Tumber (1999) (PD).BIN
+42b9b060f7070edc2894b314f5001b5fa881c85a04cb922da33d93efd18316fd	Vectrex/Demos/SAW Gallery 3 by Christopher Tumber (1999) (PD).BIN
+85de814f239670366ccc8838b16959dd57cda5a3b2ce2223e4d1f7febe61a29a	Vectrex/Demos/sinZ (PD) LA1N.CH 4-2015.BIN
+52e6a9296b9d6cbc63f2b51ea8a8f367a4bd3b806367a3b207cb57cfb750d759	Vectrex/Demos/Song Demo by Christopher Tumber (1998) (PD).BIN
+9184aa821040fc7a5465d736348b597863a49c7741f966057e5edd5debb96c79	Vectrex/Demos/Sound1 Demo (19xx) (PD).BIN
+710b944025c91f59971d5fbbd2751dc44dcb99dcedfeae6d2783bbaf8a3d4111	Vectrex/Demos/Space16 Demo by Manu (2000) (PD).BIN
+7a6a03ea3046c9fd5b25961de5d96919fc02cd7777972a38339d2823c793b750	Vectrex/Demos/Spectrum I+ Demo (1982) (PD).BIN
+585402df1b65315c4edb003fc45037507d6b868d0ea7a2b4066a9b0a936da30e	Vectrex/Demos/Spike Goes Skiing Demo V.03 (1998) (PD).BIN
+facc53a1c1a90fdac001a93060abc5e080a370e131eeaa993897b21c87f2f57a	Vectrex/Demos/Spike's Slam Pit Demo by Gauze (2001) (PD).BIN
+fe1bca1a8d31c1436d29b2316d9286ead461a518f757af7e77634e14c6a2506a	Vectrex/Demos/Springs are Going to the Party (PD) realm of illusion 8-2017.bin
+1361427c1a907d0182de5a0f4a46cb8c9fb9e6aa7bea1d3a8979e01ea519b9a8	Vectrex/Demos/Star Spangles Banner Music Demo by Jeff Woolsey (1985) (PD).BIN
+3ee3b4211a40e8667f5729c14b11970118e2fa37662e04f91e9d3473677bcafb	Vectrex/Demos/Star Wars Sound by Chris Salomon (1998) (PD).BIN
+ebc8a39eba10c33db1a3837367ac844135cfec3b6ae29afa8b0bfa01d8aeeeef	Vectrex/Demos/Super Vectrex Bunny Princess - Vibri (PD) FierceTheBandit.BIN
+4fe9776def22d7e92a945c79d9f1fe873c97acbb64f587c851855dfe0c714fb3	Vectrex/Demos/T-Rex in the Vectrex (PD) DEFAME 6-2015.bin
+ffbce08f88ab0bc59f06802933a5913b0ffd7b35411ad842ed1da8eaa93e816f	Vectrex/Demos/Tank Demo 2 (2001) (PD).BIN
+45f6a2362ed9d3ee8e6d3a56e0427d2e997a14867c5aa285e2b3bac2df62d447	Vectrex/Demos/Taulukko Demo by Manu (2002) (PD).BIN
+5e020c33b067975bf45b0d9459013ae72a7eb60363acab31b53c756d8a7d1406	Vectrex/Demos/Text Demo (2001) (PD).BIN
+305492b11aaf57916359c3ee71685566cb200d4c9d36d645ac9fad1890208581	Vectrex/Demos/This is Just a Non-Playable Demo (1999) (PD).BIN
+813ed272671e15f232aa6b38f91bc945cf65a2c01ee9ec1722d621f1a83b18e1	Vectrex/Demos/Tono Demo by Marq & Antti (2000) (PD).BIN
+7b5d022eefd198df721918dc965254267ae3104ee48df8967ff55a28317d1729	Vectrex/Demos/Trapped Demo (PD) Garry.bin
+11b9e6bdb6fef1afb5d149cfca8fbe85c2690e253b427ca2769a209537f331a5	Vectrex/Demos/Turrican 1 Sound by Chris Salomon (1998) (PD).BIN
+3d2535b72e4ec168fb37581d6998cfa46eeb55b76d864ad54715f9a8f877b301	Vectrex/Demos/Turrican 2 Sound by Chris Salomon (1998) (PD).BIN
+d64544749036b691595552b48c9b6d9c296377dcb0643663b326d72827fdb279	Vectrex/Demos/Twistex (PD) Orb 5-2011.bin
+b87fd48c1dd7c478ae01853e58670623c8d57093987c0e11af7ba51d56e877e8	Vectrex/Demos/Vecsports Boxing Demo by Manu (2000) (PD).BIN
+000d4e2bdbec6347848eb3b8b447acd139839e45b77386347570b5d08ab7df06	Vectrex/Demos/Vecsports Boxing With Sound Demo by Manu (2000) (PD).BIN
+c4cb12a04ac56186c16ebb10cb6f7141f9c1ec08e460e0dda13710a0006cb3fc	Vectrex/Demos/VecSports Kingpin Bowling Demo by Manu (Aug 19) (2002).BIN
+cb6411a3d4be2702fa08c5e85f30f9494a6e6ee583dc2c97571cbfc19002b79e	Vectrex/Demos/Vector Clock (PD) v1.02 binarystarsoftware.BIN
+c94bc8f478dee71eb89656458257c730d2c3ccd064459dae0b464853b626dd96	Vectrex/Demos/Vectrex Demo 1 by Manu (2000) (PD).BIN
+e0a80f34b581d19fecb9f993ccad516618115922d2d4c9172d76e4c02fb9599e	Vectrex/Demos/Vectrex Demo 2 by Manu (2000) (PD).BIN
+6a9d58c3a74d8db7e0d49ecf8d18c1825987b2a11b53fa90a2b060dfe9ef28ec	Vectrex/Demos/Vectrex Demo 3 by Manu (2000) (PD).BIN
+da2f96bb634e37327b52b7310f193f0ad172714d8530e87cbaa94a0adaac1dd3	Vectrex/Demos/VecVoice Demo by Richard Hutchinson (2002).BIN
+01bcd7002429b0d503e1d3ddf611d8d66bee7b790193c4e6cc288ed83798fd2a	Vectrex/Demos/vecZ Shoot-em-up (PD) v0.84 LA1N.CH 2016.BIN
+a6dedf4d6d3e900471403ac13b554338536c7e249897f332e6147a5dce4997d5	Vectrex/Demos/Very Vectight (PD) Pex Mahoney Tufvesson 4-2014.bin
+2c682dc7d6fc8127d88e5b866b88736e2f6ce25624dd18047c068a3811894ca0	Vectrex/Demos/Where Have All The Pixels Gone (PD) v184 Carnegie Mellon Computer Club.bin
+a203ec1f0b84470dd84234a7ef8833136483a1b3f69ae8c7de4131b8e6b9d93e	Vectrex/Demos/YM001 Sound by Chris Salomon (1998) (PD).BIN
+dc5dea204f9c5c553ad6e7d739c1f010be88c1020fbf5908dd626a693ac99e7c	Vectrex/Demos/ZZAP - Scrolling Space Game Demo (1989) (PD).BIN
+3ff48de0619e2f1555b3e3dc13fbf76fe5cf6d757be29e7208afa2fbb80444e1	Vectrex/Hacks/Armor Attack (1982) (Spinner Hack).BIN
+d89b6a1f7e8d9ae66e612c78def38bc569c140e8c0f36bca3be5f8d52469da28	Vectrex/Hacks/Bedlam (1983) (Spinner Hack).BIN
+5502ea4d7533ba5eb7ab8d53c4f9cde2aaffec84780cc6be5437c450d06098dd	Vectrex/Hacks/Dark Tower (1983) (Prototype) (Fred Taft Hack) [h1].BIN
+33e248b2464754015c09d2b5c3e8b18e11628af1575d1d4b3c7d610a2d8c6519	Vectrex/Hacks/Mine Storm (1982) (Karrsoft Hack) [h1].BIN
+543566eb7d14946add7613afdcfd5134132673af9ac7afcb1cfde920e7d52c6d	Vectrex/Hacks/Mine Storm (1982) (RLB Hack) [h1].BIN
+6d5c46fcc0e18b8f200140580db0cf9908a082f452dea1ec2708c2f8134f25b3	Vectrex/Hacks/Mine Storm II (1983) (Fred Taft Hack) [h1].BIN
+bbde1ee7bf45378976dc38146a04d4f076fa92568b93b761a977cd9f92d7c11d	Vectrex/Hacks/Mine Storm II (1983) (Spinner Hack).BIN
+18ff7782a7cc5c529db4d18f7c9824d82e70713c8eef369268c47e16134c3e16	Vectrex/Hacks/Mine Storm III 3D (hack) Fred Taft.bin
+f54cd5d6dfc389486c130de6fc2cb4cd593a9f9c942b3cd4529a6b67d5d59c81	Vectrex/Hacks/Pole Position (1982) (Spinner Hack).BIN
+913f68afae13064cac3604b500a537226129c48ac9c213badb86b84b5d69d118	Vectrex/Hacks/Pole Position (1982) [f1].BIN
+28ba4e3a520793a6b3128f0c4a9486c811207c14739f6c1329355f2834915843	Vectrex/Hacks/Solar Quest (1982) (Spinner Hack).BIN
+3a77e7bbc4197d9380386448773b0775077a44bfa98133a6b79d38a4ed6fa4d0	Vectrex/Hacks/Star Castle (1983) (Spinner Hack).BIN
+25c1a22a4e9f5cada04c882f5801dc70123dde679c649e1d201eb58688a26155	Vectrex/Hacks/Star Trek - The Motion Picture (1982) (controller hack) [h1].BIN

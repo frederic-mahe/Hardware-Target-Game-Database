@@ -1,627 +1,618 @@
-09570dff31fa2a8a617208eda81483a281296d79a3f3699657ed617df45ac2b5	O:/EverDrive/Virtual Boy/Virtual Boy FlashBoy+ Pack v2.0.7z
-348a85b1030056edb91b9411da8df01847f787e813be803efd315d3520849fc9	O:/EverDrive/Virtual Boy/1 USA - A-Z/3-D Tetris (USA)_pad.vb
-1cd9578e4b237f107dbef8da5945ed25a9597bf2928102397e6bc5afe4c9e106	O:/EverDrive/Virtual Boy/1 USA - A-Z/Galactic Pinball (Japan, USA)_pad.vb
-56179970ec2f766b596b8cb18cf2bbefdabf78d7a4fbc580695ccb8e10aed0e7	O:/EverDrive/Virtual Boy/1 USA - A-Z/Golf (USA).vb
-052cb8e7fb6c18dbf9fc033af3103540b50cea3bbe5bc4cba133bdca2c05f1d9	O:/EverDrive/Virtual Boy/1 USA - A-Z/Jack Bros. (USA)_pad.vb
-1584616feff220547cd91cbc9ccc5acf103a38c68f86326074b8c448a74e7418	O:/EverDrive/Virtual Boy/1 USA - A-Z/Mario Clash (Japan, USA)_pad.vb
-69baed03319d80c2ed6cc95d149a331367a07158acb849103bcd41711d9ea393	O:/EverDrive/Virtual Boy/1 USA - A-Z/Mario's Tennis (Japan, USA)_pad.vb
-ce391aae5e672f3ca472efeaab985da8cee4a36fe068ed50489afa45aaeb5962	O:/EverDrive/Virtual Boy/1 USA - A-Z/Nester's Funky Bowling (USA).vb
-01be72ba46769dfb358cd4e7d282d6207bad3b1fcb23c78484c8eed9556484dd	O:/EverDrive/Virtual Boy/1 USA - A-Z/Panic Bomber (USA)_pad.vb
-162f6a11b900e8d05b6eb738862e2d4cc59e08a9a6d8cde97fca62bd0377b542	O:/EverDrive/Virtual Boy/1 USA - A-Z/Red Alarm (USA)_pad.vb
-ad452ef4b3600ab486367a7daed610672bba0090d55b2f9a389cf54d3d1e5362	O:/EverDrive/Virtual Boy/1 USA - A-Z/Teleroboxer (Japan, USA)_pad.vb
-d6fdcf794cdfaeefbbb005debcc74b9a4ed5f46c256bef835641e5a1d3ceb62f	O:/EverDrive/Virtual Boy/1 USA - A-Z/Vertical Force (USA)_pad.vb
-abfb74c94c07808d368139db2e875cd91608f95e4ab892ac9b9d0442214c7198	O:/EverDrive/Virtual Boy/1 USA - A-Z/Virtual Boy Wario Land (Japan, USA).vb
-ee120ee0f1d2f1420e0dd31b218d75c9a6484721211ec65d832cdb67bb5eb9e3	O:/EverDrive/Virtual Boy/1 USA - A-Z/Virtual League Baseball (USA)_pad.vb
-9c21378c539e04b433ad8dc63a5e301025a1a19830effe94b827516ee58d4c56	O:/EverDrive/Virtual Boy/1 USA - A-Z/Waterworld (USA).vb
-7b056b3c565e8ebc4d7610fd923e79926d3c9fe76543dd0e3891a3cc951d1cdd	O:/EverDrive/Virtual Boy/2 Japan - A-Z/Innsmouth no Yakata (Japan)_pad.vb
-09c14853c5fda456c5f3f913e164d7718c615e78430d1eae0d5e47f71447f978	O:/EverDrive/Virtual Boy/2 Japan - A-Z/Jack Bros. no Meiro de Hiihoo! (Japan)_pad.vb
-4e333e4af0353b1382920313e83fb6ad7504648d08831fb260af9bf5d2f7efc5	O:/EverDrive/Virtual Boy/2 Japan - A-Z/Red Alarm (Japan)_pad.vb
-cf68c6198f157cf616791cec92a95387c30c9dbec745f8065b20aef87b0b5d4d	O:/EverDrive/Virtual Boy/2 Japan - A-Z/SD Gundam - Dimension War (Japan)_pad.vb
-4a09e0347c36642a60b4c8b888c3d0f0d3d3a3a266b04293cca5dfc1bceb5469	O:/EverDrive/Virtual Boy/2 Japan - A-Z/Space Invaders - Virtual Collection (Japan)_pad.vb
-df321078639993be9bfc35b6c52edad2055676e180eb2133949af3b8ae825bf4	O:/EverDrive/Virtual Boy/2 Japan - A-Z/Space Squash (Japan)_pad.vb
-3a9ec2ffebe507a38e4f4e47f6aa27c524f20fc722281e8b303c31f657de49cc	O:/EverDrive/Virtual Boy/2 Japan - A-Z/T&E Virtual Golf (Japan).vb
-69d266319c39928ee8e6cb6f00180ee26f86f535019dbd542983aca88f06cf79	O:/EverDrive/Virtual Boy/2 Japan - A-Z/Tobidase! Panibon (Japan)_pad.vb
-2b178cb01d631a98c957df37a8b86a29b436550901dcbbbad1add44016b5a630	O:/EverDrive/Virtual Boy/2 Japan - A-Z/V-Tetris (Japan)_pad.vb
-6d7ff8871ee88fb64d0f93742c5f62212b84166ecb46322e4e674fe5fde82cb1	O:/EverDrive/Virtual Boy/2 Japan - A-Z/Vertical Force (Japan)_pad.vb
-900c447d0be5b2fa0634546287ff872eb55c8a7cbcce746c0c9e1cc9a24f4008	O:/EverDrive/Virtual Boy/2 Japan - A-Z/Virtual Bowling (Japan)_pad.vb
-f92a74ed147677757ce63a2b7d48554148ae810d01e42cf82f23f644d7c75c17	O:/EverDrive/Virtual Boy/2 Japan - A-Z/Virtual Fishing (Japan)_pad.vb
-6861afaf33b1f17f98dee48e638352162d3cb4f7ec2cbabfca43fb1776d34d4c	O:/EverDrive/Virtual Boy/2 Japan - A-Z/Virtual Lab (Japan)_pad.vb
-6ad44bd28ad87a7e856a30053e2b27afe0def98f380f633580228d3a9884a8ca	O:/EverDrive/Virtual Boy/2 Japan - A-Z/Virtual Pro Yakyuu '95 (Japan)_pad.vb
-924f8af2f179953e26fe97a0e605ed37486766ab0585952debee0b6c75155e68	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Adventure Island Pack.vb
-a9a5003ba4a89f9ce9f82c52b9d263ca20e7b0901c7a6540330019dcb02b03a2	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Adventures of Lolo, Amazing Penguin, Tater, Toshinden.vb
-b251bd26df19b17f44fe978aa97e5919d59c110fccf473b6692ea91cb9aff217	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Aero Star Pack.vb
-690f0737f238a7e64e615a5ccf481af139da4c5b8adac4756e3d3a27a3548709	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Atomic Punk.vb
-3f6ec267a4ed7780b683bd26dde6328bf225630eb50d0bf1e424e88123d11920	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Avenging Spirit.vb
-3358656c9dfbbedb85a2c2a44cf1f27ce81daab5ad4a42bf1bfa8bd04ff1bf7d	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Balloon Kid.vb
-7100e65debaf76c0c9182dab6bb6263f52774a7dd82f717afe7d860aa9064b96	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Batman Pack.vb
-9fb80c74c68f9544e88436fe16d9e27c8b1b69e2cf744fcbf7c58399ed5143cd	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Bionic Commando.vb
-5a7b07b43c1795d4ceb1e06fe463018839360882676ad0c3e2fdb9190649b648	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Blades of Steel.vb
-45ca2faa2fd012b6ddc0617351dcce2b8c895a375a607754850f623d2b9e20ce	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Blaster Master Boy.vb
-0a3c9228418f1821da115938da885ace1008a8c4cd0b82c217ca03c726649a09	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Bomberman Pack.vb
-912fa7821617169b2a625614677b69ac3ebf70029d527305fea5058fc8b38238	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Bonk's Revenge.vb
-485625ef653cdfbf6e1fc1112af11a7eb6c5d0f64c5acd5c0ca86d40b0bbde07	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Boulder Dash.vb
-9d9084f4318c01a2b5a0a486fc9a04dafcb0fb917d38a7f4edc48180a7834e89	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Bubble Bobble Pack.vb
-a8daedb3a07f07007ab016b70e72be424e842d1fad20c742877956d0760b489e	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Bugs Bunny Crazy Castle Pack (BB, BB2).vb
-725866780673b255d431a1facb05b95d3f745927e7b67a7944a5ce22b6993e66	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Burai Fighter.vb
-a45466df41e3960717d7474be3f8ac24b51a67b34dd58572257e1c13213d23c4	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Burger Time.vb
-4be71e68e385ff98604c3b0406349e78fac250828c91fdbafe4a800976bdd3dc	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Bust-A-Move Pack.vb
-28703b1451891bd7462fac4fb3d290736518e735dfa19096f4f76448cf1a4496	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Buster Bros.vb
-69daeeebe372e50e3b85c1baebc8a8386d30dced33efc79bdb16f0e6e26135dc	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Castlevania Pack.vb
-6fd6f1cef064f6901063c7cfd2bb329c53f89fb4781b8f4d0ada0df30a92eb88	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Catrap & Cave Noir.vb
-7cf6957db07120b412349f3e82bd2f4d19c523898ae8219e581699f32a9d9583	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Catrap, Cave Noir, Chalvo 55, Crayon-Shin, Princess Blobette.vb
-d03df65a150370226c4354782f98638ad76621d61bc8172050b39e25f4cb1599	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Centipede.vb
-b718008b2280d7b468774e26f82f19a6aab5dcc96c20d2ad036eb0aab72ed97f	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Chase H.Q. Pack.vb
-4024c7fa8ea52f3d2109de537c56caec34d46d9d38a1f0347ad900f4669e1187	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Chikyuu Kaihou Gun ZAS.vb
-086c8fbf76f24fe7c77fd72b5a680267c8206722497c3dbba16a022e721db6ba	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Contra Pack (Contras & Operation C).vb
-89c71a92b1ee533c19e36a57411b9031e008e556e970ca5ee490139f26b1334b	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Dig Dug.vb
-0544139c88c68d523dc507ee66112c3aeace8ac4843a387401bf65788d900e58	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Donkey Kong Pack.vb
-44e49a26a3f992f4da1265298234b9e99f88fc097e48e5b79dd2a7c679e63bf3	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Double Dragon Pack.vb
-588ae17b2b28c3df19ad7f59ea58d489f63d9462b00fa1339da6978934d502c1	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Dr. Mario.vb
-11b4267b41ac3fbb7de41c8b1dcd75ab9a3e293c9d7c9987b6737fcada68d878	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/DuckTales Pack.vb
-d6493f965404f1e44f53e518a1569e6e6a3f2f5c4b6d28aebc4867960794aba3	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Faceball 2000.vb
-74388c8a7f94bb6e7f2305c6b24970951c05e800e50801b945f988595b11dfd3	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Final Fantasy Pack (FFL3, FLA).vb
-b0d3f1b79d538d0ae487a20786522a509e8b458efccf139d241a10b22f0fb01d	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Galaga & Galaxian.vb
-3e797e621e6fe5439646340ff8574e2c5e96b2f849c3017fc0d5ba3aac326253	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Game & Watch Gallery.vb
-7a8ce7a8518fc63454ea22f744e418e38d2a52700a2a6b7a77e147842e9ecadd	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Game Boy Color Warning Screen.vb
-6e8b32664d40a1b3d6fb562b7e83d84c31652b930de70493915348eb007ecd71	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Gargoyle's Quest & Makai-Mura Gaiden.vb
-9af953829f7884acdb5735e1be5c33a5724e25d6201b8a718eb8f2dce80f3fe3	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Gradius.vb
-bf1c34eb4c8bcbef896938f36f3674d9d743a41590c6970c76656b9bfd568e25	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Harvest Moon.vb
-32923123359a3be920577995ccf47f21ea1e8130d3c918616d3ca7050311d653	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Hyper Lode Runner, Fortified Zone, Kid Dracula.vb
-119d792fb96375663591ded19ed8c766bc69d9ff78f22e145f965fa76f0e8b83	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/James Bond 007.vb
-60fba4925090b04f7da5ea6c1904efe1320a75bf1d83e42a8b968480bd731e38	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Kid Icarus.vb
-57ae8ac7d701a97680b6ec7625a1645b32acf7f8428a41e82fed9597f4b30427	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Kirby's Dream Land.vb
-eec713eeaa5e0255eb072d60c0cc2fec3f7afda397cf29aa8303191bd306d28a	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Legend of Zelda - Link's Awakening.vb
-845f962b8975c64078f61bcb4a70fad0a04d543ee3ba9b2dd78cb2f0d0c2ca26	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Mega Man Pack.vb
-f2f8ceac46c0bf8b62bbb930943a05caa2a150ae297c2eb0e8620e27706545ff	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Metroid II.vb
-5352497d6b4b30a7187ccddc3bbc0d1110610d39e102c6f4829cb643cee2433b	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Mickey Mouse Pack.vb
-69fe66f8aceeb134f55648f5f87209f46e4737e5de65fd2e4ea84ec61564b792	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Mole Mania, Rolans, Skate, Solomon, Spud, SwordHope, Tecmo, TripWorld.vb
-3e873bfe9dc3d2035141654179bc7af8bc4c2cadf45b4e16aa8fa4f07dd76dfb	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Nemesis Pack (N, N2).vb
-ff037a834b995d617ac63bcbf1d379f326f594623635d5c1feeb833ff6f976e5	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Ninja Gaiden Shadow.vb
-2aa804f17020cc0152a484814a9b05d749f1a29c77e8bf3439df6b18a46bfb4c	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Pac-Man Pack.vb
-bfb191e7d52137283b5a0f08dd27f6d6c898e42bfcf8ce1b9341e1868d0801d7	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Parodius.vb
-c00350026a5e303c8aa8352a2f283f0601a26822387383a34c8c38805f1ef98f	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/R-Type Pack.vb
-69879a0f6d2cd81ad7577cfaa16666f5029c20d9ba20f4e624723a445884bf47	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Shoot 'em Ups Pack A-F.vb
-8c09eb94a86b64b457ffca91a8cea8320e3857be1b460a6049ce080a1cf10601	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Shoot 'em Ups Pack G-S.vb
-c4776cb1935360f980de3c1056dde3982ea03cc52036ccdba7e6400398b09aba	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Shoot 'em Ups Pack T-Z.vb
-99cc06242d98fd57724e556fe8c4257cce620fe3afe62ee3d4c34d39644c0750	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/SolarStriker.vb
-2bfbf72451a37a33a27065053ae27c9041ef5e9c2c768acc2a7e6cbacf069675	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Super Mario Land Pack (SML, SML2).vb
-7c1c63701d5a3b117538288a34fb77e7ade4f47dc2c1100872962db38771bcb3	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/TaleSpin.vb
-97b1f231a1537e421c9ed7f92f833fcb052db06628b2699ce753d02c5ded380e	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Tetris Attack Pack.vb
-54f3f396413d72d5e72e8721d6e6efe83d12631b5513dbd5c7c638bf3270143d	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Tetris Pack (T, T2, TP).vb
-b2c71a6a02abffefaba089bdb9dcf6d81459d76de6eb7ea4493d230461b63e08	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/TMNT Pack (TMNT2, TMNT3).vb
-4f73b1d4e9e3fd04b15b3b78cc9918c11debe46d88482a2eab7a258bd8398611	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Turrican.vb
-5b3db0a04fe2c3b5e404c0d1038383a5a19114a251d58dd50ecbacd06b76a463	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Twinbee da!.vb
-de6e3c92be3a05ac19100f912b86a469340f0544fdeaae10339083e369574a1c	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Wario Land Pack (WL, WL2).vb
-c8497ee7a25d1eb7cf4ef1604b2fd7836a64c5c30e8334f7a48f1ed2a27b5cc1	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/1942 (USA, Europe).gbc
-3084b6715b509dbec81c377210a10e4196c3343e45a820db0493a23f53e9bf6f	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/@buildscript.bat
-1a3d55cd9f652fc939da2f421e3cf5dbae2c03b9746967a295505037b9dd4136	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/@README 160703.txt
-64cb462117937aa9eb329115f9ee8ffc08553a1395e57e0abcebfd5bc7f77b56	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/@SmokeMonster's Notes.txt
-e87c6ae49b2a67daa1b330552229a7db17844742cd8dc9a54dec2a491287652d	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/A-Force (Sachen 4-in-1 Vol. 6) (Unl) [!].gb
-52ee7edb02d42bfc7a9a5a52df082424cd8d9b3cbd2aa47fc84bd32f79cd059a	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/A-mazing Tater (USA).gb
-7771919d5f5a114fb8685345eab290be22e99c59d8798ed9c5f29e3079c11c56	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Adventure Island (USA, Europe).gb
-bbb38ee1e9877404dd999ef7067aa238a1039ca603b987f8adeff4488e318331	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Adventure Island II - Aliens in Paradise (USA, Europe).gb
-96ef801c2d22e3058493bb7b8f74f9a53b6d8caac63404c243f1bf4daeaa7f50	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/AdventureIsland.bat
-4c156c4d826b9cba5741feb621de60c6294adb36553fc43971794bd2a4ffb34a	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Adventures of Lolo (U) [S][!].gb
-7f1cca50c0eabf364297400d0b1ee10a4c02e45e145b16bc02b683f02015e8a7	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/AdventuresOfLoloPack.bat
-9d7e009a90473b95b8a7ba69f7cc9769f95d4cc5de0bf15666ca2b0be44f8da3	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Aero Star (Japan).gb
-cb1d45fca310ef4b7013d094663bddcd209362f272bb3e54ce10540828c8c212	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Aerostar (USA, Europe).gb
-308bcbe8efaf5a5b50dd277ae5ebdf02e01e5e71259a4a42a679c3ea74c825db	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/AeroStar.bat
-db4e590899aab75bceb31e84a2ec77c34b561838a61fd9dc9fda004a0507a01c	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Amazing Penguin (USA, Europe).gb
-7cebe1e446c56061f71e94b99cf6dfb7267cac0e21cb37b0f9a8118d5a127eb0	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Arcade Classic No. 2 - Centipede & Millipede (USA, Europe) (SGB Enhanced).gb
-5775aba89eea82bb2a3095e8590e7c552e458c93b6403dd985e3b3e646f190ab	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Arcade Classic No. 3 - Galaga & Galaxian (USA) (SGB Enhanced).gb
-b34d96392f38b6b7c5462ce166f26e5c42f356dff6cff74ef9ac3e940ad7c6de	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Asteroids (USA, Europe).gb
-2df8eb5d48a204d9609e0c12fed81304cc0b23421c5015ab2296d51ffc8b36ad	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Atomic Punk (USA).gb
-d3cba262ab83a3882e50963a57a77192231d225b122a3d6aa70eeea5743a4a3b	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/AtomicPunk.bat
-0d80b2ad776053f50c3eb0e0e32c675f24acf94923bf3ac4c156c7c28bc76a6e	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Avenging Spirit (USA, Europe).gb
-14da0097938ae89afebcc92952e8bed2ee1119bbffca21ef06b06c221f5280a6	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/AvengingSpirit.bat
-1b48b454bb421836c33c2d572c61f69145a077ebcecbf8194dfb05fc6581ff82	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Balloon Kid (USA, Europe).gb
-25284f12cbecc5b776c61b4efdeb30785373807875d5cf7a132e08b2586eada0	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/BalloonKid.bat
-152fc252bba7130e786d408eed310b3009b8e05834f8003dfbf514ec804cbaea	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Batman - Return of the Joker (USA, Europe).gb
-9ac1f4a299d32ba21cf65f67ab210afeb4c629adbd8e5779f76b6667ca3a0a4a	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Batman - The Animated Series (USA, Europe).gb
-d0e4ff010ab013e519abd9950ab465f3369c76e23d82927c0f39b5e259d4febf	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Batman - The Video Game (World).gb
-442d94316cf031ea096ea1f7df59ac2091844c1c1068616d17306db819bd3d10	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Batman Forever (USA, Europe).gb
-ca3764f3ffada2382fbc7d7c4b28017d01c7cf4ff92369983734bd1953ab1101	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/BatmanPack.bat
-519ca6523e54b67a4b4dcc7f525d56df986e0d77c84699dcf9e022f0ae6fbd0e	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Battle Arena Toshinden (USA) (SGB Enhanced).gb
-b9909506f566ea7998d6170e9610bad62dbda7d38e42830cd187592e262acfed	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Battle Unit Zeoth (USA, Europe).gb
-c38fc7e54ed27bd82c9829a6535f5be0d2ff81822863ab9c088bf345ab01b734	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/BattleCity (Japan).gb
-692e62d9e0048350256ee124d55c6ef225dc2bb54e0808fd882312d4dcaf0f28	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Bionic Commando (USA).gb
-03875101cb4ba06cd8c30260f9ed7d903924664c9af4979147df2c577ffc842c	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/BionicCommando.bat
-9338af642104f7f286687b2e6e55759917c0db35bc89ef398a92c18570bff681	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Blades of Steel (USA).gb
-583b4f695837620be37860fba7a40075e022b6337967a2364a7e4c246f75ce0f	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/BladesOfSteel.bat
-01bb3527ea235380895b8df07a864829b2ad9e399f8cd90bb816110e2bfb1693	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Blaster Master Boy (USA).gb
-84d6eeaf706185dad3621251ac118e6fd22f3fd6a5c64999d0984bfffaebe196	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Blaster Master Jr. (Europe).gb
-978700dbb860b5514f015f4d89dd6a84f934ae6a2ebb6256c1936f516815be90	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/BlasterMasterBoy.bat
-16d6a4650566ede0ec9e3e23a85544737faab4154d6381668e8547047340eee6	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Bomberman GB (USA, Europe) (SGB Enhanced).gb
-e07011acb2972ab16b364cab1af15c1071f664fe3d98a07cc1fdd59ff9bd5496	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Bomberman GB 3 (J) [S][T+Eng1.00_MakoKnight].gb
-8becea10f86da32dbe0d7a92a7a2adfc4306d8ed3ac1de72010dbd1a2f736761	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/BombermanPack.bat
-90b0621aa5579f969a61d99a782545aa23381050824e284c527001e7fa9bae57	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Bonk's Revenge (USA) (SGB Enhanced).gb
-b1fa9b794157c7783ec6d034de4d7873f0b04096b7fd5fa07305f79c71d34a10	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/BonksRevenge.bat
-3392d98b440bd9eb13a41b5ea374b83f061ba921311fd75fec16d86eb6d2e735	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Boulder Dash (Europe).gb
-c09bb9d1ad222e56c3201c2607d6c8f84eb099ef856de725c905a726f0513a74	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/BoulderDash.bat
-c5ddbb08e8509633853346c5f35850cc3abe5afaabb0d0ee294b40e804253b7f	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Bubble Bobble (USA, Europe).gb
-29f17b604be580c0132a6d0bd7a966c82930069ca82f83798c955d532c6b4694	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Bubble Bobble Part 2 (USA, Europe).gb
-106d5443e092df3dc53035930766061f1ae4eae670470a93d648dc1adcda01c0	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Bubble Ghost (USA, Europe).gb
-82cdf169edd6deedb2ca85dc9b46057a21726bfb637f2ea3ddabf2b16740aea8	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/BubbleBobblePack.bat
-63672eb96d8731485c6061794f9a7f8e09c16d9c19c06021736f43095f9d4a79	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/BubbleGhost-NotBooting.bat
-cf1a8d9c9d4fc9e58740f6e008e5280ff2831c099aecab642e64e5195c0ad0bc	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Bugs Bunny Crazy Castle 2, The (USA).gb
-a0bd5d25545de941e719437f7829f4edf32b3a140a399387f96dda2f8059fe4e	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Bugs Bunny Crazy Castle, The (USA, Europe).gb
-71fe4f638d7511b97468ac65554301514fb2dba11f5baa88b761621913589c96	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/BugsBunnyPack.bat
-704c24466e0f92e280073af3191dae54b842a8736281c697f8c9d1f35f91b065	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Burai Fighter Deluxe (USA, Europe).gb
-b8d21124da9dd44c24678c3692291e69559e52531fc95f9722fabae32b6ec5d6	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Burai Senshi Deluxe (Japan).gb
-885057e3d81b796a6159081ee9421425b0033770222621b8175c0fed573b1e58	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/BuraiFighter.bat
-2f4254faaa4bda89486c4820c601917cd034c7965eae075ba81acef4295fa8bd	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/BurgerTime Deluxe (World).gb
-09c68d2a478786787652a05108e51d2781739f8f76277f449eb3b693c45b15b6	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/BurgerTime.bat
-ebb1f595136c3954bb6797505af09693c438ea7afff1bba4f1d47093e226698c	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Bust-A-Move 2 - Arcade Edition (USA, Europe).gb
-d37f4baa6d1857606c5bd8569d6f013026509caf326766ce6908d8fd19eae238	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Bust-A-Move 3 DX (Europe).gb
-f3d1bccba0eba3dea2a0e7618b53e1bef86926c56e278f1b3d28825e4aa9a097	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Bust-A-Move 4 (UE) (Mono Hack).gb
-85d387e77cb6f1e283ac7deb3e35fa55fd95142da5102094c1b85a196cf846c2	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Bust-A-MovePack.bat
-2223993b7a91a5f2ccca1f43652df0062528e3fb37128f61a0ec8a779bcf65a1	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Buster Bros. (USA).gb
-a99ebc5035a6bc38e1e590edc7c6f959658f15dff2e8245fedfb9f23107bb78d	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/BusterBros.bat
-f4bf7173bcaad11d660fdaf4fc2a7441aaa41151c7259dd3d8dcbb497bd926b8	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Castlevania - Legends by Silver X (Speed (V1.1) Hack) [S].gb
-edb101e924f22149bdcbcfe6603801fdb4ec0139a40493d700fa0205f6dab30c	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Castlevania - The Adventure (USA).gb
-c078093d97e7c8b3503607672adc21106a96ffcae6aa284818fca3887f65aacb	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Castlevania Adventure, The (Graphics Improved Hack).gb
-17570ceec1b22153604622c4412d048dd8f7ccb4626daf9ddea96de8a062dbf2	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Castlevania II - Belmont's Revenge (USA, Europe).gb
-825b68f95c5a7d5a8f51ea5a329ea88d6c5c6c8e8aa5cec54a4bdfec0ec91067	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Castlevania II - Belmont's Revenge by Silver X (Speed (V1.1) Hack).gb
-56d3dee063b8801704a284bd1bc229b94f15a3a448f485d347f04283d9bd16d7	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Castlevania Legends (USA, Europe) (SGB Enhanced).gb
-ff2cb4ed8d840659c9ce8c5b4a9943dc97472a90347733326892870a9cdb7d89	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/CastlevaniaPack.bat
-e796fd4a0f61733b123332b4ec1bed1955dbd4e63a292d0f7703f11c3d23883a	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Catrap (USA).gb
-19254709af6f61f6648da441fa0b7058f245595e135c5c2d35b900046c251e81	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/CatrapPack.bat
-accaf2e9b3f4b2dc4c9b63f3442981b783014d89c643e397c0d7cd42eb35b854	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Cave Noire (english translation).gb
-2f83ab433323f4d08f111ace559a7e29d37ff33fe1ca9d726edd5bb98a854ec2	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Centipede (USA).gb
-c49c7a57c8aeec50f7ca3b736738921657ec0fdd50313fd975cced132490ee30	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Centipede (USA, Europe).gb
-a958e048df4960f1d349f8328ca1e42303a94d5b6dc76156364ce63a83e66037	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Centipede.bat
-4d980ae439a9288769d0f1e4d98ad61ecfd575b55c154abdfc88c2cb2fbc9401	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Chalvo 55 - Super Puzzle Action (J) [T+Eng1.0_lba].gb
-4424900339aad0514538250aaea1d407869dad2b0df7310b8ce778de8c35c5c3	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Chase H.Q. (USA, Europe).gb
-d69e86c82484df8f7225c0e273ed46296b539844805d084f1cc14a63e2b6a290	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/ChaseHQ.bat
-8b5f5f3f615136b83a5f8b60ba5cf1ba32048dd0a6ddfa127c1ad3a024c7de5b	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Chikyuu Kaihou Gun ZAS (Japan).gb
-66f1dff3d0920f992996a56b126c234014ed919963e621e62d6071864d58e08b	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/ChikyuuKaihouGunZAS.bat
-0b3aa116b78239191bc8ac07726b5600267f89e9d1312a08c8f7585db89b15a3	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Choplifter II - Rescue & Survive (USA).gb
-b856963ecabcd23ded711bcddd548aa9684c08ee2c19e8f00e00d4dfe56a46bb	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Choplifter III (Europe).gb
-8e765a4e381462a29632b7a3c5421080be3e8445e5913d7e904a8e80d688ca81	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Contra (Japan).gb
-d8e44a2c2aa67f9afa49365f62802160842aef48d2003a69daeb109813f6f20c	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Contra - The Alien Wars (USA) (SGB Enhanced).gb
-21d1c7f7a201168e3e0dde4631d772937a10614813d72a525883f343dad76da2	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Contra Spirits (Japan) (SGB Enhanced).gb
-ecf045659eede334f5a8341e9d73a4a1be21c8d58849cdfd6f6a06285ad2ac12	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/ContraPack.bat
-e0dafd8b66cc6c19c3b64471d198e1dc87f3e5e1000c4fd8d71122a004fea5ae	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Cosmo Tank (USA).gb
-0f15d92687983f32520d53b7af240a24bbb4fbfa509240a5f3b62ac4e065dd58	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Crayon Shin-chan 4 - Ora no Itazura Daihenshin (Japan) (SGB Enhanced).gb
-3c86f30b11442c93b011287310dfea0a9c23a182527d8447769226e52ef29d5e	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Crystal Quest (USA).gb
-435b1eb4fbe51261a886953e72a5a76e143ccb8cd2c0b065170bdadfdb1e1014	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Dan Laser (Sachen) [!].gb
-61d632a2e17526cc55cc8e107abaf9aa11830cd4dd94c0b0f94d10a12a0c9f71	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/David Crane's The Rescue of Princess Blobette Starring A Boy and His Blob (USA).gb
-5dc356538ee21a97b2283788ee1a0793ad0aab5dbb835dc9f5e2cbc17728d0ee	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Deep - Final Mission (Sachen) [!].gb
-93c392efb263474c3a40f0b71c131826aae0cf19f5ab58a5dd49e337486479c5	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Desert Strike - Return to the Gulf (USA) (SGB Enhanced).gb
-2d8fb80ece07198260fb47b6a2e8d0097e2d6ca27fb21bc3c439f90d7880317d	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Dig Dug (USA).gb
-9c58b9a38aeeb35efc43d67f115a55b527821faab57c173f3d844e03a9083e14	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/DigDug.bat
-b490c89efe718633b07381def66ce0ed58a5075aabe40c6e644baf2b408a76f4	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Donkey Kong (World) (Rev A) (SGB Enhanced).gb
-eaf831ddd75e7cbc9990e478a139ac162034c03377670fdb79615a9aa2cc570d	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Donkey Kong Land (USA, Europe) (SGB Enhanced).gb
-fa44d2fb383bd8bd2f1ed69a25a270e49bab384222c300414cfe52aaeb345085	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/DonkeyKong.bat
-75f902ab8674c3cd379438fbd54cfe7e87ca3ddf9727679547261d1b77db720b	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Double Dragon (USA, Europe).gb
-ba60449b8e57d1288e78a2cb69c6df46e1443cc611d139d27f4c5d5fad307fd3	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Double Dragon 3 - The Arcade Game (USA, Europe).gb
-21639689078496d4c2d000b120d493b69e7df603e5c2b5cd337974665e597878	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Double Dragon II (USA, Europe).gb
-256bfc052d9510438689391df1cee2ba4c9f4d4207f6fe8754edbb9df3869924	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/DoubleDragon.bat
-507939ba5a53506d0ee52abb0eb6749f497c492e8be79eb106010020b50065bd	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Dr. Mario (World) (Rev A).gb
-aba31e0e6c2d10a48df67fcbb26a85c9f6cfbda673567d7ff93f8ad0ca08cea5	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/DrMario.bat
-975c7f1ee6ab5d3d3fdf82f8788ed3646f27ee01ea2f1cef11f2999d97a32222	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Dropzone (Europe).gb
-8182c444dd9457c0396cb1b5b17aeaba0e8d428ac16599cd1d7528e3fe50314c	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/DuckTales (USA).gb
-0175d150df92e4e5823bf82b77eb27e44ba0ff83b63044c77f86d6973ac485ea	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/DuckTales 2 (USA).gb
-4cb84e6b83c7ea6ab6ea99e2b8e8c3180a9eb97e6d85ceca1626a60bd06a1360	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/DuckTalesPack.bat
-7689773cb3f483aa7bfcef61aa965041b3d11cd88642083992d50c0856dc9ddd	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Faceball 2000 (USA).gb
-2bbe8605a18f884dc239a9dfd5685d2f260d2bdb5a807169a75a275cd59211ac	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Faceball2000.bat
-95b7a3fbc6617c30f9e85ed139c35ee97cd47e06d7c7b4d2dd4843e01d8cd6b3	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Final Fantasy 4 (Unl).gb
-5a462f1bbb4e75823c04c7a0b2a7497cbe7e709a425854c71c1fc4d60f16f445	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Final Fantasy Adventure (USA).gb
-5ed87f65225b72a74c3c04a4e5d67683fb5cc33e5f1266157350828ab973fc1d	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Final Fantasy Legend III (USA).gb
-3441b2770738b8809e1c87090cf88e7ea0cb3d9cdba2be0b8540f41f618ba8e0	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Final Reverse (Japan).gb
-7e045374af686c8e8bd6621a8da91b4440532efd7111bd30b311fee9091aa3e8	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/FinalFantasyPack.bat
-06643cffc888b1c0c80ccae3cef66babb9b878ee594c29de8c9216bddd48287f	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Fortified Zone (USA, Europe).gb
-f1c1d33b4f7b4b3e53f49f64d0fe963d8fd66126ae2a92f96a7d08e3b9066da9	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Galaga.bat
-f2099eb0fc0bbee1351e4937be69d8e92410dfc23950b42bc45b9b9b3cb6c7df	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Game & Watch Gallery (USA) (Rev A) (SGB Enhanced).gb
-5f55a4637b640dd1ea8e2185b8e70f890e540d12e327094686e340c5dac7765c	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Game & Watch Gallery.bat
-b68baeaf179c220fd8a60b57cbc93aacad6e8aad09da58ba8215d521f2d062e4	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/GameBoyColorWarningScreen.bat
-50ee103dbb5f0bbeb13943e7caaa22bd13b189e6eb4411d5a42e32621416ad52	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Gamera - Daikai Jukuchuu Kessen (J) [S][T+Eng0.991].gb
-ad6f9fe97a40418279d3b834a64d9c6c52c0da209f430718f2bd02611892326f	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Gargoyle's Quest (USA, Europe).gb
-57a1c32c788abe643955222efb1d6cb27765cb04bdd8bb87ecb0bd15e1d1231e	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/GargoylesQuest&Makai-MuraGaiden.bat
-5a8161028e0fc52a1e0eedf5bc7db2715b20892a22422f1936f4a427835a3b92	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/gbemu.bin
-2ed249eb86d4fd01e10efd1787a545f4921c19dc0e00b5c516b8bbdfe4c4aedc	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Gradius - The Interstellar Assault (USA).gb
-5244c6712921b60681ad84afab861e2081dfe5fbab0225a519cc74512843435c	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Gradius.bat
-54fe95af5ded33631db84b6ba4ecc4a86f9f7528c9c56ca678150a3246d49623	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Harvest Moon GB (USA) (SGB Enhanced).gbc
-ffddbf49a14632b84cde11b6be4f6ac5c4dba21a287e6b88f3ec1bf4e9586df7	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/HarvestMoon.bat
-0ea3c547fb5f74c99cc721d45886ca0ad2fea032b6648a82046351251f754eae	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Hunt for Red October, The (USA, Europe).gb
-bc551a36b67b18b64a21320a51db6d2025930991437d15b5d53f1217a942bd0f	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Hyper Lode Runner (World) (Rev A).gb
-cc3bd127218bef4c94fe9521f93c6a2de1cd82a8c3fcb7e24ca0e37fdfa35f6c	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/HyperLodeRunnerPack.bat
-ad694ea6cec5c4ead3d680ed337aac6069ade98e8d7bd82b5f5086488c0e44eb	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Ikari no Yousai 2 (Japan) [T-En by Stardust Crusaders v1.00].gb
-69ae10262dd7c5f3e55ed94a2b549e47de4c9e2ba4c2fa022ef234a882890519	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/James Bond 007 (USA, Europe) (SGB Enhanced).gb
-a019ef725fb46cc4651ec5714718c63cb7653bf0c8748154863f82a4ad3afef5	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/JamesBond007.bat
-ab8a97f5cf17d6602ab108e9c3e53e8907a7e56c679750526d91bedf870a6c15	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Jungle Strike (USA, Europe).gb
-b0a1019b6199c923a6a764c15e7bf6d1bb0bef8a042c383f3e3ead74ab171ede	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Kid Dracula (USA, Europe).gb
-92c1fbf422abb8f09ca7fdbb563d1284108cc042e60e1222422986d9a59f9d97	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Kid Icarus - Of Myths and Monsters (USA, Europe).gb
-0ab0d2965d5ec61ebf688498e4746da2e12e59d6f7f98109a0b462f5159c7bbc	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Kid Icarus - Of Myths and Monsters DX by Redrum (Hack).gb
-96cc64df9852a60d5c367e115492faf07ffb2e8a13351ed093492683aa8cb3de	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/KidIcarus.bat
-0f6dba94fae248d419083001c42c02a78be6bd3dff679c895517559e72c98d58	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Kirby's Dream Land (USA, Europe).gb
-caae6f53a05095a1db26565d5863673e636ebc0d25bf16e66837d7c0f1abee57	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/KirbysDreamLand.bat
-ed42628d5cd8c73a6f8c6a8965f19674876a4fa04e616834e26b81b35963ad87	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev B).gb
-f3fd321b71863dad5a50f4613f1bb1dec7078cce3d578a09cacecf09a0e8c850	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Legend of Zelda, The - Link's Awakening DX (U) (V1.0) (SGB Mode Hack) [S].gb
-e11e8f4413b6d5589afc2d4baf6d6f1b6e5b44a63f15e4df6500be80a4594f92	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/LegendOfZelda-LinksAwakening.bat
-6931218ca343e5b3a1ccd19a43701091d0353817e2b5711a4a1354a646aaa209	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Makai-Mura Gaiden - The Demon Darkness (english transltion).gb
-33d16365318411f063edd9100c79458aabb7ea71bb1873e30f38b93814f0ec6e	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Mega Man - Dr. Wily's Revenge (USA).gb
-be3fc7ab2d7eb79a9e2538b090bdecc2694740f3beda933f34cb1e4059b10a11	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Mega Man II (USA).gb
-7344a36fcfc8151098238529218762e44c5a1546fab7e7fd5d32927e06cbf5a8	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Mega Man III (USA).gb
-4d980ca46a83cd127312dbc445ed1a83e97ed7a8026dce6fdd22a01b1895781b	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Mega Man IV (USA).gb
-37829346ad3ab7f4e8d65d5dbac15af1e54361a9f1ffa8f72d2fbf51a19bf79b	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/MegaManPack.bat
-302a7555c6cc066192f9bcf6b0d737dac38266fa3cbbc64a425213eb3a61bec5	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Mercenary Force (USA, Europe).gb
-3080bcc2eb9965de463f5f4e02f0dabbb13b060e1654a18da8b50948c10af4a6	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Metroid II - Return of Samus (World).gb
-15c388caaac2d05dd70e9de8375ca474cb37177a2639d5d2e529e4e9895bb5a9	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/MetroidII.bat
-bc14dac53de625535cc2825efa3d2399bf0c8c661f8a9417c4b97414a630cd0e	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Mickey Mouse - Magic Wands (USA, Europe) (SGB Enhanced).gb
-1dce8c46377219979672b54769c8d855d6708dfc263f142f61ddb97cdc78cc93	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Mickey Mouse II (Japan).gb
-1cead447fed8e01315c5a65961d478e7576e439affe43e5fbcca06e4520a027f	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Mickey Mouse IV (Japan).gb
-5f07cfef02d78f4982d0e4cbc93de977df6bf194a79d412cd5211f556bbe8c75	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Mickey Mouse V (Japan).gb
-fedb0c8100987cb466c116a3ac3a6572675b6aa721a7a8930cec1ae39f677bc6	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Mickey's Dangerous Chase (USA).gb
-ff49d2120f59b0ece23893c745d3fe348b7a2eed17b40449c37557bef8476052	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Mickey's Ultimate Challenge (USA, Europe).gb
-be55dc7a257a1e1acaf798aa7104e17ca46da02acaadd3225c92ed722ee01cfc	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/MickeyMousePack.bat
-f6d779c4882e032919903b4874dec1b6f06716911f77eb9f8acd1727215eb791	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Missile Command (USA, Europe).gb
-1c8b436fa73bf7f7053858c3a75f8c3995f22d7b3fdc2f232f54984f1e0d8401	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Mole Mania (USA, Europe) (SGB Enhanced).gb
-e2306aba94d83a2cd5301ca786db65802bd23ecc763c8c7ca46dc2c2479fc600	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/MoleManiaPack.bat
-21db857936d7eff3d57d576f0a01a52e012d0dcf5dc8f2a6cdb0e92a131a72b6	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Ms. Pac-Man (USA).gb
-58c4da647070388c9e77ddf1a0fce6777c63ff96efcd804d0917f555c3e02369	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Nemesis (USA).gb
-89fe8f0c84f938abc996e160e4820a9958c01191fd0868aacd439b3c93f51849	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Nemesis II - The Return of the Hero (Europe).gb
-db9c2f9194c2bfbebf612848130832aba101f0115c3215db0cb61129fdff66b1	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/NemesisPack.bat
-6fa34986ea46897216a8eda2a083affa490fd68b59134285596ed17f628728f7	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/New Batman Adventures, The - Chaos in Gotham (USA).gbc
-efc3b14064153fd16b690034c078188d7d1f424ad210b585aaa4e7b0f7f171ee	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Ninja Gaiden Shadow (USA).gb
-6b0bff5bb6adf29e942801fbb4bb3db77838e1cf4afd5c410acb7f699a50eecf	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/NinjaGaidenShadow.bat
-0b6670e44cc2edc6fbf32fc78f499e774cf0802019480f2bf7bdb836ee15c433	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Operation C (USA).gb
-0f174c449dfe690d722b9455d21250991dc5ba3b6560b697cb00a66571af18c0	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Pac-Attack (USA) (SGB Enhanced).gb
-d07986785d76db33e96ccbbe840ac962542f1c359e5b896e6478afd5cf9586b3	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Pac-Man (USA).gb
-181d88dcb02e472519f48c2c7f54c7074575922c8ce29e2eb8937303f61c025d	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Pac-ManPack.bat
-cbe25adb2ac89a6f3ebcb9fd9cb10ff1ee7b41965545bacdb5d8900d138bc73e	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Pang (Europe).gb
-3bcf1b2fe43907d96e58b9aca893a9124bfb3c35774926279f9368a975665086	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Parodius (Europe).gb
-87d3e8c8f6130730cea82a4a624fa605a899143f44e41d7fadfcf6644021d103	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Parodius Da! (Japan).gb
-335f415ccef76fe706327fc89577f2e53d240b5d80c87795527a2221168dd840	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Parodius.bat
-5a8c4b63bf198865a1eacaaf2072e54b2ad47895902aa87851db0e08887b69f0	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Penta Dragon (J) [T+Eng].gb
-401b65fbdcf5228ff63ae1d7578d7eb25db8b20fc8f74061ab927c9a5eb8f4f6	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Pocket Bomberman (Europe) (SGB Enhanced).gb
-cfff247d91c3c448d3588a5c5fc3ee4c19b0031e45679022bdbdadae6d545802	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Pop'n TwinBee (Europe).gb
-8cebc4b128b79dd1b53a5b5a99450bb2783b86840ec61b22e70245dd6df8c39b	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/R-Type (USA, Europe).gb
-2b059983d79efc5a4f77b41a4efbad68c65ae259715dc008f20a3c11226a943b	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/R-Type II (Europe).gb
-738de9340454fc87afa8a0e08437503e3c0d8f8851bd70ee326862720b75f0a2	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/R-TypePack.bat
-8718e1304d84d851a33a22f17f6e9cd46134426973111277dee7a396c88937e4	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Ray-Thunder (Japan).gb
-02673c553bc99394b34e3420630621a65c1f920a9e7b2ec97a1d838866353926	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/RoboCop (USA, Europe) (Rev A).gb
-cf3f8f41498cdd32f5b3ee0cdccde1901b073798f3edac1a7d9ccc0141cb16be	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Rolan's Curse II (USA).gb
-d64652ab68487a27e13c932685954b8c7ec4c38d0b9b4d722ce4dfe0f6c4d28f	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/rominjector.exe
-7ddb7a972c2aee5af6240f6f4cd46fcef68bfaebd5d68216c6712a42ebfa147b	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Sagaia - Darius (Japan).gb
-24a4ff14f8f90c7fdcb1a952396593ed706df171866372c2ae5cdb77b148806f	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/ShootEmUps_A-F.bat
-f58cb6737ce7f2799a11a3b0c97c091034f0fb902b5c10464680c6ceef89206e	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/ShootEmUps_G-S.bat
-7322653ba17b42ed1c3aa8dc9c49fac02db3c9b4ad6f04cc4e2b2058fe852355	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/ShootEmUps_T-Z.bat
-415a508f65b0a9ac2e060c973291a7f27b90de6dda8e172a2f0a11d12ad9abed	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Skate or Die - Bad 'N Rad (USA).gb
-fece5b09e599c1f8116602fcabd558cc8dbbfe1c6c253853c5e871b0d732c11c	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/SolarStriker (World).gb
-0deb52804e511d72f4b30c990afbae96a37e65ac4f3473991568a08a97affae9	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/SolarStriker.bat
-b876faa05d3fa8c9e6d2812a7e17cbc8be83463e1d1536f13e9719ba0e7108b5	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Solomon's Club (USA).gb
-1d272eb5ea816c24a6dc8a6c09e3068f1948a636bd9a7e4b7f9cb23aab609d79	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Space Invaders (USA) (SGB Enhanced).gb
-966883149824ad2542a03a6402278d1397cdf0cbc0a7ba8410265410426ebfb9	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Spud's Adventure (USA).gb
-3123e4bcd304d84819c589775db3bf4a2b4fa6d23209b3da691ea7eda6045037	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Star Hawk (Europe).gb
-49fbd2f61f953d5ef28cab73e357e524c3009ad19fcf30f6a9ee0ae273be41dc	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Super Mario Land (World) (Rev A).gb
-42045a1642f77b568534ab85b9db93c8a33d2b95c38ae84c987f497e8d52f97f	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev B).gb
-e1517cc2d44bbcde58ea547cc4a777b475b1ddd0770fe231e2c3c5331cf0d19e	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Super R.C. Pro-Am (USA, Europe).gb
-1c30faf1c60f5c6067e0fe61f9728dac6dad6269bf90ea9e9266ccc57feff549	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/SuperMarioLandPack.bat
-f18221aa90c27e32a83d18d3e068eeedc3876978500b8f7d06ebb1babcc9404e	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/SuperRCProAm.bat
-33c8a29f6677dafbc4b1f2ec41c5760acd67c1b86f0536ec178a7fc543ba7472	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Sword of Hope II, The (USA).gb
-4b34e5326b4bcf6e19e745a44f0dfe369c12ee147de23a31fc05ede150cbe83c	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Taito Chase H.Q. (Japan).gb
-96d65e9e53993c035018cfce76e8d5a619f0bb29103aaa6f81fd229e68b93f92	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Taiyou no Yuusha - Fighbird GB (Japan).gb
-f20ef9ae0cf8c19f78d1446aa0c66b8e6b9d3ad64d4824cbaad8ad471b4b9a7b	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/TaleSpin (USA).gb
-231f6f21b7c201fd86e5823eac439a03bc830d83088d5ffde8ddf4842c43beda	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/TaleSpin.bat
-b2588721a1a298cfbd1f2fca465ac70f0b2aa488fab8eed1b7f49cac592ac438	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Teenage Mutant Ninja Turtles II - Back from the Sewers (USA).gb
-95c804c1a851b502c15a3418eef75e491aec9371e2fb2a34e4aaa27b37e02023	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Teenage Mutant Ninja Turtles III - Radical Rescue (USA).gb
-0d6535aef23969c7e5af2b077acaddb4a445b3d0df7bf34c8acef07b51b015c3	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Tetris (World) (Rev A).gb
-2c3bc48a4ec9b6c640b83ce6524570f472db329d4a96d0b527b34abd42b7d695	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Tetris 2 (USA, Europe) (SGB Enhanced).gb
-b8765e752153310f835e10d6ceaee80b0e0913cdadf832b9516af8bf974e9666	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Tetris Attack (USA) (SGB Enhanced).gb
-252e9981ba15054b5b8e2eeab22ccbae7ac3cbe9d7cd7a895c75fb35054717f9	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Tetris Attack (USA, Europe) (Rev A) (SGB Enhanced).gb
-2526a8d3a5704d6bed3cd5cf64472ce77981f4adf98836066dcc19893c6053ce	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Tetris Plus (USA, Europe) (SGB Enhanced).gb
-d8353277c43579099f36046e170e126e4f2dfdb23077ce31f6a4c59419b23e6b	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/TetrisAttackPack.bat
-935387d8212444cbf800f2a541fe7cfc4436a2c7c16dc71c423fef6259decc94	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/TetrisPack.bat
-db8c1d919a7f793fe02baf40aefa37df8729774ee4bb5af742927802d22058a9	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/TMNTPack.bat
-1d11bcd2f9297da7be0308da771f3a0b1af76a460e9c1f4f1770595706e22bf8	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Tokyo Disneyland - Mickey no Cinderella-jou Mystery Tour (Japan) (SGB Enhanced).gb
-a8d9a65a523a5ff40c27d25f30a5eac19fc92edaf47e50b83387953b8083b47c	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Torpedo Range (USA).gb
-13a6106b5548261764b0f0d676b07265e6ed37b4cf2f85fc763b05dde749eb64	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Total Carnage (USA, Europe).gb
-1edb7f324fa5fd5d3a677e5aa4a7a64d702669fabe0c96a62f34322eda953ad6	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Trip World (Europe).gb
-327ff2f48830dcdafad25c188f84159b327b4f535c97f37acf0e5bf93e9cd25a	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/True Lies (USA, Europe).gb
-c1b0765cbfbd8f021891275fddf23fb73c5b0b40fdde4144781ed0bad7575e97	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Turrican (USA, Europe).gb
-4562e155c7ce48bf2c3c1926232040228cfb714847e3f370a5cdb2b5b1ce9914	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Turrican.bat
-ae479b7a1e185396fc714118975230defe5df9e8329e037db12b1596bd6d4d4e	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/TwinBee da!! (Japan).gb
-18951671890aaaeebe66d6ed36c466e0ffcf32d4bdcf5c5c64b5d8d2c5f2fb1c	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/TwinbeeDa.bat
-5dc5e2639cb40a7bbde7e2d6d2784e6ebb5b8b11091448f83bc93fdb3a2e260d	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Urban Strike (USA, Europe) (SGB Enhanced).gb
-27dd4ea8685c5fa48ad69d44f8eb980b13dc3074e1b573c542195a777ce4ef9e	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Vattle Giuce (Japan).gb
-a614390080c5a6c78664594d8546136ec9065747fbd063442ffed397015f47b1	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Volley Fire (Japan).gb
-1af2d4b29552fb2cf141955e1d77f8dd99e856b1f04fbff5240d5a1c3c2c41bf	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Wario Blast featuring Bomberman! (USA, Europe) (SGB Enhanced).gb
-ac1682f17abcf590311a233289ee325214c2d71ab3a5aa175004002d85075e56	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Wario Land - Super Mario Land 3 (World).gb
-e95a791b521c23792a3eecdaed73dfbcc98938980223796e6d2bbdf64f0fc63d	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Wario Land II (USA, Europe) (SGB Enhanced).gb
-57a912da1f9efda6b02cb3183876f7b29d200a43f6227ce30e3a17355e914997	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/WarioLand.bat
-d6b1e41a17244770ba3675efc73ea19cc049cb413bf6c29125b6983c6f800f61	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/X (Japan).gb
-3843f2cdb0746ff0cf7dc97e1aab4fc6a15219e7ac8e1970ead475a835c57aea	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Xenon 2 - Megablast (USA, Europe).gb
-d9812e59a4e24144d0485d75bd74881150e3397dddfe1708d986af9fc363bab7	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Yoshi no Panepon (Japan) (SGB Enhanced).gb
-2ce6b7d73c4fcdd28767845b1d9e64645186509ac10ba6f8e95b51c25145678d	O:/EverDrive/Virtual Boy/4 Game Boy Emulator/Scripts/Zoids Densetsu (Japan).gb
-119476f938555b56a330c20e1a1159be6c4d5d5991b7700addb73949e2b3cf13	O:/EverDrive/Virtual Boy/4 Hacks/Faceball Matej's Controls (Hack) v1 HorvatM_pad.vb
-7a90fbdd7eecb188b22a866b052dd154e4f3f952744dabeabc2c978d36f3fe38	O:/EverDrive/Virtual Boy/4 Hacks/Faceball Remastered (Hack) v1.vb
-e48460ef518c3f5416e57b8069702c1d3d490f958d8127ee3ae5ece3cbd94df7	O:/EverDrive/Virtual Boy/4 Hacks/Faceball Remastered+Controls (Hack) v1 thunderstruck, HorvatM 2013-03-13.vb
-a45999b5632bbe21d8d50d31390877415178265af38f3541466dc0dbb32bc6e5	O:/EverDrive/Virtual Boy/4 Hacks/Jack Bros. Debug Cheats (Hack) v1 Parasyte_pad.vb
-607ade302c085d3c6989b62824ee507cb98d811d58f3312f07011d13290e4101	O:/EverDrive/Virtual Boy/4 Hacks/Mansion of Insmouse All Hallows' Eve (Hack) Ben Stevens 2017-10-13.vb
-3a971160d52abae463984c81ab1690f8c1b49a708bbd6363f2e51eb4569f9791	O:/EverDrive/Virtual Boy/4 Hacks/Mansion of Insmouse Mario Madness Edition (Hack) v1 Ben Stevens_pad.vb
-2cdf4d337df89040ad9afdb39b4728d9f6b3a204b8108e90a58012baf2387f06	O:/EverDrive/Virtual Boy/4 Hacks/Mario Clash Controller Fix (Hack) v1 DogP_pad.vb
-40d5f52ba5d889eb8b147da92e74a8c8b3be15285dcf762361a7950d31848259	O:/EverDrive/Virtual Boy/4 Hacks/Mario Clash Level Select+Controller Fix (Hack) v1 DogP_pad.vb
-f2885140611c264d37f3f4bff83259fe475ee92e2582de2b454e560a294ed2de	O:/EverDrive/Virtual Boy/4 Hacks/Mario's Tennis Multiplayer (JU) v1 MK.vb
-355a784c3ebbc061c4860b2e5712c855231ef98136835d24e073a9c7e99dcc17	O:/EverDrive/Virtual Boy/4 Hacks/Panic Bomber Debug Menu (Hack) v1 Parasyte_pad.vb
-6651b7e40ce630771d432668b2fb8f26ada932cd135654db6f419128774cb1c8	O:/EverDrive/Virtual Boy/4 Hacks/Panic Bomber Stage Select Debug (Hack) v1 Parayste_pad.vb
-16a58fbe4c1daa40c20c73db388133540b941c6bfe8a5518aad7ad4956ca35fb	O:/EverDrive/Virtual Boy/4 Hacks/Red Alarm Debug JP Press Select 60 times, L+R+Select+A In-Game (Hack) v1 HorvatM_pad.vb
-f9b286555540f3be2da43c6665c3c4f29a6cef7013cc5d546b33d692c92dc290	O:/EverDrive/Virtual Boy/4 Hacks/Red Alarm Debug US Press Select 60 times, L+R+Select+A In-Game (Hack) v1 HorvatM.vb_pad.vb
-5488ed75c8ad45146cb047787b8a745b72cc75fd843872b797f14ffa8f2bbb14	O:/EverDrive/Virtual Boy/4 Hacks/Space Pinball Score Reset (Hack) v1 HorvatM.vb
-d80db37a43e32598c097bc3cc872151e0ff0b617e321e6346f334f7f903c8f30	O:/EverDrive/Virtual Boy/4 Hacks/Vertical Force Debug Menu (Hack) v1 Parasyte_pad.vb
-77c9ccda4879bf063ee5656e6c7663b64f48ad6032cb56bff6193108809a9209	O:/EverDrive/Virtual Boy/4 Hacks/Virtual Bowling Debug Menu (Hack) v1 Parayste_pad.vb
-3f5035110507dc3d074a0dd446b416a5c7acbc872d516f38964ddb9c69d2d2d8	O:/EverDrive/Virtual Boy/4 Hacks/Virtual League Baseball Select Any Team JP (Hack) v1 DogP.vb_pad.vb
-b381b489a31b18da649be47535adcc7571168adecaff03c32cc35acbccf2a51a	O:/EverDrive/Virtual Boy/4 Hacks/Virtual League Baseball Select Any Team US (Hack) v1 DogP_pad.vb
-ab072530906d4c2f35618da0c86c5009d23ba299b1950302ca1f4282a423e9c0	O:/EverDrive/Virtual Boy/4 Homebrew/3D Battlesnake - 2 Linked VBs Only (PD) Pat Daderko 2008_pad.vb
-4e041051d60d9ad5db163f7222e9f324a1f152837b67243fc3627545ec12afd5	O:/EverDrive/Virtual Boy/4 Homebrew/3D Crosswords (PD) Chris Read 2013_pad.vb
-7774c81cb78c2f2167016def3079c4dd7ba17d529e14b1995d63a980f7ab9d25	O:/EverDrive/Virtual Boy/4 Homebrew/Advanced Pasta Cooking Simulator (PD) HorvatM 2013-04-01.vb
-3b153435dbbe01884adc5e3b9d7035971a1c9bbb8459ca26d126fe160bdbdcec	O:/EverDrive/Virtual Boy/4 Homebrew/Blox (PD) v1.1  KR155E_pad.vb
-7a5e2f72da47da89ca86af2f50245f30a63bd59ac3083c7f5cdab76a26230eb5	O:/EverDrive/Virtual Boy/4 Homebrew/Blox 2 (PD) KR155E.vb
-ad80fcfe406d1b0bd73396a62d8911d18aacfb0b35711c385f91f7d6c0ac173b	O:/EverDrive/Virtual Boy/4 Homebrew/Capitan Sevilla 2 (PD) rubengar_pad.vb
-eb5a938ffd4f6fcef82dde730078da18ff8e4c7d6b6dfebc93702874c26bf103	O:/EverDrive/Virtual Boy/4 Homebrew/Castle of Doom (PD) Final VirtualChris_pad.vb
-ae928a28537116fb31fd14062986d9059340fa918ad6ab83e01916ab1d674be4	O:/EverDrive/Virtual Boy/4 Homebrew/Channel Sweeper (PD) Final Jose Zagal_pad.vb
-3d448c16759a66f00dc00e9122f1aa7d5beca023d1778b0935f8dee7bdf82301	O:/EverDrive/Virtual Boy/4 Homebrew/Daumen Kinosaurier (PD) v1 Virtual Freak.vb
-06738889b82d562b153d2f4c5f14685614942beadbe5e7e771f0f720bb7b9bd5	O:/EverDrive/Virtual Boy/4 Homebrew/Deathchase (PD) Matej Horvat & Amos Bieler 2014-02-28_pad.vb
-c963fd76739fe40de91431b15813b5079ab525d8b22d7ca3d4b28436a0ab5eba	O:/EverDrive/Virtual Boy/4 Homebrew/Etch-A-Sketch (PD) Pat Daderko_pad.vb
-401f3c0606f685060babd7cf3611a48fcbc84c4d5211da9bd0bf4aee28ecd88b	O:/EverDrive/Virtual Boy/4 Homebrew/Fishbone (PD) Final 3 thunderstruck, Virtual_Ben.vb
-a9543b9e99f1108e4924bd8f7af098fb2cfa4591981352ec21c4a2b2e6dd6c50	O:/EverDrive/Virtual Boy/4 Homebrew/Flappy Cheep Cheep (PD) Pat Daerko 2014-02-28_pad.vb
-62d411d56af9c65aa23bd290919b927a4b1ab575a39a7441edefffda6667f39c	O:/EverDrive/Virtual Boy/4 Homebrew/GameHero - Pad (PD) v1.1 thunderstruck.vb
-bb6657ae8592636ad8972bf6f96d7871d169871dd1ff0816c64a91817132d64d	O:/EverDrive/Virtual Boy/4 Homebrew/GoSub (PD) VirtualChris_pad.vb
-1b704aca127fa20ba6d0f3a93a52112856f0647ee3da6eedaae021164c35eb50	O:/EverDrive/Virtual Boy/4 Homebrew/GoSub 3D (PD) VirtualChris 2010_pad.vb
-7cb1d2d8ad694e984116561b61e2fcb108f59ccf0b407098fd2d45742b170944	O:/EverDrive/Virtual Boy/4 Homebrew/Hyper Fighting (PD) Demo 1 M.K., Mr. Anon.vb
-13a1e1a48d876adcfdc1df5139e68679127422290a8d91d1dc06a439e129689b	O:/EverDrive/Virtual Boy/4 Homebrew/Lights Out (PD) Guy Perfect_pad.vb
-08b9c39ced22e9239d68ec70769ada6161310ccb800df460ba0892897e3c7226	O:/EverDrive/Virtual Boy/4 Homebrew/Mandelbrot Explorer (PD) v1 Fwirt 2010-10-30_pad.vb
-410616294375bfea36573c98a8767a2697378aa53d325901fa3f7a3e4b357271	O:/EverDrive/Virtual Boy/4 Homebrew/Mario Combat (PD) thunderstruck 2014-02-28.vb
-367be59a795fae23670b569548bc803d42ed680530846a6ea32bd405fc785e7b	O:/EverDrive/Virtual Boy/4 Homebrew/Mario Kart Virtual Cup (PD) PVBCC DogP_pad.vb
-5f938ae29eed94b54e69db54f25e20bdfe1e8aa06e45fb62fe98266ca94894aa	O:/EverDrive/Virtual Boy/4 Homebrew/Mario VB (PD) v3.0.1 Jorgeche_pad.vb
-12c1d47a2285f1f70edecabd7cf01d388952d9fba3acb7dde1767501e7b688db	O:/EverDrive/Virtual Boy/4 Homebrew/PongInvaders (PD) usch_pad.vb
-42d055815586e94e9953911a9bee2976a6e067f53be82ad9ebe1831120f4fad0	O:/EverDrive/Virtual Boy/4 Homebrew/Simon! (PD) DogP_pad.vb
-86792d5a3d6795465be0a686aaa18688149d8d3b131e8c3064583a420460486e	O:/EverDrive/Virtual Boy/4 Homebrew/Snatcher (PD) Demo 1 thunderstruck.vb
-c3f64950c301283b01689a9a94f10bd82bc051233766f5bdc4f08ef7f7e7e1ca	O:/EverDrive/Virtual Boy/4 Homebrew/Soviet Union 2010 (PD) v1.2 HorvatM.vb
-a88986dd753bda4e6dd654e36d340b2bbdc29b950f47b5f30ffadb161025ae06	O:/EverDrive/Virtual Boy/4 Homebrew/Soviet Union 2011 (PD v1.2 HorvatM.VB
-16c667dd6d1148cd2a3c3d757250615e9d255665aeea207c32ac271c83256e29	O:/EverDrive/Virtual Boy/4 Homebrew/Super Bounce (PD) DogP_pad.vb
-9243233ddfc021c501ab2458cd43f2a2f781d10b93ea7ba3c4fa7ee401a8533e	O:/EverDrive/Virtual Boy/4 Homebrew/Tic Tac Toe (PD) Pat Daderko_pad.vb
-5c5648290ba86ea1392bab03cf28a3a9024236c1eed027fb2d5e6c4c967dbe62	O:/EverDrive/Virtual Boy/4 Homebrew/Tic Tac Toe - 2 Linked VBs Only (PD) DogP 2008-11-11_pad.vb
-e2b9b86b48a8c34db6ee66603f49ca4abddb4185a7ee70d15e26d8117c99c897	O:/EverDrive/Virtual Boy/4 Homebrew/Tic-Taco-Toe 'Ten (PD) VirtualChris_pad.vb
-1b3ffccbca4d4610a43d3b8436e9abcc1851642dfdbf834669ffc148b4b1ef58	O:/EverDrive/Virtual Boy/4 Homebrew/Tron VB - 2 Linked VBs Only (PD) Pat Daderko 2003_pad.vb
-7701e4c3576edb83adec6b2a3efa6208f33f6a04c8774416f3bb82d7fc732d82	O:/EverDrive/Virtual Boy/4 Homebrew/VB Racing - FlashBoy Version (PD) PVBCC MK_pad.vb
-81f55990f9a98b17044d945e0d45beb7b6977876993216942ffc286d4cb1e998	O:/EverDrive/Virtual Boy/4 Homebrew/Virtual Fall Coding Competition Multigame (PD) v1 thunderstruck 2015-03-01.vb
-621cdcf75b925c18c64522693eee4b27e75847614fc1cb3b3da94c96655b9b4a	O:/EverDrive/Virtual Boy/4 Homebrew/Virtual Pong (PD) Alberto Covarrubias_pad.vb
-1c5878662f2ca60bc8601ede6cd3cac55f675396152bc5fb60a25d1f8d8181e5	O:/EverDrive/Virtual Boy/4 Homebrew/VUE Snake (PD) v1.1 KR155E_pad.vb
-d5c3c0995ea574bcc22d646b4d4dc1e76bb7af7e15e7675be0299d6ca65bdae5	O:/EverDrive/Virtual Boy/4 Homebrew/VUE Snake RG2009 Edition (PD) KR155E_pad.vb
-4c34613dd1bb3e82433da128d417c139fb8909c89649137be84b65fd2681a743	O:/EverDrive/Virtual Boy/4 Homebrew/VUE Snake RG2010 Edition (PD) KR155E_pad.vb
-57a095b06de3c95574d48b2399e225732b93ba1ddc0aac3ec3d9583c5e016dbe	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Action 54! (PD) VirtualChris 2016-05-10_pad.vb
-6c1db8a62279a5c92a919294fe67213b0715f8c2e3a6173bd085f7616df9ab77	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Affine Demo 1 (PD) David Tucker_pad.vb
-a7564636f49a423ae89e0eb7b905d763420ccf1e3b303a146195012f1b496fe5	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Affine Demo 2 (PD) David Tucker_pad.vb
-a7564636f49a423ae89e0eb7b905d763420ccf1e3b303a146195012f1b496fe5	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Affine Mode Rotate Demo 2 (PD) David Tucker_pad.vb
-07d4f82fe214716e28930588a926830861618338341dd3c850cda2ce546d928c	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Ballface (PD) DanB.vb
-ca285ecf18e5e8ce15736d0b757df1f40a60f42c6688596870b340e368287539	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Castle of Doom Redux (PD) VirtualChris 2016-05-09_pad.vb
-e56e3cc637c1f92da8fbeb2630fdbaa297b4b05773f26598a2c956e35ac7ad6b	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Conway's Game of Life VB 4px (PD) thunderstruck 2012-12-31_pad.vb
-448c09147b8354f78ed05f7aa7d47e6f63a7588250c7ef018075c9df82f867c2	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Conway's Game of Life VB 8px (PD) thunderstruck 2012-12-31_pad.vb
-815b2c4cf2d2afe7f18f171e75dd5816248b7197c29e1bdc335c7e825585ecd4	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Conway's Game of Life VB Direct Screen Draw (PD) thunderstruck 2012-12-31_pad.vb
-ed21373d6ed16c80c793066f8c88f18b27822117f8b44153ef4c5b12903f167d	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Croach, The (PD) Cooler_pad.vb
-1053d037930036726f80f80981fbce4beb22375f18ecf89ff6bf8ba794db9c3b	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Dither Test (PD) blitter_pad.vb
-d559de5dbe8fe5796eada9df4749f6eddddd758ef34728e646e90b67a73ce306	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/F-Zero Maximum Velocity (PD) VF2013 Guy Perfect_pad.vb
-bb7baca0a3bf29bca82b8b2d2b5e4cc6a136c2f5f233b1fcbbb23d8c986b8389	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Framebuffer Drawing Demo (PD) Pat Daderko_pad.vb
-86717530e7bf0bad6556c62a07f64aa17f9d38867f0458b5208cf1e9a4022025	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/GLOW Demo (PD) KR155E_pad.vb
-4c5a8e105066a82961d477f9427d611970c9847c22e8a83eb992e52e464b506d	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Hello, World! Demo (PD) v1.1 Amos Bieler_pad.vb
-60c02282f65caa7e0dec750c839fdf3da3ade545227138572795660f90319bcf	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Hover Demo (PD) RunnerPack 2008-09-30.vb
-5e361c33d8a125830c5678fe8b6bb91182361e989990be754d4c44441159efbb	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Hunter (PD) DanB_pad.vb
-a4cf67c2bb09e262237b0344e3e327cd56784edff6b6021ffb92c785d0839717	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Man With Ball (PD) DanB.vb
-75b978bf8c8fafa0277090e402753da4ebed2fb74f8798c0d5b48ba6a8e9ab71	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Mario Flying Demo (PD) Frostgiant_pad.vb
-847398ccc4c786dac7c442b4c24a85b78a821e56b6a9312906f737ffa0f885ec	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Matrix, The (PD) Cooler_pad.vb
-490d4bfba62d00718dbfe96a95df8f36de2f5fa136e90dfea04f3e3f8701d166	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Metroid VB (PD) KR155E 2009-04-01.vb
-57fd56aad671df7d9e3c93433a02ebfcbdf37cf82f3a7ca81b0f8bbd41645f35	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Mode 7 Demo (PD) ex Alpha_pad.vb
-18aaf73963acee3e229bae87914e1c8302d1624bf566474453d11fda543b05db	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Multicolor Demo (PD) KR155E 2008-03-05_pad.vb
-213835b87f9f889b88cf31f628cfc98172ddfa503bd2d96d4757392b3b26f1e8	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Null Pointer Mockup (PD) KR155E 2015-11-16_pad.vb
-e2fb2697b918f5a8bebca72c2232ca33c39cb3d07b99470d0c7d92846dc5a4a9	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/OBJ Pointer Demo (PD) Dan Bergman_pad.vb
-6b4383bce73f9c7734a5c1856140355e757b37d823e56ee280be1229b28da8eb	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Pacman Demo (PD)_pad.vb
-d4a176a83e039bfa29ff7a58fdba2e4e6c3f1fcd7961472f87a68502dc813e3f	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Polygon Demo (PD)_pad.vb
-b4aec4ce8e2e6ed486d4358aeaae2d284c3b210952fd9cd16aca2cfa33e42814	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Project5 (PD) v2006-04-26_pad.vb
-c5a3ca97f8eae9fabb3dd563857e56d77446091eb60ce92df8ba01e3ed611beb	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Reality Boy Demo (PD) test2 David Tucker_pad.vb
-c5a3ca97f8eae9fabb3dd563857e56d77446091eb60ce92df8ba01e3ed611beb	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Reality Boy Demo 2 (PD) test2 David Tucker_pad.vb
-ad04223c9348ac3af79c6c9e2c832dbe7af7fa7d2478da1097490a3ffbc18d82	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Scaling Demo (PD) Parasyte_pad.vb
-cf88bc466202d5614a0ef0c38659228be503b5100c925fe8fed9759693e056b0	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Snowball Wars (PD) Demo 3 Jorgeche_pad.vb
-b4a6e37de4ed1f403fba68fb99cef3d5d303d939d19bd9ba8fa45b77dd3e8382	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/StarFox (PD) Greg Stevens_pad.vb
-c14f91adf563e962b14b2658bda95666e38ca3d0e56625c7714b343b0e185e7a	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Starwars (PD) Greg Stevens 2013-03-02_pad.vb
-41dc1801b4c3b14f18437bb4ec0df75d53caa93af96f12cd57212956170fa14c	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Super Fighter Demo (PD) KR155E_pad.vb
-7f76eb97e9191e14b6da361ed898646aa9a8cbf0d65727db46b2fdf547590d31	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/This Demo Owes ALOT to RunnerPack HelloWorld SpriteExam 3 (PD)_pad.vb
-665f18d8c24d3e2d540eb1898a5c800ea89e03b9a13bf050d3e55543095016b1	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Value (PD) v1 KR155E 2016-01-22_pad.vb
-7f3c8e7f05b5887c3e6bab86aa0992d554acd96661e0968b8679bc0aead63eb9	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/VB Rocks! Demo (PD) KR155E_pad.vb
-8a1b5fc3e65b6d636b64321557cd7dd16a4663550cde41899c53ce5421176c29	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/VBJaEngine Platformer Demo (PD) Jorgeche, KR155E 2016-03-03_pad.vb
-e09cfac78f002b33dfc2f06847c9a6deb1d53173b2be6c5876a9bfa20d1c31fb	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/VeeBee Cursor Demo (PD) David Williamson_pad.vb
-a8780aeeb7583d61dcad603f303a7d8b19b687bc95f787ef92cb64ae67d5eaad	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Virtual-E Cursor Demo (PD) Alberto Covarrubias_pad.vb
-75078d884798b3515dc3ae0b4b4e48005990848c3dec37dd54579d8ba6609260	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/VUEngine Platformer Demo (PD) 2017-08-10.vb
-3f99904113f05ed107597162bd8fc09bea61e30eb2b406117a77cef24082cb7a	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Wario Gonna Win Demo (PD)_pad.vb
-2466ebbe63e95f90bb9e4b69ed44d82c35ed44b8cca94e0c860850d84499ff65	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Water Ripple Demo - FlashBoy (PD) RunnerPack.vb
-364f25da49f6ee2759152807c15b89da9fbba3cbbf22086a31985e64eb9a2fa6	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Wavs (PD)_pad.vb
-595c12ddb956e4cb3d891938b68bec99ca5758aa9b5b0a42c5fec343240aa8bf	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Xmas 2012 Demo (PD) thunderstruck.vb
-68d3f52eb60a5f666cbdcf7d62e21ab0d19ace28286a8e88dcb55294e64cb05e	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Yeti3D (PD) Demo 2 DanB.vb
-a733c3bc6b7f41e8bb23d792abd579a54b03507d5109f9e5c18d3722f24f6379	O:/EverDrive/Virtual Boy/4 Homebrew/Demos & Intros/Zpace Racers (PD) DanB 2014-02-28_pad.vb
-824e9fcd67e76dec5d9e937babc791178d950fd5c1a6ad796b9578e78196de59	O:/EverDrive/Virtual Boy/4 Prototypes/Bound High! - Hardware Fix (J) BKCOL Fix v1 RunnerPack 2015-04-08.vb
-77f616c1bc1f1aae0ad290143e3954d6880a08bb84382148651de625c342c657	O:/EverDrive/Virtual Boy/4 Prototypes/Niko-chan Battle - Faceball (Japan) (Proto)_pad.vb
-ea77eacb93a109c23ca776b28bcbf681d25eec8ccff4a2609fb9011dc82af8d0	O:/EverDrive/Virtual Boy/4 Prototypes/Space Pinball (Unknown) (Proto).vb
-f994129493e1b58926ac20aa26d0accacc5ecaac6cfb3d26256e8fd9ff8559af	O:/EverDrive/Virtual Boy/4 Translations/SD Gundam English (J) T+Eng v1 Ben & Greg Stevens_pad.vb
-56593a43a5e46d35d4e97c6646e2d2fbf224955dd784be9a284faa6370a70f99	O:/EverDrive/Virtual Boy/4 Translations/Space Squash English (J) T+Eng Greg and Ben Stevens_pad.vb
-5aefadd58725363fe42e959db8d32be19041573a125e60af14eaa3bce4e000b1	O:/EverDrive/Virtual Boy/4 Translations/Teleroboxer German (JU) T+Ger 4b KR155E_pad.vb
-bfa724cce0fe0c87bac09e6d353a1e9a28cf40bb403a725bf0594ca6d89524d5	O:/EverDrive/Virtual Boy/4 Translations/Virtual Fishing English Edition (J) T+Eng v1 thunderstruck.vb
-447acedad9b621db7ac628af5b061c7de05677cf7e6eb9e69c1360d66efb752b	O:/EverDrive/Virtual Boy/5 Tools & Service Test Carts/BitString Demo (PD) Dan Bergman_pad.vb
-56ab85ce1075018716d35840aeef38e1bc329189939ed18dcb689abc994b582d	O:/EverDrive/Virtual Boy/5 Tools & Service Test Carts/Cycle Test (PD) Guy Perfect_pad.vb
-893f878bc30e7e1c2e5abb111c645bb65ccfd8d87c00f5124609781a833ada1e	O:/EverDrive/Virtual Boy/5 Tools & Service Test Carts/MIDI music player (PD) PVBCC Dan Bergman.vb
-e2fb2697b918f5a8bebca72c2232ca33c39cb3d07b99470d0c7d92846dc5a4a9	O:/EverDrive/Virtual Boy/5 Tools & Service Test Carts/OBJ Pointer Demo (PD) Dan Bergman_pad.vb
-b8f47bbd9726943108193f83e21825bc271326c97a3620f7714431e8a37270b5	O:/EverDrive/Virtual Boy/5 Tools & Service Test Carts/Speed Profiler (PD) Guy Perfect_pad.vb
-24e32ac85e95fccd9769dfe8f1b57aa2cf9820132b285df7c462c4b467f101c5	O:/EverDrive/Virtual Boy/5 Tools & Service Test Carts/VB Display Test App (PD) v1 DogP_pad.vb
-3fae5d603978f621f89e9b13923dcd32b04f99bef74aad4c4fd2afc17d9e1371	O:/EverDrive/Virtual Boy/5 Tools & Service Test Carts/VB Link Cable Test (PD) v1.vb
-1de3ddb5611a4503f3f91333b9985adc0218d3d018ff87efc10b91fc1414b790	O:/EverDrive/Virtual Boy/5 Tools & Service Test Carts/VB Programming Introductory Demo (PD) KR155E_pad.vb
-11f0414037fcce08537c03216e6f962dba6983f0670ae3dced91a4773a670729	O:/EverDrive/Virtual Boy/5 Tools & Service Test Carts/VB Sound Tester (PD) v1 Frostgiant_pad.vb
-274a8457d9ceb5aba70e223cb0c2afe592d4851189431db421b23640c3f39d05	O:/EverDrive/Virtual Boy/5 Tools & Service Test Carts/VSUWorkshop (PD) Guy Perfect 2016-01-10_pad.vb
-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	O:/EverDrive/Virtual Boy/unpadded/Pad ROMs smaller than 2MB for FlashBoy.txt
-23d8342a69548fc4c207aeb891e15a675d8c30c99253c17fd2c9441c9c94aefe	O:/EverDrive/Virtual Boy/unpadded/Pad_VB.exe
-76e3321e82ccb51db72090f3e8b289091c1f612afe795cc3badc804650adc15f	O:/EverDrive/Virtual Boy/unpadded/1 USA - A-Z/3-D Tetris (USA).vb
-83471721324e334b7a30b54f78305f31a0a5946b234c57b60e79d9d6912b47f3	O:/EverDrive/Virtual Boy/unpadded/1 USA - A-Z/Galactic Pinball (Japan, USA).vb
-56179970ec2f766b596b8cb18cf2bbefdabf78d7a4fbc580695ccb8e10aed0e7	O:/EverDrive/Virtual Boy/unpadded/1 USA - A-Z/Golf (USA).vb
-942bcab78d062b8eeb8362047fb7718bc40cdb83d3f5c8d9e2d1e3872a2dfd1a	O:/EverDrive/Virtual Boy/unpadded/1 USA - A-Z/Jack Bros. (USA).vb
-9f1baa93a805a4fc471860fb7c806bb7ac8c289ded77a78397ef8f964a11a396	O:/EverDrive/Virtual Boy/unpadded/1 USA - A-Z/Mario Clash (Japan, USA).vb
-5dc5e6b5d5f538f56b3b9727db1c7931d9dfe1bbd0743f698897e0fd90e70101	O:/EverDrive/Virtual Boy/unpadded/1 USA - A-Z/Mario's Tennis (Japan, USA).vb
-ce391aae5e672f3ca472efeaab985da8cee4a36fe068ed50489afa45aaeb5962	O:/EverDrive/Virtual Boy/unpadded/1 USA - A-Z/Nester's Funky Bowling (USA).vb
-e75e98add227ea9c2168ff13b131e3c72faa789e1ef4b9fdbae13d746ad9b3e3	O:/EverDrive/Virtual Boy/unpadded/1 USA - A-Z/Panic Bomber (USA).vb
-e53592a5eaf8f1d33bbb06a0389be685fdb8192454c826ed525d34bd27702e33	O:/EverDrive/Virtual Boy/unpadded/1 USA - A-Z/Red Alarm (USA).vb
-5bfdc99d6b5bdf32daf3c87e310aa078d6d51c733b02bbbf4042222578b60a36	O:/EverDrive/Virtual Boy/unpadded/1 USA - A-Z/Teleroboxer (Japan, USA).vb
-73b0d5b62c30ff1e3cc78e4c099dbdbda2517fa0ea02d6a8fb180894675c3216	O:/EverDrive/Virtual Boy/unpadded/1 USA - A-Z/Vertical Force (USA).vb
-abfb74c94c07808d368139db2e875cd91608f95e4ab892ac9b9d0442214c7198	O:/EverDrive/Virtual Boy/unpadded/1 USA - A-Z/Virtual Boy Wario Land (Japan, USA).vb
-eb3c0199cb949be474a70153ed6bfa575aef9600384855924c3eb4d884d12586	O:/EverDrive/Virtual Boy/unpadded/1 USA - A-Z/Virtual League Baseball (USA).vb
-9c21378c539e04b433ad8dc63a5e301025a1a19830effe94b827516ee58d4c56	O:/EverDrive/Virtual Boy/unpadded/1 USA - A-Z/Waterworld (USA).vb
-df48db37887c9ef2f30a3a2f486607a8c8633bba5163ea8c3b8e7cf49067ef7d	O:/EverDrive/Virtual Boy/unpadded/2 Japan - A-Z/Innsmouth no Yakata (Japan).vb
-1f7a1f7090e3867778ee2bf575b6983b1d27c1b2c911a04e9e996728ed5f7b30	O:/EverDrive/Virtual Boy/unpadded/2 Japan - A-Z/Jack Bros. no Meiro de Hiihoo! (Japan).vb
-52a215853f5f7a354376fb4c4ea4ac458a8c1d4472aa06fe1efdd924afdd5211	O:/EverDrive/Virtual Boy/unpadded/2 Japan - A-Z/Red Alarm (Japan).vb
-98d210dcbd1c5d836aa5bbf018eb26e971711b69b4423187bbb72178d5da9a92	O:/EverDrive/Virtual Boy/unpadded/2 Japan - A-Z/SD Gundam - Dimension War (Japan).vb
-d1cc03dc75c9778f9dc621253d8af7161e5d6a826569574b2be1adef7cc24732	O:/EverDrive/Virtual Boy/unpadded/2 Japan - A-Z/Space Invaders - Virtual Collection (Japan).vb
-7f6111f53730aa72ebcdc3883f323163cf6daae320692f9021f24d8ea76282ee	O:/EverDrive/Virtual Boy/unpadded/2 Japan - A-Z/Space Squash (Japan).vb
-3a9ec2ffebe507a38e4f4e47f6aa27c524f20fc722281e8b303c31f657de49cc	O:/EverDrive/Virtual Boy/unpadded/2 Japan - A-Z/T&E Virtual Golf (Japan).vb
-2f8b4121ea160e731f545956b557d6372de7582ecee4e21a79900d7cc6dbc148	O:/EverDrive/Virtual Boy/unpadded/2 Japan - A-Z/Tobidase! Panibon (Japan).vb
-3a6a24e9645a926a6a9d3c0cf97a854f9fcc5d19cf4ec3caa770c3e9f9d6ecad	O:/EverDrive/Virtual Boy/unpadded/2 Japan - A-Z/V-Tetris (Japan).vb
-398428d31ecf045775123ff552118ea2d15f1e2ef88c6c8f27452f39019ff547	O:/EverDrive/Virtual Boy/unpadded/2 Japan - A-Z/Vertical Force (Japan).vb
-54cd07d54a416ce2e56dab3ccd1172ad339c36485ae7a11f762186f60f69e9d3	O:/EverDrive/Virtual Boy/unpadded/2 Japan - A-Z/Virtual Bowling (Japan).vb
-3d62e53c4bcd45fbd22ab4b130ffbcb22cdb7b19faecbf5c8c8364d05628afdc	O:/EverDrive/Virtual Boy/unpadded/2 Japan - A-Z/Virtual Fishing (Japan).vb
-859909c9f67cbf58014b67fd3a79cf31e3866d6c301f112c901f4612b57a7e26	O:/EverDrive/Virtual Boy/unpadded/2 Japan - A-Z/Virtual Lab (Japan).vb
-5f1b6cc370956c47254c90d8ec46d6a7ae183543ac96220a7cdf1cd25f781db3	O:/EverDrive/Virtual Boy/unpadded/2 Japan - A-Z/Virtual Pro Yakyuu '95 (Japan).vb
-7774c81cb78c2f2167016def3079c4dd7ba17d529e14b1995d63a980f7ab9d25	O:/EverDrive/Virtual Boy/unpadded/4 Hacks/Advanced Pasta Cooking Simulator (PD) HorvatM 2013-04-01.vb
-98505ed75ea7de58ea2afe4b86137e7bd3c69e7a34fd3896fa76a81f9f97dbbd	O:/EverDrive/Virtual Boy/unpadded/4 Hacks/Faceball Matej's Controls (Hack) v1 HorvatM.vb
-7a90fbdd7eecb188b22a866b052dd154e4f3f952744dabeabc2c978d36f3fe38	O:/EverDrive/Virtual Boy/unpadded/4 Hacks/Faceball Remastered (Hack) v1.vb
-e48460ef518c3f5416e57b8069702c1d3d490f958d8127ee3ae5ece3cbd94df7	O:/EverDrive/Virtual Boy/unpadded/4 Hacks/Faceball Remastered+Controls (Hack) v1 thunderstruck, HorvatM 2013-03-13.vb
-cff42766fa476fbca9e948527b8a57e56f79889c3366ccc69a439ec24061eef3	O:/EverDrive/Virtual Boy/unpadded/4 Hacks/Jack Bros. Debug Cheats (Hack) v1 Parasyte.vb
-6a580c17c915be7b5464673567dd1241d6667e9e77c0db30a40f0bc2fc574828	O:/EverDrive/Virtual Boy/unpadded/4 Hacks/Mansion of Insmouse Mario Madness Edition (Hack) v1 Ben Stevens.vb
-ea88ffc5d8742897a6deeea2316d868fdffe4361cb5bb24d11620e1caed99326	O:/EverDrive/Virtual Boy/unpadded/4 Hacks/Mario Clash Controller Fix (Hack) v1 DogP.vb
-e7ae9c7a5afa95c72c27937559d518b34e2fb47da7e30d6fc5c779652ab3d059	O:/EverDrive/Virtual Boy/unpadded/4 Hacks/Mario Clash Level Select+Controller Fix (Hack) v1 DogP.vb
-f2885140611c264d37f3f4bff83259fe475ee92e2582de2b454e560a294ed2de	O:/EverDrive/Virtual Boy/unpadded/4 Hacks/Mario's Tennis Multiplayer (JU) v1 MK.vb
-77f69ddaf29f7c09e98f2283bd7c628f0185421d2ab288616b7effd34a4c521c	O:/EverDrive/Virtual Boy/unpadded/4 Hacks/Panic Bomber Debug Menu (Hack) v1 Parasyte.vb
-660316b2621f84f20a67589a69cbcd81cf789dadc9dbbe85f68453a6f5932e10	O:/EverDrive/Virtual Boy/unpadded/4 Hacks/Panic Bomber Stage Select Debug (Hack) v1 Parayste.vb
-73376002fa039b88bb2be32a2ec478a59bbdf09c570221cce5f968a467580e31	O:/EverDrive/Virtual Boy/unpadded/4 Hacks/Red Alarm Debug JP Press Select 60 times, L+R+Select+A In-Game (Hack) v1 HorvatM.vb
-e4a00af598ab7550052eca7a809a388166f6ffc87fbf1a9518d01119a0b27088	O:/EverDrive/Virtual Boy/unpadded/4 Hacks/Red Alarm Debug US Press Select 60 times, L+R+Select+A In-Game (Hack) v1 HorvatM.vb.vb
-5488ed75c8ad45146cb047787b8a745b72cc75fd843872b797f14ffa8f2bbb14	O:/EverDrive/Virtual Boy/unpadded/4 Hacks/Space Pinball Score Reset (Hack) v1 HorvatM.vb
-78e5b679c6c78fc03a893c485b2ade573bf7db6a75c083f94b9277a6be7c5fff	O:/EverDrive/Virtual Boy/unpadded/4 Hacks/Vertical Force Debug Menu (Hack) v1 Parasyte.vb
-a6ee27865ba70fe6810af74856fb7d0463fd92a3cc7ae31d88e1aa87be9d9516	O:/EverDrive/Virtual Boy/unpadded/4 Hacks/Virtual Bowling Debug Menu (Hack) v1 Parayste.vb
-7acc1d77f1fd4fb184cc278fe6f1eed8436545e93f645a9a1be387929be8d7a2	O:/EverDrive/Virtual Boy/unpadded/4 Hacks/Virtual League Baseball Select Any Team JP (Hack) v1 DogP.vb.vb
-e945324f67574b1534ebbc69fd51923176654ddba7250f1befa14c36cacb12ff	O:/EverDrive/Virtual Boy/unpadded/4 Hacks/Virtual League Baseball Select Any Team US (Hack) v1 DogP.vb
-89d7d6b83f24e7719349207842137dea2df6a65c25b3c53d6f67f75dc4b31ac5	O:/EverDrive/Virtual Boy/unpadded/4 Hacks/InsmEdit/Changes.txt
-e32d8bbe8e6985726742b496520fa47827f3b428648fa1bc34ecffdd9bdac240	O:/EverDrive/Virtual Boy/unpadded/4 Hacks/InsmEdit/COMDLG32.OCX
-02fc595ca75ee3d1cda7a64f8edfa5f77ba30b729c71ea156dc450ceb36edb60	O:/EverDrive/Virtual Boy/unpadded/4 Hacks/InsmEdit/Example.imp
-407da47d06f255ff8b5b7229a70e4bfb56a50609dd5499f30252b67c4d852c17	O:/EverDrive/Virtual Boy/unpadded/4 Hacks/InsmEdit/InsmEdit.exe
-8611dc1b60ae5c383bba6cb3ffd8a51aeebff23b95844f0ab3d6e5ecd0fadc84	O:/EverDrive/Virtual Boy/unpadded/4 Hacks/InsmEdit/msvbvm50.dll
-17ffe2c8d9c5e8f0a1ff851ef144d2979d0cd65b0ff2a6c0a8b076df335686c4	O:/EverDrive/Virtual Boy/unpadded/4 Hacks/InsmEdit/Readme.txt
-bbc3c22562660e1bba5bbf1d2603a611e557473862b31f2539c487252b9057d5	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/3D Crosswords (PD) Chris Read 2013.VB
-7774c81cb78c2f2167016def3079c4dd7ba17d529e14b1995d63a980f7ab9d25	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Advanced Pasta Cooking Simulator (PD) HorvatM 2013-04-01.vb
-bb69dab364fc96ed1bd93b3f633ff928baf568db66638b830b3060411e40b208	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Blox (PD) v1.1  KR155E.vb
-7a5e2f72da47da89ca86af2f50245f30a63bd59ac3083c7f5cdab76a26230eb5	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/BLOX 2 (PD) KR155E.vb
-c760dfc8fa676a6b127987f1e93dc24eb1c95d866736b2bc0a7a493a91f62189	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Capitan Sevilla 2 (PD) rubengar.VB
-e94e451b5029a3ec9f4200ebed4b30272a33087bb7e5bab9d16540d0a2cced2d	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Castle of Doom (PD) Final VirtualChris.vb
-385cada8b4dbef0e82c009cb1771c389295914190f98c44ca97d581bd2b37c08	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Croach, The (PD).vb
-3d448c16759a66f00dc00e9122f1aa7d5beca023d1778b0935f8dee7bdf82301	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Daumen Kinosaurier (PD) v1 Virtual Freak.vb
-1ff711ec90b67f632ab88ea215911f68382dc1d7e82318595c4e7dd3522c0fbb	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Deathchase (PD) Matej Horvat & Amos Bieler 2014-02-28.vb
-b50ca9e35b000a23985e06ec990967d1e39cc1729de38fa331e88891d9b12b93	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Etch-A-Sketch (PD) Pat Daderko.vb
-401f3c0606f685060babd7cf3611a48fcbc84c4d5211da9bd0bf4aee28ecd88b	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Fishbone (PD) Final 3 thunderstruck, Virtual_Ben.vb
-0d5b9bf40d69690cd6ce3058f661eadfb4b4bc383e191318bdcbf3036101ba39	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Flappy Cheep Cheep (PD) Pat Daerko 2014-02-28.VB
-62d411d56af9c65aa23bd290919b927a4b1ab575a39a7441edefffda6667f39c	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/GameHero - Pad (PD) v1.1 thunderstruck.vb
-51045151cb94bdcbdbbe24505da53f806c58396040efa1b008ba49cfa7ad3e31	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/GoSub (PD) VirtualChris.vb
-662135adf832b050f59b100d5ee2b2d4a77208bb918e462cb501c499c2ba621e	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/GoSub 3D (PD) VirtualChris 2010.VB
-7cb1d2d8ad694e984116561b61e2fcb108f59ccf0b407098fd2d45742b170944	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Hyper Fighting (PD) Demo 1 M.K., Mr. Anon.vb
-ab1e36a1a25c48cba51a108442de9fd5f25db52cc4a42152e50c9f912ca76c7c	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Lights Out (PD) Guy Perfect.vb
-530c79ae219e899ee9a9619fc82b1b576dd3e5c880e38e1fa2d6f94f5db65ca7	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Mandelbrot Explorer (PD) v1 Fwirt 2010-10-30.vb
-08b9c39ced22e9239d68ec70769ada6161310ccb800df460ba0892897e3c7226	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Mandelbrot Explorer (PD) v1 Fwirt 2010-10-30_pad.vb
-410616294375bfea36573c98a8767a2697378aa53d325901fa3f7a3e4b357271	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Mario Combat (PD) thunderstruck 2014-02-28.vb
-51a2479af2f0bda3a83665b5a24d97dc29859255f1cb96cc61e341c45a090f1a	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Mario Kart Virtual Cup (PD) PVBCC DogP.vb
-f3e5c78abd592457633983b4fcf480c0e2c985522299960e561dfeba95dff452	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Mario VB (PD) v3.0.1 Jorgeche.vb
-b577fe6e840ec23a2d493203b30997c24ab328cfad4b01b6c3b10e33d5687a68	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Matrix, The (PD) Cooler.vb
-490d4bfba62d00718dbfe96a95df8f36de2f5fa136e90dfea04f3e3f8701d166	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Metroid VB (PD) KR155E 2009-04-01.vb
-fb850b168ac4cfbbc4ae93971aa29f9242cb536c6455083a19e443e09d24d9a7	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/PongInvaders (PD) usch.VB
-e84478106911320abdb2522fa0eceb73e29f8fb1e40faf87e7dc577e0ea86ee8	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Simon! (PD) DogP.VB
-86792d5a3d6795465be0a686aaa18688149d8d3b131e8c3064583a420460486e	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Snatcher (PD) Demo 1 thunderstruck.vb
-c3f64950c301283b01689a9a94f10bd82bc051233766f5bdc4f08ef7f7e7e1ca	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Soviet Union 2010 (PD) v1.2 HorvatM.vb
-a88986dd753bda4e6dd654e36d340b2bbdc29b950f47b5f30ffadb161025ae06	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Soviet Union 2011 (PD v1.2 HorvatM.VB
-fad854381f92f1872324e135c9dec9c38ed9173472a3f103023f0bf5e8c21a47	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Super Bounce (PD) DogP.VB
-d456970bdbf419659682af85e0f8199da06d207a029ace8683476f6a2ff55bd8	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Tic Tac Toe (PD) Pat Daderko.vb
-c79a97e61e48c7ee8f57a97f171448b781ccd731074d3bd1ed82daac862961f6	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Tic Tac Toe - 2 Linked VBs Only (PD) DogP 2008-11-11.VB
-281f5841b18c32332d26e03a6eb187d7b9704de25a81bbcaae5e07d030ba0fae	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Tron VB - 2 Linked VBs Only (PD) Pat Daderko 2003.vb
-6f590323fa8b463e68eb23ce4abc3e2666d492be96dbfdd71933cbf1b91c31b0	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Tron VB - 2 Linked VBs Only (PD) Pat Daderko 2008.VB
-ae636aa744ff70de91c08017d7fd81471679ccfe21008e9854e135d6a5811c15	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/VB Racing - FlashBoy Version (PD) PVBCC MK.vb
-81f55990f9a98b17044d945e0d45beb7b6977876993216942ffc286d4cb1e998	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Virtual Fall Coding Competition Multigame (PD) v1 thunderstruck 2015-03-01.vb
-331f6792692c32238096cdec2593b3597d60a771d1e4810de457b828c8440b0b	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Virtual Pong (PD) Alberto Covarrubias.vb
-3a2a9de12b7fb38a10aba7ebbecdd93bf59c15be9b6792bd5e8dfe78e9899a4a	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/VSUWorkshop (PD) Guy Perfect 2016-01-10.vb
-faa75c6f47fdb051d5ee4d491cfd917b00cc3e6c976a05e290aa3acf5840c4df	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/VUE Snake (PD) v1.1 KR155E.vb
-d73fc048e8e2c10c001a4998da493dc358f1e1ac69f188c87d66f79a77b1e0c8	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/VUE Snake RG2009 Edition (PD) KR155E.vb
-0377c86593df76777a018d6768798756320a08560fd5e5a47180dd2aa41ae0bc	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/VUE Snake RG2010 Edition (PD) KR155E.vb
-647de359cd480712860dad25e1ce5f5b1871ac85a2e5b7b15eef8d56ee51b552	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Action 54! (PD) VirtualChris 2016-05-10.VB
-4cde6c336d30d08ed5764ed3996b1b860fc0cd3d2e7c9faa06362f3b49ea4f6a	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Affine Demo 1 (PD) David Tucker.vb
-7205c650abf23386a78d64abad79da1ec4b70ad142543a8f69c85973760a2dd6	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Affine Demo 2 (PD) David Tucker.vb
-7205c650abf23386a78d64abad79da1ec4b70ad142543a8f69c85973760a2dd6	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Affine Mode Rotate Demo 2 (PD) David Tucker.vb
-07d4f82fe214716e28930588a926830861618338341dd3c850cda2ce546d928c	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Ballface (PD) DanB.vb
-dd22c35808343ae5933aec1c1ccc15192796a764b365ab757b0ea0437c2a7b34	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Castle of Doom Redux (PD) VirtualChris 2016-05-09.VB
-ca285ecf18e5e8ce15736d0b757df1f40a60f42c6688596870b340e368287539	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Castle of Doom Redux (PD) VirtualChris 2016-05-09_pad.vb
-2e3224619c8ed6996d0724f8da31e7c11e33f39d86533b935b7def1b3e341de1	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Chrono Trigger Run (PD) Demo 2 MrSparkle.VB
-dc8a3afee643e09ab654f184a7dc3e69e64a7037f9f0922ac171f4f63a36aecb	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Conway's Game of Life 4px (PD) thunderstruck 2012-12-31.vb
-5040808e30112e628e7009fa0c9f80d421629325fedded4455fc6ec680cdc780	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Conway's Game of Life 8px (PD) thunderstruck 2012-12-31.vb
-fd77959273bdf28987fa1f4027467863138b280376fbc5e264512369bdfa15ab	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Conway's Game of Life Direct Screen Draw (PD) thunderstruck 2012-12-31.vb
-e56e3cc637c1f92da8fbeb2630fdbaa297b4b05773f26598a2c956e35ac7ad6b	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Conway's Game of Life VB 4px (PD) thunderstruck 2012-12-31_pad.vb
-448c09147b8354f78ed05f7aa7d47e6f63a7588250c7ef018075c9df82f867c2	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Conway's Game of Life VB 8px (PD) thunderstruck 2012-12-31_pad.vb
-815b2c4cf2d2afe7f18f171e75dd5816248b7197c29e1bdc335c7e825585ecd4	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Conway's Game of Life VB Direct Screen Draw (PD) thunderstruck 2012-12-31_pad.vb
-da5dea6c30e35a0d0e8387747573bf29863beda2db546389d06e70e35eb455ad	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Dither Test (PD) blitter.vb
-2bb77332b12adc6577a17dd713fb1a6b648d888c7e4ed59d7635c147c1bb8888	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/F-Zero Maximum Velocity (PD) VF2013 Guy Perfect.vb
-b2f045be2bf6ddada73ddfa703351a2461680f33fd4b03f6422142337e7779b3	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Framebuffer Drawing Demo by Pat Daderko (PD).vb
-f1548d5a0b40efc67976a7f80b930996fcb653d36c31d587a3d4a10f0d984262	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/GLOW Demo by KR155E (PD).vb
-9ef7c3ea1bac0a22c43a69d7176e87670b6e4efb43a6540bc62b247b5b7167ff	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Hello, World! Demo V1.1 by Amos Bieler (PD).vb
-60c02282f65caa7e0dec750c839fdf3da3ade545227138572795660f90319bcf	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Hover Demo (PD) RunnerPack 2008-09-30.vb
-5e30838a0b87817c79277a9fb058027f72082a11d212162d69d7541188604bd9	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Hunter (PD) DanB.vb
-a4cf67c2bb09e262237b0344e3e327cd56784edff6b6021ffb92c785d0839717	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Man With Ball (PD) DanB.vb
-b7a2229eb3edd2ffa99a324201df7f62e0fe7b9d75928c83e384c7fb0156aeff	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Mario Flying Demo by Frostgiant (PD).vb
-131ac2ef7d3e4e3d5ef44df81491d92a16bac517703e7a4e08278df78cc62d51	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Mode 7 Demo (PD) ex Alpha.vb
-eeba8a3f8e3e135d97ba27a97d6986333f4eeac90b656deb263f1c98f5bbbc64	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Multicolor Demo (PD) KR155E 2008-03-05.vb
-fedf89a853b6784a61aee76562853ac36fe0beaa4a00f33f3a4b8ea9b4ee7331	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Null Pointer Mockup (PD) KR155E 2015-11-16.vb
-213835b87f9f889b88cf31f628cfc98172ddfa503bd2d96d4757392b3b26f1e8	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Null Pointer Mockup (PD) KR155E 2015-11-16_pad.vb
-ec8bd8904497636d83142e245c66670e6f833c29ce4cb7201455f65035fa31f1	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/OBJ Pointer Demo by Dan Bergman (PD).vb
-64aeca8864fb86b9d5080ea08074e113c94d0525f011426fcf8b26d820d80176	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Pacman Demo (PD).vb
-b0b1481b90ee94803c914694854c1aa185851f955bf6fee0182ae8b02965bd21	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Polygon Demo (PD).vb
-723651dc9011cc2110e058354514800fd512601c3613279e818e908d01eed5b9	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Project5 (PD) v2006-04-26.vb
-28b0f1f2a3655aee02a107284fa3dcc82bc0112720036893d9defeb9fe3af98d	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Reality Boy Demo (PD) test2 David Tucker.vb
-3a5ad1a92720c1aabad90be675a5b87f15b89a3c3d072df4e2d1202288dfa959	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Reality Boy Demo 1 (PD).vb
-28b0f1f2a3655aee02a107284fa3dcc82bc0112720036893d9defeb9fe3af98d	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Reality Boy Demo 2 (PD) test2 David Tucker.vb
-28b0f1f2a3655aee02a107284fa3dcc82bc0112720036893d9defeb9fe3af98d	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Reality Boy Demo 2 (PD).vb
-a72017b4e9abf7a6ae75c2bf9d8f4d2dd2177a372386cffe4118402ae9816fdd	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Scaling Demo by Parasyte (PD).vb
-32bcfaf59348c603551996a5b822cf680bceeab37788d81deb8f9f2ec7fe8d2c	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Snowball Wars (PD) Demo 3 Jorgeche.vb
-25213d5ce14d708ae4ef5a3a8f44daf47e5a191b0ee7b67c74a3a7f124bc87ce	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/StarFox (PD) Greg Stevens.vb
-ef27eec53856cb69699b6477465f782f65148be795499c0d3d4c09b15b900589	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Starwars (PD) Greg Stevens 2013-03-02.vb
-8c2ea46d8248599931af836e4c9ef41b151b546b5bebd38cfe9db797cc8072e0	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Super Fighter Demo by KR155E (PD).vb
-89bbe26f9f35a7982de3c921034c39172e7b0f48580ea28b86308d102d948e0f	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/This Demo Owes ALOT to RunnerPack HelloWorld SpriteExam 3 (PD).vb
-1b3cee1434e378fa255a54ac803d11065a920ef2717d833a44b3e675f97eba92	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Value (PD) v1 KR155E 2016-01-22.vb
-665f18d8c24d3e2d540eb1898a5c800ea89e03b9a13bf050d3e55543095016b1	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Value (PD) v1 KR155E 2016-01-22_pad.vb
-629ce75f0954182b6894b2a67c99e0632a68d9adf1d6719f49f61deb378acb90	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/VB Rocks! Demo (PD) KR155E.vb
-629ce75f0954182b6894b2a67c99e0632a68d9adf1d6719f49f61deb378acb90	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/VB Rocks! Demo by KR155E (PD).vb
-678257b32af3b397564bb9ca59c51ca887030e51bc276df0ed7b1ca46358e8b2	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/VBJaEngine Platformer Demo (PD) Jorgeche, KR155E 2016-03-03.vb
-1d30b846d0289d927eba5fc37df08c0500903b9eac103d415874bae88cee1c70	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/VeeBee Cursor Demo (PD) David Williamson.vb
-1d30b846d0289d927eba5fc37df08c0500903b9eac103d415874bae88cee1c70	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/VeeBee Cursor Demo by David Williamson (PD).vb
-cea909ee968a7467ca3c03619f6d89506d8d13e287069c856410e998616e81bb	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Virtual-E Cursor Demo (PD) Alberto Covarrubias.vb
-cea909ee968a7467ca3c03619f6d89506d8d13e287069c856410e998616e81bb	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Virtual-E Cursor Demo (PD).vb
-75078d884798b3515dc3ae0b4b4e48005990848c3dec37dd54579d8ba6609260	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/VUEngine Platformer Demo (PD) 2017-08-10.vb
-52b52e2eaf39534c1d3ede79196d38496a2341179396b3d2140c233cd005650b	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Wario Gonna Win Demo (PD).vb
-2466ebbe63e95f90bb9e4b69ed44d82c35ed44b8cca94e0c860850d84499ff65	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Water Ripple Demo - FlashBoy (PD) RunnerPack.vb
-8a02431449b28e63174b831e10d1802cecd685f2ccd9a19569224f753ecf16be	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Wavs (PD).vb
-595c12ddb956e4cb3d891938b68bec99ca5758aa9b5b0a42c5fec343240aa8bf	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Xmas 2012 Demo (PD) thunderstruck.vb
-68d3f52eb60a5f666cbdcf7d62e21ab0d19ace28286a8e88dcb55294e64cb05e	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Yeti3D (PD) Demo 2 DanB.vb
-9789a647379b85ea0cc6e185eea3c77586e0129b568b15109966b7038da93bf7	O:/EverDrive/Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Zpace Racers (PD) DanB 2014-02-28.vb
-3addd5321c08c138724e68bfc4bdf23dcf2b2cf16ae3109fe4f802de7c39efd2	O:/EverDrive/Virtual Boy/unpadded/4 Prototypes/Bound High (Unknown) (Proto).vb
-824e9fcd67e76dec5d9e937babc791178d950fd5c1a6ad796b9578e78196de59	O:/EverDrive/Virtual Boy/unpadded/4 Prototypes/Bound High! - Hardware Fix (J) BKCOL Fix v1 RunnerPack 2015-04-08.vb
-ae35cc583482187045307a326edfc19887b8129c039166d80cd5c316524d89bf	O:/EverDrive/Virtual Boy/unpadded/4 Prototypes/Niko-chan Battle (Japan) (Proto).vb
-ea77eacb93a109c23ca776b28bcbf681d25eec8ccff4a2609fb9011dc82af8d0	O:/EverDrive/Virtual Boy/unpadded/4 Prototypes/Space Pinball (Unknown) (Proto).vb
-f994129493e1b58926ac20aa26d0accacc5ecaac6cfb3d26256e8fd9ff8559af	O:/EverDrive/Virtual Boy/unpadded/4 Translations/SD Gundam English (J) T+Eng v1 Ben & Greg Stevens_pad.vb
-3a3367e8dd8dcc74f906f4ad8e20b94a38f76a15fb6cf229b7fe541e5fcb3b78	O:/EverDrive/Virtual Boy/unpadded/4 Translations/Space Squash English (J) T+Eng Greg and Ben Stevens.vb
-5f530d20de8771c47a559c96eaff1d78c99923449dc3e2b1ae3d9e0fcf8398b4	O:/EverDrive/Virtual Boy/unpadded/4 Translations/Teleroboxer German (JU) T+Ger 4b KR155E.vb
-8c9305266eee51571ea6be1b5ddb4ecfe3a8fabcf82816870914de52f4ea9bfa	O:/EverDrive/Virtual Boy/unpadded/4 Translations/Virtual Fishing English Edition (J) T+Eng v.0.1 thunderstruck.vb
-3a8f8a0d4bf91ab2be33d6f68b67ac4fa51c06374e1927442d7dfe758dfb34fa	O:/EverDrive/Virtual Boy/unpadded/5 Tools & Service Test Carts/BitString Demo (PD) Dan Bergman.vb
-be6e73b89d5da8cbf1469c10c1e38e707325e8f5f7e6d03cc55f8762f667bd04	O:/EverDrive/Virtual Boy/unpadded/5 Tools & Service Test Carts/Cycle Test (PD) Guy Perfect.vb
-893f878bc30e7e1c2e5abb111c645bb65ccfd8d87c00f5124609781a833ada1e	O:/EverDrive/Virtual Boy/unpadded/5 Tools & Service Test Carts/MIDI music player (PD) PVBCC Dan Bergman.vb
-ec8bd8904497636d83142e245c66670e6f833c29ce4cb7201455f65035fa31f1	O:/EverDrive/Virtual Boy/unpadded/5 Tools & Service Test Carts/OBJ Pointer Demo (PD) Dan Bergman.vb
-26538f6bde35a6691aed4b3876241e9939559d10f712c440520a61d14c4adf87	O:/EverDrive/Virtual Boy/unpadded/5 Tools & Service Test Carts/Speed Profiler (PD) Guy Perfect.vb
-9d88cfd40c06fb4350f4070c1d46c11b633e8fcfd01f5df75621ea7bcbe5444b	O:/EverDrive/Virtual Boy/unpadded/5 Tools & Service Test Carts/VB Display Test App (PD) v1 DogP.vb
-3fae5d603978f621f89e9b13923dcd32b04f99bef74aad4c4fd2afc17d9e1371	O:/EverDrive/Virtual Boy/unpadded/5 Tools & Service Test Carts/VB Link Cable Test (PD) v1.vb
-5a55cee55d09f50645498f9dc5e550be642da55bcd8f06315661cc6fe6124bff	O:/EverDrive/Virtual Boy/unpadded/5 Tools & Service Test Carts/VB Programming Introductory Demo (PD) KR155E.vb
-4009d6881ec16e6c524dd633f84a16f2aba40ac1922ef0cf37c822f9b48cdfa2	O:/EverDrive/Virtual Boy/unpadded/5 Tools & Service Test Carts/VB Sound Tester (PD) v1 Frostgiant.vb
-274a8457d9ceb5aba70e223cb0c2afe592d4851189431db421b23640c3f39d05	O:/EverDrive/Virtual Boy/unpadded/5 Tools & Service Test Carts/VSUWorkshop (PD) Guy Perfect 2016-01-10_pad.vb
+348a85b1030056edb91b9411da8df01847f787e813be803efd315d3520849fc9	Virtual Boy/1 USA - A-Z/3-D Tetris (USA)_pad.vb
+1cd9578e4b237f107dbef8da5945ed25a9597bf2928102397e6bc5afe4c9e106	Virtual Boy/1 USA - A-Z/Galactic Pinball (Japan, USA)_pad.vb
+56179970ec2f766b596b8cb18cf2bbefdabf78d7a4fbc580695ccb8e10aed0e7	Virtual Boy/1 USA - A-Z/Golf (USA).vb
+052cb8e7fb6c18dbf9fc033af3103540b50cea3bbe5bc4cba133bdca2c05f1d9	Virtual Boy/1 USA - A-Z/Jack Bros. (USA)_pad.vb
+1584616feff220547cd91cbc9ccc5acf103a38c68f86326074b8c448a74e7418	Virtual Boy/1 USA - A-Z/Mario Clash (Japan, USA)_pad.vb
+69baed03319d80c2ed6cc95d149a331367a07158acb849103bcd41711d9ea393	Virtual Boy/1 USA - A-Z/Mario's Tennis (Japan, USA)_pad.vb
+ce391aae5e672f3ca472efeaab985da8cee4a36fe068ed50489afa45aaeb5962	Virtual Boy/1 USA - A-Z/Nester's Funky Bowling (USA).vb
+01be72ba46769dfb358cd4e7d282d6207bad3b1fcb23c78484c8eed9556484dd	Virtual Boy/1 USA - A-Z/Panic Bomber (USA)_pad.vb
+162f6a11b900e8d05b6eb738862e2d4cc59e08a9a6d8cde97fca62bd0377b542	Virtual Boy/1 USA - A-Z/Red Alarm (USA)_pad.vb
+ad452ef4b3600ab486367a7daed610672bba0090d55b2f9a389cf54d3d1e5362	Virtual Boy/1 USA - A-Z/Teleroboxer (Japan, USA)_pad.vb
+d6fdcf794cdfaeefbbb005debcc74b9a4ed5f46c256bef835641e5a1d3ceb62f	Virtual Boy/1 USA - A-Z/Vertical Force (USA)_pad.vb
+abfb74c94c07808d368139db2e875cd91608f95e4ab892ac9b9d0442214c7198	Virtual Boy/1 USA - A-Z/Virtual Boy Wario Land (Japan, USA).vb
+ee120ee0f1d2f1420e0dd31b218d75c9a6484721211ec65d832cdb67bb5eb9e3	Virtual Boy/1 USA - A-Z/Virtual League Baseball (USA)_pad.vb
+9c21378c539e04b433ad8dc63a5e301025a1a19830effe94b827516ee58d4c56	Virtual Boy/1 USA - A-Z/Waterworld (USA).vb
+7b056b3c565e8ebc4d7610fd923e79926d3c9fe76543dd0e3891a3cc951d1cdd	Virtual Boy/2 Japan - A-Z/Innsmouth no Yakata (Japan)_pad.vb
+09c14853c5fda456c5f3f913e164d7718c615e78430d1eae0d5e47f71447f978	Virtual Boy/2 Japan - A-Z/Jack Bros. no Meiro de Hiihoo! (Japan)_pad.vb
+4e333e4af0353b1382920313e83fb6ad7504648d08831fb260af9bf5d2f7efc5	Virtual Boy/2 Japan - A-Z/Red Alarm (Japan)_pad.vb
+cf68c6198f157cf616791cec92a95387c30c9dbec745f8065b20aef87b0b5d4d	Virtual Boy/2 Japan - A-Z/SD Gundam - Dimension War (Japan)_pad.vb
+4a09e0347c36642a60b4c8b888c3d0f0d3d3a3a266b04293cca5dfc1bceb5469	Virtual Boy/2 Japan - A-Z/Space Invaders - Virtual Collection (Japan)_pad.vb
+df321078639993be9bfc35b6c52edad2055676e180eb2133949af3b8ae825bf4	Virtual Boy/2 Japan - A-Z/Space Squash (Japan)_pad.vb
+3a9ec2ffebe507a38e4f4e47f6aa27c524f20fc722281e8b303c31f657de49cc	Virtual Boy/2 Japan - A-Z/T&E Virtual Golf (Japan).vb
+69d266319c39928ee8e6cb6f00180ee26f86f535019dbd542983aca88f06cf79	Virtual Boy/2 Japan - A-Z/Tobidase! Panibon (Japan)_pad.vb
+2b178cb01d631a98c957df37a8b86a29b436550901dcbbbad1add44016b5a630	Virtual Boy/2 Japan - A-Z/V-Tetris (Japan)_pad.vb
+6d7ff8871ee88fb64d0f93742c5f62212b84166ecb46322e4e674fe5fde82cb1	Virtual Boy/2 Japan - A-Z/Vertical Force (Japan)_pad.vb
+900c447d0be5b2fa0634546287ff872eb55c8a7cbcce746c0c9e1cc9a24f4008	Virtual Boy/2 Japan - A-Z/Virtual Bowling (Japan)_pad.vb
+f92a74ed147677757ce63a2b7d48554148ae810d01e42cf82f23f644d7c75c17	Virtual Boy/2 Japan - A-Z/Virtual Fishing (Japan)_pad.vb
+6861afaf33b1f17f98dee48e638352162d3cb4f7ec2cbabfca43fb1776d34d4c	Virtual Boy/2 Japan - A-Z/Virtual Lab (Japan)_pad.vb
+6ad44bd28ad87a7e856a30053e2b27afe0def98f380f633580228d3a9884a8ca	Virtual Boy/2 Japan - A-Z/Virtual Pro Yakyuu '95 (Japan)_pad.vb
+924f8af2f179953e26fe97a0e605ed37486766ab0585952debee0b6c75155e68	Virtual Boy/4 Game Boy Emulator/Adventure Island Pack.vb
+a9a5003ba4a89f9ce9f82c52b9d263ca20e7b0901c7a6540330019dcb02b03a2	Virtual Boy/4 Game Boy Emulator/Adventures of Lolo, Amazing Penguin, Tater, Toshinden.vb
+b251bd26df19b17f44fe978aa97e5919d59c110fccf473b6692ea91cb9aff217	Virtual Boy/4 Game Boy Emulator/Aero Star Pack.vb
+690f0737f238a7e64e615a5ccf481af139da4c5b8adac4756e3d3a27a3548709	Virtual Boy/4 Game Boy Emulator/Atomic Punk.vb
+3f6ec267a4ed7780b683bd26dde6328bf225630eb50d0bf1e424e88123d11920	Virtual Boy/4 Game Boy Emulator/Avenging Spirit.vb
+3358656c9dfbbedb85a2c2a44cf1f27ce81daab5ad4a42bf1bfa8bd04ff1bf7d	Virtual Boy/4 Game Boy Emulator/Balloon Kid.vb
+7100e65debaf76c0c9182dab6bb6263f52774a7dd82f717afe7d860aa9064b96	Virtual Boy/4 Game Boy Emulator/Batman Pack.vb
+9fb80c74c68f9544e88436fe16d9e27c8b1b69e2cf744fcbf7c58399ed5143cd	Virtual Boy/4 Game Boy Emulator/Bionic Commando.vb
+5a7b07b43c1795d4ceb1e06fe463018839360882676ad0c3e2fdb9190649b648	Virtual Boy/4 Game Boy Emulator/Blades of Steel.vb
+45ca2faa2fd012b6ddc0617351dcce2b8c895a375a607754850f623d2b9e20ce	Virtual Boy/4 Game Boy Emulator/Blaster Master Boy.vb
+0a3c9228418f1821da115938da885ace1008a8c4cd0b82c217ca03c726649a09	Virtual Boy/4 Game Boy Emulator/Bomberman Pack.vb
+912fa7821617169b2a625614677b69ac3ebf70029d527305fea5058fc8b38238	Virtual Boy/4 Game Boy Emulator/Bonk's Revenge.vb
+485625ef653cdfbf6e1fc1112af11a7eb6c5d0f64c5acd5c0ca86d40b0bbde07	Virtual Boy/4 Game Boy Emulator/Boulder Dash.vb
+9d9084f4318c01a2b5a0a486fc9a04dafcb0fb917d38a7f4edc48180a7834e89	Virtual Boy/4 Game Boy Emulator/Bubble Bobble Pack.vb
+a8daedb3a07f07007ab016b70e72be424e842d1fad20c742877956d0760b489e	Virtual Boy/4 Game Boy Emulator/Bugs Bunny Crazy Castle Pack (BB, BB2).vb
+725866780673b255d431a1facb05b95d3f745927e7b67a7944a5ce22b6993e66	Virtual Boy/4 Game Boy Emulator/Burai Fighter.vb
+a45466df41e3960717d7474be3f8ac24b51a67b34dd58572257e1c13213d23c4	Virtual Boy/4 Game Boy Emulator/Burger Time.vb
+4be71e68e385ff98604c3b0406349e78fac250828c91fdbafe4a800976bdd3dc	Virtual Boy/4 Game Boy Emulator/Bust-A-Move Pack.vb
+28703b1451891bd7462fac4fb3d290736518e735dfa19096f4f76448cf1a4496	Virtual Boy/4 Game Boy Emulator/Buster Bros.vb
+69daeeebe372e50e3b85c1baebc8a8386d30dced33efc79bdb16f0e6e26135dc	Virtual Boy/4 Game Boy Emulator/Castlevania Pack.vb
+6fd6f1cef064f6901063c7cfd2bb329c53f89fb4781b8f4d0ada0df30a92eb88	Virtual Boy/4 Game Boy Emulator/Catrap & Cave Noir.vb
+7cf6957db07120b412349f3e82bd2f4d19c523898ae8219e581699f32a9d9583	Virtual Boy/4 Game Boy Emulator/Catrap, Cave Noir, Chalvo 55, Crayon-Shin, Princess Blobette.vb
+d03df65a150370226c4354782f98638ad76621d61bc8172050b39e25f4cb1599	Virtual Boy/4 Game Boy Emulator/Centipede.vb
+b718008b2280d7b468774e26f82f19a6aab5dcc96c20d2ad036eb0aab72ed97f	Virtual Boy/4 Game Boy Emulator/Chase H.Q. Pack.vb
+4024c7fa8ea52f3d2109de537c56caec34d46d9d38a1f0347ad900f4669e1187	Virtual Boy/4 Game Boy Emulator/Chikyuu Kaihou Gun ZAS.vb
+086c8fbf76f24fe7c77fd72b5a680267c8206722497c3dbba16a022e721db6ba	Virtual Boy/4 Game Boy Emulator/Contra Pack (Contras & Operation C).vb
+89c71a92b1ee533c19e36a57411b9031e008e556e970ca5ee490139f26b1334b	Virtual Boy/4 Game Boy Emulator/Dig Dug.vb
+0544139c88c68d523dc507ee66112c3aeace8ac4843a387401bf65788d900e58	Virtual Boy/4 Game Boy Emulator/Donkey Kong Pack.vb
+44e49a26a3f992f4da1265298234b9e99f88fc097e48e5b79dd2a7c679e63bf3	Virtual Boy/4 Game Boy Emulator/Double Dragon Pack.vb
+588ae17b2b28c3df19ad7f59ea58d489f63d9462b00fa1339da6978934d502c1	Virtual Boy/4 Game Boy Emulator/Dr. Mario.vb
+11b4267b41ac3fbb7de41c8b1dcd75ab9a3e293c9d7c9987b6737fcada68d878	Virtual Boy/4 Game Boy Emulator/DuckTales Pack.vb
+d6493f965404f1e44f53e518a1569e6e6a3f2f5c4b6d28aebc4867960794aba3	Virtual Boy/4 Game Boy Emulator/Faceball 2000.vb
+74388c8a7f94bb6e7f2305c6b24970951c05e800e50801b945f988595b11dfd3	Virtual Boy/4 Game Boy Emulator/Final Fantasy Pack (FFL3, FLA).vb
+b0d3f1b79d538d0ae487a20786522a509e8b458efccf139d241a10b22f0fb01d	Virtual Boy/4 Game Boy Emulator/Galaga & Galaxian.vb
+3e797e621e6fe5439646340ff8574e2c5e96b2f849c3017fc0d5ba3aac326253	Virtual Boy/4 Game Boy Emulator/Game & Watch Gallery.vb
+7a8ce7a8518fc63454ea22f744e418e38d2a52700a2a6b7a77e147842e9ecadd	Virtual Boy/4 Game Boy Emulator/Game Boy Color Warning Screen.vb
+6e8b32664d40a1b3d6fb562b7e83d84c31652b930de70493915348eb007ecd71	Virtual Boy/4 Game Boy Emulator/Gargoyle's Quest & Makai-Mura Gaiden.vb
+9af953829f7884acdb5735e1be5c33a5724e25d6201b8a718eb8f2dce80f3fe3	Virtual Boy/4 Game Boy Emulator/Gradius.vb
+bf1c34eb4c8bcbef896938f36f3674d9d743a41590c6970c76656b9bfd568e25	Virtual Boy/4 Game Boy Emulator/Harvest Moon.vb
+32923123359a3be920577995ccf47f21ea1e8130d3c918616d3ca7050311d653	Virtual Boy/4 Game Boy Emulator/Hyper Lode Runner, Fortified Zone, Kid Dracula.vb
+119d792fb96375663591ded19ed8c766bc69d9ff78f22e145f965fa76f0e8b83	Virtual Boy/4 Game Boy Emulator/James Bond 007.vb
+60fba4925090b04f7da5ea6c1904efe1320a75bf1d83e42a8b968480bd731e38	Virtual Boy/4 Game Boy Emulator/Kid Icarus.vb
+57ae8ac7d701a97680b6ec7625a1645b32acf7f8428a41e82fed9597f4b30427	Virtual Boy/4 Game Boy Emulator/Kirby's Dream Land.vb
+eec713eeaa5e0255eb072d60c0cc2fec3f7afda397cf29aa8303191bd306d28a	Virtual Boy/4 Game Boy Emulator/Legend of Zelda - Link's Awakening.vb
+845f962b8975c64078f61bcb4a70fad0a04d543ee3ba9b2dd78cb2f0d0c2ca26	Virtual Boy/4 Game Boy Emulator/Mega Man Pack.vb
+f2f8ceac46c0bf8b62bbb930943a05caa2a150ae297c2eb0e8620e27706545ff	Virtual Boy/4 Game Boy Emulator/Metroid II.vb
+5352497d6b4b30a7187ccddc3bbc0d1110610d39e102c6f4829cb643cee2433b	Virtual Boy/4 Game Boy Emulator/Mickey Mouse Pack.vb
+69fe66f8aceeb134f55648f5f87209f46e4737e5de65fd2e4ea84ec61564b792	Virtual Boy/4 Game Boy Emulator/Mole Mania, Rolans, Skate, Solomon, Spud, SwordHope, Tecmo, TripWorld.vb
+3e873bfe9dc3d2035141654179bc7af8bc4c2cadf45b4e16aa8fa4f07dd76dfb	Virtual Boy/4 Game Boy Emulator/Nemesis Pack (N, N2).vb
+ff037a834b995d617ac63bcbf1d379f326f594623635d5c1feeb833ff6f976e5	Virtual Boy/4 Game Boy Emulator/Ninja Gaiden Shadow.vb
+2aa804f17020cc0152a484814a9b05d749f1a29c77e8bf3439df6b18a46bfb4c	Virtual Boy/4 Game Boy Emulator/Pac-Man Pack.vb
+bfb191e7d52137283b5a0f08dd27f6d6c898e42bfcf8ce1b9341e1868d0801d7	Virtual Boy/4 Game Boy Emulator/Parodius.vb
+c00350026a5e303c8aa8352a2f283f0601a26822387383a34c8c38805f1ef98f	Virtual Boy/4 Game Boy Emulator/R-Type Pack.vb
+69879a0f6d2cd81ad7577cfaa16666f5029c20d9ba20f4e624723a445884bf47	Virtual Boy/4 Game Boy Emulator/Shoot 'em Ups Pack A-F.vb
+8c09eb94a86b64b457ffca91a8cea8320e3857be1b460a6049ce080a1cf10601	Virtual Boy/4 Game Boy Emulator/Shoot 'em Ups Pack G-S.vb
+c4776cb1935360f980de3c1056dde3982ea03cc52036ccdba7e6400398b09aba	Virtual Boy/4 Game Boy Emulator/Shoot 'em Ups Pack T-Z.vb
+99cc06242d98fd57724e556fe8c4257cce620fe3afe62ee3d4c34d39644c0750	Virtual Boy/4 Game Boy Emulator/SolarStriker.vb
+2bfbf72451a37a33a27065053ae27c9041ef5e9c2c768acc2a7e6cbacf069675	Virtual Boy/4 Game Boy Emulator/Super Mario Land Pack (SML, SML2).vb
+7c1c63701d5a3b117538288a34fb77e7ade4f47dc2c1100872962db38771bcb3	Virtual Boy/4 Game Boy Emulator/TaleSpin.vb
+97b1f231a1537e421c9ed7f92f833fcb052db06628b2699ce753d02c5ded380e	Virtual Boy/4 Game Boy Emulator/Tetris Attack Pack.vb
+54f3f396413d72d5e72e8721d6e6efe83d12631b5513dbd5c7c638bf3270143d	Virtual Boy/4 Game Boy Emulator/Tetris Pack (T, T2, TP).vb
+b2c71a6a02abffefaba089bdb9dcf6d81459d76de6eb7ea4493d230461b63e08	Virtual Boy/4 Game Boy Emulator/TMNT Pack (TMNT2, TMNT3).vb
+4f73b1d4e9e3fd04b15b3b78cc9918c11debe46d88482a2eab7a258bd8398611	Virtual Boy/4 Game Boy Emulator/Turrican.vb
+5b3db0a04fe2c3b5e404c0d1038383a5a19114a251d58dd50ecbacd06b76a463	Virtual Boy/4 Game Boy Emulator/Twinbee da!.vb
+de6e3c92be3a05ac19100f912b86a469340f0544fdeaae10339083e369574a1c	Virtual Boy/4 Game Boy Emulator/Wario Land Pack (WL, WL2).vb
+c8497ee7a25d1eb7cf4ef1604b2fd7836a64c5c30e8334f7a48f1ed2a27b5cc1	Virtual Boy/4 Game Boy Emulator/Scripts/1942 (USA, Europe).gbc
+3084b6715b509dbec81c377210a10e4196c3343e45a820db0493a23f53e9bf6f	Virtual Boy/4 Game Boy Emulator/Scripts/@buildscript.bat
+e87c6ae49b2a67daa1b330552229a7db17844742cd8dc9a54dec2a491287652d	Virtual Boy/4 Game Boy Emulator/Scripts/A-Force (Sachen 4-in-1 Vol. 6) (Unl) [!].gb
+52ee7edb02d42bfc7a9a5a52df082424cd8d9b3cbd2aa47fc84bd32f79cd059a	Virtual Boy/4 Game Boy Emulator/Scripts/A-mazing Tater (USA).gb
+7771919d5f5a114fb8685345eab290be22e99c59d8798ed9c5f29e3079c11c56	Virtual Boy/4 Game Boy Emulator/Scripts/Adventure Island (USA, Europe).gb
+bbb38ee1e9877404dd999ef7067aa238a1039ca603b987f8adeff4488e318331	Virtual Boy/4 Game Boy Emulator/Scripts/Adventure Island II - Aliens in Paradise (USA, Europe).gb
+96ef801c2d22e3058493bb7b8f74f9a53b6d8caac63404c243f1bf4daeaa7f50	Virtual Boy/4 Game Boy Emulator/Scripts/AdventureIsland.bat
+4c156c4d826b9cba5741feb621de60c6294adb36553fc43971794bd2a4ffb34a	Virtual Boy/4 Game Boy Emulator/Scripts/Adventures of Lolo (U) [S][!].gb
+7f1cca50c0eabf364297400d0b1ee10a4c02e45e145b16bc02b683f02015e8a7	Virtual Boy/4 Game Boy Emulator/Scripts/AdventuresOfLoloPack.bat
+9d7e009a90473b95b8a7ba69f7cc9769f95d4cc5de0bf15666ca2b0be44f8da3	Virtual Boy/4 Game Boy Emulator/Scripts/Aero Star (Japan).gb
+cb1d45fca310ef4b7013d094663bddcd209362f272bb3e54ce10540828c8c212	Virtual Boy/4 Game Boy Emulator/Scripts/Aerostar (USA, Europe).gb
+308bcbe8efaf5a5b50dd277ae5ebdf02e01e5e71259a4a42a679c3ea74c825db	Virtual Boy/4 Game Boy Emulator/Scripts/AeroStar.bat
+db4e590899aab75bceb31e84a2ec77c34b561838a61fd9dc9fda004a0507a01c	Virtual Boy/4 Game Boy Emulator/Scripts/Amazing Penguin (USA, Europe).gb
+7cebe1e446c56061f71e94b99cf6dfb7267cac0e21cb37b0f9a8118d5a127eb0	Virtual Boy/4 Game Boy Emulator/Scripts/Arcade Classic No. 2 - Centipede & Millipede (USA, Europe) (SGB Enhanced).gb
+5775aba89eea82bb2a3095e8590e7c552e458c93b6403dd985e3b3e646f190ab	Virtual Boy/4 Game Boy Emulator/Scripts/Arcade Classic No. 3 - Galaga & Galaxian (USA) (SGB Enhanced).gb
+b34d96392f38b6b7c5462ce166f26e5c42f356dff6cff74ef9ac3e940ad7c6de	Virtual Boy/4 Game Boy Emulator/Scripts/Asteroids (USA, Europe).gb
+2df8eb5d48a204d9609e0c12fed81304cc0b23421c5015ab2296d51ffc8b36ad	Virtual Boy/4 Game Boy Emulator/Scripts/Atomic Punk (USA).gb
+d3cba262ab83a3882e50963a57a77192231d225b122a3d6aa70eeea5743a4a3b	Virtual Boy/4 Game Boy Emulator/Scripts/AtomicPunk.bat
+0d80b2ad776053f50c3eb0e0e32c675f24acf94923bf3ac4c156c7c28bc76a6e	Virtual Boy/4 Game Boy Emulator/Scripts/Avenging Spirit (USA, Europe).gb
+14da0097938ae89afebcc92952e8bed2ee1119bbffca21ef06b06c221f5280a6	Virtual Boy/4 Game Boy Emulator/Scripts/AvengingSpirit.bat
+1b48b454bb421836c33c2d572c61f69145a077ebcecbf8194dfb05fc6581ff82	Virtual Boy/4 Game Boy Emulator/Scripts/Balloon Kid (USA, Europe).gb
+25284f12cbecc5b776c61b4efdeb30785373807875d5cf7a132e08b2586eada0	Virtual Boy/4 Game Boy Emulator/Scripts/BalloonKid.bat
+152fc252bba7130e786d408eed310b3009b8e05834f8003dfbf514ec804cbaea	Virtual Boy/4 Game Boy Emulator/Scripts/Batman - Return of the Joker (USA, Europe).gb
+9ac1f4a299d32ba21cf65f67ab210afeb4c629adbd8e5779f76b6667ca3a0a4a	Virtual Boy/4 Game Boy Emulator/Scripts/Batman - The Animated Series (USA, Europe).gb
+d0e4ff010ab013e519abd9950ab465f3369c76e23d82927c0f39b5e259d4febf	Virtual Boy/4 Game Boy Emulator/Scripts/Batman - The Video Game (World).gb
+442d94316cf031ea096ea1f7df59ac2091844c1c1068616d17306db819bd3d10	Virtual Boy/4 Game Boy Emulator/Scripts/Batman Forever (USA, Europe).gb
+ca3764f3ffada2382fbc7d7c4b28017d01c7cf4ff92369983734bd1953ab1101	Virtual Boy/4 Game Boy Emulator/Scripts/BatmanPack.bat
+519ca6523e54b67a4b4dcc7f525d56df986e0d77c84699dcf9e022f0ae6fbd0e	Virtual Boy/4 Game Boy Emulator/Scripts/Battle Arena Toshinden (USA) (SGB Enhanced).gb
+b9909506f566ea7998d6170e9610bad62dbda7d38e42830cd187592e262acfed	Virtual Boy/4 Game Boy Emulator/Scripts/Battle Unit Zeoth (USA, Europe).gb
+c38fc7e54ed27bd82c9829a6535f5be0d2ff81822863ab9c088bf345ab01b734	Virtual Boy/4 Game Boy Emulator/Scripts/BattleCity (Japan).gb
+692e62d9e0048350256ee124d55c6ef225dc2bb54e0808fd882312d4dcaf0f28	Virtual Boy/4 Game Boy Emulator/Scripts/Bionic Commando (USA).gb
+03875101cb4ba06cd8c30260f9ed7d903924664c9af4979147df2c577ffc842c	Virtual Boy/4 Game Boy Emulator/Scripts/BionicCommando.bat
+9338af642104f7f286687b2e6e55759917c0db35bc89ef398a92c18570bff681	Virtual Boy/4 Game Boy Emulator/Scripts/Blades of Steel (USA).gb
+583b4f695837620be37860fba7a40075e022b6337967a2364a7e4c246f75ce0f	Virtual Boy/4 Game Boy Emulator/Scripts/BladesOfSteel.bat
+01bb3527ea235380895b8df07a864829b2ad9e399f8cd90bb816110e2bfb1693	Virtual Boy/4 Game Boy Emulator/Scripts/Blaster Master Boy (USA).gb
+84d6eeaf706185dad3621251ac118e6fd22f3fd6a5c64999d0984bfffaebe196	Virtual Boy/4 Game Boy Emulator/Scripts/Blaster Master Jr. (Europe).gb
+978700dbb860b5514f015f4d89dd6a84f934ae6a2ebb6256c1936f516815be90	Virtual Boy/4 Game Boy Emulator/Scripts/BlasterMasterBoy.bat
+16d6a4650566ede0ec9e3e23a85544737faab4154d6381668e8547047340eee6	Virtual Boy/4 Game Boy Emulator/Scripts/Bomberman GB (USA, Europe) (SGB Enhanced).gb
+e07011acb2972ab16b364cab1af15c1071f664fe3d98a07cc1fdd59ff9bd5496	Virtual Boy/4 Game Boy Emulator/Scripts/Bomberman GB 3 (J) [S][T+Eng1.00_MakoKnight].gb
+8becea10f86da32dbe0d7a92a7a2adfc4306d8ed3ac1de72010dbd1a2f736761	Virtual Boy/4 Game Boy Emulator/Scripts/BombermanPack.bat
+90b0621aa5579f969a61d99a782545aa23381050824e284c527001e7fa9bae57	Virtual Boy/4 Game Boy Emulator/Scripts/Bonk's Revenge (USA) (SGB Enhanced).gb
+b1fa9b794157c7783ec6d034de4d7873f0b04096b7fd5fa07305f79c71d34a10	Virtual Boy/4 Game Boy Emulator/Scripts/BonksRevenge.bat
+3392d98b440bd9eb13a41b5ea374b83f061ba921311fd75fec16d86eb6d2e735	Virtual Boy/4 Game Boy Emulator/Scripts/Boulder Dash (Europe).gb
+c09bb9d1ad222e56c3201c2607d6c8f84eb099ef856de725c905a726f0513a74	Virtual Boy/4 Game Boy Emulator/Scripts/BoulderDash.bat
+c5ddbb08e8509633853346c5f35850cc3abe5afaabb0d0ee294b40e804253b7f	Virtual Boy/4 Game Boy Emulator/Scripts/Bubble Bobble (USA, Europe).gb
+29f17b604be580c0132a6d0bd7a966c82930069ca82f83798c955d532c6b4694	Virtual Boy/4 Game Boy Emulator/Scripts/Bubble Bobble Part 2 (USA, Europe).gb
+106d5443e092df3dc53035930766061f1ae4eae670470a93d648dc1adcda01c0	Virtual Boy/4 Game Boy Emulator/Scripts/Bubble Ghost (USA, Europe).gb
+82cdf169edd6deedb2ca85dc9b46057a21726bfb637f2ea3ddabf2b16740aea8	Virtual Boy/4 Game Boy Emulator/Scripts/BubbleBobblePack.bat
+63672eb96d8731485c6061794f9a7f8e09c16d9c19c06021736f43095f9d4a79	Virtual Boy/4 Game Boy Emulator/Scripts/BubbleGhost-NotBooting.bat
+cf1a8d9c9d4fc9e58740f6e008e5280ff2831c099aecab642e64e5195c0ad0bc	Virtual Boy/4 Game Boy Emulator/Scripts/Bugs Bunny Crazy Castle 2, The (USA).gb
+a0bd5d25545de941e719437f7829f4edf32b3a140a399387f96dda2f8059fe4e	Virtual Boy/4 Game Boy Emulator/Scripts/Bugs Bunny Crazy Castle, The (USA, Europe).gb
+71fe4f638d7511b97468ac65554301514fb2dba11f5baa88b761621913589c96	Virtual Boy/4 Game Boy Emulator/Scripts/BugsBunnyPack.bat
+704c24466e0f92e280073af3191dae54b842a8736281c697f8c9d1f35f91b065	Virtual Boy/4 Game Boy Emulator/Scripts/Burai Fighter Deluxe (USA, Europe).gb
+b8d21124da9dd44c24678c3692291e69559e52531fc95f9722fabae32b6ec5d6	Virtual Boy/4 Game Boy Emulator/Scripts/Burai Senshi Deluxe (Japan).gb
+885057e3d81b796a6159081ee9421425b0033770222621b8175c0fed573b1e58	Virtual Boy/4 Game Boy Emulator/Scripts/BuraiFighter.bat
+2f4254faaa4bda89486c4820c601917cd034c7965eae075ba81acef4295fa8bd	Virtual Boy/4 Game Boy Emulator/Scripts/BurgerTime Deluxe (World).gb
+09c68d2a478786787652a05108e51d2781739f8f76277f449eb3b693c45b15b6	Virtual Boy/4 Game Boy Emulator/Scripts/BurgerTime.bat
+ebb1f595136c3954bb6797505af09693c438ea7afff1bba4f1d47093e226698c	Virtual Boy/4 Game Boy Emulator/Scripts/Bust-A-Move 2 - Arcade Edition (USA, Europe).gb
+d37f4baa6d1857606c5bd8569d6f013026509caf326766ce6908d8fd19eae238	Virtual Boy/4 Game Boy Emulator/Scripts/Bust-A-Move 3 DX (Europe).gb
+f3d1bccba0eba3dea2a0e7618b53e1bef86926c56e278f1b3d28825e4aa9a097	Virtual Boy/4 Game Boy Emulator/Scripts/Bust-A-Move 4 (UE) (Mono Hack).gb
+85d387e77cb6f1e283ac7deb3e35fa55fd95142da5102094c1b85a196cf846c2	Virtual Boy/4 Game Boy Emulator/Scripts/Bust-A-MovePack.bat
+2223993b7a91a5f2ccca1f43652df0062528e3fb37128f61a0ec8a779bcf65a1	Virtual Boy/4 Game Boy Emulator/Scripts/Buster Bros. (USA).gb
+a99ebc5035a6bc38e1e590edc7c6f959658f15dff2e8245fedfb9f23107bb78d	Virtual Boy/4 Game Boy Emulator/Scripts/BusterBros.bat
+f4bf7173bcaad11d660fdaf4fc2a7441aaa41151c7259dd3d8dcbb497bd926b8	Virtual Boy/4 Game Boy Emulator/Scripts/Castlevania - Legends by Silver X (Speed (V1.1) Hack) [S].gb
+edb101e924f22149bdcbcfe6603801fdb4ec0139a40493d700fa0205f6dab30c	Virtual Boy/4 Game Boy Emulator/Scripts/Castlevania - The Adventure (USA).gb
+c078093d97e7c8b3503607672adc21106a96ffcae6aa284818fca3887f65aacb	Virtual Boy/4 Game Boy Emulator/Scripts/Castlevania Adventure, The (Graphics Improved Hack).gb
+17570ceec1b22153604622c4412d048dd8f7ccb4626daf9ddea96de8a062dbf2	Virtual Boy/4 Game Boy Emulator/Scripts/Castlevania II - Belmont's Revenge (USA, Europe).gb
+825b68f95c5a7d5a8f51ea5a329ea88d6c5c6c8e8aa5cec54a4bdfec0ec91067	Virtual Boy/4 Game Boy Emulator/Scripts/Castlevania II - Belmont's Revenge by Silver X (Speed (V1.1) Hack).gb
+56d3dee063b8801704a284bd1bc229b94f15a3a448f485d347f04283d9bd16d7	Virtual Boy/4 Game Boy Emulator/Scripts/Castlevania Legends (USA, Europe) (SGB Enhanced).gb
+ff2cb4ed8d840659c9ce8c5b4a9943dc97472a90347733326892870a9cdb7d89	Virtual Boy/4 Game Boy Emulator/Scripts/CastlevaniaPack.bat
+e796fd4a0f61733b123332b4ec1bed1955dbd4e63a292d0f7703f11c3d23883a	Virtual Boy/4 Game Boy Emulator/Scripts/Catrap (USA).gb
+19254709af6f61f6648da441fa0b7058f245595e135c5c2d35b900046c251e81	Virtual Boy/4 Game Boy Emulator/Scripts/CatrapPack.bat
+accaf2e9b3f4b2dc4c9b63f3442981b783014d89c643e397c0d7cd42eb35b854	Virtual Boy/4 Game Boy Emulator/Scripts/Cave Noire (english translation).gb
+2f83ab433323f4d08f111ace559a7e29d37ff33fe1ca9d726edd5bb98a854ec2	Virtual Boy/4 Game Boy Emulator/Scripts/Centipede (USA).gb
+c49c7a57c8aeec50f7ca3b736738921657ec0fdd50313fd975cced132490ee30	Virtual Boy/4 Game Boy Emulator/Scripts/Centipede (USA, Europe).gb
+a958e048df4960f1d349f8328ca1e42303a94d5b6dc76156364ce63a83e66037	Virtual Boy/4 Game Boy Emulator/Scripts/Centipede.bat
+4d980ae439a9288769d0f1e4d98ad61ecfd575b55c154abdfc88c2cb2fbc9401	Virtual Boy/4 Game Boy Emulator/Scripts/Chalvo 55 - Super Puzzle Action (J) [T+Eng1.0_lba].gb
+4424900339aad0514538250aaea1d407869dad2b0df7310b8ce778de8c35c5c3	Virtual Boy/4 Game Boy Emulator/Scripts/Chase H.Q. (USA, Europe).gb
+d69e86c82484df8f7225c0e273ed46296b539844805d084f1cc14a63e2b6a290	Virtual Boy/4 Game Boy Emulator/Scripts/ChaseHQ.bat
+8b5f5f3f615136b83a5f8b60ba5cf1ba32048dd0a6ddfa127c1ad3a024c7de5b	Virtual Boy/4 Game Boy Emulator/Scripts/Chikyuu Kaihou Gun ZAS (Japan).gb
+66f1dff3d0920f992996a56b126c234014ed919963e621e62d6071864d58e08b	Virtual Boy/4 Game Boy Emulator/Scripts/ChikyuuKaihouGunZAS.bat
+0b3aa116b78239191bc8ac07726b5600267f89e9d1312a08c8f7585db89b15a3	Virtual Boy/4 Game Boy Emulator/Scripts/Choplifter II - Rescue & Survive (USA).gb
+b856963ecabcd23ded711bcddd548aa9684c08ee2c19e8f00e00d4dfe56a46bb	Virtual Boy/4 Game Boy Emulator/Scripts/Choplifter III (Europe).gb
+8e765a4e381462a29632b7a3c5421080be3e8445e5913d7e904a8e80d688ca81	Virtual Boy/4 Game Boy Emulator/Scripts/Contra (Japan).gb
+d8e44a2c2aa67f9afa49365f62802160842aef48d2003a69daeb109813f6f20c	Virtual Boy/4 Game Boy Emulator/Scripts/Contra - The Alien Wars (USA) (SGB Enhanced).gb
+21d1c7f7a201168e3e0dde4631d772937a10614813d72a525883f343dad76da2	Virtual Boy/4 Game Boy Emulator/Scripts/Contra Spirits (Japan) (SGB Enhanced).gb
+ecf045659eede334f5a8341e9d73a4a1be21c8d58849cdfd6f6a06285ad2ac12	Virtual Boy/4 Game Boy Emulator/Scripts/ContraPack.bat
+e0dafd8b66cc6c19c3b64471d198e1dc87f3e5e1000c4fd8d71122a004fea5ae	Virtual Boy/4 Game Boy Emulator/Scripts/Cosmo Tank (USA).gb
+0f15d92687983f32520d53b7af240a24bbb4fbfa509240a5f3b62ac4e065dd58	Virtual Boy/4 Game Boy Emulator/Scripts/Crayon Shin-chan 4 - Ora no Itazura Daihenshin (Japan) (SGB Enhanced).gb
+3c86f30b11442c93b011287310dfea0a9c23a182527d8447769226e52ef29d5e	Virtual Boy/4 Game Boy Emulator/Scripts/Crystal Quest (USA).gb
+435b1eb4fbe51261a886953e72a5a76e143ccb8cd2c0b065170bdadfdb1e1014	Virtual Boy/4 Game Boy Emulator/Scripts/Dan Laser (Sachen) [!].gb
+61d632a2e17526cc55cc8e107abaf9aa11830cd4dd94c0b0f94d10a12a0c9f71	Virtual Boy/4 Game Boy Emulator/Scripts/David Crane's The Rescue of Princess Blobette Starring A Boy and His Blob (USA).gb
+5dc356538ee21a97b2283788ee1a0793ad0aab5dbb835dc9f5e2cbc17728d0ee	Virtual Boy/4 Game Boy Emulator/Scripts/Deep - Final Mission (Sachen) [!].gb
+93c392efb263474c3a40f0b71c131826aae0cf19f5ab58a5dd49e337486479c5	Virtual Boy/4 Game Boy Emulator/Scripts/Desert Strike - Return to the Gulf (USA) (SGB Enhanced).gb
+2d8fb80ece07198260fb47b6a2e8d0097e2d6ca27fb21bc3c439f90d7880317d	Virtual Boy/4 Game Boy Emulator/Scripts/Dig Dug (USA).gb
+9c58b9a38aeeb35efc43d67f115a55b527821faab57c173f3d844e03a9083e14	Virtual Boy/4 Game Boy Emulator/Scripts/DigDug.bat
+b490c89efe718633b07381def66ce0ed58a5075aabe40c6e644baf2b408a76f4	Virtual Boy/4 Game Boy Emulator/Scripts/Donkey Kong (World) (Rev A) (SGB Enhanced).gb
+eaf831ddd75e7cbc9990e478a139ac162034c03377670fdb79615a9aa2cc570d	Virtual Boy/4 Game Boy Emulator/Scripts/Donkey Kong Land (USA, Europe) (SGB Enhanced).gb
+fa44d2fb383bd8bd2f1ed69a25a270e49bab384222c300414cfe52aaeb345085	Virtual Boy/4 Game Boy Emulator/Scripts/DonkeyKong.bat
+75f902ab8674c3cd379438fbd54cfe7e87ca3ddf9727679547261d1b77db720b	Virtual Boy/4 Game Boy Emulator/Scripts/Double Dragon (USA, Europe).gb
+ba60449b8e57d1288e78a2cb69c6df46e1443cc611d139d27f4c5d5fad307fd3	Virtual Boy/4 Game Boy Emulator/Scripts/Double Dragon 3 - The Arcade Game (USA, Europe).gb
+21639689078496d4c2d000b120d493b69e7df603e5c2b5cd337974665e597878	Virtual Boy/4 Game Boy Emulator/Scripts/Double Dragon II (USA, Europe).gb
+256bfc052d9510438689391df1cee2ba4c9f4d4207f6fe8754edbb9df3869924	Virtual Boy/4 Game Boy Emulator/Scripts/DoubleDragon.bat
+507939ba5a53506d0ee52abb0eb6749f497c492e8be79eb106010020b50065bd	Virtual Boy/4 Game Boy Emulator/Scripts/Dr. Mario (World) (Rev A).gb
+aba31e0e6c2d10a48df67fcbb26a85c9f6cfbda673567d7ff93f8ad0ca08cea5	Virtual Boy/4 Game Boy Emulator/Scripts/DrMario.bat
+975c7f1ee6ab5d3d3fdf82f8788ed3646f27ee01ea2f1cef11f2999d97a32222	Virtual Boy/4 Game Boy Emulator/Scripts/Dropzone (Europe).gb
+8182c444dd9457c0396cb1b5b17aeaba0e8d428ac16599cd1d7528e3fe50314c	Virtual Boy/4 Game Boy Emulator/Scripts/DuckTales (USA).gb
+0175d150df92e4e5823bf82b77eb27e44ba0ff83b63044c77f86d6973ac485ea	Virtual Boy/4 Game Boy Emulator/Scripts/DuckTales 2 (USA).gb
+4cb84e6b83c7ea6ab6ea99e2b8e8c3180a9eb97e6d85ceca1626a60bd06a1360	Virtual Boy/4 Game Boy Emulator/Scripts/DuckTalesPack.bat
+7689773cb3f483aa7bfcef61aa965041b3d11cd88642083992d50c0856dc9ddd	Virtual Boy/4 Game Boy Emulator/Scripts/Faceball 2000 (USA).gb
+2bbe8605a18f884dc239a9dfd5685d2f260d2bdb5a807169a75a275cd59211ac	Virtual Boy/4 Game Boy Emulator/Scripts/Faceball2000.bat
+95b7a3fbc6617c30f9e85ed139c35ee97cd47e06d7c7b4d2dd4843e01d8cd6b3	Virtual Boy/4 Game Boy Emulator/Scripts/Final Fantasy 4 (Unl).gb
+5a462f1bbb4e75823c04c7a0b2a7497cbe7e709a425854c71c1fc4d60f16f445	Virtual Boy/4 Game Boy Emulator/Scripts/Final Fantasy Adventure (USA).gb
+5ed87f65225b72a74c3c04a4e5d67683fb5cc33e5f1266157350828ab973fc1d	Virtual Boy/4 Game Boy Emulator/Scripts/Final Fantasy Legend III (USA).gb
+3441b2770738b8809e1c87090cf88e7ea0cb3d9cdba2be0b8540f41f618ba8e0	Virtual Boy/4 Game Boy Emulator/Scripts/Final Reverse (Japan).gb
+7e045374af686c8e8bd6621a8da91b4440532efd7111bd30b311fee9091aa3e8	Virtual Boy/4 Game Boy Emulator/Scripts/FinalFantasyPack.bat
+06643cffc888b1c0c80ccae3cef66babb9b878ee594c29de8c9216bddd48287f	Virtual Boy/4 Game Boy Emulator/Scripts/Fortified Zone (USA, Europe).gb
+f1c1d33b4f7b4b3e53f49f64d0fe963d8fd66126ae2a92f96a7d08e3b9066da9	Virtual Boy/4 Game Boy Emulator/Scripts/Galaga.bat
+f2099eb0fc0bbee1351e4937be69d8e92410dfc23950b42bc45b9b9b3cb6c7df	Virtual Boy/4 Game Boy Emulator/Scripts/Game & Watch Gallery (USA) (Rev A) (SGB Enhanced).gb
+5f55a4637b640dd1ea8e2185b8e70f890e540d12e327094686e340c5dac7765c	Virtual Boy/4 Game Boy Emulator/Scripts/Game & Watch Gallery.bat
+b68baeaf179c220fd8a60b57cbc93aacad6e8aad09da58ba8215d521f2d062e4	Virtual Boy/4 Game Boy Emulator/Scripts/GameBoyColorWarningScreen.bat
+50ee103dbb5f0bbeb13943e7caaa22bd13b189e6eb4411d5a42e32621416ad52	Virtual Boy/4 Game Boy Emulator/Scripts/Gamera - Daikai Jukuchuu Kessen (J) [S][T+Eng0.991].gb
+ad6f9fe97a40418279d3b834a64d9c6c52c0da209f430718f2bd02611892326f	Virtual Boy/4 Game Boy Emulator/Scripts/Gargoyle's Quest (USA, Europe).gb
+57a1c32c788abe643955222efb1d6cb27765cb04bdd8bb87ecb0bd15e1d1231e	Virtual Boy/4 Game Boy Emulator/Scripts/GargoylesQuest&Makai-MuraGaiden.bat
+5a8161028e0fc52a1e0eedf5bc7db2715b20892a22422f1936f4a427835a3b92	Virtual Boy/4 Game Boy Emulator/Scripts/gbemu.bin
+2ed249eb86d4fd01e10efd1787a545f4921c19dc0e00b5c516b8bbdfe4c4aedc	Virtual Boy/4 Game Boy Emulator/Scripts/Gradius - The Interstellar Assault (USA).gb
+5244c6712921b60681ad84afab861e2081dfe5fbab0225a519cc74512843435c	Virtual Boy/4 Game Boy Emulator/Scripts/Gradius.bat
+54fe95af5ded33631db84b6ba4ecc4a86f9f7528c9c56ca678150a3246d49623	Virtual Boy/4 Game Boy Emulator/Scripts/Harvest Moon GB (USA) (SGB Enhanced).gbc
+ffddbf49a14632b84cde11b6be4f6ac5c4dba21a287e6b88f3ec1bf4e9586df7	Virtual Boy/4 Game Boy Emulator/Scripts/HarvestMoon.bat
+0ea3c547fb5f74c99cc721d45886ca0ad2fea032b6648a82046351251f754eae	Virtual Boy/4 Game Boy Emulator/Scripts/Hunt for Red October, The (USA, Europe).gb
+bc551a36b67b18b64a21320a51db6d2025930991437d15b5d53f1217a942bd0f	Virtual Boy/4 Game Boy Emulator/Scripts/Hyper Lode Runner (World) (Rev A).gb
+cc3bd127218bef4c94fe9521f93c6a2de1cd82a8c3fcb7e24ca0e37fdfa35f6c	Virtual Boy/4 Game Boy Emulator/Scripts/HyperLodeRunnerPack.bat
+ad694ea6cec5c4ead3d680ed337aac6069ade98e8d7bd82b5f5086488c0e44eb	Virtual Boy/4 Game Boy Emulator/Scripts/Ikari no Yousai 2 (Japan) [T-En by Stardust Crusaders v1.00].gb
+69ae10262dd7c5f3e55ed94a2b549e47de4c9e2ba4c2fa022ef234a882890519	Virtual Boy/4 Game Boy Emulator/Scripts/James Bond 007 (USA, Europe) (SGB Enhanced).gb
+a019ef725fb46cc4651ec5714718c63cb7653bf0c8748154863f82a4ad3afef5	Virtual Boy/4 Game Boy Emulator/Scripts/JamesBond007.bat
+ab8a97f5cf17d6602ab108e9c3e53e8907a7e56c679750526d91bedf870a6c15	Virtual Boy/4 Game Boy Emulator/Scripts/Jungle Strike (USA, Europe).gb
+b0a1019b6199c923a6a764c15e7bf6d1bb0bef8a042c383f3e3ead74ab171ede	Virtual Boy/4 Game Boy Emulator/Scripts/Kid Dracula (USA, Europe).gb
+92c1fbf422abb8f09ca7fdbb563d1284108cc042e60e1222422986d9a59f9d97	Virtual Boy/4 Game Boy Emulator/Scripts/Kid Icarus - Of Myths and Monsters (USA, Europe).gb
+0ab0d2965d5ec61ebf688498e4746da2e12e59d6f7f98109a0b462f5159c7bbc	Virtual Boy/4 Game Boy Emulator/Scripts/Kid Icarus - Of Myths and Monsters DX by Redrum (Hack).gb
+96cc64df9852a60d5c367e115492faf07ffb2e8a13351ed093492683aa8cb3de	Virtual Boy/4 Game Boy Emulator/Scripts/KidIcarus.bat
+0f6dba94fae248d419083001c42c02a78be6bd3dff679c895517559e72c98d58	Virtual Boy/4 Game Boy Emulator/Scripts/Kirby's Dream Land (USA, Europe).gb
+caae6f53a05095a1db26565d5863673e636ebc0d25bf16e66837d7c0f1abee57	Virtual Boy/4 Game Boy Emulator/Scripts/KirbysDreamLand.bat
+ed42628d5cd8c73a6f8c6a8965f19674876a4fa04e616834e26b81b35963ad87	Virtual Boy/4 Game Boy Emulator/Scripts/Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev B).gb
+f3fd321b71863dad5a50f4613f1bb1dec7078cce3d578a09cacecf09a0e8c850	Virtual Boy/4 Game Boy Emulator/Scripts/Legend of Zelda, The - Link's Awakening DX (U) (V1.0) (SGB Mode Hack) [S].gb
+e11e8f4413b6d5589afc2d4baf6d6f1b6e5b44a63f15e4df6500be80a4594f92	Virtual Boy/4 Game Boy Emulator/Scripts/LegendOfZelda-LinksAwakening.bat
+6931218ca343e5b3a1ccd19a43701091d0353817e2b5711a4a1354a646aaa209	Virtual Boy/4 Game Boy Emulator/Scripts/Makai-Mura Gaiden - The Demon Darkness (english transltion).gb
+33d16365318411f063edd9100c79458aabb7ea71bb1873e30f38b93814f0ec6e	Virtual Boy/4 Game Boy Emulator/Scripts/Mega Man - Dr. Wily's Revenge (USA).gb
+be3fc7ab2d7eb79a9e2538b090bdecc2694740f3beda933f34cb1e4059b10a11	Virtual Boy/4 Game Boy Emulator/Scripts/Mega Man II (USA).gb
+7344a36fcfc8151098238529218762e44c5a1546fab7e7fd5d32927e06cbf5a8	Virtual Boy/4 Game Boy Emulator/Scripts/Mega Man III (USA).gb
+4d980ca46a83cd127312dbc445ed1a83e97ed7a8026dce6fdd22a01b1895781b	Virtual Boy/4 Game Boy Emulator/Scripts/Mega Man IV (USA).gb
+37829346ad3ab7f4e8d65d5dbac15af1e54361a9f1ffa8f72d2fbf51a19bf79b	Virtual Boy/4 Game Boy Emulator/Scripts/MegaManPack.bat
+302a7555c6cc066192f9bcf6b0d737dac38266fa3cbbc64a425213eb3a61bec5	Virtual Boy/4 Game Boy Emulator/Scripts/Mercenary Force (USA, Europe).gb
+3080bcc2eb9965de463f5f4e02f0dabbb13b060e1654a18da8b50948c10af4a6	Virtual Boy/4 Game Boy Emulator/Scripts/Metroid II - Return of Samus (World).gb
+15c388caaac2d05dd70e9de8375ca474cb37177a2639d5d2e529e4e9895bb5a9	Virtual Boy/4 Game Boy Emulator/Scripts/MetroidII.bat
+bc14dac53de625535cc2825efa3d2399bf0c8c661f8a9417c4b97414a630cd0e	Virtual Boy/4 Game Boy Emulator/Scripts/Mickey Mouse - Magic Wands (USA, Europe) (SGB Enhanced).gb
+1dce8c46377219979672b54769c8d855d6708dfc263f142f61ddb97cdc78cc93	Virtual Boy/4 Game Boy Emulator/Scripts/Mickey Mouse II (Japan).gb
+1cead447fed8e01315c5a65961d478e7576e439affe43e5fbcca06e4520a027f	Virtual Boy/4 Game Boy Emulator/Scripts/Mickey Mouse IV (Japan).gb
+5f07cfef02d78f4982d0e4cbc93de977df6bf194a79d412cd5211f556bbe8c75	Virtual Boy/4 Game Boy Emulator/Scripts/Mickey Mouse V (Japan).gb
+fedb0c8100987cb466c116a3ac3a6572675b6aa721a7a8930cec1ae39f677bc6	Virtual Boy/4 Game Boy Emulator/Scripts/Mickey's Dangerous Chase (USA).gb
+ff49d2120f59b0ece23893c745d3fe348b7a2eed17b40449c37557bef8476052	Virtual Boy/4 Game Boy Emulator/Scripts/Mickey's Ultimate Challenge (USA, Europe).gb
+be55dc7a257a1e1acaf798aa7104e17ca46da02acaadd3225c92ed722ee01cfc	Virtual Boy/4 Game Boy Emulator/Scripts/MickeyMousePack.bat
+f6d779c4882e032919903b4874dec1b6f06716911f77eb9f8acd1727215eb791	Virtual Boy/4 Game Boy Emulator/Scripts/Missile Command (USA, Europe).gb
+1c8b436fa73bf7f7053858c3a75f8c3995f22d7b3fdc2f232f54984f1e0d8401	Virtual Boy/4 Game Boy Emulator/Scripts/Mole Mania (USA, Europe) (SGB Enhanced).gb
+e2306aba94d83a2cd5301ca786db65802bd23ecc763c8c7ca46dc2c2479fc600	Virtual Boy/4 Game Boy Emulator/Scripts/MoleManiaPack.bat
+21db857936d7eff3d57d576f0a01a52e012d0dcf5dc8f2a6cdb0e92a131a72b6	Virtual Boy/4 Game Boy Emulator/Scripts/Ms. Pac-Man (USA).gb
+58c4da647070388c9e77ddf1a0fce6777c63ff96efcd804d0917f555c3e02369	Virtual Boy/4 Game Boy Emulator/Scripts/Nemesis (USA).gb
+89fe8f0c84f938abc996e160e4820a9958c01191fd0868aacd439b3c93f51849	Virtual Boy/4 Game Boy Emulator/Scripts/Nemesis II - The Return of the Hero (Europe).gb
+db9c2f9194c2bfbebf612848130832aba101f0115c3215db0cb61129fdff66b1	Virtual Boy/4 Game Boy Emulator/Scripts/NemesisPack.bat
+6fa34986ea46897216a8eda2a083affa490fd68b59134285596ed17f628728f7	Virtual Boy/4 Game Boy Emulator/Scripts/New Batman Adventures, The - Chaos in Gotham (USA).gbc
+efc3b14064153fd16b690034c078188d7d1f424ad210b585aaa4e7b0f7f171ee	Virtual Boy/4 Game Boy Emulator/Scripts/Ninja Gaiden Shadow (USA).gb
+6b0bff5bb6adf29e942801fbb4bb3db77838e1cf4afd5c410acb7f699a50eecf	Virtual Boy/4 Game Boy Emulator/Scripts/NinjaGaidenShadow.bat
+0b6670e44cc2edc6fbf32fc78f499e774cf0802019480f2bf7bdb836ee15c433	Virtual Boy/4 Game Boy Emulator/Scripts/Operation C (USA).gb
+0f174c449dfe690d722b9455d21250991dc5ba3b6560b697cb00a66571af18c0	Virtual Boy/4 Game Boy Emulator/Scripts/Pac-Attack (USA) (SGB Enhanced).gb
+d07986785d76db33e96ccbbe840ac962542f1c359e5b896e6478afd5cf9586b3	Virtual Boy/4 Game Boy Emulator/Scripts/Pac-Man (USA).gb
+181d88dcb02e472519f48c2c7f54c7074575922c8ce29e2eb8937303f61c025d	Virtual Boy/4 Game Boy Emulator/Scripts/Pac-ManPack.bat
+cbe25adb2ac89a6f3ebcb9fd9cb10ff1ee7b41965545bacdb5d8900d138bc73e	Virtual Boy/4 Game Boy Emulator/Scripts/Pang (Europe).gb
+3bcf1b2fe43907d96e58b9aca893a9124bfb3c35774926279f9368a975665086	Virtual Boy/4 Game Boy Emulator/Scripts/Parodius (Europe).gb
+87d3e8c8f6130730cea82a4a624fa605a899143f44e41d7fadfcf6644021d103	Virtual Boy/4 Game Boy Emulator/Scripts/Parodius Da! (Japan).gb
+335f415ccef76fe706327fc89577f2e53d240b5d80c87795527a2221168dd840	Virtual Boy/4 Game Boy Emulator/Scripts/Parodius.bat
+5a8c4b63bf198865a1eacaaf2072e54b2ad47895902aa87851db0e08887b69f0	Virtual Boy/4 Game Boy Emulator/Scripts/Penta Dragon (J) [T+Eng].gb
+401b65fbdcf5228ff63ae1d7578d7eb25db8b20fc8f74061ab927c9a5eb8f4f6	Virtual Boy/4 Game Boy Emulator/Scripts/Pocket Bomberman (Europe) (SGB Enhanced).gb
+cfff247d91c3c448d3588a5c5fc3ee4c19b0031e45679022bdbdadae6d545802	Virtual Boy/4 Game Boy Emulator/Scripts/Pop'n TwinBee (Europe).gb
+8cebc4b128b79dd1b53a5b5a99450bb2783b86840ec61b22e70245dd6df8c39b	Virtual Boy/4 Game Boy Emulator/Scripts/R-Type (USA, Europe).gb
+2b059983d79efc5a4f77b41a4efbad68c65ae259715dc008f20a3c11226a943b	Virtual Boy/4 Game Boy Emulator/Scripts/R-Type II (Europe).gb
+738de9340454fc87afa8a0e08437503e3c0d8f8851bd70ee326862720b75f0a2	Virtual Boy/4 Game Boy Emulator/Scripts/R-TypePack.bat
+8718e1304d84d851a33a22f17f6e9cd46134426973111277dee7a396c88937e4	Virtual Boy/4 Game Boy Emulator/Scripts/Ray-Thunder (Japan).gb
+02673c553bc99394b34e3420630621a65c1f920a9e7b2ec97a1d838866353926	Virtual Boy/4 Game Boy Emulator/Scripts/RoboCop (USA, Europe) (Rev A).gb
+cf3f8f41498cdd32f5b3ee0cdccde1901b073798f3edac1a7d9ccc0141cb16be	Virtual Boy/4 Game Boy Emulator/Scripts/Rolan's Curse II (USA).gb
+7ddb7a972c2aee5af6240f6f4cd46fcef68bfaebd5d68216c6712a42ebfa147b	Virtual Boy/4 Game Boy Emulator/Scripts/Sagaia - Darius (Japan).gb
+24a4ff14f8f90c7fdcb1a952396593ed706df171866372c2ae5cdb77b148806f	Virtual Boy/4 Game Boy Emulator/Scripts/ShootEmUps_A-F.bat
+f58cb6737ce7f2799a11a3b0c97c091034f0fb902b5c10464680c6ceef89206e	Virtual Boy/4 Game Boy Emulator/Scripts/ShootEmUps_G-S.bat
+7322653ba17b42ed1c3aa8dc9c49fac02db3c9b4ad6f04cc4e2b2058fe852355	Virtual Boy/4 Game Boy Emulator/Scripts/ShootEmUps_T-Z.bat
+415a508f65b0a9ac2e060c973291a7f27b90de6dda8e172a2f0a11d12ad9abed	Virtual Boy/4 Game Boy Emulator/Scripts/Skate or Die - Bad 'N Rad (USA).gb
+fece5b09e599c1f8116602fcabd558cc8dbbfe1c6c253853c5e871b0d732c11c	Virtual Boy/4 Game Boy Emulator/Scripts/SolarStriker (World).gb
+0deb52804e511d72f4b30c990afbae96a37e65ac4f3473991568a08a97affae9	Virtual Boy/4 Game Boy Emulator/Scripts/SolarStriker.bat
+b876faa05d3fa8c9e6d2812a7e17cbc8be83463e1d1536f13e9719ba0e7108b5	Virtual Boy/4 Game Boy Emulator/Scripts/Solomon's Club (USA).gb
+1d272eb5ea816c24a6dc8a6c09e3068f1948a636bd9a7e4b7f9cb23aab609d79	Virtual Boy/4 Game Boy Emulator/Scripts/Space Invaders (USA) (SGB Enhanced).gb
+966883149824ad2542a03a6402278d1397cdf0cbc0a7ba8410265410426ebfb9	Virtual Boy/4 Game Boy Emulator/Scripts/Spud's Adventure (USA).gb
+3123e4bcd304d84819c589775db3bf4a2b4fa6d23209b3da691ea7eda6045037	Virtual Boy/4 Game Boy Emulator/Scripts/Star Hawk (Europe).gb
+49fbd2f61f953d5ef28cab73e357e524c3009ad19fcf30f6a9ee0ae273be41dc	Virtual Boy/4 Game Boy Emulator/Scripts/Super Mario Land (World) (Rev A).gb
+42045a1642f77b568534ab85b9db93c8a33d2b95c38ae84c987f497e8d52f97f	Virtual Boy/4 Game Boy Emulator/Scripts/Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev B).gb
+e1517cc2d44bbcde58ea547cc4a777b475b1ddd0770fe231e2c3c5331cf0d19e	Virtual Boy/4 Game Boy Emulator/Scripts/Super R.C. Pro-Am (USA, Europe).gb
+1c30faf1c60f5c6067e0fe61f9728dac6dad6269bf90ea9e9266ccc57feff549	Virtual Boy/4 Game Boy Emulator/Scripts/SuperMarioLandPack.bat
+f18221aa90c27e32a83d18d3e068eeedc3876978500b8f7d06ebb1babcc9404e	Virtual Boy/4 Game Boy Emulator/Scripts/SuperRCProAm.bat
+33c8a29f6677dafbc4b1f2ec41c5760acd67c1b86f0536ec178a7fc543ba7472	Virtual Boy/4 Game Boy Emulator/Scripts/Sword of Hope II, The (USA).gb
+4b34e5326b4bcf6e19e745a44f0dfe369c12ee147de23a31fc05ede150cbe83c	Virtual Boy/4 Game Boy Emulator/Scripts/Taito Chase H.Q. (Japan).gb
+96d65e9e53993c035018cfce76e8d5a619f0bb29103aaa6f81fd229e68b93f92	Virtual Boy/4 Game Boy Emulator/Scripts/Taiyou no Yuusha - Fighbird GB (Japan).gb
+f20ef9ae0cf8c19f78d1446aa0c66b8e6b9d3ad64d4824cbaad8ad471b4b9a7b	Virtual Boy/4 Game Boy Emulator/Scripts/TaleSpin (USA).gb
+231f6f21b7c201fd86e5823eac439a03bc830d83088d5ffde8ddf4842c43beda	Virtual Boy/4 Game Boy Emulator/Scripts/TaleSpin.bat
+b2588721a1a298cfbd1f2fca465ac70f0b2aa488fab8eed1b7f49cac592ac438	Virtual Boy/4 Game Boy Emulator/Scripts/Teenage Mutant Ninja Turtles II - Back from the Sewers (USA).gb
+95c804c1a851b502c15a3418eef75e491aec9371e2fb2a34e4aaa27b37e02023	Virtual Boy/4 Game Boy Emulator/Scripts/Teenage Mutant Ninja Turtles III - Radical Rescue (USA).gb
+0d6535aef23969c7e5af2b077acaddb4a445b3d0df7bf34c8acef07b51b015c3	Virtual Boy/4 Game Boy Emulator/Scripts/Tetris (World) (Rev A).gb
+2c3bc48a4ec9b6c640b83ce6524570f472db329d4a96d0b527b34abd42b7d695	Virtual Boy/4 Game Boy Emulator/Scripts/Tetris 2 (USA, Europe) (SGB Enhanced).gb
+b8765e752153310f835e10d6ceaee80b0e0913cdadf832b9516af8bf974e9666	Virtual Boy/4 Game Boy Emulator/Scripts/Tetris Attack (USA) (SGB Enhanced).gb
+252e9981ba15054b5b8e2eeab22ccbae7ac3cbe9d7cd7a895c75fb35054717f9	Virtual Boy/4 Game Boy Emulator/Scripts/Tetris Attack (USA, Europe) (Rev A) (SGB Enhanced).gb
+2526a8d3a5704d6bed3cd5cf64472ce77981f4adf98836066dcc19893c6053ce	Virtual Boy/4 Game Boy Emulator/Scripts/Tetris Plus (USA, Europe) (SGB Enhanced).gb
+d8353277c43579099f36046e170e126e4f2dfdb23077ce31f6a4c59419b23e6b	Virtual Boy/4 Game Boy Emulator/Scripts/TetrisAttackPack.bat
+935387d8212444cbf800f2a541fe7cfc4436a2c7c16dc71c423fef6259decc94	Virtual Boy/4 Game Boy Emulator/Scripts/TetrisPack.bat
+db8c1d919a7f793fe02baf40aefa37df8729774ee4bb5af742927802d22058a9	Virtual Boy/4 Game Boy Emulator/Scripts/TMNTPack.bat
+1d11bcd2f9297da7be0308da771f3a0b1af76a460e9c1f4f1770595706e22bf8	Virtual Boy/4 Game Boy Emulator/Scripts/Tokyo Disneyland - Mickey no Cinderella-jou Mystery Tour (Japan) (SGB Enhanced).gb
+a8d9a65a523a5ff40c27d25f30a5eac19fc92edaf47e50b83387953b8083b47c	Virtual Boy/4 Game Boy Emulator/Scripts/Torpedo Range (USA).gb
+13a6106b5548261764b0f0d676b07265e6ed37b4cf2f85fc763b05dde749eb64	Virtual Boy/4 Game Boy Emulator/Scripts/Total Carnage (USA, Europe).gb
+1edb7f324fa5fd5d3a677e5aa4a7a64d702669fabe0c96a62f34322eda953ad6	Virtual Boy/4 Game Boy Emulator/Scripts/Trip World (Europe).gb
+327ff2f48830dcdafad25c188f84159b327b4f535c97f37acf0e5bf93e9cd25a	Virtual Boy/4 Game Boy Emulator/Scripts/True Lies (USA, Europe).gb
+c1b0765cbfbd8f021891275fddf23fb73c5b0b40fdde4144781ed0bad7575e97	Virtual Boy/4 Game Boy Emulator/Scripts/Turrican (USA, Europe).gb
+4562e155c7ce48bf2c3c1926232040228cfb714847e3f370a5cdb2b5b1ce9914	Virtual Boy/4 Game Boy Emulator/Scripts/Turrican.bat
+ae479b7a1e185396fc714118975230defe5df9e8329e037db12b1596bd6d4d4e	Virtual Boy/4 Game Boy Emulator/Scripts/TwinBee da!! (Japan).gb
+18951671890aaaeebe66d6ed36c466e0ffcf32d4bdcf5c5c64b5d8d2c5f2fb1c	Virtual Boy/4 Game Boy Emulator/Scripts/TwinbeeDa.bat
+5dc5e2639cb40a7bbde7e2d6d2784e6ebb5b8b11091448f83bc93fdb3a2e260d	Virtual Boy/4 Game Boy Emulator/Scripts/Urban Strike (USA, Europe) (SGB Enhanced).gb
+27dd4ea8685c5fa48ad69d44f8eb980b13dc3074e1b573c542195a777ce4ef9e	Virtual Boy/4 Game Boy Emulator/Scripts/Vattle Giuce (Japan).gb
+a614390080c5a6c78664594d8546136ec9065747fbd063442ffed397015f47b1	Virtual Boy/4 Game Boy Emulator/Scripts/Volley Fire (Japan).gb
+1af2d4b29552fb2cf141955e1d77f8dd99e856b1f04fbff5240d5a1c3c2c41bf	Virtual Boy/4 Game Boy Emulator/Scripts/Wario Blast featuring Bomberman! (USA, Europe) (SGB Enhanced).gb
+ac1682f17abcf590311a233289ee325214c2d71ab3a5aa175004002d85075e56	Virtual Boy/4 Game Boy Emulator/Scripts/Wario Land - Super Mario Land 3 (World).gb
+e95a791b521c23792a3eecdaed73dfbcc98938980223796e6d2bbdf64f0fc63d	Virtual Boy/4 Game Boy Emulator/Scripts/Wario Land II (USA, Europe) (SGB Enhanced).gb
+57a912da1f9efda6b02cb3183876f7b29d200a43f6227ce30e3a17355e914997	Virtual Boy/4 Game Boy Emulator/Scripts/WarioLand.bat
+d6b1e41a17244770ba3675efc73ea19cc049cb413bf6c29125b6983c6f800f61	Virtual Boy/4 Game Boy Emulator/Scripts/X (Japan).gb
+3843f2cdb0746ff0cf7dc97e1aab4fc6a15219e7ac8e1970ead475a835c57aea	Virtual Boy/4 Game Boy Emulator/Scripts/Xenon 2 - Megablast (USA, Europe).gb
+d9812e59a4e24144d0485d75bd74881150e3397dddfe1708d986af9fc363bab7	Virtual Boy/4 Game Boy Emulator/Scripts/Yoshi no Panepon (Japan) (SGB Enhanced).gb
+2ce6b7d73c4fcdd28767845b1d9e64645186509ac10ba6f8e95b51c25145678d	Virtual Boy/4 Game Boy Emulator/Scripts/Zoids Densetsu (Japan).gb
+119476f938555b56a330c20e1a1159be6c4d5d5991b7700addb73949e2b3cf13	Virtual Boy/4 Hacks/Faceball Matej's Controls (Hack) v1 HorvatM_pad.vb
+7a90fbdd7eecb188b22a866b052dd154e4f3f952744dabeabc2c978d36f3fe38	Virtual Boy/4 Hacks/Faceball Remastered (Hack) v1.vb
+e48460ef518c3f5416e57b8069702c1d3d490f958d8127ee3ae5ece3cbd94df7	Virtual Boy/4 Hacks/Faceball Remastered+Controls (Hack) v1 thunderstruck, HorvatM 2013-03-13.vb
+a45999b5632bbe21d8d50d31390877415178265af38f3541466dc0dbb32bc6e5	Virtual Boy/4 Hacks/Jack Bros. Debug Cheats (Hack) v1 Parasyte_pad.vb
+607ade302c085d3c6989b62824ee507cb98d811d58f3312f07011d13290e4101	Virtual Boy/4 Hacks/Mansion of Insmouse All Hallows' Eve (Hack) Ben Stevens 2017-10-13.vb
+3a971160d52abae463984c81ab1690f8c1b49a708bbd6363f2e51eb4569f9791	Virtual Boy/4 Hacks/Mansion of Insmouse Mario Madness Edition (Hack) v1 Ben Stevens_pad.vb
+2cdf4d337df89040ad9afdb39b4728d9f6b3a204b8108e90a58012baf2387f06	Virtual Boy/4 Hacks/Mario Clash Controller Fix (Hack) v1 DogP_pad.vb
+40d5f52ba5d889eb8b147da92e74a8c8b3be15285dcf762361a7950d31848259	Virtual Boy/4 Hacks/Mario Clash Level Select+Controller Fix (Hack) v1 DogP_pad.vb
+f2885140611c264d37f3f4bff83259fe475ee92e2582de2b454e560a294ed2de	Virtual Boy/4 Hacks/Mario's Tennis Multiplayer (JU) v1 MK.vb
+355a784c3ebbc061c4860b2e5712c855231ef98136835d24e073a9c7e99dcc17	Virtual Boy/4 Hacks/Panic Bomber Debug Menu (Hack) v1 Parasyte_pad.vb
+6651b7e40ce630771d432668b2fb8f26ada932cd135654db6f419128774cb1c8	Virtual Boy/4 Hacks/Panic Bomber Stage Select Debug (Hack) v1 Parayste_pad.vb
+16a58fbe4c1daa40c20c73db388133540b941c6bfe8a5518aad7ad4956ca35fb	Virtual Boy/4 Hacks/Red Alarm Debug JP Press Select 60 times, L+R+Select+A In-Game (Hack) v1 HorvatM_pad.vb
+f9b286555540f3be2da43c6665c3c4f29a6cef7013cc5d546b33d692c92dc290	Virtual Boy/4 Hacks/Red Alarm Debug US Press Select 60 times, L+R+Select+A In-Game (Hack) v1 HorvatM.vb_pad.vb
+5488ed75c8ad45146cb047787b8a745b72cc75fd843872b797f14ffa8f2bbb14	Virtual Boy/4 Hacks/Space Pinball Score Reset (Hack) v1 HorvatM.vb
+d80db37a43e32598c097bc3cc872151e0ff0b617e321e6346f334f7f903c8f30	Virtual Boy/4 Hacks/Vertical Force Debug Menu (Hack) v1 Parasyte_pad.vb
+77c9ccda4879bf063ee5656e6c7663b64f48ad6032cb56bff6193108809a9209	Virtual Boy/4 Hacks/Virtual Bowling Debug Menu (Hack) v1 Parayste_pad.vb
+3f5035110507dc3d074a0dd446b416a5c7acbc872d516f38964ddb9c69d2d2d8	Virtual Boy/4 Hacks/Virtual League Baseball Select Any Team JP (Hack) v1 DogP.vb_pad.vb
+b381b489a31b18da649be47535adcc7571168adecaff03c32cc35acbccf2a51a	Virtual Boy/4 Hacks/Virtual League Baseball Select Any Team US (Hack) v1 DogP_pad.vb
+ab072530906d4c2f35618da0c86c5009d23ba299b1950302ca1f4282a423e9c0	Virtual Boy/4 Homebrew/3D Battlesnake - 2 Linked VBs Only (PD) Pat Daderko 2008_pad.vb
+4e041051d60d9ad5db163f7222e9f324a1f152837b67243fc3627545ec12afd5	Virtual Boy/4 Homebrew/3D Crosswords (PD) Chris Read 2013_pad.vb
+7774c81cb78c2f2167016def3079c4dd7ba17d529e14b1995d63a980f7ab9d25	Virtual Boy/4 Homebrew/Advanced Pasta Cooking Simulator (PD) HorvatM 2013-04-01.vb
+3b153435dbbe01884adc5e3b9d7035971a1c9bbb8459ca26d126fe160bdbdcec	Virtual Boy/4 Homebrew/Blox (PD) v1.1  KR155E_pad.vb
+7a5e2f72da47da89ca86af2f50245f30a63bd59ac3083c7f5cdab76a26230eb5	Virtual Boy/4 Homebrew/Blox 2 (PD) KR155E.vb
+ad80fcfe406d1b0bd73396a62d8911d18aacfb0b35711c385f91f7d6c0ac173b	Virtual Boy/4 Homebrew/Capitan Sevilla 2 (PD) rubengar_pad.vb
+eb5a938ffd4f6fcef82dde730078da18ff8e4c7d6b6dfebc93702874c26bf103	Virtual Boy/4 Homebrew/Castle of Doom (PD) Final VirtualChris_pad.vb
+ae928a28537116fb31fd14062986d9059340fa918ad6ab83e01916ab1d674be4	Virtual Boy/4 Homebrew/Channel Sweeper (PD) Final Jose Zagal_pad.vb
+3d448c16759a66f00dc00e9122f1aa7d5beca023d1778b0935f8dee7bdf82301	Virtual Boy/4 Homebrew/Daumen Kinosaurier (PD) v1 Virtual Freak.vb
+06738889b82d562b153d2f4c5f14685614942beadbe5e7e771f0f720bb7b9bd5	Virtual Boy/4 Homebrew/Deathchase (PD) Matej Horvat & Amos Bieler 2014-02-28_pad.vb
+c963fd76739fe40de91431b15813b5079ab525d8b22d7ca3d4b28436a0ab5eba	Virtual Boy/4 Homebrew/Etch-A-Sketch (PD) Pat Daderko_pad.vb
+401f3c0606f685060babd7cf3611a48fcbc84c4d5211da9bd0bf4aee28ecd88b	Virtual Boy/4 Homebrew/Fishbone (PD) Final 3 thunderstruck, Virtual_Ben.vb
+a9543b9e99f1108e4924bd8f7af098fb2cfa4591981352ec21c4a2b2e6dd6c50	Virtual Boy/4 Homebrew/Flappy Cheep Cheep (PD) Pat Daerko 2014-02-28_pad.vb
+62d411d56af9c65aa23bd290919b927a4b1ab575a39a7441edefffda6667f39c	Virtual Boy/4 Homebrew/GameHero - Pad (PD) v1.1 thunderstruck.vb
+bb6657ae8592636ad8972bf6f96d7871d169871dd1ff0816c64a91817132d64d	Virtual Boy/4 Homebrew/GoSub (PD) VirtualChris_pad.vb
+1b704aca127fa20ba6d0f3a93a52112856f0647ee3da6eedaae021164c35eb50	Virtual Boy/4 Homebrew/GoSub 3D (PD) VirtualChris 2010_pad.vb
+7cb1d2d8ad694e984116561b61e2fcb108f59ccf0b407098fd2d45742b170944	Virtual Boy/4 Homebrew/Hyper Fighting (PD) Demo 1 M.K., Mr. Anon.vb
+13a1e1a48d876adcfdc1df5139e68679127422290a8d91d1dc06a439e129689b	Virtual Boy/4 Homebrew/Lights Out (PD) Guy Perfect_pad.vb
+08b9c39ced22e9239d68ec70769ada6161310ccb800df460ba0892897e3c7226	Virtual Boy/4 Homebrew/Mandelbrot Explorer (PD) v1 Fwirt 2010-10-30_pad.vb
+410616294375bfea36573c98a8767a2697378aa53d325901fa3f7a3e4b357271	Virtual Boy/4 Homebrew/Mario Combat (PD) thunderstruck 2014-02-28.vb
+367be59a795fae23670b569548bc803d42ed680530846a6ea32bd405fc785e7b	Virtual Boy/4 Homebrew/Mario Kart Virtual Cup (PD) PVBCC DogP_pad.vb
+5f938ae29eed94b54e69db54f25e20bdfe1e8aa06e45fb62fe98266ca94894aa	Virtual Boy/4 Homebrew/Mario VB (PD) v3.0.1 Jorgeche_pad.vb
+12c1d47a2285f1f70edecabd7cf01d388952d9fba3acb7dde1767501e7b688db	Virtual Boy/4 Homebrew/PongInvaders (PD) usch_pad.vb
+42d055815586e94e9953911a9bee2976a6e067f53be82ad9ebe1831120f4fad0	Virtual Boy/4 Homebrew/Simon! (PD) DogP_pad.vb
+86792d5a3d6795465be0a686aaa18688149d8d3b131e8c3064583a420460486e	Virtual Boy/4 Homebrew/Snatcher (PD) Demo 1 thunderstruck.vb
+c3f64950c301283b01689a9a94f10bd82bc051233766f5bdc4f08ef7f7e7e1ca	Virtual Boy/4 Homebrew/Soviet Union 2010 (PD) v1.2 HorvatM.vb
+a88986dd753bda4e6dd654e36d340b2bbdc29b950f47b5f30ffadb161025ae06	Virtual Boy/4 Homebrew/Soviet Union 2011 (PD v1.2 HorvatM.VB
+16c667dd6d1148cd2a3c3d757250615e9d255665aeea207c32ac271c83256e29	Virtual Boy/4 Homebrew/Super Bounce (PD) DogP_pad.vb
+9243233ddfc021c501ab2458cd43f2a2f781d10b93ea7ba3c4fa7ee401a8533e	Virtual Boy/4 Homebrew/Tic Tac Toe (PD) Pat Daderko_pad.vb
+5c5648290ba86ea1392bab03cf28a3a9024236c1eed027fb2d5e6c4c967dbe62	Virtual Boy/4 Homebrew/Tic Tac Toe - 2 Linked VBs Only (PD) DogP 2008-11-11_pad.vb
+e2b9b86b48a8c34db6ee66603f49ca4abddb4185a7ee70d15e26d8117c99c897	Virtual Boy/4 Homebrew/Tic-Taco-Toe 'Ten (PD) VirtualChris_pad.vb
+1b3ffccbca4d4610a43d3b8436e9abcc1851642dfdbf834669ffc148b4b1ef58	Virtual Boy/4 Homebrew/Tron VB - 2 Linked VBs Only (PD) Pat Daderko 2003_pad.vb
+7701e4c3576edb83adec6b2a3efa6208f33f6a04c8774416f3bb82d7fc732d82	Virtual Boy/4 Homebrew/VB Racing - FlashBoy Version (PD) PVBCC MK_pad.vb
+81f55990f9a98b17044d945e0d45beb7b6977876993216942ffc286d4cb1e998	Virtual Boy/4 Homebrew/Virtual Fall Coding Competition Multigame (PD) v1 thunderstruck 2015-03-01.vb
+621cdcf75b925c18c64522693eee4b27e75847614fc1cb3b3da94c96655b9b4a	Virtual Boy/4 Homebrew/Virtual Pong (PD) Alberto Covarrubias_pad.vb
+1c5878662f2ca60bc8601ede6cd3cac55f675396152bc5fb60a25d1f8d8181e5	Virtual Boy/4 Homebrew/VUE Snake (PD) v1.1 KR155E_pad.vb
+d5c3c0995ea574bcc22d646b4d4dc1e76bb7af7e15e7675be0299d6ca65bdae5	Virtual Boy/4 Homebrew/VUE Snake RG2009 Edition (PD) KR155E_pad.vb
+4c34613dd1bb3e82433da128d417c139fb8909c89649137be84b65fd2681a743	Virtual Boy/4 Homebrew/VUE Snake RG2010 Edition (PD) KR155E_pad.vb
+57a095b06de3c95574d48b2399e225732b93ba1ddc0aac3ec3d9583c5e016dbe	Virtual Boy/4 Homebrew/Demos & Intros/Action 54! (PD) VirtualChris 2016-05-10_pad.vb
+6c1db8a62279a5c92a919294fe67213b0715f8c2e3a6173bd085f7616df9ab77	Virtual Boy/4 Homebrew/Demos & Intros/Affine Demo 1 (PD) David Tucker_pad.vb
+a7564636f49a423ae89e0eb7b905d763420ccf1e3b303a146195012f1b496fe5	Virtual Boy/4 Homebrew/Demos & Intros/Affine Demo 2 (PD) David Tucker_pad.vb
+a7564636f49a423ae89e0eb7b905d763420ccf1e3b303a146195012f1b496fe5	Virtual Boy/4 Homebrew/Demos & Intros/Affine Mode Rotate Demo 2 (PD) David Tucker_pad.vb
+07d4f82fe214716e28930588a926830861618338341dd3c850cda2ce546d928c	Virtual Boy/4 Homebrew/Demos & Intros/Ballface (PD) DanB.vb
+ca285ecf18e5e8ce15736d0b757df1f40a60f42c6688596870b340e368287539	Virtual Boy/4 Homebrew/Demos & Intros/Castle of Doom Redux (PD) VirtualChris 2016-05-09_pad.vb
+e56e3cc637c1f92da8fbeb2630fdbaa297b4b05773f26598a2c956e35ac7ad6b	Virtual Boy/4 Homebrew/Demos & Intros/Conway's Game of Life VB 4px (PD) thunderstruck 2012-12-31_pad.vb
+448c09147b8354f78ed05f7aa7d47e6f63a7588250c7ef018075c9df82f867c2	Virtual Boy/4 Homebrew/Demos & Intros/Conway's Game of Life VB 8px (PD) thunderstruck 2012-12-31_pad.vb
+815b2c4cf2d2afe7f18f171e75dd5816248b7197c29e1bdc335c7e825585ecd4	Virtual Boy/4 Homebrew/Demos & Intros/Conway's Game of Life VB Direct Screen Draw (PD) thunderstruck 2012-12-31_pad.vb
+ed21373d6ed16c80c793066f8c88f18b27822117f8b44153ef4c5b12903f167d	Virtual Boy/4 Homebrew/Demos & Intros/Croach, The (PD) Cooler_pad.vb
+1053d037930036726f80f80981fbce4beb22375f18ecf89ff6bf8ba794db9c3b	Virtual Boy/4 Homebrew/Demos & Intros/Dither Test (PD) blitter_pad.vb
+d559de5dbe8fe5796eada9df4749f6eddddd758ef34728e646e90b67a73ce306	Virtual Boy/4 Homebrew/Demos & Intros/F-Zero Maximum Velocity (PD) VF2013 Guy Perfect_pad.vb
+bb7baca0a3bf29bca82b8b2d2b5e4cc6a136c2f5f233b1fcbbb23d8c986b8389	Virtual Boy/4 Homebrew/Demos & Intros/Framebuffer Drawing Demo (PD) Pat Daderko_pad.vb
+86717530e7bf0bad6556c62a07f64aa17f9d38867f0458b5208cf1e9a4022025	Virtual Boy/4 Homebrew/Demos & Intros/GLOW Demo (PD) KR155E_pad.vb
+4c5a8e105066a82961d477f9427d611970c9847c22e8a83eb992e52e464b506d	Virtual Boy/4 Homebrew/Demos & Intros/Hello, World! Demo (PD) v1.1 Amos Bieler_pad.vb
+60c02282f65caa7e0dec750c839fdf3da3ade545227138572795660f90319bcf	Virtual Boy/4 Homebrew/Demos & Intros/Hover Demo (PD) RunnerPack 2008-09-30.vb
+5e361c33d8a125830c5678fe8b6bb91182361e989990be754d4c44441159efbb	Virtual Boy/4 Homebrew/Demos & Intros/Hunter (PD) DanB_pad.vb
+a4cf67c2bb09e262237b0344e3e327cd56784edff6b6021ffb92c785d0839717	Virtual Boy/4 Homebrew/Demos & Intros/Man With Ball (PD) DanB.vb
+75b978bf8c8fafa0277090e402753da4ebed2fb74f8798c0d5b48ba6a8e9ab71	Virtual Boy/4 Homebrew/Demos & Intros/Mario Flying Demo (PD) Frostgiant_pad.vb
+847398ccc4c786dac7c442b4c24a85b78a821e56b6a9312906f737ffa0f885ec	Virtual Boy/4 Homebrew/Demos & Intros/Matrix, The (PD) Cooler_pad.vb
+490d4bfba62d00718dbfe96a95df8f36de2f5fa136e90dfea04f3e3f8701d166	Virtual Boy/4 Homebrew/Demos & Intros/Metroid VB (PD) KR155E 2009-04-01.vb
+57fd56aad671df7d9e3c93433a02ebfcbdf37cf82f3a7ca81b0f8bbd41645f35	Virtual Boy/4 Homebrew/Demos & Intros/Mode 7 Demo (PD) ex Alpha_pad.vb
+18aaf73963acee3e229bae87914e1c8302d1624bf566474453d11fda543b05db	Virtual Boy/4 Homebrew/Demos & Intros/Multicolor Demo (PD) KR155E 2008-03-05_pad.vb
+213835b87f9f889b88cf31f628cfc98172ddfa503bd2d96d4757392b3b26f1e8	Virtual Boy/4 Homebrew/Demos & Intros/Null Pointer Mockup (PD) KR155E 2015-11-16_pad.vb
+e2fb2697b918f5a8bebca72c2232ca33c39cb3d07b99470d0c7d92846dc5a4a9	Virtual Boy/4 Homebrew/Demos & Intros/OBJ Pointer Demo (PD) Dan Bergman_pad.vb
+6b4383bce73f9c7734a5c1856140355e757b37d823e56ee280be1229b28da8eb	Virtual Boy/4 Homebrew/Demos & Intros/Pacman Demo (PD)_pad.vb
+d4a176a83e039bfa29ff7a58fdba2e4e6c3f1fcd7961472f87a68502dc813e3f	Virtual Boy/4 Homebrew/Demos & Intros/Polygon Demo (PD)_pad.vb
+b4aec4ce8e2e6ed486d4358aeaae2d284c3b210952fd9cd16aca2cfa33e42814	Virtual Boy/4 Homebrew/Demos & Intros/Project5 (PD) v2006-04-26_pad.vb
+c5a3ca97f8eae9fabb3dd563857e56d77446091eb60ce92df8ba01e3ed611beb	Virtual Boy/4 Homebrew/Demos & Intros/Reality Boy Demo (PD) test2 David Tucker_pad.vb
+c5a3ca97f8eae9fabb3dd563857e56d77446091eb60ce92df8ba01e3ed611beb	Virtual Boy/4 Homebrew/Demos & Intros/Reality Boy Demo 2 (PD) test2 David Tucker_pad.vb
+ad04223c9348ac3af79c6c9e2c832dbe7af7fa7d2478da1097490a3ffbc18d82	Virtual Boy/4 Homebrew/Demos & Intros/Scaling Demo (PD) Parasyte_pad.vb
+cf88bc466202d5614a0ef0c38659228be503b5100c925fe8fed9759693e056b0	Virtual Boy/4 Homebrew/Demos & Intros/Snowball Wars (PD) Demo 3 Jorgeche_pad.vb
+b4a6e37de4ed1f403fba68fb99cef3d5d303d939d19bd9ba8fa45b77dd3e8382	Virtual Boy/4 Homebrew/Demos & Intros/StarFox (PD) Greg Stevens_pad.vb
+c14f91adf563e962b14b2658bda95666e38ca3d0e56625c7714b343b0e185e7a	Virtual Boy/4 Homebrew/Demos & Intros/Starwars (PD) Greg Stevens 2013-03-02_pad.vb
+41dc1801b4c3b14f18437bb4ec0df75d53caa93af96f12cd57212956170fa14c	Virtual Boy/4 Homebrew/Demos & Intros/Super Fighter Demo (PD) KR155E_pad.vb
+7f76eb97e9191e14b6da361ed898646aa9a8cbf0d65727db46b2fdf547590d31	Virtual Boy/4 Homebrew/Demos & Intros/This Demo Owes ALOT to RunnerPack HelloWorld SpriteExam 3 (PD)_pad.vb
+665f18d8c24d3e2d540eb1898a5c800ea89e03b9a13bf050d3e55543095016b1	Virtual Boy/4 Homebrew/Demos & Intros/Value (PD) v1 KR155E 2016-01-22_pad.vb
+7f3c8e7f05b5887c3e6bab86aa0992d554acd96661e0968b8679bc0aead63eb9	Virtual Boy/4 Homebrew/Demos & Intros/VB Rocks! Demo (PD) KR155E_pad.vb
+8a1b5fc3e65b6d636b64321557cd7dd16a4663550cde41899c53ce5421176c29	Virtual Boy/4 Homebrew/Demos & Intros/VBJaEngine Platformer Demo (PD) Jorgeche, KR155E 2016-03-03_pad.vb
+e09cfac78f002b33dfc2f06847c9a6deb1d53173b2be6c5876a9bfa20d1c31fb	Virtual Boy/4 Homebrew/Demos & Intros/VeeBee Cursor Demo (PD) David Williamson_pad.vb
+a8780aeeb7583d61dcad603f303a7d8b19b687bc95f787ef92cb64ae67d5eaad	Virtual Boy/4 Homebrew/Demos & Intros/Virtual-E Cursor Demo (PD) Alberto Covarrubias_pad.vb
+75078d884798b3515dc3ae0b4b4e48005990848c3dec37dd54579d8ba6609260	Virtual Boy/4 Homebrew/Demos & Intros/VUEngine Platformer Demo (PD) 2017-08-10.vb
+3f99904113f05ed107597162bd8fc09bea61e30eb2b406117a77cef24082cb7a	Virtual Boy/4 Homebrew/Demos & Intros/Wario Gonna Win Demo (PD)_pad.vb
+2466ebbe63e95f90bb9e4b69ed44d82c35ed44b8cca94e0c860850d84499ff65	Virtual Boy/4 Homebrew/Demos & Intros/Water Ripple Demo - FlashBoy (PD) RunnerPack.vb
+364f25da49f6ee2759152807c15b89da9fbba3cbbf22086a31985e64eb9a2fa6	Virtual Boy/4 Homebrew/Demos & Intros/Wavs (PD)_pad.vb
+595c12ddb956e4cb3d891938b68bec99ca5758aa9b5b0a42c5fec343240aa8bf	Virtual Boy/4 Homebrew/Demos & Intros/Xmas 2012 Demo (PD) thunderstruck.vb
+68d3f52eb60a5f666cbdcf7d62e21ab0d19ace28286a8e88dcb55294e64cb05e	Virtual Boy/4 Homebrew/Demos & Intros/Yeti3D (PD) Demo 2 DanB.vb
+a733c3bc6b7f41e8bb23d792abd579a54b03507d5109f9e5c18d3722f24f6379	Virtual Boy/4 Homebrew/Demos & Intros/Zpace Racers (PD) DanB 2014-02-28_pad.vb
+824e9fcd67e76dec5d9e937babc791178d950fd5c1a6ad796b9578e78196de59	Virtual Boy/4 Prototypes/Bound High! - Hardware Fix (J) BKCOL Fix v1 RunnerPack 2015-04-08.vb
+77f616c1bc1f1aae0ad290143e3954d6880a08bb84382148651de625c342c657	Virtual Boy/4 Prototypes/Niko-chan Battle - Faceball (Japan) (Proto)_pad.vb
+ea77eacb93a109c23ca776b28bcbf681d25eec8ccff4a2609fb9011dc82af8d0	Virtual Boy/4 Prototypes/Space Pinball (Unknown) (Proto).vb
+f994129493e1b58926ac20aa26d0accacc5ecaac6cfb3d26256e8fd9ff8559af	Virtual Boy/4 Translations/SD Gundam English (J) T+Eng v1 Ben & Greg Stevens_pad.vb
+56593a43a5e46d35d4e97c6646e2d2fbf224955dd784be9a284faa6370a70f99	Virtual Boy/4 Translations/Space Squash English (J) T+Eng Greg and Ben Stevens_pad.vb
+5aefadd58725363fe42e959db8d32be19041573a125e60af14eaa3bce4e000b1	Virtual Boy/4 Translations/Teleroboxer German (JU) T+Ger 4b KR155E_pad.vb
+bfa724cce0fe0c87bac09e6d353a1e9a28cf40bb403a725bf0594ca6d89524d5	Virtual Boy/4 Translations/Virtual Fishing English Edition (J) T+Eng v1 thunderstruck.vb
+447acedad9b621db7ac628af5b061c7de05677cf7e6eb9e69c1360d66efb752b	Virtual Boy/5 Tools & Service Test Carts/BitString Demo (PD) Dan Bergman_pad.vb
+56ab85ce1075018716d35840aeef38e1bc329189939ed18dcb689abc994b582d	Virtual Boy/5 Tools & Service Test Carts/Cycle Test (PD) Guy Perfect_pad.vb
+893f878bc30e7e1c2e5abb111c645bb65ccfd8d87c00f5124609781a833ada1e	Virtual Boy/5 Tools & Service Test Carts/MIDI music player (PD) PVBCC Dan Bergman.vb
+e2fb2697b918f5a8bebca72c2232ca33c39cb3d07b99470d0c7d92846dc5a4a9	Virtual Boy/5 Tools & Service Test Carts/OBJ Pointer Demo (PD) Dan Bergman_pad.vb
+b8f47bbd9726943108193f83e21825bc271326c97a3620f7714431e8a37270b5	Virtual Boy/5 Tools & Service Test Carts/Speed Profiler (PD) Guy Perfect_pad.vb
+24e32ac85e95fccd9769dfe8f1b57aa2cf9820132b285df7c462c4b467f101c5	Virtual Boy/5 Tools & Service Test Carts/VB Display Test App (PD) v1 DogP_pad.vb
+3fae5d603978f621f89e9b13923dcd32b04f99bef74aad4c4fd2afc17d9e1371	Virtual Boy/5 Tools & Service Test Carts/VB Link Cable Test (PD) v1.vb
+1de3ddb5611a4503f3f91333b9985adc0218d3d018ff87efc10b91fc1414b790	Virtual Boy/5 Tools & Service Test Carts/VB Programming Introductory Demo (PD) KR155E_pad.vb
+11f0414037fcce08537c03216e6f962dba6983f0670ae3dced91a4773a670729	Virtual Boy/5 Tools & Service Test Carts/VB Sound Tester (PD) v1 Frostgiant_pad.vb
+274a8457d9ceb5aba70e223cb0c2afe592d4851189431db421b23640c3f39d05	Virtual Boy/5 Tools & Service Test Carts/VSUWorkshop (PD) Guy Perfect 2016-01-10_pad.vb
+76e3321e82ccb51db72090f3e8b289091c1f612afe795cc3badc804650adc15f	Virtual Boy/unpadded/1 USA - A-Z/3-D Tetris (USA).vb
+83471721324e334b7a30b54f78305f31a0a5946b234c57b60e79d9d6912b47f3	Virtual Boy/unpadded/1 USA - A-Z/Galactic Pinball (Japan, USA).vb
+56179970ec2f766b596b8cb18cf2bbefdabf78d7a4fbc580695ccb8e10aed0e7	Virtual Boy/unpadded/1 USA - A-Z/Golf (USA).vb
+942bcab78d062b8eeb8362047fb7718bc40cdb83d3f5c8d9e2d1e3872a2dfd1a	Virtual Boy/unpadded/1 USA - A-Z/Jack Bros. (USA).vb
+9f1baa93a805a4fc471860fb7c806bb7ac8c289ded77a78397ef8f964a11a396	Virtual Boy/unpadded/1 USA - A-Z/Mario Clash (Japan, USA).vb
+5dc5e6b5d5f538f56b3b9727db1c7931d9dfe1bbd0743f698897e0fd90e70101	Virtual Boy/unpadded/1 USA - A-Z/Mario's Tennis (Japan, USA).vb
+ce391aae5e672f3ca472efeaab985da8cee4a36fe068ed50489afa45aaeb5962	Virtual Boy/unpadded/1 USA - A-Z/Nester's Funky Bowling (USA).vb
+e75e98add227ea9c2168ff13b131e3c72faa789e1ef4b9fdbae13d746ad9b3e3	Virtual Boy/unpadded/1 USA - A-Z/Panic Bomber (USA).vb
+e53592a5eaf8f1d33bbb06a0389be685fdb8192454c826ed525d34bd27702e33	Virtual Boy/unpadded/1 USA - A-Z/Red Alarm (USA).vb
+5bfdc99d6b5bdf32daf3c87e310aa078d6d51c733b02bbbf4042222578b60a36	Virtual Boy/unpadded/1 USA - A-Z/Teleroboxer (Japan, USA).vb
+73b0d5b62c30ff1e3cc78e4c099dbdbda2517fa0ea02d6a8fb180894675c3216	Virtual Boy/unpadded/1 USA - A-Z/Vertical Force (USA).vb
+abfb74c94c07808d368139db2e875cd91608f95e4ab892ac9b9d0442214c7198	Virtual Boy/unpadded/1 USA - A-Z/Virtual Boy Wario Land (Japan, USA).vb
+eb3c0199cb949be474a70153ed6bfa575aef9600384855924c3eb4d884d12586	Virtual Boy/unpadded/1 USA - A-Z/Virtual League Baseball (USA).vb
+9c21378c539e04b433ad8dc63a5e301025a1a19830effe94b827516ee58d4c56	Virtual Boy/unpadded/1 USA - A-Z/Waterworld (USA).vb
+df48db37887c9ef2f30a3a2f486607a8c8633bba5163ea8c3b8e7cf49067ef7d	Virtual Boy/unpadded/2 Japan - A-Z/Innsmouth no Yakata (Japan).vb
+1f7a1f7090e3867778ee2bf575b6983b1d27c1b2c911a04e9e996728ed5f7b30	Virtual Boy/unpadded/2 Japan - A-Z/Jack Bros. no Meiro de Hiihoo! (Japan).vb
+52a215853f5f7a354376fb4c4ea4ac458a8c1d4472aa06fe1efdd924afdd5211	Virtual Boy/unpadded/2 Japan - A-Z/Red Alarm (Japan).vb
+98d210dcbd1c5d836aa5bbf018eb26e971711b69b4423187bbb72178d5da9a92	Virtual Boy/unpadded/2 Japan - A-Z/SD Gundam - Dimension War (Japan).vb
+d1cc03dc75c9778f9dc621253d8af7161e5d6a826569574b2be1adef7cc24732	Virtual Boy/unpadded/2 Japan - A-Z/Space Invaders - Virtual Collection (Japan).vb
+7f6111f53730aa72ebcdc3883f323163cf6daae320692f9021f24d8ea76282ee	Virtual Boy/unpadded/2 Japan - A-Z/Space Squash (Japan).vb
+3a9ec2ffebe507a38e4f4e47f6aa27c524f20fc722281e8b303c31f657de49cc	Virtual Boy/unpadded/2 Japan - A-Z/T&E Virtual Golf (Japan).vb
+2f8b4121ea160e731f545956b557d6372de7582ecee4e21a79900d7cc6dbc148	Virtual Boy/unpadded/2 Japan - A-Z/Tobidase! Panibon (Japan).vb
+3a6a24e9645a926a6a9d3c0cf97a854f9fcc5d19cf4ec3caa770c3e9f9d6ecad	Virtual Boy/unpadded/2 Japan - A-Z/V-Tetris (Japan).vb
+398428d31ecf045775123ff552118ea2d15f1e2ef88c6c8f27452f39019ff547	Virtual Boy/unpadded/2 Japan - A-Z/Vertical Force (Japan).vb
+54cd07d54a416ce2e56dab3ccd1172ad339c36485ae7a11f762186f60f69e9d3	Virtual Boy/unpadded/2 Japan - A-Z/Virtual Bowling (Japan).vb
+3d62e53c4bcd45fbd22ab4b130ffbcb22cdb7b19faecbf5c8c8364d05628afdc	Virtual Boy/unpadded/2 Japan - A-Z/Virtual Fishing (Japan).vb
+859909c9f67cbf58014b67fd3a79cf31e3866d6c301f112c901f4612b57a7e26	Virtual Boy/unpadded/2 Japan - A-Z/Virtual Lab (Japan).vb
+5f1b6cc370956c47254c90d8ec46d6a7ae183543ac96220a7cdf1cd25f781db3	Virtual Boy/unpadded/2 Japan - A-Z/Virtual Pro Yakyuu '95 (Japan).vb
+7774c81cb78c2f2167016def3079c4dd7ba17d529e14b1995d63a980f7ab9d25	Virtual Boy/unpadded/4 Hacks/Advanced Pasta Cooking Simulator (PD) HorvatM 2013-04-01.vb
+98505ed75ea7de58ea2afe4b86137e7bd3c69e7a34fd3896fa76a81f9f97dbbd	Virtual Boy/unpadded/4 Hacks/Faceball Matej's Controls (Hack) v1 HorvatM.vb
+7a90fbdd7eecb188b22a866b052dd154e4f3f952744dabeabc2c978d36f3fe38	Virtual Boy/unpadded/4 Hacks/Faceball Remastered (Hack) v1.vb
+e48460ef518c3f5416e57b8069702c1d3d490f958d8127ee3ae5ece3cbd94df7	Virtual Boy/unpadded/4 Hacks/Faceball Remastered+Controls (Hack) v1 thunderstruck, HorvatM 2013-03-13.vb
+cff42766fa476fbca9e948527b8a57e56f79889c3366ccc69a439ec24061eef3	Virtual Boy/unpadded/4 Hacks/Jack Bros. Debug Cheats (Hack) v1 Parasyte.vb
+6a580c17c915be7b5464673567dd1241d6667e9e77c0db30a40f0bc2fc574828	Virtual Boy/unpadded/4 Hacks/Mansion of Insmouse Mario Madness Edition (Hack) v1 Ben Stevens.vb
+ea88ffc5d8742897a6deeea2316d868fdffe4361cb5bb24d11620e1caed99326	Virtual Boy/unpadded/4 Hacks/Mario Clash Controller Fix (Hack) v1 DogP.vb
+e7ae9c7a5afa95c72c27937559d518b34e2fb47da7e30d6fc5c779652ab3d059	Virtual Boy/unpadded/4 Hacks/Mario Clash Level Select+Controller Fix (Hack) v1 DogP.vb
+f2885140611c264d37f3f4bff83259fe475ee92e2582de2b454e560a294ed2de	Virtual Boy/unpadded/4 Hacks/Mario's Tennis Multiplayer (JU) v1 MK.vb
+77f69ddaf29f7c09e98f2283bd7c628f0185421d2ab288616b7effd34a4c521c	Virtual Boy/unpadded/4 Hacks/Panic Bomber Debug Menu (Hack) v1 Parasyte.vb
+660316b2621f84f20a67589a69cbcd81cf789dadc9dbbe85f68453a6f5932e10	Virtual Boy/unpadded/4 Hacks/Panic Bomber Stage Select Debug (Hack) v1 Parayste.vb
+73376002fa039b88bb2be32a2ec478a59bbdf09c570221cce5f968a467580e31	Virtual Boy/unpadded/4 Hacks/Red Alarm Debug JP Press Select 60 times, L+R+Select+A In-Game (Hack) v1 HorvatM.vb
+e4a00af598ab7550052eca7a809a388166f6ffc87fbf1a9518d01119a0b27088	Virtual Boy/unpadded/4 Hacks/Red Alarm Debug US Press Select 60 times, L+R+Select+A In-Game (Hack) v1 HorvatM.vb.vb
+5488ed75c8ad45146cb047787b8a745b72cc75fd843872b797f14ffa8f2bbb14	Virtual Boy/unpadded/4 Hacks/Space Pinball Score Reset (Hack) v1 HorvatM.vb
+78e5b679c6c78fc03a893c485b2ade573bf7db6a75c083f94b9277a6be7c5fff	Virtual Boy/unpadded/4 Hacks/Vertical Force Debug Menu (Hack) v1 Parasyte.vb
+a6ee27865ba70fe6810af74856fb7d0463fd92a3cc7ae31d88e1aa87be9d9516	Virtual Boy/unpadded/4 Hacks/Virtual Bowling Debug Menu (Hack) v1 Parayste.vb
+7acc1d77f1fd4fb184cc278fe6f1eed8436545e93f645a9a1be387929be8d7a2	Virtual Boy/unpadded/4 Hacks/Virtual League Baseball Select Any Team JP (Hack) v1 DogP.vb.vb
+e945324f67574b1534ebbc69fd51923176654ddba7250f1befa14c36cacb12ff	Virtual Boy/unpadded/4 Hacks/Virtual League Baseball Select Any Team US (Hack) v1 DogP.vb
+e32d8bbe8e6985726742b496520fa47827f3b428648fa1bc34ecffdd9bdac240	Virtual Boy/unpadded/4 Hacks/InsmEdit/COMDLG32.OCX
+02fc595ca75ee3d1cda7a64f8edfa5f77ba30b729c71ea156dc450ceb36edb60	Virtual Boy/unpadded/4 Hacks/InsmEdit/Example.imp
+8611dc1b60ae5c383bba6cb3ffd8a51aeebff23b95844f0ab3d6e5ecd0fadc84	Virtual Boy/unpadded/4 Hacks/InsmEdit/msvbvm50.dll
+bbc3c22562660e1bba5bbf1d2603a611e557473862b31f2539c487252b9057d5	Virtual Boy/unpadded/4 Homebrew/3D Crosswords (PD) Chris Read 2013.VB
+7774c81cb78c2f2167016def3079c4dd7ba17d529e14b1995d63a980f7ab9d25	Virtual Boy/unpadded/4 Homebrew/Advanced Pasta Cooking Simulator (PD) HorvatM 2013-04-01.vb
+bb69dab364fc96ed1bd93b3f633ff928baf568db66638b830b3060411e40b208	Virtual Boy/unpadded/4 Homebrew/Blox (PD) v1.1  KR155E.vb
+7a5e2f72da47da89ca86af2f50245f30a63bd59ac3083c7f5cdab76a26230eb5	Virtual Boy/unpadded/4 Homebrew/BLOX 2 (PD) KR155E.vb
+c760dfc8fa676a6b127987f1e93dc24eb1c95d866736b2bc0a7a493a91f62189	Virtual Boy/unpadded/4 Homebrew/Capitan Sevilla 2 (PD) rubengar.VB
+e94e451b5029a3ec9f4200ebed4b30272a33087bb7e5bab9d16540d0a2cced2d	Virtual Boy/unpadded/4 Homebrew/Castle of Doom (PD) Final VirtualChris.vb
+385cada8b4dbef0e82c009cb1771c389295914190f98c44ca97d581bd2b37c08	Virtual Boy/unpadded/4 Homebrew/Croach, The (PD).vb
+3d448c16759a66f00dc00e9122f1aa7d5beca023d1778b0935f8dee7bdf82301	Virtual Boy/unpadded/4 Homebrew/Daumen Kinosaurier (PD) v1 Virtual Freak.vb
+1ff711ec90b67f632ab88ea215911f68382dc1d7e82318595c4e7dd3522c0fbb	Virtual Boy/unpadded/4 Homebrew/Deathchase (PD) Matej Horvat & Amos Bieler 2014-02-28.vb
+b50ca9e35b000a23985e06ec990967d1e39cc1729de38fa331e88891d9b12b93	Virtual Boy/unpadded/4 Homebrew/Etch-A-Sketch (PD) Pat Daderko.vb
+401f3c0606f685060babd7cf3611a48fcbc84c4d5211da9bd0bf4aee28ecd88b	Virtual Boy/unpadded/4 Homebrew/Fishbone (PD) Final 3 thunderstruck, Virtual_Ben.vb
+0d5b9bf40d69690cd6ce3058f661eadfb4b4bc383e191318bdcbf3036101ba39	Virtual Boy/unpadded/4 Homebrew/Flappy Cheep Cheep (PD) Pat Daerko 2014-02-28.VB
+62d411d56af9c65aa23bd290919b927a4b1ab575a39a7441edefffda6667f39c	Virtual Boy/unpadded/4 Homebrew/GameHero - Pad (PD) v1.1 thunderstruck.vb
+51045151cb94bdcbdbbe24505da53f806c58396040efa1b008ba49cfa7ad3e31	Virtual Boy/unpadded/4 Homebrew/GoSub (PD) VirtualChris.vb
+662135adf832b050f59b100d5ee2b2d4a77208bb918e462cb501c499c2ba621e	Virtual Boy/unpadded/4 Homebrew/GoSub 3D (PD) VirtualChris 2010.VB
+7cb1d2d8ad694e984116561b61e2fcb108f59ccf0b407098fd2d45742b170944	Virtual Boy/unpadded/4 Homebrew/Hyper Fighting (PD) Demo 1 M.K., Mr. Anon.vb
+ab1e36a1a25c48cba51a108442de9fd5f25db52cc4a42152e50c9f912ca76c7c	Virtual Boy/unpadded/4 Homebrew/Lights Out (PD) Guy Perfect.vb
+530c79ae219e899ee9a9619fc82b1b576dd3e5c880e38e1fa2d6f94f5db65ca7	Virtual Boy/unpadded/4 Homebrew/Mandelbrot Explorer (PD) v1 Fwirt 2010-10-30.vb
+08b9c39ced22e9239d68ec70769ada6161310ccb800df460ba0892897e3c7226	Virtual Boy/unpadded/4 Homebrew/Mandelbrot Explorer (PD) v1 Fwirt 2010-10-30_pad.vb
+410616294375bfea36573c98a8767a2697378aa53d325901fa3f7a3e4b357271	Virtual Boy/unpadded/4 Homebrew/Mario Combat (PD) thunderstruck 2014-02-28.vb
+51a2479af2f0bda3a83665b5a24d97dc29859255f1cb96cc61e341c45a090f1a	Virtual Boy/unpadded/4 Homebrew/Mario Kart Virtual Cup (PD) PVBCC DogP.vb
+f3e5c78abd592457633983b4fcf480c0e2c985522299960e561dfeba95dff452	Virtual Boy/unpadded/4 Homebrew/Mario VB (PD) v3.0.1 Jorgeche.vb
+b577fe6e840ec23a2d493203b30997c24ab328cfad4b01b6c3b10e33d5687a68	Virtual Boy/unpadded/4 Homebrew/Matrix, The (PD) Cooler.vb
+490d4bfba62d00718dbfe96a95df8f36de2f5fa136e90dfea04f3e3f8701d166	Virtual Boy/unpadded/4 Homebrew/Metroid VB (PD) KR155E 2009-04-01.vb
+fb850b168ac4cfbbc4ae93971aa29f9242cb536c6455083a19e443e09d24d9a7	Virtual Boy/unpadded/4 Homebrew/PongInvaders (PD) usch.VB
+e84478106911320abdb2522fa0eceb73e29f8fb1e40faf87e7dc577e0ea86ee8	Virtual Boy/unpadded/4 Homebrew/Simon! (PD) DogP.VB
+86792d5a3d6795465be0a686aaa18688149d8d3b131e8c3064583a420460486e	Virtual Boy/unpadded/4 Homebrew/Snatcher (PD) Demo 1 thunderstruck.vb
+c3f64950c301283b01689a9a94f10bd82bc051233766f5bdc4f08ef7f7e7e1ca	Virtual Boy/unpadded/4 Homebrew/Soviet Union 2010 (PD) v1.2 HorvatM.vb
+a88986dd753bda4e6dd654e36d340b2bbdc29b950f47b5f30ffadb161025ae06	Virtual Boy/unpadded/4 Homebrew/Soviet Union 2011 (PD v1.2 HorvatM.VB
+fad854381f92f1872324e135c9dec9c38ed9173472a3f103023f0bf5e8c21a47	Virtual Boy/unpadded/4 Homebrew/Super Bounce (PD) DogP.VB
+d456970bdbf419659682af85e0f8199da06d207a029ace8683476f6a2ff55bd8	Virtual Boy/unpadded/4 Homebrew/Tic Tac Toe (PD) Pat Daderko.vb
+c79a97e61e48c7ee8f57a97f171448b781ccd731074d3bd1ed82daac862961f6	Virtual Boy/unpadded/4 Homebrew/Tic Tac Toe - 2 Linked VBs Only (PD) DogP 2008-11-11.VB
+281f5841b18c32332d26e03a6eb187d7b9704de25a81bbcaae5e07d030ba0fae	Virtual Boy/unpadded/4 Homebrew/Tron VB - 2 Linked VBs Only (PD) Pat Daderko 2003.vb
+6f590323fa8b463e68eb23ce4abc3e2666d492be96dbfdd71933cbf1b91c31b0	Virtual Boy/unpadded/4 Homebrew/Tron VB - 2 Linked VBs Only (PD) Pat Daderko 2008.VB
+ae636aa744ff70de91c08017d7fd81471679ccfe21008e9854e135d6a5811c15	Virtual Boy/unpadded/4 Homebrew/VB Racing - FlashBoy Version (PD) PVBCC MK.vb
+81f55990f9a98b17044d945e0d45beb7b6977876993216942ffc286d4cb1e998	Virtual Boy/unpadded/4 Homebrew/Virtual Fall Coding Competition Multigame (PD) v1 thunderstruck 2015-03-01.vb
+331f6792692c32238096cdec2593b3597d60a771d1e4810de457b828c8440b0b	Virtual Boy/unpadded/4 Homebrew/Virtual Pong (PD) Alberto Covarrubias.vb
+3a2a9de12b7fb38a10aba7ebbecdd93bf59c15be9b6792bd5e8dfe78e9899a4a	Virtual Boy/unpadded/4 Homebrew/VSUWorkshop (PD) Guy Perfect 2016-01-10.vb
+faa75c6f47fdb051d5ee4d491cfd917b00cc3e6c976a05e290aa3acf5840c4df	Virtual Boy/unpadded/4 Homebrew/VUE Snake (PD) v1.1 KR155E.vb
+d73fc048e8e2c10c001a4998da493dc358f1e1ac69f188c87d66f79a77b1e0c8	Virtual Boy/unpadded/4 Homebrew/VUE Snake RG2009 Edition (PD) KR155E.vb
+0377c86593df76777a018d6768798756320a08560fd5e5a47180dd2aa41ae0bc	Virtual Boy/unpadded/4 Homebrew/VUE Snake RG2010 Edition (PD) KR155E.vb
+647de359cd480712860dad25e1ce5f5b1871ac85a2e5b7b15eef8d56ee51b552	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Action 54! (PD) VirtualChris 2016-05-10.VB
+4cde6c336d30d08ed5764ed3996b1b860fc0cd3d2e7c9faa06362f3b49ea4f6a	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Affine Demo 1 (PD) David Tucker.vb
+7205c650abf23386a78d64abad79da1ec4b70ad142543a8f69c85973760a2dd6	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Affine Demo 2 (PD) David Tucker.vb
+7205c650abf23386a78d64abad79da1ec4b70ad142543a8f69c85973760a2dd6	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Affine Mode Rotate Demo 2 (PD) David Tucker.vb
+07d4f82fe214716e28930588a926830861618338341dd3c850cda2ce546d928c	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Ballface (PD) DanB.vb
+dd22c35808343ae5933aec1c1ccc15192796a764b365ab757b0ea0437c2a7b34	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Castle of Doom Redux (PD) VirtualChris 2016-05-09.VB
+ca285ecf18e5e8ce15736d0b757df1f40a60f42c6688596870b340e368287539	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Castle of Doom Redux (PD) VirtualChris 2016-05-09_pad.vb
+2e3224619c8ed6996d0724f8da31e7c11e33f39d86533b935b7def1b3e341de1	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Chrono Trigger Run (PD) Demo 2 MrSparkle.VB
+dc8a3afee643e09ab654f184a7dc3e69e64a7037f9f0922ac171f4f63a36aecb	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Conway's Game of Life 4px (PD) thunderstruck 2012-12-31.vb
+5040808e30112e628e7009fa0c9f80d421629325fedded4455fc6ec680cdc780	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Conway's Game of Life 8px (PD) thunderstruck 2012-12-31.vb
+fd77959273bdf28987fa1f4027467863138b280376fbc5e264512369bdfa15ab	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Conway's Game of Life Direct Screen Draw (PD) thunderstruck 2012-12-31.vb
+e56e3cc637c1f92da8fbeb2630fdbaa297b4b05773f26598a2c956e35ac7ad6b	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Conway's Game of Life VB 4px (PD) thunderstruck 2012-12-31_pad.vb
+448c09147b8354f78ed05f7aa7d47e6f63a7588250c7ef018075c9df82f867c2	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Conway's Game of Life VB 8px (PD) thunderstruck 2012-12-31_pad.vb
+815b2c4cf2d2afe7f18f171e75dd5816248b7197c29e1bdc335c7e825585ecd4	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Conway's Game of Life VB Direct Screen Draw (PD) thunderstruck 2012-12-31_pad.vb
+da5dea6c30e35a0d0e8387747573bf29863beda2db546389d06e70e35eb455ad	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Dither Test (PD) blitter.vb
+2bb77332b12adc6577a17dd713fb1a6b648d888c7e4ed59d7635c147c1bb8888	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/F-Zero Maximum Velocity (PD) VF2013 Guy Perfect.vb
+b2f045be2bf6ddada73ddfa703351a2461680f33fd4b03f6422142337e7779b3	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Framebuffer Drawing Demo by Pat Daderko (PD).vb
+f1548d5a0b40efc67976a7f80b930996fcb653d36c31d587a3d4a10f0d984262	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/GLOW Demo by KR155E (PD).vb
+9ef7c3ea1bac0a22c43a69d7176e87670b6e4efb43a6540bc62b247b5b7167ff	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Hello, World! Demo V1.1 by Amos Bieler (PD).vb
+60c02282f65caa7e0dec750c839fdf3da3ade545227138572795660f90319bcf	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Hover Demo (PD) RunnerPack 2008-09-30.vb
+5e30838a0b87817c79277a9fb058027f72082a11d212162d69d7541188604bd9	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Hunter (PD) DanB.vb
+a4cf67c2bb09e262237b0344e3e327cd56784edff6b6021ffb92c785d0839717	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Man With Ball (PD) DanB.vb
+b7a2229eb3edd2ffa99a324201df7f62e0fe7b9d75928c83e384c7fb0156aeff	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Mario Flying Demo by Frostgiant (PD).vb
+131ac2ef7d3e4e3d5ef44df81491d92a16bac517703e7a4e08278df78cc62d51	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Mode 7 Demo (PD) ex Alpha.vb
+eeba8a3f8e3e135d97ba27a97d6986333f4eeac90b656deb263f1c98f5bbbc64	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Multicolor Demo (PD) KR155E 2008-03-05.vb
+fedf89a853b6784a61aee76562853ac36fe0beaa4a00f33f3a4b8ea9b4ee7331	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Null Pointer Mockup (PD) KR155E 2015-11-16.vb
+213835b87f9f889b88cf31f628cfc98172ddfa503bd2d96d4757392b3b26f1e8	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Null Pointer Mockup (PD) KR155E 2015-11-16_pad.vb
+ec8bd8904497636d83142e245c66670e6f833c29ce4cb7201455f65035fa31f1	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/OBJ Pointer Demo by Dan Bergman (PD).vb
+64aeca8864fb86b9d5080ea08074e113c94d0525f011426fcf8b26d820d80176	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Pacman Demo (PD).vb
+b0b1481b90ee94803c914694854c1aa185851f955bf6fee0182ae8b02965bd21	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Polygon Demo (PD).vb
+723651dc9011cc2110e058354514800fd512601c3613279e818e908d01eed5b9	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Project5 (PD) v2006-04-26.vb
+28b0f1f2a3655aee02a107284fa3dcc82bc0112720036893d9defeb9fe3af98d	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Reality Boy Demo (PD) test2 David Tucker.vb
+3a5ad1a92720c1aabad90be675a5b87f15b89a3c3d072df4e2d1202288dfa959	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Reality Boy Demo 1 (PD).vb
+28b0f1f2a3655aee02a107284fa3dcc82bc0112720036893d9defeb9fe3af98d	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Reality Boy Demo 2 (PD) test2 David Tucker.vb
+28b0f1f2a3655aee02a107284fa3dcc82bc0112720036893d9defeb9fe3af98d	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Reality Boy Demo 2 (PD).vb
+a72017b4e9abf7a6ae75c2bf9d8f4d2dd2177a372386cffe4118402ae9816fdd	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Scaling Demo by Parasyte (PD).vb
+32bcfaf59348c603551996a5b822cf680bceeab37788d81deb8f9f2ec7fe8d2c	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Snowball Wars (PD) Demo 3 Jorgeche.vb
+25213d5ce14d708ae4ef5a3a8f44daf47e5a191b0ee7b67c74a3a7f124bc87ce	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/StarFox (PD) Greg Stevens.vb
+ef27eec53856cb69699b6477465f782f65148be795499c0d3d4c09b15b900589	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Starwars (PD) Greg Stevens 2013-03-02.vb
+8c2ea46d8248599931af836e4c9ef41b151b546b5bebd38cfe9db797cc8072e0	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Super Fighter Demo by KR155E (PD).vb
+89bbe26f9f35a7982de3c921034c39172e7b0f48580ea28b86308d102d948e0f	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/This Demo Owes ALOT to RunnerPack HelloWorld SpriteExam 3 (PD).vb
+1b3cee1434e378fa255a54ac803d11065a920ef2717d833a44b3e675f97eba92	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Value (PD) v1 KR155E 2016-01-22.vb
+665f18d8c24d3e2d540eb1898a5c800ea89e03b9a13bf050d3e55543095016b1	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Value (PD) v1 KR155E 2016-01-22_pad.vb
+629ce75f0954182b6894b2a67c99e0632a68d9adf1d6719f49f61deb378acb90	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/VB Rocks! Demo (PD) KR155E.vb
+629ce75f0954182b6894b2a67c99e0632a68d9adf1d6719f49f61deb378acb90	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/VB Rocks! Demo by KR155E (PD).vb
+678257b32af3b397564bb9ca59c51ca887030e51bc276df0ed7b1ca46358e8b2	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/VBJaEngine Platformer Demo (PD) Jorgeche, KR155E 2016-03-03.vb
+1d30b846d0289d927eba5fc37df08c0500903b9eac103d415874bae88cee1c70	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/VeeBee Cursor Demo (PD) David Williamson.vb
+1d30b846d0289d927eba5fc37df08c0500903b9eac103d415874bae88cee1c70	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/VeeBee Cursor Demo by David Williamson (PD).vb
+cea909ee968a7467ca3c03619f6d89506d8d13e287069c856410e998616e81bb	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Virtual-E Cursor Demo (PD) Alberto Covarrubias.vb
+cea909ee968a7467ca3c03619f6d89506d8d13e287069c856410e998616e81bb	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Virtual-E Cursor Demo (PD).vb
+75078d884798b3515dc3ae0b4b4e48005990848c3dec37dd54579d8ba6609260	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/VUEngine Platformer Demo (PD) 2017-08-10.vb
+52b52e2eaf39534c1d3ede79196d38496a2341179396b3d2140c233cd005650b	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Wario Gonna Win Demo (PD).vb
+2466ebbe63e95f90bb9e4b69ed44d82c35ed44b8cca94e0c860850d84499ff65	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Water Ripple Demo - FlashBoy (PD) RunnerPack.vb
+8a02431449b28e63174b831e10d1802cecd685f2ccd9a19569224f753ecf16be	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Wavs (PD).vb
+595c12ddb956e4cb3d891938b68bec99ca5758aa9b5b0a42c5fec343240aa8bf	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Xmas 2012 Demo (PD) thunderstruck.vb
+68d3f52eb60a5f666cbdcf7d62e21ab0d19ace28286a8e88dcb55294e64cb05e	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Yeti3D (PD) Demo 2 DanB.vb
+9789a647379b85ea0cc6e185eea3c77586e0129b568b15109966b7038da93bf7	Virtual Boy/unpadded/4 Homebrew/Demos & Intros/Zpace Racers (PD) DanB 2014-02-28.vb
+3addd5321c08c138724e68bfc4bdf23dcf2b2cf16ae3109fe4f802de7c39efd2	Virtual Boy/unpadded/4 Prototypes/Bound High (Unknown) (Proto).vb
+824e9fcd67e76dec5d9e937babc791178d950fd5c1a6ad796b9578e78196de59	Virtual Boy/unpadded/4 Prototypes/Bound High! - Hardware Fix (J) BKCOL Fix v1 RunnerPack 2015-04-08.vb
+ae35cc583482187045307a326edfc19887b8129c039166d80cd5c316524d89bf	Virtual Boy/unpadded/4 Prototypes/Niko-chan Battle (Japan) (Proto).vb
+ea77eacb93a109c23ca776b28bcbf681d25eec8ccff4a2609fb9011dc82af8d0	Virtual Boy/unpadded/4 Prototypes/Space Pinball (Unknown) (Proto).vb
+f994129493e1b58926ac20aa26d0accacc5ecaac6cfb3d26256e8fd9ff8559af	Virtual Boy/unpadded/4 Translations/SD Gundam English (J) T+Eng v1 Ben & Greg Stevens_pad.vb
+3a3367e8dd8dcc74f906f4ad8e20b94a38f76a15fb6cf229b7fe541e5fcb3b78	Virtual Boy/unpadded/4 Translations/Space Squash English (J) T+Eng Greg and Ben Stevens.vb
+5f530d20de8771c47a559c96eaff1d78c99923449dc3e2b1ae3d9e0fcf8398b4	Virtual Boy/unpadded/4 Translations/Teleroboxer German (JU) T+Ger 4b KR155E.vb
+8c9305266eee51571ea6be1b5ddb4ecfe3a8fabcf82816870914de52f4ea9bfa	Virtual Boy/unpadded/4 Translations/Virtual Fishing English Edition (J) T+Eng v.0.1 thunderstruck.vb
+3a8f8a0d4bf91ab2be33d6f68b67ac4fa51c06374e1927442d7dfe758dfb34fa	Virtual Boy/unpadded/5 Tools & Service Test Carts/BitString Demo (PD) Dan Bergman.vb
+be6e73b89d5da8cbf1469c10c1e38e707325e8f5f7e6d03cc55f8762f667bd04	Virtual Boy/unpadded/5 Tools & Service Test Carts/Cycle Test (PD) Guy Perfect.vb
+893f878bc30e7e1c2e5abb111c645bb65ccfd8d87c00f5124609781a833ada1e	Virtual Boy/unpadded/5 Tools & Service Test Carts/MIDI music player (PD) PVBCC Dan Bergman.vb
+ec8bd8904497636d83142e245c66670e6f833c29ce4cb7201455f65035fa31f1	Virtual Boy/unpadded/5 Tools & Service Test Carts/OBJ Pointer Demo (PD) Dan Bergman.vb
+26538f6bde35a6691aed4b3876241e9939559d10f712c440520a61d14c4adf87	Virtual Boy/unpadded/5 Tools & Service Test Carts/Speed Profiler (PD) Guy Perfect.vb
+9d88cfd40c06fb4350f4070c1d46c11b633e8fcfd01f5df75621ea7bcbe5444b	Virtual Boy/unpadded/5 Tools & Service Test Carts/VB Display Test App (PD) v1 DogP.vb
+3fae5d603978f621f89e9b13923dcd32b04f99bef74aad4c4fd2afc17d9e1371	Virtual Boy/unpadded/5 Tools & Service Test Carts/VB Link Cable Test (PD) v1.vb
+5a55cee55d09f50645498f9dc5e550be642da55bcd8f06315661cc6fe6124bff	Virtual Boy/unpadded/5 Tools & Service Test Carts/VB Programming Introductory Demo (PD) KR155E.vb
+4009d6881ec16e6c524dd633f84a16f2aba40ac1922ef0cf37c822f9b48cdfa2	Virtual Boy/unpadded/5 Tools & Service Test Carts/VB Sound Tester (PD) v1 Frostgiant.vb
+274a8457d9ceb5aba70e223cb0c2afe592d4851189431db421b23640c3f39d05	Virtual Boy/unpadded/5 Tools & Service Test Carts/VSUWorkshop (PD) Guy Perfect 2016-01-10_pad.vb
