@@ -56,7 +56,7 @@ def parse_folder(target_folder, output_file):
               "/SAVE/", "/AUTO/", "/CPAK/", "/GBASYS/"]
     banned_suffixes = ("menu.bin", "OS.PCE", ".exe", ".7z", ".png", ".zip",
                        ".jpg", ".ods", ".odt", ".dat", ".sto", ".pc", ".db",
-                       ".ips", ".bps", ".asm", "Thumbs.db", ".txt")
+                       ".ips", ".bps", ".asm", "Thumbs.db", ".txt", "*.mso")
     with open(output_file, "w") as output_file:
         for dirpath, dirnames, filenames in os.walk(target_folder):
             if filenames:
