@@ -124,6 +124,59 @@ c6f20a74d75757df2ba29b160b83a60c22c1cf686c42941f169b6f83badc7088	MSU-1/New MSU-1
 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	MSU-1/New MSU-1/BS Zelda The Third Quest MSU-1 v1 Conn, Pevkoss/tq_msu1.msu
 73a9620c1369618f4a014a874d88fe77848ec3257fea08270037d8c8219ab7c0	MSU-1/New MSU-1/BS Zelda The Third Quest MSU-1 v1 Conn, Pevkoss/tq_msu1.smc
 628648304d9b88631b59927f0ede3e381a28604b0d6e09141875ef1fa71d35f1	MSU-1/New MSU-1/BS Zelda The Third Quest MSU-1 v1 Conn, Pevkoss/tq_msu1.xml
+32155d62faf208a9c994e6fd8f4db4ab21c63bdf012423e4774107e51f0a759c	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/Castlevania DX-MSU1.docx
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1.msu
+cf16ea5306e72a484b849f88e7ba63c16cbf1f857efc5ba22e2e89315db3fe35	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1.sfc
+7d82bd99a0f2c1bb5ea06abf8b30b2418d9638cf9e217dafaa704e154599524d	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1.xml
+042d53b6b9fdecf73b64f6bf619891bd99c644105adf68fadc03c502d21f15b9	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-1.pcm
+26664a3fe1b7f83698f128ce35a0bd60f9181ccdf3ac3a2b11d085a28415de6d	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-13.pcm
+7e42f2c66884f5e18febcc36f74a72bd69025d2e85c028fcf572316f165cd9af	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-15.pcm
+97b5dfda2a19ee094632bf1d43f9b546b87bb3fbe3ddf10cb77c1f51227d86d6	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-17.pcm
+63f259d9f4f6ce750c5255a92ecef31861b9e8b064779efc476a6e0fc67e3b34	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-19.pcm
+928a7b439df1658222580940a08467157a8805087d27d9747db1ba3d5f94b107	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-21.pcm
+3d8a55fab95dacd1df97a8ad7fa3c91dbb9137f79c26414aec5524b6da9dedf8	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-21.wav
+4cbe2bb2dbf46ae43256153152e7bc34cedf8b597f3970d684691c6a05a4021b	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-23.pcm
+cdb9841ecf4ca70ac5d85dc3fd2bdfb9231e1a3f86e65216dc9d47f9a83fedd1	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-25.pcm
+20b6224f123f553fc02fe3c8d376b4e1479394ccb5e1dc41199735952209da4a	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-251.pcm
+906a9b4506a8db720ee066fb7ef90baabb64b5f151a48b25c3a0d727b6ac511f	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-253.pcm
+042d53b6b9fdecf73b64f6bf619891bd99c644105adf68fadc03c502d21f15b9	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-255.pcm
+444a8b81766c3500b3955aa354896b249fefe1c15064a2af9dcf9a9b984fb49a	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-27.pcm
+9267d00908dbd4807e2a3d091e42d071d8a76908d3a7f30965c70ffc9659fd23	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-29.pcm
+82985217f36a4a3bd8f3f1319ff93ccd36d516887f1938dcc2f5b26a56beb188	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-3.pcm
+b1c3b5cfa2293e226054329f682e07e554b996cc6a3f7d8896f4ac1da79d4f7b	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-31.pcm
+6df08dd827174f6ff6ad212774ed6ac5396b2cca845e6c1f4178fb7d373f396b	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-31.wav
+7abe69919bd55d1135f6bb41965aeb9a504d1cd3eb44bee73fb3691539221271	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-33.pcm
+54cfc3aba30dcf8b468075c35efbb5fefdebf69349973a608d86b67ab4ee0b88	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-35.pcm
+e6dd2f950efca734d8a389533dbc411085d18284229ec6b5ab429e9be4d1af99	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-5.pcm
+7087e4464557aeee126129d614adcff0a95ba85ffbbe489894e086f97401d9f8	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-7.pcm
+43c8e97d828bcf744f307587bb770fa11cf3ea817ce050aed6dc46dc8334e7e3	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-9.pcm
+3e2db63840ef7d13c88354fa238ebd66dc95b8969e8ff5f006775133354ddacf	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/manifest.bml
+32155d62faf208a9c994e6fd8f4db4ab21c63bdf012423e4774107e51f0a759c	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/Castlevania DX-MSU1.docx
+51037d5a0851c712903ed2b2ece814fd39f45b0e91c1d4f71268a0a72f9a3f4b	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/cdx-msu1-1.pcm
+8c9b0ec2f1e36a9a94eedd79c7333147b3c0e3d91545aea1eb41f0a0993b9f27	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/cdx-msu1-11.pcm
+86a2a966d0f0db307a2e861ec9ad713378498558804b2a48ed9b32afcbd53627	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/cdx-msu1-13.pcm
+f39fb72eaeed97e632430fb32a7342eb2e4d7cac8246bd62fb48405286a5e8ab	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/cdx-msu1-15.pcm
+b5d1a4642c3a376ce7311e3ee0695d0cf3a792678fbf9ba9e5fcd9a5f26da04b	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/cdx-msu1-17.pcm
+fb4eb52972a91277174dd2b59186faec5931886bfd30aecc8eb6b5d2d3ce250e	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/cdx-msu1-19.pcm
+73489ee6513a7752e26ab2ffaa15bfdb13e33b8be6b6adbedefc259f074de746	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/cdx-msu1-21.pcm
+93399abd6f71fc1c7ffc771b3dfc0cc058c73af82174063ccb199bed2ce33642	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/cdx-msu1-23.pcm
+88c68f05f881b317916fa1993afb13b8bda0e28429c66dfadf2eba746f06d10c	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/cdx-msu1-25.pcm
+492bfe218cb5b40c1b025ae9917e89ba08062f2365e332925191cf745d77e3a7	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/cdx-msu1-251.pcm
+b2bccd75f450d8fabbb4ab7c6c8fc3cbb4be035cf5d7f6fb0c11ba3555b609ad	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/cdx-msu1-253.pcm
+4a287d9b0eb8802c5c338d1a1fee8d2b8e8e7d920af23670b3c972685742be30	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/cdx-msu1-255.pcm
+d9d0c906c7916afa7a450b3abe14c9fa832e1697f0120e9029f536da5ad52929	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/cdx-msu1-27.pcm
+3f333666210924cc24dfa145a6c180173bb5b20bf0b685546a7b9bbf60823bb4	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/cdx-msu1-29.pcm
+6050267db04dd947aa8c346cde99e5459e21b8fa4e38f31416a391710c3a7682	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/cdx-msu1-3.pcm
+62926d9a2d422a15761af8e1eb11f74b08004cb3f4747a558a78275d6a59493f	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/cdx-msu1-31.pcm
+c700853ac1581e019a74810c2dea3962853dcae10ee5fefb3cf52527b4f8f572	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/cdx-msu1-33.pcm
+3bd1b57ae51e542d9abbd1baf5d8b9522353b659ed8fb3ee0bc7e781841dfefd	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/cdx-msu1-35.pcm
+4a0f21b294f5304247f90d4c99c9929a394ee39614f2a00aff82e0da680d3179	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/cdx-msu1-5.pcm
+d1569916bd702f03c202f1857aac444d31d8e1a7edcf0cdb4362e399847afedf	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/cdx-msu1-7.pcm
+0169e3681c74096ed8727b834c93b0939e69f875fdefe0e762efe639f66831b3	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/cdx-msu1-9.pcm
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/cdx-msu1.msu
+cf16ea5306e72a484b849f88e7ba63c16cbf1f857efc5ba22e2e89315db3fe35	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/cdx-msu1.sfc
+7d82bd99a0f2c1bb5ea06abf8b30b2418d9638cf9e217dafaa704e154599524d	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/cdx-msu1.xml
+3e2db63840ef7d13c88354fa238ebd66dc95b8969e8ff5f006775133354ddacf	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/manifest.bml
 0718775303572b993f6053d7aec208a6c53ef5618a6a22f357343da689a295f8	MSU-1/New MSU-1/Chrono Trigger Remastered+FMV Beta v1.1 Resume FLAC Dracula9AntiChapel, Darkshock, Qwertymodo Audio Fix/chrono_msu-1.pcm
 1904ea463fb5fdf9f42125e6aff793e6542e79fe38842ea9ad50be53694530e6	MSU-1/New MSU-1/Chrono Trigger Remastered+FMV Beta v1.1 Resume FLAC Dracula9AntiChapel, Darkshock, Qwertymodo Audio Fix/chrono_msu-10.pcm
 63c092df18bfa0b758c1f425b8b14d24dcbe0f0e37fa92fd0716ead52de3082b	MSU-1/New MSU-1/Chrono Trigger Remastered+FMV Beta v1.1 Resume FLAC Dracula9AntiChapel, Darkshock, Qwertymodo Audio Fix/chrono_msu-100.pcm
