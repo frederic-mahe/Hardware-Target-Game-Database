@@ -8643,7 +8643,7 @@ a0ef96bbf360049ee17fa05c1f5448d6fc7442b447f5b83bb337f0b6d366d967	SD2SNES/4 Trans
 065e043896538fe167645ca3cca699930c3de64f23ab9942524d9577e18e6cbc	SD2SNES/4 Translations/English/English N-Z/Popeye - Ijiwaru Majo Sea Hag no Maki (Japan) (Translated En).sfc
 1a47fc834a27288fcdf6d28246ac17b2ae846d78ebdb957c7ff55edef2f2bb09	SD2SNES/4 Translations/English/English N-Z/Pretty Soldier Sailor Moon - Another Story (J) [T+Eng 100% 1.00_BST].smc
 6551fcb8143b0bc9d6f2931bab9181e37bcc9c36e9182e39edf55dff1fd6a953	SD2SNES/4 Translations/English/English N-Z/Radical Dreamers (J) [T+Eng1.2_Demiforce].smc
-83bb5839ed560c05cb98df5bdbcf0ff9f613c5083fa0a097b8536498f47ae48a	SD2SNES/4 Translations/English/English N-Z/Radical Dreamers Le Trésor Interdit (J)[T+Eng 100% Demiforce v1.4].sfc
+83bb5839ed560c05cb98df5bdbcf0ff9f613c5083fa0a097b8536498f47ae48a	SD2SNES/4 Translations/English/English N-Z/Radical Dreamers Le Trsor Interdit (J)[T+Eng 100% Demiforce v1.4].sfc
 ea5d333b6c29ade4ae5a7819e6a2cf8b5179bf24aeed2d5346995eb7360e6289	SD2SNES/4 Translations/English/English N-Z/Ranma 1-2 - Akanekodan Teki Hihou (Japan) (Translated En).sfc
 ea5d333b6c29ade4ae5a7819e6a2cf8b5179bf24aeed2d5346995eb7360e6289	SD2SNES/4 Translations/English/English N-Z/Ranma Nibunnoichi - Akanekodan Teki Hihou (J) [T-Eng].smc
 66dfeb309da98e13acb26ca32f201a19c590e01fb2045c9d7d566baf16c29cff	SD2SNES/4 Translations/English/English N-Z/Rapurasu no Ma (J) [T+Eng.95b_AGTP].smc

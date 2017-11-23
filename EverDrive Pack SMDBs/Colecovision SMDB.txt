@@ -856,4 +856,37 @@ fc98ebc97196edc5b9547ad1fcf676e93d2aa5342b20a835842f5a07861fa498	Colecovision At
 01ee65404bc6e788c7f328024f0c711998cc0cb58cd7bb86c2f295e55e713033	Colecovision Atarimax/COLECO/4 Homebrew/Demos/Kill Barney In Tokyo (1997 Daniel Bienvenu) (Playable Demo).col
 cc391774771d9aa6cc134ebb4fd61a568ae8712bd1da62e1c58bbb682e1048ae	Colecovision Atarimax/COLECO/4 Homebrew/Demos/Killer Instinct (1997 Daniel Bienvenu) (Playable Demo).col
 421dee5b956895aac4580d9140e4f68761866d3be82ff6869b25c48307aa781f	Colecovision Atarimax/COLECO/4 Homebrew/Demos/Kobashi (2008 Dvik & Joyrex) (Playable Demo).col
-ba38425c550bf2c5ef02d034129032b621aa9ece0048548dbea5c24c895a67fb	
+ba38425c550bf2c5ef02d034129032b621aa9ece0048548dbea5c24c895a67fb	Colecovision Atarimax/COLECO/4 Homebrew/Demos/Mr. Do!'s Wild Ride (2004 Steve BCgin) (Playable Demo).col
+182e18018e5a7f35eb14246e62473e4ddcab49bb09b132b5a4ebf2c8418ed1f1	Colecovision Atarimax/COLECO/4 Homebrew/Demos/Old Skool 01 (2005 Guy Foster) (Demo).col
+faefb22ec218e46e2e1df7dd48b6326f293b7daee406aff934a7acffb19d4a6f	Colecovision Atarimax/COLECO/4 Homebrew/Demos/Old Skool 02 (2005 Guy Foster) (Demo).col
+d919c1f9bd5121a99e9a27ce6c9757a6dddecf7a9bbb89b9d8024f5b9d28a03e	Colecovision Atarimax/COLECO/4 Homebrew/Demos/Pacar (2010 Steve BCgin) (Playable Demo).col
+59335db2ce60d6fdfe23550d0eef800e4f87d0d419a59755b695698b2e281a3a	Colecovision Atarimax/COLECO/4 Homebrew/Demos/Pere Noel (2000 Daniel Bienvenu) (Demo).col
+5e401ffd2bf2f3fd399a141c1c9acb710cd6c97f8ca06e14017574eebcd513b7	Colecovision Atarimax/COLECO/4 Homebrew/Demos/Schlange CV 1.0 (2006 Philip Klaus Krause) (Playable Demo).col
+0fb7fddf96afd626b3f296089092ee8ac593e01fda3fc53fbcb40fec3cdaa42c	Colecovision Atarimax/COLECO/4 Homebrew/Demos/Search For The Stolen Crown Jewels (2006 Philip Klaus Krause) (Playable Demo).col
+e88f47096b0a863e8c87de8dd1ee8aec423ee345ada3234d35f97d3a6ecc5c8e	Colecovision Atarimax/COLECO/4 Homebrew/Demos/Search For The Stolen Crown Jewels II (2007 Philip Klaus Krause) (Playable Demo).col
+997df9610e12d623381326d8a7bd076416a967875b790bbc1ea545b2ce0eeaca	Colecovision Atarimax/COLECO/4 Homebrew/Demos/Search For The Stolen Crown Jewels III (2010 Philip Klaus Krause) (Playable Demo).col
+7ce472a09f624c16f1c82e1b4219ed1da5e2ad4368af0a7701c8f8d9753c9cf7	Colecovision Atarimax/COLECO/4 Homebrew/Demos/Space Caverns (2004 Scott Huggins) (Playable Demo).col
+d25ccda42b3eb27ec91aef2c444c4da34f288d8fc79a589d7155bac23a445384	Colecovision Atarimax/COLECO/4 Homebrew/Demos/Space Harrier Version 7 (2009 HardHat) (Demo).col
+2375c70d1b5d77b3dd8335baf1fae0bc79151f02a7307d23df16d97fee31e422	Colecovision Atarimax/COLECO/4 Homebrew/Demos/Space Hunter (2005 Guy Foster) (Playable Demo).col
+25f25749306aa8de95aefd6be41cd90715bab710d292519bfea3d6577792f9d5	Colecovision Atarimax/COLECO/4 Homebrew/Demos/Space Invaders (2002 Eduardo Mello) (Demo).col
+0648583f88058385261070d1230c1e8c801308321d9616729656d8647b050452	Colecovision Atarimax/COLECO/4 Homebrew/Demos/Space Invasion (1998 John Dondzilla) (Playable Demo).col
+10ac1d0dc1740260219d02bc0aa8f858807325c7c3943e6a3b408dc51a55e54b	Colecovision Atarimax/COLECO/4 Homebrew/Demos/Squares! (2007 Harvey deKleine) (Playable Demo).col
+eca893e5c98a9b39c38e5887e2eee71707e4d7aa3fd841b81691449fc636e098	Colecovision Atarimax/COLECO/4 Homebrew/Demos/Stubby! v01 (2001 Yannick Proulx) (Demo).col
+7064757483e0f8e79818b773a5c6ae9d202c34922b6ce82c52e72e860e45c483	Colecovision Atarimax/COLECO/4 Homebrew/Demos/Stubby! v02 (2001 Yannick Proulx) (Demo).col
+679d53e93b756cb186cb1995f1fd399aca5082c2c8f08d27ae16b911eafd95a9	Colecovision Atarimax/COLECO/4 Homebrew/Demos/Sudoku v02 (2008 Team Pixelboy) (Playable Demo).col
+209ad29d61ea787b5a3c1d63a93c667993b4cd1083b761a24960f57e3357df42	Colecovision Atarimax/COLECO/4 Homebrew/Demos/Super Pong (2000 Unknown) (Demo).col
+7d39727275a83e71ac964147be66fc0bf91057072232629fd4ff71dfddcdda6f	Colecovision Atarimax/COLECO/4 Homebrew/Demos/Tunnels & Trolls (USA, Europe) (Demo).col
+6dfd14fb1f91bba8e268495178abdbb33222eb0e6692a06e61afa8ab12b2a0b9	Colecovision Atarimax/COLECO/4 Homebrew/Demos/Wild Western! (200X Opcode) (Demo).col
+5701cb8ecfdda8efa6788bef2be17c8e37569e2f2f806608fc9ad92dec3435e9	Colecovision Atarimax/COLECO/5 Tools & Service Test Carts/ADAM Diagnostic Cartridge (1982) (Coleco) (Newer Revision).rom
+9e3bf351ba3fabd72478be36d5ae7aefaef51bdddc3fada9a25b737efbd1b35d	Colecovision Atarimax/COLECO/5 Tools & Service Test Carts/ADAM Final Test (198x) (Coleco) (Newer Revision).rom
+3744157be07d1c074bc1c627b95b811f10c52f0f7090a9c0e2597b3f6bd2a533	Colecovision Atarimax/COLECO/5 Tools & Service Test Carts/ADAM Printer 1 Hour Cycle Burn-In Test (198x) (Coleco).rom
+f6ec8cd03a9123883e86abfb402ca655a43a83addce09a48e9eab0abbcc838f3	Colecovision Atarimax/COLECO/5 Tools & Service Test Carts/Bruce's Controller Tester (PD) v1 Bruce Tomlin 2004.rom
+4fbb832e8c6f672c5284dcde8a14488695747034ad364f15b0095cccbfc4c9ea	Colecovision Atarimax/COLECO/5 Tools & Service Test Carts/ColecoVision Final Test (1982) (Coleco).rom
+7c37fd4f4aebd33b1544f37fe4ba36df488c9940f8fd22c40c467fd9beca537b	Colecovision Atarimax/COLECO/5 Tools & Service Test Carts/ColecoVision Monitor Test (USA, Europe).col
+b2512d1a91346f0b0ea1fad7a42e341c5c038f28c69694c4b8264ed83379ef7a	Colecovision Atarimax/COLECO/5 Tools & Service Test Carts/ColecoVision Music Demonstration (198x) (Coleco).rom
+5e92866d98e6568fd52df5187c5394a11d8ad6688147b08214bba77c82ffb2a2	Colecovision Atarimax/COLECO/5 Tools & Service Test Carts/Data Drive Burn-In DDP Test (198x) (Coleco).rom
+b8cdc2c402a7ae30d0c507003d49e5830d95175dbab27da1ac4ba2a6b0579b4a	Colecovision Atarimax/COLECO/5 Tools & Service Test Carts/Joystick Test 2 - Keypad (PD) Nitrofurano 2014.rom
+0960c77db4dac4c0251d733323c9520b2bce2ce8c890ba4122bf42291501a459	Colecovision Atarimax/COLECO/5 Tools & Service Test Carts/NewColeco Screen Test (PD).rom
+2a52732c02b4112cfa28ace98462cddde3687ab6cfb3e609a1077f69b21473fa	Colecovision Atarimax/COLECO/5 Tools & Service Test Carts/Super Action Controller Tester (1982) (Nuvatec).rom
+66d1e2978293ad5b1490433b754575c7d79ba04f18663b07afae07735fdcf41f	Colecovision Atarimax/COLECO/5 Tools & Service Test Carts/Super Game Module Tester (PD) Oscar Toledo 2013.rom
+d033024124acde3616ee4a74bccf828ecbdd1993eff25d0a16bce1128ea14a63	Colecovision Atarimax/COLECO/5 Tools & Service Test Carts/TapeUtl Rev. 22 (1984) (Coleco).rom

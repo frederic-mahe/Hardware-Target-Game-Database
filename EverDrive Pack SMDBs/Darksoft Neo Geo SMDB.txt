@@ -1,0 +1,31 @@
+4caaf84d8a01d83872f008cc6e9754532aab55c52e6b50ac8af1cd7f9f888d09	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/mame.ini
+902b976f6de202b9c0fcc24c6e7020e87cf20609b23a8cdea7bef0ac994a22ed	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/Modifications.rtf
+9611aa058cfdddbf4ee77a40b936fba9ca9e4c255f4a7b24feef83e2aaf30769	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/cfg/default.cfg
+2ba73fad31b974c03ecfd69e8703cc797e211ba008bc249786cd6ae7d8c4c9fb	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/cfg/kof95h.cfg
+7bcd903f5ae80889829c66b69ebc49ecdf827e3d90a0ce6e3e45ff139d915bb2	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/cfg/kof95sp.cfg
+e196f64844409f3669e1d24f679f3fcafb9e962475dd42b25890c0dfdf9a8842	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/cheat/kof95h.xml
+e196f64844409f3669e1d24f679f3fcafb9e962475dd42b25890c0dfdf9a8842	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/cheat/kof95sp.xml
+1a6fe6ac7f89213aac10d4934fa8c15b2813c843c0261157cdee7be5c554c367	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/cheat/output.xml
+396d518c8e6dbc9ea0cf08915edafd7d9fe3768c3a5dd2142bcc2d6ffe09b346	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/folders/Favorites.ini
+927656a3476a9802e460a6f412d15cd16ee16bc74764c8fb4dc5e60fac6997cb	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/ini/gameinfo.ini
+4eb95d7290b3f5009ee5005bae50a16a30afc91afa2897d78f3b3a4c60394a10	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/ini/kof95h.ini
+4eb95d7290b3f5009ee5005bae50a16a30afc91afa2897d78f3b3a4c60394a10	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/ini/kof95sp.ini
+f2a960f9c5417929adeee8f763283ef9c046828b9e0f0c81c1648b4d6f1d5110	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/ini/mameui.ini
+f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/ini/neogeo.ini
+2ebd068de8358c37dfe85fb6ef5ff7b1b548c36870c587e8ad657cadd1f30f08	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/ini/source/neogeo.ini
+9c5da3a6a0900f39befdd4e18301a8c6ec2f5c3816df0b9a3274fe5e9588ce3a	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/lang/zh_CN/Artwork.mmo
+44f298951e88d9b46fc2daacf55cc283c37ce3b48df54b87dee4e867b6b858ba	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/lang/zh_CN/Category.mmo
+2c748aed9dfc79a4437e748f211a26912e851884d48e07b67213414019c74606	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/lang/zh_CN/Favorites.mmo
+1bbdfa9e071f42a420c8810e0c6588c06e1708ac2d1d66cd68ffd96e354aaaed	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/lang/zh_CN/IPS.mmo
+3dd8dccddff62a8d8f5b9712b8b646eb39dad98a7405f180d04e07ecbf210e4d	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/lang/zh_CN/lst.mmo
+325cd0696f4e216592a4201c7ab221153a735e5b800d2a2f352c76f0ef537809	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/lang/zh_CN/mame.mmo
+10fb3e2ef54e355013353bef41a82f6ad8eeb48f70e36c3858e915725243b3ef	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/lang/zh_CN/manufact.mmo
+459a33e84429fbfd6bf164957e15d3eda385c445b794f6e6950b894a45dd1efc	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/lang/zh_CN/ui.mmo
+7a58677268cc2b085a90141deac12c95d03237eed8b2a945a1d5c46fdda742e9	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/lang/zh_CN/Version.mmo
+dd6e268c389ab6d2554851a32ab16bcc033f0986637bbf579604f4d9d8c3d852	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/lang/zh_CN/windows.mmo
+de2f256064a0af797747c2b97505dc0b9f3df0de4f489eac731c23ae9ca9cc31	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/nvram/kof95h_23/saveram
+2da9b851ff7333b36fefab280ded5d082c2d155d4f15038412c66aee19af9f34	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/nvram/kof95sp_21/saveram
+de2f256064a0af797747c2b97505dc0b9f3df0de4f489eac731c23ae9ca9cc31	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '95 Special 2017 - GSC2007 v1.0.0601/nvram/kof95sp_23/saveram
+2659a1b220ace98d6cf1b9fe1ca023684fcf1bd56f35103dcaf43b64f3c5ec62	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '99 Ultimate Evolution Remix Pro & Revolution/151-m1_decrypted.bin
+2659a1b220ace98d6cf1b9fe1ca023684fcf1bd56f35103dcaf43b64f3c5ec62	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '99 Ultimate Evolution Remix Pro & Revolution/152-m1_decrypted.bin
+2659a1b220ace98d6cf1b9fe1ca023684fcf1bd56f35103dcaf43b64f3c5ec62	Darksoft Neo Geo/Needs Testing/Modern King of Fighter Hacks/KOF '99 Ultimate Evolution Remix Pro & Revolution/251-m1_decrypted.bin

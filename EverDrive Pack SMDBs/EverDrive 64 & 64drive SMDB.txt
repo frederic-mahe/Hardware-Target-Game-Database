@@ -2540,8 +2540,8 @@ b86cf7872877e147f55eb500150c6846a0a163d757ca5b7134e5ea6a3fd0d453	EverDrive 64/4 
 639f065c65cab5f167705fbd8743f139791731b2eeb78a7788b1c1dcdcefa80a	EverDrive 64/4 Translations/Chameleon Twist (J) T+Eng v1 Zoinkity.z64
 8418dd1079d8ed17d293553936d4fca0ed1258b41bf03f2576cad5e4cdc55186	EverDrive 64/4 Translations/Custom Robo (J) T+Eng v1 Binkers87.z64
 2c2c09af415c6f01c33ed63136ba93e894100d18a4d7a0dfdc168df429554ebb	EverDrive 64/4 Translations/Sin And Punishment (J) English T-Eng v1.0 Zoinkity.rom
-bfde940d487f340ce9f5e751733c70703cd9fa3ee2eeedc55718b810c46bb5b2	EverDrive 64/4 Translations/Sin and Punishment Spanish Dubbed (J) T-Spa v1.0b Tio Víctor.z64
-1cec5c4cf291b69e025d84d2e979cbe18c05a01dc6639095b74a482cf703f73c	EverDrive 64/4 Translations/Sin and Punishment Spanish Subtitles (J) T-Spa v1.0b Tio Víctor.z64
+bfde940d487f340ce9f5e751733c70703cd9fa3ee2eeedc55718b810c46bb5b2	EverDrive 64/4 Translations/Sin and Punishment Spanish Dubbed (J) T-Spa v1.0b Tio Vctor.z64
+1cec5c4cf291b69e025d84d2e979cbe18c05a01dc6639095b74a482cf703f73c	EverDrive 64/4 Translations/Sin and Punishment Spanish Subtitles (J) T-Spa v1.0b Tio Vctor.z64
 f2219ad43d2fc80345e2303c741a1b6f51e1aa27aabf6a620e4aeea3f779cbdb	EverDrive 64/4 Translations/Virtual Pro Wrestling 2 (J) T-Eng.z64
 f5171ab1e18bf6dd5f3961a3687e5cb498208c31dcb31bf54c66139ee8e04c06	EverDrive 64/5 Tools & Service Test Carts/Controller Test Tool (PD) sanni 2012.v64
 15fcd8a0535f9287d0d9f90f6d016ba48b1ae9ee8df7553098292ace7d060159	EverDrive 64/5 Tools & Service Test Carts/GameBooster 64 (USA) (v1.1) (Unl).z64
