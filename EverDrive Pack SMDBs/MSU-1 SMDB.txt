@@ -1,3 +1,24 @@
+35c5a365a4165b0dd24ec84c27ce23b2a3d6390960aaf8b7525cb16975bade75	MSU-1/New MSU-1/Actraiser - Abyss Rebirth OST, MSU v1 Darkshock/actraiser_msu1-0.pcm
+b0d44e7022fde98ccd247732b45756e070a19578afc8701c0b0cf500155c489b	MSU-1/New MSU-1/Actraiser - Abyss Rebirth OST, MSU v1 Darkshock/actraiser_msu1-1.pcm
+2412ace06636c16d3568ac4b414355b170147e3de592ef5782da3d10748049cd	MSU-1/New MSU-1/Actraiser - Abyss Rebirth OST, MSU v1 Darkshock/actraiser_msu1-10.pcm
+d3ce69309c8d515de5465ae29e54da797da9aad911cb4989089be833d707e284	MSU-1/New MSU-1/Actraiser - Abyss Rebirth OST, MSU v1 Darkshock/actraiser_msu1-12.pcm
+1c1bf97bc387a843267302b44ddb6b469136b3824ff032f37b95ad9d5ebd6ce7	MSU-1/New MSU-1/Actraiser - Abyss Rebirth OST, MSU v1 Darkshock/actraiser_msu1-13.pcm
+ed57f11e5bd2b96d5a498350d1b430290e5348e8502f948e3a1f76f2ff9b1e2f	MSU-1/New MSU-1/Actraiser - Abyss Rebirth OST, MSU v1 Darkshock/actraiser_msu1-14.pcm
+7ac2b1aacd663a0bfab19208ea28cc723fb23a453f1de7f2b641830189076482	MSU-1/New MSU-1/Actraiser - Abyss Rebirth OST, MSU v1 Darkshock/actraiser_msu1-15.pcm
+525857b4ae5e5a22230a58f74251fe1109fb8bd8730ef221ea35016b33e56cf0	MSU-1/New MSU-1/Actraiser - Abyss Rebirth OST, MSU v1 Darkshock/actraiser_msu1-16.pcm
+eb6e0fce17447ec935a4494855bf6082dc7a001f6ac4125dba6001ffedd90410	MSU-1/New MSU-1/Actraiser - Abyss Rebirth OST, MSU v1 Darkshock/actraiser_msu1-19.pcm
+1e781ecc46fa4498d8867652ea8803ada1739e92b55556e46261a582184e147d	MSU-1/New MSU-1/Actraiser - Abyss Rebirth OST, MSU v1 Darkshock/actraiser_msu1-2.pcm
+7d2692a284b12232a8cdb18942c199375b68863a8815b54bc064dbe609972011	MSU-1/New MSU-1/Actraiser - Abyss Rebirth OST, MSU v1 Darkshock/actraiser_msu1-21.pcm
+19c386349d1c74e1f77659018d77d2ed54915e35069ce7a3796973684af300ee	MSU-1/New MSU-1/Actraiser - Abyss Rebirth OST, MSU v1 Darkshock/actraiser_msu1-3.pcm
+77abac01d26340a71f6e023caa15aff902b7e75fa1902930ca812f7d9a1cf649	MSU-1/New MSU-1/Actraiser - Abyss Rebirth OST, MSU v1 Darkshock/actraiser_msu1-5.pcm
+5bc63bee1a2247a4e4047df50d2c7718c573e1e94faf4c6b62ce18132957530b	MSU-1/New MSU-1/Actraiser - Abyss Rebirth OST, MSU v1 Darkshock/actraiser_msu1-6.pcm
+0b529b9ea8a07b0eef6396d16685d7a7851dddbcbb03165bbfbd4d29df9021d0	MSU-1/New MSU-1/Actraiser - Abyss Rebirth OST, MSU v1 Darkshock/actraiser_msu1-7.pcm
+5fde03e3440b601d8dd678a2461e69bcd16c06a24f67e002023b82c4caff9cc8	MSU-1/New MSU-1/Actraiser - Abyss Rebirth OST, MSU v1 Darkshock/actraiser_msu1-8.pcm
+2d8b3868b245ac7b833e0c97ecc5cb482a9e965dcc4922a2d4bde097066be575	MSU-1/New MSU-1/Actraiser - Abyss Rebirth OST, MSU v1 Darkshock/actraiser_msu1-9.pcm
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	MSU-1/New MSU-1/Actraiser - Abyss Rebirth OST, MSU v1 Darkshock/actraiser_msu1.msu
+dca9ffc1b6a955c2287d504f79333e8b950363e5aa1b535e4afc005c39f73ae8	MSU-1/New MSU-1/Actraiser - Abyss Rebirth OST, MSU v1 Darkshock/actraiser_msu1.sfc
+8a5b97064061371da70703ba22f79a7286a0e0189146f4c93571b40c64cff958	MSU-1/New MSU-1/Actraiser - Abyss Rebirth OST, MSU v1 Darkshock/actraiser_msu1.xml
+e14d762d2364bc1ad43b88e3977ee6a0b6d228b0668f7e3072061925f24b7271	MSU-1/New MSU-1/Actraiser - Abyss Rebirth OST, MSU v1 Darkshock/manifest.bml
 5a850c4c62febb6082c991fd6728ffc63076db3ebac6855704306c6b54704a89	MSU-1/New MSU-1/BS Zelda Ancient Stone Tablets Weeks 1-4 Fully Orchestrated - Conn et al/ast_msu.docx
 6199c1a1597d6f6becf82423f704e5102aaf57fa1483f8d091358f54b23faf3a	MSU-1/New MSU-1/BS Zelda Ancient Stone Tablets Weeks 1-4 Fully Orchestrated - Conn et al/bszelda_ast1-1.pcm
 392b2bd24457223f1704ee2c4ab8ca9535bc373411717c4c253d668b0c7cb818	MSU-1/New MSU-1/BS Zelda Ancient Stone Tablets Weeks 1-4 Fully Orchestrated - Conn et al/bszelda_ast1-2.pcm
@@ -125,31 +146,31 @@ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	MSU-1/New MSU-1
 73a9620c1369618f4a014a874d88fe77848ec3257fea08270037d8c8219ab7c0	MSU-1/New MSU-1/BS Zelda The Third Quest MSU-1 v1 Conn, Pevkoss/tq_msu1.smc
 628648304d9b88631b59927f0ede3e381a28604b0d6e09141875ef1fa71d35f1	MSU-1/New MSU-1/BS Zelda The Third Quest MSU-1 v1 Conn, Pevkoss/tq_msu1.xml
 32155d62faf208a9c994e6fd8f4db4ab21c63bdf012423e4774107e51f0a759c	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/Castlevania DX-MSU1.docx
+042d53b6b9fdecf73b64f6bf619891bd99c644105adf68fadc03c502d21f15b9	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1-1.pcm
+26664a3fe1b7f83698f128ce35a0bd60f9181ccdf3ac3a2b11d085a28415de6d	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1-13.pcm
+7e42f2c66884f5e18febcc36f74a72bd69025d2e85c028fcf572316f165cd9af	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1-15.pcm
+97b5dfda2a19ee094632bf1d43f9b546b87bb3fbe3ddf10cb77c1f51227d86d6	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1-17.pcm
+63f259d9f4f6ce750c5255a92ecef31861b9e8b064779efc476a6e0fc67e3b34	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1-19.pcm
+928a7b439df1658222580940a08467157a8805087d27d9747db1ba3d5f94b107	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1-21.pcm
+3d8a55fab95dacd1df97a8ad7fa3c91dbb9137f79c26414aec5524b6da9dedf8	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1-21.wav
+4cbe2bb2dbf46ae43256153152e7bc34cedf8b597f3970d684691c6a05a4021b	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1-23.pcm
+cdb9841ecf4ca70ac5d85dc3fd2bdfb9231e1a3f86e65216dc9d47f9a83fedd1	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1-25.pcm
+20b6224f123f553fc02fe3c8d376b4e1479394ccb5e1dc41199735952209da4a	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1-251.pcm
+906a9b4506a8db720ee066fb7ef90baabb64b5f151a48b25c3a0d727b6ac511f	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1-253.pcm
+042d53b6b9fdecf73b64f6bf619891bd99c644105adf68fadc03c502d21f15b9	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1-255.pcm
+444a8b81766c3500b3955aa354896b249fefe1c15064a2af9dcf9a9b984fb49a	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1-27.pcm
+9267d00908dbd4807e2a3d091e42d071d8a76908d3a7f30965c70ffc9659fd23	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1-29.pcm
+82985217f36a4a3bd8f3f1319ff93ccd36d516887f1938dcc2f5b26a56beb188	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1-3.pcm
+b1c3b5cfa2293e226054329f682e07e554b996cc6a3f7d8896f4ac1da79d4f7b	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1-31.pcm
+6df08dd827174f6ff6ad212774ed6ac5396b2cca845e6c1f4178fb7d373f396b	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1-31.wav
+7abe69919bd55d1135f6bb41965aeb9a504d1cd3eb44bee73fb3691539221271	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1-33.pcm
+54cfc3aba30dcf8b468075c35efbb5fefdebf69349973a608d86b67ab4ee0b88	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1-35.pcm
+e6dd2f950efca734d8a389533dbc411085d18284229ec6b5ab429e9be4d1af99	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1-5.pcm
+7087e4464557aeee126129d614adcff0a95ba85ffbbe489894e086f97401d9f8	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1-7.pcm
+43c8e97d828bcf744f307587bb770fa11cf3ea817ce050aed6dc46dc8334e7e3	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1-9.pcm
 e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1.msu
 cf16ea5306e72a484b849f88e7ba63c16cbf1f857efc5ba22e2e89315db3fe35	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1.sfc
 7d82bd99a0f2c1bb5ea06abf8b30b2418d9638cf9e217dafaa704e154599524d	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx-msu1.xml
-042d53b6b9fdecf73b64f6bf619891bd99c644105adf68fadc03c502d21f15b9	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-1.pcm
-26664a3fe1b7f83698f128ce35a0bd60f9181ccdf3ac3a2b11d085a28415de6d	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-13.pcm
-7e42f2c66884f5e18febcc36f74a72bd69025d2e85c028fcf572316f165cd9af	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-15.pcm
-97b5dfda2a19ee094632bf1d43f9b546b87bb3fbe3ddf10cb77c1f51227d86d6	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-17.pcm
-63f259d9f4f6ce750c5255a92ecef31861b9e8b064779efc476a6e0fc67e3b34	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-19.pcm
-928a7b439df1658222580940a08467157a8805087d27d9747db1ba3d5f94b107	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-21.pcm
-3d8a55fab95dacd1df97a8ad7fa3c91dbb9137f79c26414aec5524b6da9dedf8	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-21.wav
-4cbe2bb2dbf46ae43256153152e7bc34cedf8b597f3970d684691c6a05a4021b	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-23.pcm
-cdb9841ecf4ca70ac5d85dc3fd2bdfb9231e1a3f86e65216dc9d47f9a83fedd1	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-25.pcm
-20b6224f123f553fc02fe3c8d376b4e1479394ccb5e1dc41199735952209da4a	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-251.pcm
-906a9b4506a8db720ee066fb7ef90baabb64b5f151a48b25c3a0d727b6ac511f	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-253.pcm
-042d53b6b9fdecf73b64f6bf619891bd99c644105adf68fadc03c502d21f15b9	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-255.pcm
-444a8b81766c3500b3955aa354896b249fefe1c15064a2af9dcf9a9b984fb49a	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-27.pcm
-9267d00908dbd4807e2a3d091e42d071d8a76908d3a7f30965c70ffc9659fd23	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-29.pcm
-82985217f36a4a3bd8f3f1319ff93ccd36d516887f1938dcc2f5b26a56beb188	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-3.pcm
-b1c3b5cfa2293e226054329f682e07e554b996cc6a3f7d8896f4ac1da79d4f7b	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-31.pcm
-6df08dd827174f6ff6ad212774ed6ac5396b2cca845e6c1f4178fb7d373f396b	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-31.wav
-7abe69919bd55d1135f6bb41965aeb9a504d1cd3eb44bee73fb3691539221271	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-33.pcm
-54cfc3aba30dcf8b468075c35efbb5fefdebf69349973a608d86b67ab4ee0b88	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-35.pcm
-e6dd2f950efca734d8a389533dbc411085d18284229ec6b5ab429e9be4d1af99	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-5.pcm
-7087e4464557aeee126129d614adcff0a95ba85ffbbe489894e086f97401d9f8	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-7.pcm
-43c8e97d828bcf744f307587bb770fa11cf3ea817ce050aed6dc46dc8334e7e3	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/cdx_msu1-9.pcm
 3e2db63840ef7d13c88354fa238ebd66dc95b8969e8ff5f006775133354ddacf	MSU-1/New MSU-1/Castlevania Dracula X Remix SNES, Kurrono - MSU v1.4.1 Conn/manifest.bml
 32155d62faf208a9c994e6fd8f4db4ab21c63bdf012423e4774107e51f0a759c	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/Castlevania DX-MSU1.docx
 51037d5a0851c712903ed2b2ece814fd39f45b0e91c1d4f71268a0a72f9a3f4b	MSU-1/New MSU-1/Castlevania Dracula X Rondo of Blood PCE-CD & DX Chronicles PSP Pepillopev - MSU v1.4.1 Conn/cdx-msu1-1.pcm
