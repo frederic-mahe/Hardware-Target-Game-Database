@@ -58,3 +58,9 @@ https://github.com/frederic-mahe
 EverDrive Pack SMDBs by @SmokeMonsterPacks
 
 https://github.com/SmokeMonsterPacks
+
+## Similar tools
+
+- [clrmamepro](https://mamedev.emulab.it/clrmamepro/),
+- [romcenter](http://www.romcenter.com/),
+- [romvault](http://www.romvault.com/)
