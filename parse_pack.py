@@ -74,7 +74,9 @@ def parse_folder(target_folder, output_file):
                         try:
                             with open(absolute_filename, "rb", buffering=0) as f:
                                 # use a small buffer to compute hash
-                                # values to avoid memory overload
+                                # values to avoid storing large files
+                                # in memory (changing buffer size does
+                                # not change parsing speed much)
                                 for b in iter(lambda : f.read(128 * 1024), b''):
                                     h.update(b)
                         except FileNotFoundError:
