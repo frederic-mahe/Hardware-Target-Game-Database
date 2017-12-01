@@ -59,6 +59,7 @@ def parse_folder(target_folder, output_file):
                        ".jpg", ".ods", ".odt", ".dat", ".sto", ".pc", ".db",
                        ".ips", ".bps", ".asm", "Thumbs.db", ".txt", "*.mso")
     with open(output_file, "w") as output_file:
+        i = 0
         for dirpath, dirnames, filenames in os.walk(target_folder):
             if filenames:
                 for f in filenames:
@@ -83,6 +84,12 @@ def parse_folder(target_folder, output_file):
                                 for b in iter(lambda : f.read(128 * 1024), b''):
                                     h.update(b)
                         print(h.hexdigest(), filename, sep="\t", file=output_file)
+                        i += 1
+                        print("processing file: {:>9}".format(i),
+                              end="\r", file=sys.stdout, flush=True)
+        else:
+            print('processing file: {:>9}'.format(i), file=sys.stdout)
+
     return None
 
 
