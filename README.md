@@ -38,7 +38,11 @@ of unorganized files to match an exact layout.
 
 `-m` is the text file that will list the ROMs missing in order to reach the 100% mark
 
-Depending on your python installation, you may need to begin your command with the location of `python.exe` (for example, `C:\Users\XXX\AppData\Local\Programs\Python\Python36-32\python.exe`)
+Depending on your python installation, you may need to begin your
+command with the location of `python.exe` (for example,
+`C:\Users\XXX\AppData\Local\Programs\Python\Python36-32\python.exe`). More
+information for pack builders in the
+[wiki](https://github.com/SmokeMonsterPacks/EverDrive-Packs-Lists-Database/wiki).
 
 ## Requirements
 
