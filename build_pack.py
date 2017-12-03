@@ -6,7 +6,7 @@ use a database to identify and organize files.
 
 __author__ = "aquaman"
 __date__ = "2017/11/17"
-__version__ = "$Revision: 3.0"
+__version__ = "$Revision: 3.1"
 
 
 import os
@@ -75,6 +75,7 @@ def parse_folder(source_folder, db, output_folder):
     read each file, produce a hash value and place it in the directory tree.
     """
     found_entries = 0
+    i = 0
     for dirpath, dirnames, filenames in os.walk(source_folder):
         if filenames:
             for f in filenames:
@@ -113,6 +114,12 @@ def parse_folder(source_folder, db, output_folder):
                             shutil.copyfile(absolute_filename, new_file)
                     # remove the hit from the database
                     del db[h.hexdigest()]
+                i += 1
+                print("processing file: {:>9}".format(i),
+                      end="\r", file=sys.stdout, flush=True)
+    else:
+        print('processing file: {:>9}'.format(i), file=sys.stdout)
+
 
     return found_entries
 
