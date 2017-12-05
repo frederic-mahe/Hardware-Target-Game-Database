@@ -60,8 +60,11 @@ def parse_folder(target_folder, output_file):
                        ".ips", ".bps", ".asm", "Thumbs.db", ".txt", "*.mso")
     with open(output_file, "w") as output_file:
         i = 0
-        for dirpath, dirnames, filenames in os.walk(target_folder):
+        # make sure subfolders are alphanumerically sorted
+        for dirpath, dirnames, filenames in sorted(os.walk(target_folder)):
             if filenames:
+                # make sure files are alphanumerically sorted
+                filenames.sort()                
                 for f in filenames:
                     filename = os.path.join(os.path.normpath(dirpath), f)
                     absolute_filename = os.path.abspath(filename)
