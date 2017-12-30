@@ -41,7 +41,6 @@ def option_parse():
     args = parser.parse_args()
     return args.target_folder, args.output_file
 
-"menu.bin", "OS.PCE", ".exe", ".7z", ".png", ".zip", ".jpg", ".ods", ".odt", ".dat", ".sto", ".pc", ".db", ".ips", ".bps", ".asm", "Thumbs.db", ".txt", "*.mso"
 
 def parse_folder(target_folder, output_file):
     """
