@@ -41,23 +41,23 @@ def option_parse():
     args = parser.parse_args()
     return args.target_folder, args.output_file
 
+"menu.bin", "OS.PCE", ".exe", ".7z", ".png", ".zip", ".jpg", ".ods", ".odt", ".dat", ".sto", ".pc", ".db", ".ips", ".bps", ".asm", "Thumbs.db", ".txt", "*.mso"
 
 def parse_folder(target_folder, output_file):
     """
     read each file and produce a hash value.
     """
-    # list folders to exclude
-    banned_folders = ["/MEGA/", "/EDMD/", "/EDFC/", "/EDGB/",
-                      "/SYSTEM/", "/PALETTE/", "/PATTERN/",
-                      "/SPED/", "/TBED/", "/TEXT/", "/SNAP/",
-                      "/sd2snes/", "/sd2snes Themes/", "/Firmware Backup/",
-                      "/Images/", "/Manuals/", "/System Test Images/", "/menu/",
-                      "/_PREVIEW/", "/Documentation/", "/SOUNDS/", "/ED64/",
-                      "/SAVE/", "/AUTO/", "/CPAK/", "/GBASYS/",
-                      "/ntm_firmware_ver"]
-    banned_suffixes = ("menu.bin", "OS.PCE", ".exe", ".7z", ".png", ".zip",
-                       ".jpg", ".ods", ".odt", ".dat", ".sto", ".pc", ".db",
-                       ".ips", ".bps", ".asm", "Thumbs.db", ".txt", "*.mso")
+    # list folders and files to exclude
+    banned_folders = ("/AUTO/", "/CPAK/", "/Documentation/", "/ED64/", "/EDFC/",
+                      "/EDGB/", "/EDMD/", "/Firmware Backup/", "/GBASYS/",
+                      "/Images/", "/MEGA/", "/Manuals/", "/PALETTE/",
+                      "/PATTERN/", "/SAVE/", "/SNAP/", "/SOUNDS/",
+                      "/SPED/", "/SYSTEM/", "/System Test Images/",
+                      "/TBED/", "/TEXT/", "/_PREVIEW/", "/menu/",
+                      "/ntm_firmware_ver", "/sd2snes Themes/", "/sd2snes/")
+    banned_suffixes = (".7z", ".asm", ".bps", ".dat", ".db", ".exe", ".ips", 
+                       ".jpg", "*.mso", ".ods", ".odt", ".pc", ".png", ".sto",
+                       ".txt", ".zip", "OS.PCE", "Thumbs.db", "menu.bin")
     with open(output_file, "w") as output_file:
         i = 0
         # make sure subfolders are alphanumerically sorted
