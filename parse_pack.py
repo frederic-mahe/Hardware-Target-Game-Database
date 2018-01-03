@@ -56,8 +56,8 @@ def parse_folder(target_folder, output_file):
                       "/SPED/", "/SYSTEM/", "/System Test Images/",
                       "/TBED/", "/TEXT/", "/_PREVIEW/", "/menu/",
                       "/ntm_firmware_ver", "/sd2snes Themes/", "/sd2snes/")
-    banned_suffixes = (".7z", ".aps", ".asm", ".bps", ".BPS", ".dat", ".db", ".exe", ".ips", 
-                       ".jpg", ".mso", ".ods", ".odt", ".pc", ".png", ".srm", ".sto",
+    banned_suffixes = (".7z", ".aps", ".asm", ".bps", ".BPS", ".c", ".dat", ".db", ".exe", ".ips", 
+                       ".jpg", ".mso", ".ods", ".odt", ".pc", ".png", ".sav", ".srm", ".sto",
                        ".txt", ".zip", "OS.PCE", "Thumbs.db", "menu.bin")
     with open(output_file, "w") as output_file:
         i = 0
