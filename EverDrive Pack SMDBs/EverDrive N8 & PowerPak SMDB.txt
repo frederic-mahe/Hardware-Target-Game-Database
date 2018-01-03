@@ -2332,8 +2332,6 @@ d010708d6e4bfd208d9ce0a5ae55a6319700b05d87eabbebc1df5527781773e0	EverDrive N8/2 
 c8b5d650a1601b50c35b7617ae99327fda3fe2c83bc9ba7c4ac75a7117c476f2	EverDrive N8/2 Unlicensed - A-Z/1 Unlicensed A-K/Kou Dai Jing Ling - Zuan Shi (Unl).nes
 5d5b718f8030f95fe27b826ae24be212dbbc87c0581ae159f4095a5b2e1aa96e	EverDrive N8/2 Unlicensed - A-Z/1 Unlicensed A-K/Kou Dai Yao Guai - Shui Jing Ban (Unl).nes
 3bca645c08b57da102265246000c302a4fc6e97bc687638503e98ac2883b4ba0	EverDrive N8/2 Unlicensed - A-Z/1 Unlicensed A-K/Krazy Kreatures (USA) (Unl).nes
-a5cc4031c927c114e6483ed4939ae1d560f87645d95e5f206b21e9bba778edaa	EverDrive N8/2 Unlicensed - A-Z/1 Unlicensed L-R/Galactic Crusader (USA) (Unl).nes
-b7a856d52a79f6af49c508b3ae289f3b54bab5bb4b49e73d2fc2a210d9b1eb5f	EverDrive N8/2 Unlicensed - A-Z/1 Unlicensed L-R/King Neptune's Adventure (USA) (Unl).nes
 a107f3099546946883895f3a39445fa01596896f0cd8e363005fa292b7b27ba6	EverDrive N8/2 Unlicensed - A-Z/1 Unlicensed L-R/Linus Spacehead's Cosmic Crusade (USA) (En,Fr,De,Es) (Unl).nes
 273cbf37042671596d27d8a092d34c369201550aff35036c16403c1162c218c2	EverDrive N8/2 Unlicensed - A-Z/1 Unlicensed L-R/Lion King 5, The - Timon and Pumbaa (Unl) (Dragon).nes
 11dd647cd7bd1f5fcc5bf0b345c61261a9e0facba796d024c17ba5d2dcd466ea	EverDrive N8/2 Unlicensed - A-Z/1 Unlicensed L-R/Lion King III, The - Simon and Pumba (Unl) [!].nes
