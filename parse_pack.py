@@ -46,21 +46,24 @@ def parse_folder(target_folder, output_file):
     """
     read each file and produce a hash value.
     """
-    # list folders to exclude
-    banned_folders = ["/MEGA/", "/EDMD/", "/EDFC/", "/EDGB/",
-                      "/SYSTEM/", "/PALETTE/", "/PATTERN/",
-                      "/SPED/", "/TBED/", "/TEXT/", "/SNAP/",
-                      "/sd2snes/", "/sd2snes Themes/", "/Firmware Backup/",
-                      "/Images/", "/Manuals/", "/System Test Images/", "/menu/",
-                      "/_PREVIEW/", "/Documentation/", "/SOUNDS/", "/ED64/",
-                      "/SAVE/", "/AUTO/", "/CPAK/", "/GBASYS/",
-                      "/ntm_firmware_ver"]
-    banned_suffixes = ("menu.bin", "OS.PCE", ".exe", ".7z", ".png", ".zip",
-                       ".jpg", ".ods", ".odt", ".dat", ".sto", ".pc", ".db",
-                       ".ips", ".bps", ".asm", "Thumbs.db", ".txt", "*.mso")
+    # list folders and files to exclude
+    banned_folders = ("/AUTO/", "/CPAK/", "/Documentation/", "/ED64/", "/EDFC/",
+                      "/EDGB/", "/EDMD/", "/Firmware Backup/", "/GBASYS/",
+                      "/Images/", "/MEGA/", "/Manuals/", "/PALETTE/",
+                      "/PATTERN/", "/SAVE/", "/SNAP/", "/SOUNDS/",
+                      "/SPED/", "/SYSTEM/", "/System Test Images/",
+                      "/TBED/", "/TEXT/", "/_PREVIEW/", "/menu/",
+                      "/ntm_firmware_ver", "/sd2snes Themes/", "/sd2snes/")
+    banned_suffixes = (".7z", ".asm", ".bps", ".dat", ".db", ".exe", ".ips", 
+                       ".jpg", ".mso", ".ods", ".odt", ".pc", ".png", ".srm", ".sto",
+                       ".txt", ".zip", "OS.PCE", "Thumbs.db", "menu.bin")
     with open(output_file, "w") as output_file:
-        for dirpath, dirnames, filenames in os.walk(target_folder):
+        i = 0
+        # make sure subfolders are alphanumerically sorted
+        for dirpath, dirnames, filenames in sorted(os.walk(target_folder)):
             if filenames:
+                # make sure files are alphanumerically sorted
+                filenames.sort()                
                 for f in filenames:
                     filename = os.path.join(os.path.normpath(dirpath), f)
                     absolute_filename = os.path.abspath(filename)
@@ -73,7 +76,9 @@ def parse_folder(target_folder, output_file):
                         try:
                             with open(absolute_filename, "rb", buffering=0) as f:
                                 # use a small buffer to compute hash
-                                # values to avoid memory overload
+                                # values to avoid storing large files
+                                # in memory (changing buffer size does
+                                # not change parsing speed much)
                                 for b in iter(lambda : f.read(128 * 1024), b''):
                                     h.update(b)
                         except FileNotFoundError:
@@ -83,6 +88,12 @@ def parse_folder(target_folder, output_file):
                                 for b in iter(lambda : f.read(128 * 1024), b''):
                                     h.update(b)
                         print(h.hexdigest(), filename, sep="\t", file=output_file)
+                        i += 1
+                        print("processing file: {:>9}".format(i),
+                              end="\r", file=sys.stdout, flush=True)
+        else:
+            print('processing file: {:>9}'.format(i), file=sys.stdout)
+
     return None
 
 
