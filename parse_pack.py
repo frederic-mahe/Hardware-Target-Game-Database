@@ -48,7 +48,9 @@ def parse_folder(target_folder, output_file):
     """
     # list folders and files to exclude
     banned_folders = ("/AUTO/", "/CPAK/", "/Documentation/", "/ED64/", "/EDFC/",
-                      "/EDGB/", "/EDMD/", "/Firmware Backup/", "/GBASYS/",
+                      "/EDGB/", "/EDMD/",
+                      "/Extended SSF Dev Demo Sample - Krikzz/src/",
+                      "/Firmware Backup/", "/GBASYS/",
                       "/Images/", "/MEGA/", "/Manuals/", "/PALETTE/",
                       "/PATTERN/", "/SAVE/", "/SNAP/", "/SOUNDS/",
                       "/SPED/", "/SYSTEM/", "/System Test Images/",
