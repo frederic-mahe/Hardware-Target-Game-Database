@@ -145,7 +145,9 @@ if __name__ == '__main__':
                     print(missing_file, file=missing_files)
         else:
             print("no missing file")
+
     COVERAGE = round(100.0 * FOUND_ENTRIES / NUMBER_OF_ENTRIES, 2)
-    print("coverage is ", COVERAGE, "%", sep="")
+    print('coverage: {}/{} ({}%)'.format(FOUND_ENTRIES, NUMBER_OF_ENTRIES, COVERAGE),
+          file=sys.stdout)
 
 sys.exit(0)

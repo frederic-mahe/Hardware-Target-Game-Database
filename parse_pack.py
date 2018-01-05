@@ -48,15 +48,19 @@ def parse_folder(target_folder, output_file):
     """
     # list folders and files to exclude
     banned_folders = ("/AUTO/", "/CPAK/", "/Documentation/", "/ED64/", "/EDFC/",
-                      "/EDGB/", "/EDMD/", "/Firmware Backup/", "/GBASYS/",
+                      "/EDGB/", "/EDMD/",
+                      "/Extended SSF Dev Demo Sample - Krikzz/src/",
+                      "/Firmware Backup/", "/GBASYS/",
                       "/Images/", "/MEGA/", "/Manuals/", "/PALETTE/",
                       "/PATTERN/", "/SAVE/", "/SNAP/", "/SOUNDS/",
                       "/SPED/", "/SYSTEM/", "/System Test Images/",
                       "/TBED/", "/TEXT/", "/_PREVIEW/", "/menu/",
                       "/ntm_firmware_ver", "/sd2snes Themes/", "/sd2snes/")
-    banned_suffixes = (".7z", ".asm", ".bps", ".dat", ".db", ".exe", ".ips", 
-                       ".jpg", ".mso", ".ods", ".odt", ".pc", ".png", ".srm", ".sto",
-                       ".txt", ".zip", "OS.PCE", "Thumbs.db", "menu.bin")
+    banned_suffixes = (".7z", ".aps", ".asm", ".bps", ".BPS", ".c",
+                       ".dat", ".db", ".exe", ".ips", ".jpg", ".mso",
+                       ".ods", ".odt", ".pc", ".png", ".sav", ".srm",
+                       ".sto", ".txt", ".zip", "OS.PCE", "Thumbs.db",
+                       "menu.bin")
     with open(output_file, "w") as output_file:
         i = 0
         # make sure subfolders are alphanumerically sorted
