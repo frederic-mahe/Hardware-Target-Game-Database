@@ -70,8 +70,8 @@ cffaf52ae0e7755ad908652964598489b66ea3513677114b5d457313260f2c5e	Atari 5200/1 US
 981df40e898891e098493ae4c5c0c6062c8acbb2cad74510b9fdba3b3e57a0c4	Atari 5200/1 US - A-Z/Zenji (USA).a52
 8edbded59f4fa7182b31dbf0a6ef8da3a3bce1fcca12328aca15446ca1bccd79	Atari 5200/1 US - A-Z/Zone Ranger (USA).a52
 7ef23e0d8f03e5534063e391d20eaa1d66520fc60b18e8567bd0ccf193dc98c7	Atari 5200/3 Atari XL Series Conversions/3D Tic-Tac-Toe (XL Conversion).bin
-cfeba447bdfef225da9b458c8664807bc6a93aa51b5f316f54c102c44c2726d2	Atari 5200/3 Atari XL Series Conversions/Abracadabra (XL Conversion).bin
 d9d3f751240c884503686b37b39c11b5690088d0d8eeb3edc4222ae46bca8daa	Atari 5200/3 Atari XL Series Conversions/ANALOG Multicart (XL Conversion).bin
+cfeba447bdfef225da9b458c8664807bc6a93aa51b5f316f54c102c44c2726d2	Atari 5200/3 Atari XL Series Conversions/Abracadabra (XL Conversion).bin
 f5a302fa37a60c95df03c0cd2452f3c6d3d6ed63bb1801e2e165292f7e3bc49e	Atari 5200/3 Atari XL Series Conversions/Archon (XL Conversion).bin
 dde03b31c9895fa7a273ea2c4b8bf15edbec8a9af824df9343b8fce3541094c0	Atari 5200/3 Atari XL Series Conversions/Atlantis (XL Conversion).bin
 b7876176a7e851cb685d7beb3f352c3e671d70638428874534281bdd006886e9	Atari 5200/3 Atari XL Series Conversions/Attack of the Mutant Camels (XL).bin
@@ -110,70 +110,273 @@ e16e1aeec4fed36b3d9300bc72a0197fcf9205f9ed2e1e1b78c90519a9ea8802	Atari 5200/3 At
 ee947e4906e32cb2709f363f3e7126dffab1d866d54b59e53e54cc59a4d3002e	Atari 5200/3 Atari XL Series Conversions/Up'n Down (XL Conversion).bin
 5cf3c1f12176c75c44e6508dde36223b93591e1dc54b995ad46f786f06d77d21	Atari 5200/3 Atari XL Series Conversions/Worm War I (XL Conversion).bin
 c3e487a538c1f2703a9834b1f31a6c8e0080c3913e6af0be4e504e6ac7c90e60	Atari 5200/3 Atari XL Series Conversions/Xagon (XL Conversion).bin
-9ffda583a583582991ac504d92741a4fe41da094ab63373425937be94eef086d	Atari 5200/4 Game Series Collections/Activision Games/Activision Decathlon, The (USA).a52
-1ca70eb59bf139b494f8440ad958794db0f2fa18ee96cbec713426987c853226	Atari 5200/4 Game Series Collections/Activision Games/Beamrider (USA).a52
-65a649a34ae8e2942eec74e6ca849145ad605e5742602339427887656a9317d9	Atari 5200/4 Game Series Collections/Activision Games/Carol Shaw's River Raid (USA).a52
-9095b40ab3b2219a1ce931a99d57de2299a0e641e78005836739323c8a1daca3	Atari 5200/4 Game Series Collections/Activision Games/David Crane's Pitfall II - Lost Caverns (USA).a52
-5493c7d3145c68392c3f12972be30a2db4c75e14a12740d7b3b0abbfe3f36747	Atari 5200/4 Game Series Collections/Activision Games/Dreadnaught Factor, The (USA).a52
-34a5c081c26a71ae883cd474c7db7e76aa264a5dbd392424d51f224766bf707f	Atari 5200/4 Game Series Collections/Activision Games/H.E.R.O. (USA).a52
-2382504eba619372d7f5fb780a7489163bce198376900405f28f6e8fa452030e	Atari 5200/4 Game Series Collections/Activision Games/Kaboom! (USA).a52
-2269556b53b9c28a1ed75208605f92ae21ccf5e29fc0cd51b160a50bcc1bb5d0	Atari 5200/4 Game Series Collections/Activision Games/Keystone Kapers (USA).a52
-75b60c591276918fa0e208086900133484d5edd050c931422cbbc19cb9b23997	Atari 5200/4 Game Series Collections/Activision Games/MegaMania (USA).a52
-a7b30ffe1e43e481920e72a5bad30fe81d81d32245c8f0893c42b134eac4eff6	Atari 5200/4 Game Series Collections/Activision Games/Space Shuttle - A Journey Into Space (USA).a52
-981df40e898891e098493ae4c5c0c6062c8acbb2cad74510b9fdba3b3e57a0c4	Atari 5200/4 Game Series Collections/Activision Games/Zenji (USA).a52
-8edbded59f4fa7182b31dbf0a6ef8da3a3bce1fcca12328aca15446ca1bccd79	Atari 5200/4 Game Series Collections/Activision Games/Zone Ranger (USA).a52
-f3c1a48b736a06cf5c181e2d3c6c093512a592c4adf91c3e7e8f3e2bbdc2a126	Atari 5200/4 Game Series Collections/Arcade Conversions/Astro Chase (USA).a52
-3f3a9aa1ed3768be015ecba399655d7eb30b1ed4bfaecce472fba3c7f959967d	Atari 5200/4 Game Series Collections/Arcade Conversions/BerZerk (USA).a52
-a4bfac6b2b477ac111f3668ed162736e6a134ec59c349b9e4407f52e523043fa	Atari 5200/4 Game Series Collections/Arcade Conversions/Blue Print (USA).a52
-29d66bb75791a7ced485a49cf2116aa667b32713dc1a67d22430035dde1c4c08	Atari 5200/4 Game Series Collections/Arcade Conversions/Buck Rogers - Planet of Zoom (USA).a52
-06312922c2fe951c6980e9fcec041607db6babab7bfd0ca8d0b2c2b0c8964039	Atari 5200/4 Game Series Collections/Arcade Conversions/Centipede (USA).a52
-15583375bc28a8d94d8726a9f35ecb095430ccd817e34c169b715d396c3d379a	Atari 5200/4 Game Series Collections/Arcade Conversions/Choplifter! (USA).a52
-254662bb792fddbfe9846dbdd68a2b78479b4b1f4c77a7b85eae2dabdc9888a7	Atari 5200/4 Game Series Collections/Arcade Conversions/Congo Bongo (USA).a52
-0bc2f5fee89560f286b9c6444642d92ab12b922d1f3a1246c9511ce24ea73507	Atari 5200/4 Game Series Collections/Arcade Conversions/Defender (USA).a52
-e68dfe857ae9f602403fa990d97e0e9989768e5f110984babaf9960adb199ac1	Atari 5200/4 Game Series Collections/Arcade Conversions/Dig Dug (USA).a52
-16e4a304548e60b98cf3db125115d8ca11232d4ef8dc7d0ebeb1f06ed764bdd6	Atari 5200/4 Game Series Collections/Arcade Conversions/Frogger (USA).a52
-469209803f3c2d9119be2ef4347d25dcb94e6c30930e107cd93a5b94bde16b8c	Atari 5200/4 Game Series Collections/Arcade Conversions/Galaxian (USA).a52
-e017a57cd829e6e57f8cc973713178748d5bf25bb9c4fb4e3aa680fa5639693a	Atari 5200/4 Game Series Collections/Arcade Conversions/Gorf (USA).a52
-8e2a264ee07f486de9b40e74d405acc5405d9d1da5e64a24564d4d769366ba54	Atari 5200/4 Game Series Collections/Arcade Conversions/Gyruss (USA).a52
-17ba9da3996bbb907dc8bf0abda17c78512507c3de86171db8e9cbc1f4667f07	Atari 5200/4 Game Series Collections/Arcade Conversions/Joust (USA).a52
-53795541ce22cacb9397475926e28ac545940054172a7720650918ab8f693a81	Atari 5200/4 Game Series Collections/Arcade Conversions/Jungle Hunt (USA).a52
-94b994879aa91434da1e72bff6aa1b9fffb1a50cbe26052ea21eed54c6e16ded	Atari 5200/4 Game Series Collections/Arcade Conversions/Kangaroo (USA).a52
-d8b66ea9b9f4f13584ce349ddefea219c31eee99d0a5565627b9322b4b183cbb	Atari 5200/4 Game Series Collections/Arcade Conversions/Mario Bros. (USA).a52
-792b23a61fd5af990538bf4d7c81bf773079caed875603efca01ca6d6fa4d00b	Atari 5200/4 Game Series Collections/Arcade Conversions/Missile Command (USA).a52
-549394b200ea0d58aa5d166d81e7a7439b11c810cd53eee186839dd5239b1ad5	Atari 5200/4 Game Series Collections/Arcade Conversions/Moon Patrol (USA).a52
-6b0832baf6b9d84e79c9ec4fc41fb4b40930855d44d554f0f237619849841548	Atari 5200/4 Game Series Collections/Arcade Conversions/Mr. Do!'s Castle (USA).a52
-305181464b8ee3733c0de2c8329ea763143f68cd8413aa02731dec2da21ca1ba	Atari 5200/4 Game Series Collections/Arcade Conversions/Ms. Pac-Man (USA).a52
-5097b4763eefd8650781698e36b68bc0c9ae0863916312e6fa4364e4da104080	Atari 5200/4 Game Series Collections/Arcade Conversions/Pac-Man (USA).a52
-2897aac47fefadd344b5a39e5aaf8bd5d097821cc6321b2d83fa3a04232a2971	Atari 5200/4 Game Series Collections/Arcade Conversions/Pengo (USA).a52
-700bdbb98aef4494e39bce978e788dcf2c28a49e06f111c57ff29004f54d7f22	Atari 5200/4 Game Series Collections/Arcade Conversions/Pole Position (USA).a52
-2ac41cd4643a81716597de8c4132f421aa9a7d1bec97c30b7706780f66ff9c5c	Atari 5200/4 Game Series Collections/Arcade Conversions/Popeye (USA).a52
-dd71b0c2eb40c27bc2e5bf428743e7086f5e23fd23a1125652a9256bcfb55df4	Atari 5200/4 Game Series Collections/Arcade Conversions/Q-bert (USA).a52
-29537d2da46d760cdb98c4c968fe37763e3da32c434b2bf7118e811b7e0d7673	Atari 5200/4 Game Series Collections/Arcade Conversions/QIX (USA).a52
-e70955b742ebba1835ed1f4f95a10e059a1142d0d68a2d81dbeb54a2d7b59016	Atari 5200/4 Game Series Collections/Arcade Conversions/Robotron 2084 (USA).a52
-1d688fc6f572e6fb437530e917ff033f6ed037c09a5c95161482a9a1429b3a22	Atari 5200/4 Game Series Collections/Arcade Conversions/Space Dungeon (USA).a52
-5ee4d7c4834fb2faee22e326a51d0131faeddc4988d774c81ce84692143a4a84	Atari 5200/4 Game Series Collections/Arcade Conversions/Space Invaders (USA).a52
-09b9b5e1c23453d3d60c00ed0b35f742640eaeda3f036d105dca958b72cdbc28	Atari 5200/4 Game Series Collections/Arcade Conversions/Star Trek - Strategic Operations Simulator (USA).a52
-919b65f04ef0c64b3cb551d50bfaa3d923eba4bd33ed17d15af1ed7ad5dc599c	Atari 5200/4 Game Series Collections/Arcade Conversions/Star Wars - The Arcade Game (USA).a52
-81d99c73080e57e4066138c44ca34ae9cf5f0fef1ca43f6b3136a36c7435e031	Atari 5200/4 Game Series Collections/Arcade Conversions/Super Breakout (USA).a52
-2b06045c19600011b8adab0209e097af367aba0e72cb678211e7fe98738d2d6d	Atari 5200/4 Game Series Collections/Arcade Conversions/Super Cobra (USA).a52
-871bd42c17733667ddbd3eca844dbf99f330c350c8da3166f004f4a13b018d02	Atari 5200/4 Game Series Collections/Arcade Conversions/Vanguard (USA).a52
-8483d4bf3a7ff75112ef3dad3d2bde44e0698c27629499c9cad0cc3b9cdedff8	Atari 5200/4 Game Series Collections/Arcade Conversions/Wizard of Wor (USA).a52
-2644685d76ba806f7f078831cd93644d37d9a5ef62561a70ae4345b2021a8f3d	Atari 5200/4 Game Series Collections/Arcade Conversions/Zaxxon (USA).a52
-698e156b564645913aef5a9a874bf21b2f0a4e9dde2005a6bb5f4446c4e4edc0	Atari 5200/4 Game Series Collections/Sports/RealSports Baseball (USA).a52
-4cf2f205a30c7e26653f68733d5c0f07c351c9fa383bb2b7b54caec416ef0868	Atari 5200/4 Game Series Collections/Sports/RealSports Basketball (USA).a52
-cc8a5829a923361cd1a6898053f199f7b46a00cb3b3c8ab979c52fd4c95089db	Atari 5200/4 Game Series Collections/Sports/RealSports Football (USA).a52
-b13bbb9e3dc3d47812b7626dcd3483002ca7698c1b2aceb7aa54e09f5dd6de5a	Atari 5200/4 Game Series Collections/Sports/RealSports Soccer (USA).a52
-5cb84867d6d781e3688c1d346a1947340f6aaefef0c118179b5c89e92e0843b5	Atari 5200/4 Game Series Collections/Sports/RealSports Tennis (USA).a52
-06312922c2fe951c6980e9fcec041607db6babab7bfd0ca8d0b2c2b0c8964039	Atari 5200/4 Game Series Collections/Trackball Games/Centipede (USA).a52
-469209803f3c2d9119be2ef4347d25dcb94e6c30930e107cd93a5b94bde16b8c	Atari 5200/4 Game Series Collections/Trackball Games/Galaxian (USA).a52
-792b23a61fd5af990538bf4d7c81bf773079caed875603efca01ca6d6fa4d00b	Atari 5200/4 Game Series Collections/Trackball Games/Missile Command (USA).a52
-2897aac47fefadd344b5a39e5aaf8bd5d097821cc6321b2d83fa3a04232a2971	Atari 5200/4 Game Series Collections/Trackball Games/Pengo (USA).a52
-700bdbb98aef4494e39bce978e788dcf2c28a49e06f111c57ff29004f54d7f22	Atari 5200/4 Game Series Collections/Trackball Games/Pole Position (USA).a52
-cc8a5829a923361cd1a6898053f199f7b46a00cb3b3c8ab979c52fd4c95089db	Atari 5200/4 Game Series Collections/Trackball Games/RealSports Football (USA).a52
-b13bbb9e3dc3d47812b7626dcd3483002ca7698c1b2aceb7aa54e09f5dd6de5a	Atari 5200/4 Game Series Collections/Trackball Games/RealSports Soccer (USA).a52
-5cb84867d6d781e3688c1d346a1947340f6aaefef0c118179b5c89e92e0843b5	Atari 5200/4 Game Series Collections/Trackball Games/RealSports Tennis (USA).a52
-5ee4d7c4834fb2faee22e326a51d0131faeddc4988d774c81ce84692143a4a84	Atari 5200/4 Game Series Collections/Trackball Games/Space Invaders (USA).a52
-81d99c73080e57e4066138c44ca34ae9cf5f0fef1ca43f6b3136a36c7435e031	Atari 5200/4 Game Series Collections/Trackball Games/Super Breakout (USA).a52
+06312922c2fe951c6980e9fcec041607db6babab7bfd0ca8d0b2c2b0c8964039	Atari 5200/4 Game Series Collections/Accesories & Add Ons/Trak-Ball Controller/Centipede (USA).a52
+469209803f3c2d9119be2ef4347d25dcb94e6c30930e107cd93a5b94bde16b8c	Atari 5200/4 Game Series Collections/Accesories & Add Ons/Trak-Ball Controller/Galaxian (USA).a52
+2382504eba619372d7f5fb780a7489163bce198376900405f28f6e8fa452030e	Atari 5200/4 Game Series Collections/Accesories & Add Ons/Trak-Ball Controller/Kaboom! (USA).a52
+3cd0e22123f2add19c9af41f1f283d3f2f5739b260a5183b305d1d5fc8aab771	Atari 5200/4 Game Series Collections/Accesories & Add Ons/Trak-Ball Controller/Millipede (USA) (Proto).a52
+792b23a61fd5af990538bf4d7c81bf773079caed875603efca01ca6d6fa4d00b	Atari 5200/4 Game Series Collections/Accesories & Add Ons/Trak-Ball Controller/Missile Command (USA).a52
+2897aac47fefadd344b5a39e5aaf8bd5d097821cc6321b2d83fa3a04232a2971	Atari 5200/4 Game Series Collections/Accesories & Add Ons/Trak-Ball Controller/Pengo (USA).a52
+700bdbb98aef4494e39bce978e788dcf2c28a49e06f111c57ff29004f54d7f22	Atari 5200/4 Game Series Collections/Accesories & Add Ons/Trak-Ball Controller/Pole Position (USA).a52
+cc8a5829a923361cd1a6898053f199f7b46a00cb3b3c8ab979c52fd4c95089db	Atari 5200/4 Game Series Collections/Accesories & Add Ons/Trak-Ball Controller/RealSports Football (USA).a52
+b13bbb9e3dc3d47812b7626dcd3483002ca7698c1b2aceb7aa54e09f5dd6de5a	Atari 5200/4 Game Series Collections/Accesories & Add Ons/Trak-Ball Controller/RealSports Soccer (USA).a52
+5cb84867d6d781e3688c1d346a1947340f6aaefef0c118179b5c89e92e0843b5	Atari 5200/4 Game Series Collections/Accesories & Add Ons/Trak-Ball Controller/RealSports Tennis (USA).a52
+5ee4d7c4834fb2faee22e326a51d0131faeddc4988d774c81ce84692143a4a84	Atari 5200/4 Game Series Collections/Accesories & Add Ons/Trak-Ball Controller/Space Invaders (USA).a52
+81d99c73080e57e4066138c44ca34ae9cf5f0fef1ca43f6b3136a36c7435e031	Atari 5200/4 Game Series Collections/Accesories & Add Ons/Trak-Ball Controller/Super Breakout (USA).a52
+700bdbb98aef4494e39bce978e788dcf2c28a49e06f111c57ff29004f54d7f22	Atari 5200/4 Game Series Collections/Best-Of Lists/Top 10 Games - AtariMania.com/01. Pole Position (USA).a52
+0eaf2b96806f2b6f4f6e0a7dc8887472597b3ad4c48e4a82c49b236637f968ea	Atari 5200/4 Game Series Collections/Best-Of Lists/Top 10 Games - AtariMania.com/02. Ballblazer (USA).a52
+469209803f3c2d9119be2ef4347d25dcb94e6c30930e107cd93a5b94bde16b8c	Atari 5200/4 Game Series Collections/Best-Of Lists/Top 10 Games - AtariMania.com/03. Galaxian (USA).a52
+cffaf52ae0e7755ad908652964598489b66ea3513677114b5d457313260f2c5e	Atari 5200/4 Game Series Collections/Best-Of Lists/Top 10 Games - AtariMania.com/04. Star Raiders (USA).a52
+919b65f04ef0c64b3cb551d50bfaa3d923eba4bd33ed17d15af1ed7ad5dc599c	Atari 5200/4 Game Series Collections/Best-Of Lists/Top 10 Games - AtariMania.com/05. Star Wars - The Arcade Game (USA).a52
+2b06045c19600011b8adab0209e097af367aba0e72cb678211e7fe98738d2d6d	Atari 5200/4 Game Series Collections/Best-Of Lists/Top 10 Games - AtariMania.com/06. Super Cobra (USA).a52
+145514c439665e7d37929283039c1e2d4b4713f067ecfd011c303e34531e144d	Atari 5200/4 Game Series Collections/Best-Of Lists/Top 10 Games - AtariMania.com/07. Rescue on Fractalus! (USA).a52
+65a649a34ae8e2942eec74e6ca849145ad605e5742602339427887656a9317d9	Atari 5200/4 Game Series Collections/Best-Of Lists/Top 10 Games - AtariMania.com/08. Carol Shaw's River Raid (USA).a52
+0dcd83e64083e12a358425f6c256bf2bb384d7f9705784035b183dd1db205e16	Atari 5200/4 Game Series Collections/Best-Of Lists/Top 10 Games - AtariMania.com/09. Montezuma's Revenge featuring Panama Joe (USA).a52
+5097b4763eefd8650781698e36b68bc0c9ae0863916312e6fa4364e4da104080	Atari 5200/4 Game Series Collections/Best-Of Lists/Top 10 Games - AtariMania.com/10. Pac-Man (USA).a52
+9ffda583a583582991ac504d92741a4fe41da094ab63373425937be94eef086d	Atari 5200/4 Game Series Collections/Developer/Activision/Activision Decathlon, The (USA).a52
+1ca70eb59bf139b494f8440ad958794db0f2fa18ee96cbec713426987c853226	Atari 5200/4 Game Series Collections/Developer/Activision/Beamrider (USA).a52
+65a649a34ae8e2942eec74e6ca849145ad605e5742602339427887656a9317d9	Atari 5200/4 Game Series Collections/Developer/Activision/Carol Shaw's River Raid (USA).a52
+9095b40ab3b2219a1ce931a99d57de2299a0e641e78005836739323c8a1daca3	Atari 5200/4 Game Series Collections/Developer/Activision/David Crane's Pitfall II - Lost Caverns (USA).a52
+5493c7d3145c68392c3f12972be30a2db4c75e14a12740d7b3b0abbfe3f36747	Atari 5200/4 Game Series Collections/Developer/Activision/Dreadnaught Factor, The (USA).a52
+34a5c081c26a71ae883cd474c7db7e76aa264a5dbd392424d51f224766bf707f	Atari 5200/4 Game Series Collections/Developer/Activision/H.E.R.O. (USA).a52
+2382504eba619372d7f5fb780a7489163bce198376900405f28f6e8fa452030e	Atari 5200/4 Game Series Collections/Developer/Activision/Kaboom! (USA).a52
+2269556b53b9c28a1ed75208605f92ae21ccf5e29fc0cd51b160a50bcc1bb5d0	Atari 5200/4 Game Series Collections/Developer/Activision/Keystone Kapers (USA).a52
+75b60c591276918fa0e208086900133484d5edd050c931422cbbc19cb9b23997	Atari 5200/4 Game Series Collections/Developer/Activision/MegaMania (USA).a52
+a7b30ffe1e43e481920e72a5bad30fe81d81d32245c8f0893c42b134eac4eff6	Atari 5200/4 Game Series Collections/Developer/Activision/Space Shuttle - A Journey Into Space (USA).a52
+981df40e898891e098493ae4c5c0c6062c8acbb2cad74510b9fdba3b3e57a0c4	Atari 5200/4 Game Series Collections/Developer/Activision/Zenji (USA).a52
+8edbded59f4fa7182b31dbf0a6ef8da3a3bce1fcca12328aca15446ca1bccd79	Atari 5200/4 Game Series Collections/Developer/Activision/Zone Ranger (USA).a52
+0eaf2b96806f2b6f4f6e0a7dc8887472597b3ad4c48e4a82c49b236637f968ea	Atari 5200/4 Game Series Collections/Developer/Atari/Ballblazer (USA).a52
+3f3a9aa1ed3768be015ecba399655d7eb30b1ed4bfaecce472fba3c7f959967d	Atari 5200/4 Game Series Collections/Developer/Atari/BerZerk (USA).a52
+06312922c2fe951c6980e9fcec041607db6babab7bfd0ca8d0b2c2b0c8964039	Atari 5200/4 Game Series Collections/Developer/Atari/Centipede (USA).a52
+15583375bc28a8d94d8726a9f35ecb095430ccd817e34c169b715d396c3d379a	Atari 5200/4 Game Series Collections/Developer/Atari/Choplifter! (USA).a52
+1a453b467c75c736ba9e96884721286608976ce7f3d8b81fccc619168955f4d1	Atari 5200/4 Game Series Collections/Developer/Atari/Countermeasure (USA).a52
+0bc2f5fee89560f286b9c6444642d92ab12b922d1f3a1246c9511ce24ea73507	Atari 5200/4 Game Series Collections/Developer/Atari/Defender (USA).a52
+e68dfe857ae9f602403fa990d97e0e9989768e5f110984babaf9960adb199ac1	Atari 5200/4 Game Series Collections/Developer/Atari/Dig Dug (USA).a52
+469209803f3c2d9119be2ef4347d25dcb94e6c30930e107cd93a5b94bde16b8c	Atari 5200/4 Game Series Collections/Developer/Atari/Galaxian (USA).a52
+2940b26dc24edc33a9fb840a9f3ef77be73ab0e223525d4bca7d0e0cf14d4a3e	Atari 5200/4 Game Series Collections/Developer/Atari/Gremlins (USA).a52
+17ba9da3996bbb907dc8bf0abda17c78512507c3de86171db8e9cbc1f4667f07	Atari 5200/4 Game Series Collections/Developer/Atari/Joust (USA).a52
+53795541ce22cacb9397475926e28ac545940054172a7720650918ab8f693a81	Atari 5200/4 Game Series Collections/Developer/Atari/Jungle Hunt (USA).a52
+94b994879aa91434da1e72bff6aa1b9fffb1a50cbe26052ea21eed54c6e16ded	Atari 5200/4 Game Series Collections/Developer/Atari/Kangaroo (USA).a52
+d8b66ea9b9f4f13584ce349ddefea219c31eee99d0a5565627b9322b4b183cbb	Atari 5200/4 Game Series Collections/Developer/Atari/Mario Bros. (USA).a52
+792b23a61fd5af990538bf4d7c81bf773079caed875603efca01ca6d6fa4d00b	Atari 5200/4 Game Series Collections/Developer/Atari/Missile Command (USA).a52
+549394b200ea0d58aa5d166d81e7a7439b11c810cd53eee186839dd5239b1ad5	Atari 5200/4 Game Series Collections/Developer/Atari/Moon Patrol (USA).a52
+305181464b8ee3733c0de2c8329ea763143f68cd8413aa02731dec2da21ca1ba	Atari 5200/4 Game Series Collections/Developer/Atari/Ms. Pac-Man (USA).a52
+5097b4763eefd8650781698e36b68bc0c9ae0863916312e6fa4364e4da104080	Atari 5200/4 Game Series Collections/Developer/Atari/Pac-Man (USA).a52
+2897aac47fefadd344b5a39e5aaf8bd5d097821cc6321b2d83fa3a04232a2971	Atari 5200/4 Game Series Collections/Developer/Atari/Pengo (USA).a52
+700bdbb98aef4494e39bce978e788dcf2c28a49e06f111c57ff29004f54d7f22	Atari 5200/4 Game Series Collections/Developer/Atari/Pole Position (USA).a52
+29537d2da46d760cdb98c4c968fe37763e3da32c434b2bf7118e811b7e0d7673	Atari 5200/4 Game Series Collections/Developer/Atari/QIX (USA).a52
+698e156b564645913aef5a9a874bf21b2f0a4e9dde2005a6bb5f4446c4e4edc0	Atari 5200/4 Game Series Collections/Developer/Atari/RealSports Baseball (USA).a52
+4cf2f205a30c7e26653f68733d5c0f07c351c9fa383bb2b7b54caec416ef0868	Atari 5200/4 Game Series Collections/Developer/Atari/RealSports Basketball (USA).a52
+cc8a5829a923361cd1a6898053f199f7b46a00cb3b3c8ab979c52fd4c95089db	Atari 5200/4 Game Series Collections/Developer/Atari/RealSports Football (USA).a52
+b13bbb9e3dc3d47812b7626dcd3483002ca7698c1b2aceb7aa54e09f5dd6de5a	Atari 5200/4 Game Series Collections/Developer/Atari/RealSports Soccer (USA).a52
+5cb84867d6d781e3688c1d346a1947340f6aaefef0c118179b5c89e92e0843b5	Atari 5200/4 Game Series Collections/Developer/Atari/RealSports Tennis (USA).a52
+e70955b742ebba1835ed1f4f95a10e059a1142d0d68a2d81dbeb54a2d7b59016	Atari 5200/4 Game Series Collections/Developer/Atari/Robotron 2084 (USA).a52
+1d688fc6f572e6fb437530e917ff033f6ed037c09a5c95161482a9a1429b3a22	Atari 5200/4 Game Series Collections/Developer/Atari/Space Dungeon (USA).a52
+5ee4d7c4834fb2faee22e326a51d0131faeddc4988d774c81ce84692143a4a84	Atari 5200/4 Game Series Collections/Developer/Atari/Space Invaders (USA).a52
+cffaf52ae0e7755ad908652964598489b66ea3513677114b5d457313260f2c5e	Atari 5200/4 Game Series Collections/Developer/Atari/Star Raiders (USA).a52
+81d99c73080e57e4066138c44ca34ae9cf5f0fef1ca43f6b3136a36c7435e031	Atari 5200/4 Game Series Collections/Developer/Atari/Super Breakout (USA).a52
+871bd42c17733667ddbd3eca844dbf99f330c350c8da3166f004f4a13b018d02	Atari 5200/4 Game Series Collections/Developer/Atari/Vanguard (USA).a52
+957aee5457f89ff9a89b87d045f4803c870b54f40045e3c397b47f716fedadff	Atari 5200/4 Game Series Collections/Developer/Big Five Software/Bounty Bob Strikes Back! (USA).a52
+6207cb90590953dd48db0afeb6b40db6f447a8f0a9d48dc758b0654769a2e871	Atari 5200/4 Game Series Collections/Developer/Big Five Software/Miner 2049er Starring Bounty Bob (USA).a52
+a4bfac6b2b477ac111f3668ed162736e6a134ec59c349b9e4407f52e523043fa	Atari 5200/4 Game Series Collections/Developer/CBS Electronics/Blue Print (USA).a52
+e017a57cd829e6e57f8cc973713178748d5bf25bb9c4fb4e3aa680fa5639693a	Atari 5200/4 Game Series Collections/Developer/CBS Electronics/Gorf (USA).a52
+2468f75c9ae7a96a2eeb9e9a32b62f56740e6a78687cd90e02d694368577c246	Atari 5200/4 Game Series Collections/Developer/CBS Electronics/K-Razy Shoot-Out (USA).a52
+8d99f09862caf68212d1d22a28e5964c41307ef52d8b8be027feefba675f9e6a	Atari 5200/4 Game Series Collections/Developer/CBS Electronics/Mountain King (USA).a52
+8483d4bf3a7ff75112ef3dad3d2bde44e0698c27629499c9cad0cc3b9cdedff8	Atari 5200/4 Game Series Collections/Developer/CBS Electronics/Wizard of Wor (USA).a52
+73e372b99cdf8f2f30c071dcc0a7ac0bc532ce5300595f166eefa23c46915e77	Atari 5200/4 Game Series Collections/Developer/Electra Concepts/Meteorites (USA).a52
+f3c1a48b736a06cf5c181e2d3c6c093512a592c4adf91c3e7e8f3e2bbdc2a126	Atari 5200/4 Game Series Collections/Developer/Parker Brothers/Astro Chase (USA).a52
+16e4a304548e60b98cf3db125115d8ca11232d4ef8dc7d0ebeb1f06ed764bdd6	Atari 5200/4 Game Series Collections/Developer/Parker Brothers/Frogger (USA).a52
+87bdba18b4db61d3701f7c8ce931a9ddc75b5b75892ca69b7e4e419bfa68e46d	Atari 5200/4 Game Series Collections/Developer/Parker Brothers/Frogger II - Threeedeep! (USA).a52
+8e2a264ee07f486de9b40e74d405acc5405d9d1da5e64a24564d4d769366ba54	Atari 5200/4 Game Series Collections/Developer/Parker Brothers/Gyruss (USA).a52
+5ac85a569f6fe178db4e2111f608949045999d5123b047b20ef03feeccfb1b49	Atari 5200/4 Game Series Collections/Developer/Parker Brothers/James Bond 007 (USA).a52
+0dcd83e64083e12a358425f6c256bf2bb384d7f9705784035b183dd1db205e16	Atari 5200/4 Game Series Collections/Developer/Parker Brothers/Montezuma's Revenge featuring Panama Joe (USA).a52
+6b0832baf6b9d84e79c9ec4fc41fb4b40930855d44d554f0f237619849841548	Atari 5200/4 Game Series Collections/Developer/Parker Brothers/Mr. Do!'s Castle (USA).a52
+2ac41cd4643a81716597de8c4132f421aa9a7d1bec97c30b7706780f66ff9c5c	Atari 5200/4 Game Series Collections/Developer/Parker Brothers/Popeye (USA).a52
+dd71b0c2eb40c27bc2e5bf428743e7086f5e23fd23a1125652a9256bcfb55df4	Atari 5200/4 Game Series Collections/Developer/Parker Brothers/Q-bert (USA).a52
+970d7cdf11f06373828c27ba9cc0a2e01e616b40c59352838fa0ee32d2fae222	Atari 5200/4 Game Series Collections/Developer/Parker Brothers/Star Wars - Return of the Jedi - Death Star Battle (USA).a52
+919b65f04ef0c64b3cb551d50bfaa3d923eba4bd33ed17d15af1ed7ad5dc599c	Atari 5200/4 Game Series Collections/Developer/Parker Brothers/Star Wars - The Arcade Game (USA).a52
+2b06045c19600011b8adab0209e097af367aba0e72cb678211e7fe98738d2d6d	Atari 5200/4 Game Series Collections/Developer/Parker Brothers/Super Cobra (USA).a52
+29d66bb75791a7ced485a49cf2116aa667b32713dc1a67d22430035dde1c4c08	Atari 5200/4 Game Series Collections/Developer/Sega/Buck Rogers - Planet of Zoom (USA).a52
+254662bb792fddbfe9846dbdd68a2b78479b4b1f4c77a7b85eae2dabdc9888a7	Atari 5200/4 Game Series Collections/Developer/Sega/Congo Bongo (USA).a52
+09b9b5e1c23453d3d60c00ed0b35f742640eaeda3f036d105dca958b72cdbc28	Atari 5200/4 Game Series Collections/Developer/Sega/Star Trek - Strategic Operations Simulator (USA).a52
+2644685d76ba806f7f078831cd93644d37d9a5ef62561a70ae4345b2021a8f3d	Atari 5200/4 Game Series Collections/Developer/Sega/Zaxxon (USA).a52
+7ed12b0ef8746429661006f26acead4a87748e389c89bc19ed2a058bea091857	Atari 5200/4 Game Series Collections/Developer/Sunrise Software/Quest for Quintana Roo (USA).a52
+87bdba18b4db61d3701f7c8ce931a9ddc75b5b75892ca69b7e4e419bfa68e46d	Atari 5200/4 Game Series Collections/Genre/Action (General)/Frogger II - Threeedeep! (USA).a52
+2940b26dc24edc33a9fb840a9f3ef77be73ab0e223525d4bca7d0e0cf14d4a3e	Atari 5200/4 Game Series Collections/Genre/Action (General)/Gremlins (USA).a52
+34a5c081c26a71ae883cd474c7db7e76aa264a5dbd392424d51f224766bf707f	Atari 5200/4 Game Series Collections/Genre/Action (General)/H.E.R.O. (USA).a52
+6b0832baf6b9d84e79c9ec4fc41fb4b40930855d44d554f0f237619849841548	Atari 5200/4 Game Series Collections/Genre/Action (General)/Mr. Do!'s Castle (USA).a52
+2897aac47fefadd344b5a39e5aaf8bd5d097821cc6321b2d83fa3a04232a2971	Atari 5200/4 Game Series Collections/Genre/Action (General)/Pengo (USA).a52
+7ed12b0ef8746429661006f26acead4a87748e389c89bc19ed2a058bea091857	Atari 5200/4 Game Series Collections/Genre/Action (General)/Quest for Quintana Roo (USA).a52
+145514c439665e7d37929283039c1e2d4b4713f067ecfd011c303e34531e144d	Atari 5200/4 Game Series Collections/Genre/Action (General)/Rescue on Fractalus! (USA).a52
+1d688fc6f572e6fb437530e917ff033f6ed037c09a5c95161482a9a1429b3a22	Atari 5200/4 Game Series Collections/Genre/Action (General)/Space Dungeon (USA).a52
+970d7cdf11f06373828c27ba9cc0a2e01e616b40c59352838fa0ee32d2fae222	Atari 5200/4 Game Series Collections/Genre/Action (General)/Star Wars - Return of the Jedi - Death Star Battle (USA).a52
+981df40e898891e098493ae4c5c0c6062c8acbb2cad74510b9fdba3b3e57a0c4	Atari 5200/4 Game Series Collections/Genre/Action (General)/Zenji (USA).a52
+f3c1a48b736a06cf5c181e2d3c6c093512a592c4adf91c3e7e8f3e2bbdc2a126	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Astro Chase (USA).a52
+3f3a9aa1ed3768be015ecba399655d7eb30b1ed4bfaecce472fba3c7f959967d	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/BerZerk (USA).a52
+a4bfac6b2b477ac111f3668ed162736e6a134ec59c349b9e4407f52e523043fa	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Blue Print (USA).a52
+29d66bb75791a7ced485a49cf2116aa667b32713dc1a67d22430035dde1c4c08	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Buck Rogers - Planet of Zoom (USA).a52
+06312922c2fe951c6980e9fcec041607db6babab7bfd0ca8d0b2c2b0c8964039	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Centipede (USA).a52
+15583375bc28a8d94d8726a9f35ecb095430ccd817e34c169b715d396c3d379a	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Choplifter! (USA).a52
+254662bb792fddbfe9846dbdd68a2b78479b4b1f4c77a7b85eae2dabdc9888a7	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Congo Bongo (USA).a52
+0bc2f5fee89560f286b9c6444642d92ab12b922d1f3a1246c9511ce24ea73507	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Defender (USA).a52
+e68dfe857ae9f602403fa990d97e0e9989768e5f110984babaf9960adb199ac1	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Dig Dug (USA).a52
+16e4a304548e60b98cf3db125115d8ca11232d4ef8dc7d0ebeb1f06ed764bdd6	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Frogger (USA).a52
+469209803f3c2d9119be2ef4347d25dcb94e6c30930e107cd93a5b94bde16b8c	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Galaxian (USA).a52
+e017a57cd829e6e57f8cc973713178748d5bf25bb9c4fb4e3aa680fa5639693a	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Gorf (USA).a52
+8e2a264ee07f486de9b40e74d405acc5405d9d1da5e64a24564d4d769366ba54	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Gyruss (USA).a52
+17ba9da3996bbb907dc8bf0abda17c78512507c3de86171db8e9cbc1f4667f07	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Joust (USA).a52
+53795541ce22cacb9397475926e28ac545940054172a7720650918ab8f693a81	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Jungle Hunt (USA).a52
+94b994879aa91434da1e72bff6aa1b9fffb1a50cbe26052ea21eed54c6e16ded	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Kangaroo (USA).a52
+d8b66ea9b9f4f13584ce349ddefea219c31eee99d0a5565627b9322b4b183cbb	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Mario Bros. (USA).a52
+792b23a61fd5af990538bf4d7c81bf773079caed875603efca01ca6d6fa4d00b	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Missile Command (USA).a52
+549394b200ea0d58aa5d166d81e7a7439b11c810cd53eee186839dd5239b1ad5	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Moon Patrol (USA).a52
+6b0832baf6b9d84e79c9ec4fc41fb4b40930855d44d554f0f237619849841548	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Mr. Do!'s Castle (USA).a52
+305181464b8ee3733c0de2c8329ea763143f68cd8413aa02731dec2da21ca1ba	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Ms. Pac-Man (USA).a52
+5097b4763eefd8650781698e36b68bc0c9ae0863916312e6fa4364e4da104080	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Pac-Man (USA).a52
+2897aac47fefadd344b5a39e5aaf8bd5d097821cc6321b2d83fa3a04232a2971	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Pengo (USA).a52
+700bdbb98aef4494e39bce978e788dcf2c28a49e06f111c57ff29004f54d7f22	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Pole Position (USA).a52
+2ac41cd4643a81716597de8c4132f421aa9a7d1bec97c30b7706780f66ff9c5c	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Popeye (USA).a52
+dd71b0c2eb40c27bc2e5bf428743e7086f5e23fd23a1125652a9256bcfb55df4	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Q-bert (USA).a52
+29537d2da46d760cdb98c4c968fe37763e3da32c434b2bf7118e811b7e0d7673	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/QIX (USA).a52
+e70955b742ebba1835ed1f4f95a10e059a1142d0d68a2d81dbeb54a2d7b59016	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Robotron 2084 (USA).a52
+1d688fc6f572e6fb437530e917ff033f6ed037c09a5c95161482a9a1429b3a22	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Space Dungeon (USA).a52
+5ee4d7c4834fb2faee22e326a51d0131faeddc4988d774c81ce84692143a4a84	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Space Invaders (USA).a52
+09b9b5e1c23453d3d60c00ed0b35f742640eaeda3f036d105dca958b72cdbc28	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Star Trek - Strategic Operations Simulator (USA).a52
+919b65f04ef0c64b3cb551d50bfaa3d923eba4bd33ed17d15af1ed7ad5dc599c	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Star Wars - The Arcade Game (USA).a52
+81d99c73080e57e4066138c44ca34ae9cf5f0fef1ca43f6b3136a36c7435e031	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Super Breakout (USA).a52
+2b06045c19600011b8adab0209e097af367aba0e72cb678211e7fe98738d2d6d	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Super Cobra (USA).a52
+871bd42c17733667ddbd3eca844dbf99f330c350c8da3166f004f4a13b018d02	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Vanguard (USA).a52
+8483d4bf3a7ff75112ef3dad3d2bde44e0698c27629499c9cad0cc3b9cdedff8	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Wizard of Wor (USA).a52
+2644685d76ba806f7f078831cd93644d37d9a5ef62561a70ae4345b2021a8f3d	Atari 5200/4 Game Series Collections/Genre/Arcade Ports/Zaxxon (USA).a52
+957aee5457f89ff9a89b87d045f4803c870b54f40045e3c397b47f716fedadff	Atari 5200/4 Game Series Collections/Genre/Platformers/Bounty Bob Strikes Back! (USA).a52
+254662bb792fddbfe9846dbdd68a2b78479b4b1f4c77a7b85eae2dabdc9888a7	Atari 5200/4 Game Series Collections/Genre/Platformers/Congo Bongo (USA).a52
+9095b40ab3b2219a1ce931a99d57de2299a0e641e78005836739323c8a1daca3	Atari 5200/4 Game Series Collections/Genre/Platformers/David Crane's Pitfall II - Lost Caverns (USA).a52
+17ba9da3996bbb907dc8bf0abda17c78512507c3de86171db8e9cbc1f4667f07	Atari 5200/4 Game Series Collections/Genre/Platformers/Joust (USA).a52
+53795541ce22cacb9397475926e28ac545940054172a7720650918ab8f693a81	Atari 5200/4 Game Series Collections/Genre/Platformers/Jungle Hunt (USA).a52
+94b994879aa91434da1e72bff6aa1b9fffb1a50cbe26052ea21eed54c6e16ded	Atari 5200/4 Game Series Collections/Genre/Platformers/Kangaroo (USA).a52
+2269556b53b9c28a1ed75208605f92ae21ccf5e29fc0cd51b160a50bcc1bb5d0	Atari 5200/4 Game Series Collections/Genre/Platformers/Keystone Kapers (USA).a52
+d8b66ea9b9f4f13584ce349ddefea219c31eee99d0a5565627b9322b4b183cbb	Atari 5200/4 Game Series Collections/Genre/Platformers/Mario Bros. (USA).a52
+6207cb90590953dd48db0afeb6b40db6f447a8f0a9d48dc758b0654769a2e871	Atari 5200/4 Game Series Collections/Genre/Platformers/Miner 2049er Starring Bounty Bob (USA).a52
+0dcd83e64083e12a358425f6c256bf2bb384d7f9705784035b183dd1db205e16	Atari 5200/4 Game Series Collections/Genre/Platformers/Montezuma's Revenge featuring Panama Joe (USA).a52
+8d99f09862caf68212d1d22a28e5964c41307ef52d8b8be027feefba675f9e6a	Atari 5200/4 Game Series Collections/Genre/Platformers/Mountain King (USA).a52
+e57563c4f469b58a768c00f3dabcdfa4e52883906ab64263961ed5a033968651	Atari 5200/4 Game Series Collections/Genre/Platformers/Pitfall! (USA).a52
+2ac41cd4643a81716597de8c4132f421aa9a7d1bec97c30b7706780f66ff9c5c	Atari 5200/4 Game Series Collections/Genre/Platformers/Popeye (USA).a52
+29537d2da46d760cdb98c4c968fe37763e3da32c434b2bf7118e811b7e0d7673	Atari 5200/4 Game Series Collections/Genre/Puzzle/QIX (USA).a52
+700bdbb98aef4494e39bce978e788dcf2c28a49e06f111c57ff29004f54d7f22	Atari 5200/4 Game Series Collections/Genre/Racing/Pole Position (USA).a52
+f3c1a48b736a06cf5c181e2d3c6c093512a592c4adf91c3e7e8f3e2bbdc2a126	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Astro Chase (USA).a52
+1ca70eb59bf139b494f8440ad958794db0f2fa18ee96cbec713426987c853226	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Beamrider (USA).a52
+3f3a9aa1ed3768be015ecba399655d7eb30b1ed4bfaecce472fba3c7f959967d	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/BerZerk (USA).a52
+29d66bb75791a7ced485a49cf2116aa667b32713dc1a67d22430035dde1c4c08	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Buck Rogers - Planet of Zoom (USA).a52
+65a649a34ae8e2942eec74e6ca849145ad605e5742602339427887656a9317d9	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Carol Shaw's River Raid (USA).a52
+06312922c2fe951c6980e9fcec041607db6babab7bfd0ca8d0b2c2b0c8964039	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Centipede (USA).a52
+15583375bc28a8d94d8726a9f35ecb095430ccd817e34c169b715d396c3d379a	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Choplifter! (USA).a52
+1a453b467c75c736ba9e96884721286608976ce7f3d8b81fccc619168955f4d1	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Countermeasure (USA).a52
+0bc2f5fee89560f286b9c6444642d92ab12b922d1f3a1246c9511ce24ea73507	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Defender (USA).a52
+5493c7d3145c68392c3f12972be30a2db4c75e14a12740d7b3b0abbfe3f36747	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Dreadnaught Factor, The (USA).a52
+469209803f3c2d9119be2ef4347d25dcb94e6c30930e107cd93a5b94bde16b8c	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Galaxian (USA).a52
+e017a57cd829e6e57f8cc973713178748d5bf25bb9c4fb4e3aa680fa5639693a	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Gorf (USA).a52
+8e2a264ee07f486de9b40e74d405acc5405d9d1da5e64a24564d4d769366ba54	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Gyruss (USA).a52
+5ac85a569f6fe178db4e2111f608949045999d5123b047b20ef03feeccfb1b49	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/James Bond 007 (USA).a52
+2468f75c9ae7a96a2eeb9e9a32b62f56740e6a78687cd90e02d694368577c246	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/K-Razy Shoot-Out (USA).a52
+75b60c591276918fa0e208086900133484d5edd050c931422cbbc19cb9b23997	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/MegaMania (USA).a52
+73e372b99cdf8f2f30c071dcc0a7ac0bc532ce5300595f166eefa23c46915e77	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Meteorites (USA).a52
+792b23a61fd5af990538bf4d7c81bf773079caed875603efca01ca6d6fa4d00b	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Missile Command (USA).a52
+549394b200ea0d58aa5d166d81e7a7439b11c810cd53eee186839dd5239b1ad5	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Moon Patrol (USA).a52
+e70955b742ebba1835ed1f4f95a10e059a1142d0d68a2d81dbeb54a2d7b59016	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Robotron 2084 (USA).a52
+5ee4d7c4834fb2faee22e326a51d0131faeddc4988d774c81ce84692143a4a84	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Space Invaders (USA).a52
+919b65f04ef0c64b3cb551d50bfaa3d923eba4bd33ed17d15af1ed7ad5dc599c	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Star Wars - The Arcade Game (USA).a52
+2b06045c19600011b8adab0209e097af367aba0e72cb678211e7fe98738d2d6d	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Super Cobra (USA).a52
+871bd42c17733667ddbd3eca844dbf99f330c350c8da3166f004f4a13b018d02	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Vanguard (USA).a52
+2644685d76ba806f7f078831cd93644d37d9a5ef62561a70ae4345b2021a8f3d	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Zaxxon (USA).a52
+8edbded59f4fa7182b31dbf0a6ef8da3a3bce1fcca12328aca15446ca1bccd79	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/All Shoot 'em Ups/Zone Ranger (USA).a52
+0bc2f5fee89560f286b9c6444642d92ab12b922d1f3a1246c9511ce24ea73507	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Horizontal View/Defender (USA).a52
+5493c7d3145c68392c3f12972be30a2db4c75e14a12740d7b3b0abbfe3f36747	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Horizontal View/Dreadnaught Factor, The (USA).a52
+5ac85a569f6fe178db4e2111f608949045999d5123b047b20ef03feeccfb1b49	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Horizontal View/James Bond 007 (USA).a52
+2b06045c19600011b8adab0209e097af367aba0e72cb678211e7fe98738d2d6d	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Horizontal View/Super Cobra (USA).a52
+871bd42c17733667ddbd3eca844dbf99f330c350c8da3166f004f4a13b018d02	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Horizontal View/Vanguard (USA).a52
+29d66bb75791a7ced485a49cf2116aa667b32713dc1a67d22430035dde1c4c08	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Rail Shooters/Buck Rogers - Planet of Zoom (USA).a52
+919b65f04ef0c64b3cb551d50bfaa3d923eba4bd33ed17d15af1ed7ad5dc599c	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Rail Shooters/Star Wars - The Arcade Game (USA).a52
+3f3a9aa1ed3768be015ecba399655d7eb30b1ed4bfaecce472fba3c7f959967d	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Top Down View/BerZerk (USA).a52
+1a453b467c75c736ba9e96884721286608976ce7f3d8b81fccc619168955f4d1	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Top Down View/Countermeasure (USA).a52
+8e2a264ee07f486de9b40e74d405acc5405d9d1da5e64a24564d4d769366ba54	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Top Down View/Gyruss (USA).a52
+2468f75c9ae7a96a2eeb9e9a32b62f56740e6a78687cd90e02d694368577c246	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Top Down View/K-Razy Shoot-Out (USA).a52
+73e372b99cdf8f2f30c071dcc0a7ac0bc532ce5300595f166eefa23c46915e77	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Top Down View/Meteorites (USA).a52
+792b23a61fd5af990538bf4d7c81bf773079caed875603efca01ca6d6fa4d00b	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Top Down View/Missile Command (USA).a52
+e70955b742ebba1835ed1f4f95a10e059a1142d0d68a2d81dbeb54a2d7b59016	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Top Down View/Robotron 2084 (USA).a52
+f3c1a48b736a06cf5c181e2d3c6c093512a592c4adf91c3e7e8f3e2bbdc2a126	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Vertical View/Astro Chase (USA).a52
+1ca70eb59bf139b494f8440ad958794db0f2fa18ee96cbec713426987c853226	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Vertical View/Beamrider (USA).a52
+65a649a34ae8e2942eec74e6ca849145ad605e5742602339427887656a9317d9	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Vertical View/Carol Shaw's River Raid (USA).a52
+06312922c2fe951c6980e9fcec041607db6babab7bfd0ca8d0b2c2b0c8964039	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Vertical View/Centipede (USA).a52
+15583375bc28a8d94d8726a9f35ecb095430ccd817e34c169b715d396c3d379a	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Vertical View/Choplifter! (USA).a52
+469209803f3c2d9119be2ef4347d25dcb94e6c30930e107cd93a5b94bde16b8c	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Vertical View/Galaxian (USA).a52
+e017a57cd829e6e57f8cc973713178748d5bf25bb9c4fb4e3aa680fa5639693a	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Vertical View/Gorf (USA).a52
+75b60c591276918fa0e208086900133484d5edd050c931422cbbc19cb9b23997	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Vertical View/MegaMania (USA).a52
+549394b200ea0d58aa5d166d81e7a7439b11c810cd53eee186839dd5239b1ad5	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Vertical View/Moon Patrol (USA).a52
+5ee4d7c4834fb2faee22e326a51d0131faeddc4988d774c81ce84692143a4a84	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Vertical View/Space Invaders (USA).a52
+2644685d76ba806f7f078831cd93644d37d9a5ef62561a70ae4345b2021a8f3d	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Vertical View/Zaxxon (USA).a52
+8edbded59f4fa7182b31dbf0a6ef8da3a3bce1fcca12328aca15446ca1bccd79	Atari 5200/4 Game Series Collections/Genre/Shoot 'em Up/Sort By - Vertical View/Zone Ranger (USA).a52
+a7b30ffe1e43e481920e72a5bad30fe81d81d32245c8f0893c42b134eac4eff6	Atari 5200/4 Game Series Collections/Genre/Simulation/Space Shuttle - A Journey Into Space (USA).a52
+cffaf52ae0e7755ad908652964598489b66ea3513677114b5d457313260f2c5e	Atari 5200/4 Game Series Collections/Genre/Simulation/Star Raiders (USA).a52
+09b9b5e1c23453d3d60c00ed0b35f742640eaeda3f036d105dca958b72cdbc28	Atari 5200/4 Game Series Collections/Genre/Simulation/Star Trek - Strategic Operations Simulator (USA).a52
+9ffda583a583582991ac504d92741a4fe41da094ab63373425937be94eef086d	Atari 5200/4 Game Series Collections/Genre/Sports/Activision Decathlon, The (USA).a52
+0eaf2b96806f2b6f4f6e0a7dc8887472597b3ad4c48e4a82c49b236637f968ea	Atari 5200/4 Game Series Collections/Genre/Sports/Ballblazer (USA).a52
+698e156b564645913aef5a9a874bf21b2f0a4e9dde2005a6bb5f4446c4e4edc0	Atari 5200/4 Game Series Collections/Genre/Sports/RealSports Baseball (USA).a52
+4cf2f205a30c7e26653f68733d5c0f07c351c9fa383bb2b7b54caec416ef0868	Atari 5200/4 Game Series Collections/Genre/Sports/RealSports Basketball (USA).a52
+cc8a5829a923361cd1a6898053f199f7b46a00cb3b3c8ab979c52fd4c95089db	Atari 5200/4 Game Series Collections/Genre/Sports/RealSports Football (USA).a52
+b13bbb9e3dc3d47812b7626dcd3483002ca7698c1b2aceb7aa54e09f5dd6de5a	Atari 5200/4 Game Series Collections/Genre/Sports/RealSports Soccer (USA).a52
+5cb84867d6d781e3688c1d346a1947340f6aaefef0c118179b5c89e92e0843b5	Atari 5200/4 Game Series Collections/Genre/Sports/RealSports Tennis (USA).a52
+58f7e1ab67a664865199c5b0528d1c084f218e32199abd431b9724afdc6d6662	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Asteroids (USA) (Proto).a52
+0eaf2b96806f2b6f4f6e0a7dc8887472597b3ad4c48e4a82c49b236637f968ea	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Ballblazer (USA).a52
+3f3a9aa1ed3768be015ecba399655d7eb30b1ed4bfaecce472fba3c7f959967d	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/BerZerk (USA).a52
+a4bfac6b2b477ac111f3668ed162736e6a134ec59c349b9e4407f52e523043fa	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Blue Print (USA).a52
+957aee5457f89ff9a89b87d045f4803c870b54f40045e3c397b47f716fedadff	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Bounty Bob Strikes Back! (USA).a52
+65a649a34ae8e2942eec74e6ca849145ad605e5742602339427887656a9317d9	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Carol Shaw's River Raid (USA).a52
+06312922c2fe951c6980e9fcec041607db6babab7bfd0ca8d0b2c2b0c8964039	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Centipede (USA).a52
+254662bb792fddbfe9846dbdd68a2b78479b4b1f4c77a7b85eae2dabdc9888a7	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Congo Bongo (USA).a52
+1a453b467c75c736ba9e96884721286608976ce7f3d8b81fccc619168955f4d1	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Countermeasure (USA).a52
+0bc2f5fee89560f286b9c6444642d92ab12b922d1f3a1246c9511ce24ea73507	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Defender (USA).a52
+e68dfe857ae9f602403fa990d97e0e9989768e5f110984babaf9960adb199ac1	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Dig Dug (USA).a52
+16e4a304548e60b98cf3db125115d8ca11232d4ef8dc7d0ebeb1f06ed764bdd6	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Frogger (USA).a52
+469209803f3c2d9119be2ef4347d25dcb94e6c30930e107cd93a5b94bde16b8c	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Galaxian (USA).a52
+e017a57cd829e6e57f8cc973713178748d5bf25bb9c4fb4e3aa680fa5639693a	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Gorf (USA).a52
+2940b26dc24edc33a9fb840a9f3ef77be73ab0e223525d4bca7d0e0cf14d4a3e	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Gremlins (USA).a52
+8e2a264ee07f486de9b40e74d405acc5405d9d1da5e64a24564d4d769366ba54	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Gyruss (USA).a52
+5ac85a569f6fe178db4e2111f608949045999d5123b047b20ef03feeccfb1b49	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/James Bond 007 (USA).a52
+17ba9da3996bbb907dc8bf0abda17c78512507c3de86171db8e9cbc1f4667f07	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Joust (USA).a52
+53795541ce22cacb9397475926e28ac545940054172a7720650918ab8f693a81	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Jungle Hunt (USA).a52
+2382504eba619372d7f5fb780a7489163bce198376900405f28f6e8fa452030e	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Kaboom! (USA).a52
+94b994879aa91434da1e72bff6aa1b9fffb1a50cbe26052ea21eed54c6e16ded	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Kangaroo (USA).a52
+d8b66ea9b9f4f13584ce349ddefea219c31eee99d0a5565627b9322b4b183cbb	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Mario Bros. (USA).a52
+75b60c591276918fa0e208086900133484d5edd050c931422cbbc19cb9b23997	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/MegaMania (USA).a52
+73e372b99cdf8f2f30c071dcc0a7ac0bc532ce5300595f166eefa23c46915e77	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Meteorites (USA).a52
+6207cb90590953dd48db0afeb6b40db6f447a8f0a9d48dc758b0654769a2e871	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Miner 2049er Starring Bounty Bob (USA).a52
+792b23a61fd5af990538bf4d7c81bf773079caed875603efca01ca6d6fa4d00b	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Missile Command (USA).a52
+549394b200ea0d58aa5d166d81e7a7439b11c810cd53eee186839dd5239b1ad5	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Moon Patrol (USA).a52
+305181464b8ee3733c0de2c8329ea763143f68cd8413aa02731dec2da21ca1ba	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Ms. Pac-Man (USA).a52
+5097b4763eefd8650781698e36b68bc0c9ae0863916312e6fa4364e4da104080	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Pac-Man (USA).a52
+2897aac47fefadd344b5a39e5aaf8bd5d097821cc6321b2d83fa3a04232a2971	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Pengo (USA).a52
+2ac41cd4643a81716597de8c4132f421aa9a7d1bec97c30b7706780f66ff9c5c	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Popeye (USA).a52
+dd71b0c2eb40c27bc2e5bf428743e7086f5e23fd23a1125652a9256bcfb55df4	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Q-bert (USA).a52
+29537d2da46d760cdb98c4c968fe37763e3da32c434b2bf7118e811b7e0d7673	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/QIX (USA).a52
+698e156b564645913aef5a9a874bf21b2f0a4e9dde2005a6bb5f4446c4e4edc0	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/RealSports Baseball (USA).a52
+6d2c4642e18dadeb6bd9d1a1f2132132241f7e088d37cf480d0f01a8bc9e8ff7	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/RealSports Basketball (USA) (82-11-05) (Proto).a52
+4cf2f205a30c7e26653f68733d5c0f07c351c9fa383bb2b7b54caec416ef0868	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/RealSports Basketball (USA).a52
+cc8a5829a923361cd1a6898053f199f7b46a00cb3b3c8ab979c52fd4c95089db	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/RealSports Football (USA).a52
+b13bbb9e3dc3d47812b7626dcd3483002ca7698c1b2aceb7aa54e09f5dd6de5a	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/RealSports Soccer (USA).a52
+5cb84867d6d781e3688c1d346a1947340f6aaefef0c118179b5c89e92e0843b5	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/RealSports Tennis (USA).a52
+e70955b742ebba1835ed1f4f95a10e059a1142d0d68a2d81dbeb54a2d7b59016	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Robotron 2084 (USA).a52
+1d688fc6f572e6fb437530e917ff033f6ed037c09a5c95161482a9a1429b3a22	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Space Dungeon (USA).a52
+5ee4d7c4834fb2faee22e326a51d0131faeddc4988d774c81ce84692143a4a84	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Space Invaders (USA).a52
+970d7cdf11f06373828c27ba9cc0a2e01e616b40c59352838fa0ee32d2fae222	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Star Wars - Return of the Jedi - Death Star Battle (USA).a52
+81d99c73080e57e4066138c44ca34ae9cf5f0fef1ca43f6b3136a36c7435e031	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Super Breakout (USA).a52
+2b06045c19600011b8adab0209e097af367aba0e72cb678211e7fe98738d2d6d	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Super Cobra (USA).a52
+871bd42c17733667ddbd3eca844dbf99f330c350c8da3166f004f4a13b018d02	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Vanguard (USA).a52
+2644685d76ba806f7f078831cd93644d37d9a5ef62561a70ae4345b2021a8f3d	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Zaxxon (USA).a52
+981df40e898891e098493ae4c5c0c6062c8acbb2cad74510b9fdba3b3e57a0c4	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Zenji (USA).a52
+8edbded59f4fa7182b31dbf0a6ef8da3a3bce1fcca12328aca15446ca1bccd79	Atari 5200/4 Game Series Collections/Multiplayer/1-2 Players/Zone Ranger (USA).a52
+58f7e1ab67a664865199c5b0528d1c084f218e32199abd431b9724afdc6d6662	Atari 5200/4 Game Series Collections/Multiplayer/1-4 Players/Asteroids (USA) (Proto).a52
+6d2c4642e18dadeb6bd9d1a1f2132132241f7e088d37cf480d0f01a8bc9e8ff7	Atari 5200/4 Game Series Collections/Multiplayer/1-4 Players/RealSports Basketball (USA) (82-11-05) (Proto).a52
+5cb84867d6d781e3688c1d346a1947340f6aaefef0c118179b5c89e92e0843b5	Atari 5200/4 Game Series Collections/Multiplayer/1-4 Players/RealSports Tennis (USA).a52
+81d99c73080e57e4066138c44ca34ae9cf5f0fef1ca43f6b3136a36c7435e031	Atari 5200/4 Game Series Collections/Multiplayer/1-4 Players/Super Breakout (USA).a52
 c1078744099684130662ccede63834e5d57a221ad76224bf8e7d49aec76c2f62	Atari 5200/4 Hacks & Homebrew/5200 Hangly Man (Sort Of) Hi Nukey! (Hang 5200) (2004.07.04 10.46).bin
 c312cf730b5b8ea89f6292908ce66dfef5f41d95f1adf2be20edfce30e0ddb73	Atari 5200/4 Hacks & Homebrew/5200 Mystery Game #4 (Game4b) (2003.11.26 21.49) (Game4).bin
 da1638321a47baba500accc711d83863bd22fbf5a99d040be1ef7369497f5a6a	Atari 5200/4 Hacks & Homebrew/Analog Classics #1.bin
@@ -187,6 +390,7 @@ ac9c81cde3f5f702dc0b9efae47c2c4aba54dbd887a8218406cf498e12cb0d80	Atari 5200/4 Ha
 a9e44669c27be42a2219df12d18d6b672f249e20efb6b398513bb7b448313b37	Atari 5200/4 Hacks & Homebrew/Blaster.bin
 d886f7e96b0128e575d596f4792e0106ae07dc911b326793c3639520494a61a2	Atari 5200/4 Hacks & Homebrew/Burger Time For The 5200 (Bd5200) (2006.08.21 11.57).bin
 df7429d8d73c4292e1efe9a8f44b9f6d0804701a6facfc2f59956fc1991d5d0e	Atari 5200/4 Hacks & Homebrew/Burger Time For The 5200 (Beef Drop Fixed Level3) (2006.08.21 11.57).bin
+610082728fde1d8848fb89e67484fb06954d84fb52abd7a5b8e75d47224f5466	Atari 5200/4 Hacks & Homebrew/COSMI.BIN
 289186ff1c799cac98a52583004cd8936077a4f634677155f2beb786faed200e	Atari 5200/4 Hacks & Homebrew/Captain Beeble (Conv).bin
 7787122c5aef19b4a1d8c717c115a41642f8fa610dd0ac4ffc2a5a6f669a6f16	Atari 5200/4 Hacks & Homebrew/Capture the Flag.bin
 f9a99054aa9bd6bafb81835f66daa96db79ac9fd8d7f200ea4995749f4f5a298	Atari 5200/4 Hacks & Homebrew/Castle Blast (USA) (Unl).a52
@@ -196,7 +400,6 @@ f9a99054aa9bd6bafb81835f66daa96db79ac9fd8d7f200ea4995749f4f5a298	Atari 5200/4 Ha
 f962915db7091916bd5bf3fdceaf36278d3cf214f0dac262274de84a8e080ad9	Atari 5200/4 Hacks & Homebrew/Chess (Conv).bin
 a98205e52025ba1b3d31153e37a06fa6ea40f1d4e43644f125c5b6ca387d9ed4	Atari 5200/4 Hacks & Homebrew/Chop Suey.bin
 54324b6f99c98613b9caaee9ac3e5e9e6c59896a17eb17a96655d3a84061bfa6	Atari 5200/4 Hacks & Homebrew/Claim Jumper.bin
-610082728fde1d8848fb89e67484fb06954d84fb52abd7a5b8e75d47224f5466	Atari 5200/4 Hacks & Homebrew/COSMI.BIN
 bbcb75a6df4d164ac5bc4c4ecf355362621c078eef62de36bdf0a8324727fc42	Atari 5200/4 Hacks & Homebrew/Crystal Castles (Clay Conv).bin
 bbcb75a6df4d164ac5bc4c4ecf355362621c078eef62de36bdf0a8324727fc42	Atari 5200/4 Hacks & Homebrew/Crystal Castles V0.6 by Clay Cowgill (2002) (PD).bin
 bca35870d02edaaf41f530433f576601a218c33f215adb825476a8b1baa7952a	Atari 5200/4 Hacks & Homebrew/Donkey Kong (Conv).bin
@@ -244,9 +447,9 @@ a5af78c5f6892135048d0f36232df343068b97eb7acb58580e1edd8dfa678afc	Atari 5200/4 Ha
 fa4a5736c6e35cecc5b3ff18da1d24ad5d2f13e641dcfcf648fa9546049b0682	Atari 5200/4 Hacks & Homebrew/Satans Hollow (Conv).bin
 77a9d77e65aa2075a7fac86122fada6860cb7ca7d5d1086bc00b31fed16de755	Atari 5200/4 Hacks & Homebrew/Shamus Case II.bin
 29af287d437a500ca79086e35d93d327cee0136b0655a82204a28d59ae869847	Atari 5200/4 Hacks & Homebrew/Super Pac Man Final (5200).bin
-755fa1f70e0ca11261b51a05dcaf3a1950aa7dc66aa09a6b41a29014c1a6c648	Atari 5200/4 Hacks & Homebrew/Superfly.bin
 619aa4d1c97aee9dad83a486677e23f18e331a6bab634d1a2f119bc9e13afcac	Atari 5200/4 Hacks & Homebrew/SuperPacMan(Adj.Bluetime2chiphack)(32k).bin
 917d771b13a2294ab8b558c72e8cb6d91482570b10d712f612433058037f616b	Atari 5200/4 Hacks & Homebrew/SuperPacMan(Adj.Bluetime2chiphack).bin
+755fa1f70e0ca11261b51a05dcaf3a1950aa7dc66aa09a6b41a29014c1a6c648	Atari 5200/4 Hacks & Homebrew/Superfly.bin
 21983042c4ba921b4f48e767065e7bb3e920e7d63cfac2d6292cb12ef81f0e8d	Atari 5200/4 Hacks & Homebrew/Tapper (Conv).bin
 bd81474faea8cafd67a39775bcb17ec14ff29d3d1cb07f31df17c4a3ccd649ec	Atari 5200/4 Hacks & Homebrew/Time Runner.bin
 ee947e4906e32cb2709f363f3e7126dffab1d866d54b59e53e54cc59a4d3002e	Atari 5200/4 Hacks & Homebrew/Up and Down (Conv).bin

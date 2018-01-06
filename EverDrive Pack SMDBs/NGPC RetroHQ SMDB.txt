@@ -23,12 +23,12 @@ ab897e8bfa112a0056b75926ce771009cbcb2b05b4b256c2f1fc8f98350c1cb4	NGPC RetroHQ/1 
 1f8f4c92983985450d4aad92e3f6d0199751f451593bb26d55a04eb0fba8be1d	NGPC RetroHQ/1 NGPC US - A-Z/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).ngc
 7be64b6d129454df8f6f434b4173065222079a10c6ecf80a3df472af7570586f	NGPC RetroHQ/1 NGPC US - A-Z/Puyo Pop (World) (En,Ja) (v1.06).ngc
 7fb201f71eb4dac08fb351ab6c6bdc1dd3fde5681f0cc460a800696953a70d6e	NGPC RetroHQ/1 NGPC US - A-Z/Puzzle Link 2 (USA, Europe).ngc
-f0d89fcef129450105e1e45bb29693f30d30a00dd2e92168e7253438dca38a63	NGPC RetroHQ/1 NGPC US - A-Z/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).ngc
-df62c25ab53620263cc7478708e982bf81e3a3fcdd1ef6c8b36a82f9226312a5	NGPC RetroHQ/1 NGPC US - A-Z/Shanghai Mini (World) (En,Ja).ngc
 b002ff9568107834c170a4da03912e3a4b54d6cb767967fc6dae7fcaaa89c782	NGPC RetroHQ/1 NGPC US - A-Z/SNK Gals' Fighters (USA, Europe).ngc
 e59e0ebf810200a634c6063fcbdf3489635d7d3521b43e569f7251236a4548f6	NGPC RetroHQ/1 NGPC US - A-Z/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).ngc
 3c0e17694c9476fa8995b56b74a9f92966451025a5712ab8f9a7e08cffd86baf	NGPC RetroHQ/1 NGPC US - A-Z/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).ngc
 70d77cefb8a99350a53790d04c23ad874e2ef2bc92d2bd4211ea4407c08c0bdc	NGPC RetroHQ/1 NGPC US - A-Z/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).ngc
+f0d89fcef129450105e1e45bb29693f30d30a00dd2e92168e7253438dca38a63	NGPC RetroHQ/1 NGPC US - A-Z/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).ngc
+df62c25ab53620263cc7478708e982bf81e3a3fcdd1ef6c8b36a82f9226312a5	NGPC RetroHQ/1 NGPC US - A-Z/Shanghai Mini (World) (En,Ja).ngc
 86d592daafd3392b26246212da7e50fca400e9fb0c511eced30242881b9e781a	NGPC RetroHQ/1 NGPC US - A-Z/Sonic The Hedgehog - Pocket Adventure (World).ngc
 1bd7ebf4f61660df0cf76184fe3107f33f5576ab78e68136a7b80f6f39b435ea	NGPC RetroHQ/2 NGPC Europe - A-Z/Cool Boarders Pocket (Japan, Europe) (En,Ja).ngc
 c8a31bb171d8991fd8b78b6b4a229b4c7f5d97a33353e85358062a35440a74f3	NGPC RetroHQ/2 NGPC Europe - A-Z/Dynamite Slugger (Japan, Europe) (En,Ja).ngc
@@ -67,11 +67,11 @@ cc40dbbaa505e5b76e4156c248b59cad80fedd1782fbc07e73007ed5def1057c	NGPC RetroHQ/2 
 875a55f96a43886b1682e95094090306360c8db96bfae3320309ffb12e3c994a	NGPC RetroHQ/2 NGPC Japan - A-Z/Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan).ngc
 2d3f48467c624ead27fdce93e1cfb0168fc5d7787210ef61098cdf10c3656fa9	NGPC RetroHQ/2 NGPC Japan - A-Z/Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan).ngc
 3835c6e7be0cbc03df6f4c55675392393b069e0907b032a26005654c690b4e5c	NGPC RetroHQ/2 NGPC Japan - A-Z/Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan).ngc
-97275fb5ffb3e38b25059af693f6d0c74c3b90eebec27202b7801a8b64079c54	NGPC RetroHQ/2 NGPC Japan - A-Z/Pachi-Slot Aruze Oukoku Pocket - e-Cup (Japan).ngc
 0a07e5647b60dd4f2c8433440a313512e6a791d1c34dc5f73f18a4e4d8e5752b	NGPC RetroHQ/2 NGPC Japan - A-Z/Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v1.04).ngc
 f61106d10d8654afc5206ddf46e7d66d228d9c2bd4c0a6ada154d3cf8d09d528	NGPC RetroHQ/2 NGPC Japan - A-Z/Pachi-Slot Aruze Oukoku Pocket - Oohanabi (Japan).ngc
 ee5e4df0f4f84b065b96c37cd5f7ecbe6c6ccda35c744d7869c07e4bd9eef268	NGPC RetroHQ/2 NGPC Japan - A-Z/Pachi-Slot Aruze Oukoku Pocket - Porcano 2 (Japan).ngc
 891b59d744a15b8e481c039d6e87519ea7ddb47d17697297809d412d46708932	NGPC RetroHQ/2 NGPC Japan - A-Z/Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan).ngc
+97275fb5ffb3e38b25059af693f6d0c74c3b90eebec27202b7801a8b64079c54	NGPC RetroHQ/2 NGPC Japan - A-Z/Pachi-Slot Aruze Oukoku Pocket - e-Cup (Japan).ngc
 e3ef18b432201ad9f41847ef7d9c3975015181d2ff3ca1f8d8a990d10ec41d3d	NGPC RetroHQ/2 NGPC Japan - A-Z/Pachinko Hisshou Guide - Pocket Parlor (Japan).ngc
 83c7665f72ec910acd6536191d2d7aadb0e09f7e73055e217164b155490b3e50	NGPC RetroHQ/2 NGPC Japan - A-Z/Party Mail (Japan).ngc
 9aa72a5bd6b224ef182c3d05ae3346fc53ad513198da4917767c5960aec62f30	NGPC RetroHQ/2 NGPC Japan - A-Z/Pocket Love if (Japan).ngc
@@ -80,12 +80,12 @@ c5faa5cd1d00566493dd098067aaf7cadf6a506e6d4e8f277bd06b205f82ff4a	NGPC RetroHQ/2 
 2721b10ef9b1e488354f2f79037a3f55d799b354fa58ed1e110c1da8301fd200	NGPC RetroHQ/2 NGPC Japan - A-Z/Puzzle Bobble Mini (Japan, Europe) (v1.10).ngc
 b28b9276eb2ededeadcc4a0255bf11cc68fe998659aeef1020acae17872711c3	NGPC RetroHQ/2 NGPC Japan - A-Z/Renketsu Puzzle Tsunagete Pon! Color (Japan).ngc
 be5c8a2d54426cdc46c033c2bb1e6904e240354fe3ca3d1c65ac32c329c3b63f	NGPC RetroHQ/2 NGPC Japan - A-Z/Rockman - Battle & Fighters (Japan).ngc
-bb2abad4bf803a916ff3c730e938742e1c4cc1a716d4300088c52d8253db8eba	NGPC RetroHQ/2 NGPC Japan - A-Z/Shinki Sekai Evolution - Hateshinai Dungeon (Japan).ngc
-c87a5fa1a5698b4cd0e25aae54dad52ef996a61068183eb0c2ad9c1d21753586	NGPC RetroHQ/2 NGPC Japan - A-Z/Shougi no Tatsujin Color (Japan).ngc
 6e3afc011afcd384c3bb5c47ad77fda08ae95fd42b70c5ce43dfc0e0ba622552	NGPC RetroHQ/2 NGPC Japan - A-Z/SNK Gals' Fighters (Japan).ngc
 aa09950fd6e6b79e372f937262ba53eaf81fe940556126c0f05f13eca47ffad5	NGPC RetroHQ/2 NGPC Japan - A-Z/SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan).ngc
 e231a728bb54d919635ce3bc4be5f2ad77195c1cd87efe3d17960e8ffbd1c392	NGPC RetroHQ/2 NGPC Japan - A-Z/SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan).ngc
 5405869c77fa0f5c6b978f92cd9557bd7740d42d22169d9830a4cf3706cc5787	NGPC RetroHQ/2 NGPC Japan - A-Z/SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan).ngc
+bb2abad4bf803a916ff3c730e938742e1c4cc1a716d4300088c52d8253db8eba	NGPC RetroHQ/2 NGPC Japan - A-Z/Shinki Sekai Evolution - Hateshinai Dungeon (Japan).ngc
+c87a5fa1a5698b4cd0e25aae54dad52ef996a61068183eb0c2ad9c1d21753586	NGPC RetroHQ/2 NGPC Japan - A-Z/Shougi no Tatsujin Color (Japan).ngc
 bb8041999e622996221cd6ebc8bcfff2e1ae4b36cc8af2f5c12359b596fa578e	NGPC RetroHQ/2 NGPC Japan - A-Z/Soreike!! Hanafuda Doujou (Japan).ngc
 154dece5fdce8dde43eb63b9bb3ad05539eb538b73e3bc9cbc0d2ff855df2885	NGPC RetroHQ/2 NGPC Japan - A-Z/Super Real Mahjong - Premium Collection (Japan).ngc
 966d5330646bf87b54cc304f71d8874d951cd17fda010a4ad8f385d2980cae33	NGPC RetroHQ/2 NGPC Japan - A-Z/Tsunagete Pon! 2 (Japan).ngc
@@ -168,9 +168,9 @@ e59e0ebf810200a634c6063fcbdf3489635d7d3521b43e569f7251236a4548f6	NGPC RetroHQ/4 
 3c0e17694c9476fa8995b56b74a9f92966451025a5712ab8f9a7e08cffd86baf	NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Top 10 Games - retrogamer.net/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).ngc
 70d77cefb8a99350a53790d04c23ad874e2ef2bc92d2bd4211ea4407c08c0bdc	NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Top 10 Games - retrogamer.net/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).ngc
 86d592daafd3392b26246212da7e50fca400e9fb0c511eced30242881b9e781a	NGPC RetroHQ/4 Game Series Collections/Best-Of Lists/Top 10 Games - retrogamer.net/Sonic The Hedgehog - Pocket Adventure (World).ngc
-df62c25ab53620263cc7478708e982bf81e3a3fcdd1ef6c8b36a82f9226312a5	NGPC RetroHQ/4 Game Series Collections/Developers/Activision/Shanghai Mini (World) (En,Ja).ngc
 d4c70b24a51923a60a715b77bbc205f6c06146bedb11d066e629f498af3392bd	NGPC RetroHQ/4 Game Series Collections/Developers/ADK/Crush Roller (World) (En,Ja).ngc
 c8a31bb171d8991fd8b78b6b4a229b4c7f5d97a33353e85358062a35440a74f3	NGPC RetroHQ/4 Game Series Collections/Developers/ADK/Dynamite Slugger (Japan, Europe) (En,Ja).ngc
+df62c25ab53620263cc7478708e982bf81e3a3fcdd1ef6c8b36a82f9226312a5	NGPC RetroHQ/4 Game Series Collections/Developers/Activision/Shanghai Mini (World) (En,Ja).ngc
 374979c70bf702dbbaf5dac7c90f10cfd2d503f3ae10a0f5eac4976de39765d7	NGPC RetroHQ/4 Game Series Collections/Developers/Capcom/Rockman - Battle & Fighters (J) T+Eng v0.10 Rockx2.ngc
 fb3fc89575af69b2b14de942d5e54adb94584fcd5b8bc9c342fd275c4b0b7646	NGPC RetroHQ/4 Game Series Collections/Developers/Data East/Magical Drop Pocket (USA, Europe).ngc
 a3f8dda1b138384e41b410e6a0455f53ab773a6431873b23b55e5c6bd71b56ed	NGPC RetroHQ/4 Game Series Collections/Developers/Dyna/Neo 21 - Real Casino Series (World).ngc
@@ -180,11 +180,6 @@ a3f8dda1b138384e41b410e6a0455f53ab773a6431873b23b55e5c6bd71b56ed	NGPC RetroHQ/4 
 421914d275e780ef6dd2d23a47a92156df9130dcb1928f2c771249336bdc9631	NGPC RetroHQ/4 Game Series Collections/Developers/Dyna/Neo Mystery Bonus - Real Casino Series (World) (En,Ja).ngc
 8c5485e736b6061729e5028f97d03e46c7db911059cd01df8490d6860e46f843	NGPC RetroHQ/4 Game Series Collections/Developers/Namco/Pac-Man (World) (En,Ja).ngc
 37492908054a7b3d7927f2f3bed9d5439d43e9573ab6b8956514e83948181792	NGPC RetroHQ/4 Game Series Collections/Developers/Quest/Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (J) T+Eng v0.05 WyndCrosser.ngc
-977e4d520f4c885acc8b6ba815623d9b1ff8f3924ccab4db02a24b7bff0f80c7	NGPC RetroHQ/4 Game Series Collections/Developers/Sacnoth/Dive Alert - Becky's Version (USA, Europe).ngc
-7a16dda1c503e272544e25b336cd0e67c5c8e36ef57c4dedf72d590604893704	NGPC RetroHQ/4 Game Series Collections/Developers/Sacnoth/Dive Alert - Matt's Version (USA, Europe).ngc
-80bc61b6e63f53292a20f88277f2b3b706982779f79d4c383ee2b82ee035d279	NGPC RetroHQ/4 Game Series Collections/Developers/Sacnoth/Faselei! (Europe).ngc
-7be64b6d129454df8f6f434b4173065222079a10c6ecf80a3df472af7570586f	NGPC RetroHQ/4 Game Series Collections/Developers/Sega/Puyo Pop (World) (En,Ja) (v1.06).ngc
-86d592daafd3392b26246212da7e50fca400e9fb0c511eced30242881b9e781a	NGPC RetroHQ/4 Game Series Collections/Developers/Sega/Sonic The Hedgehog - Pocket Adventure (World).ngc
 3b52342fe0d117e31cc4f1e18642a7c098aaef4736cf22d04cd74f01edd43474	NGPC RetroHQ/4 Game Series Collections/Developers/SNK/Big Bang Pro Wrestling (Japan) (En,Ja).ngc
 04dda94a8543d6c9681124bcbc354b9a58b180676652465fe07193f6d1153fff	NGPC RetroHQ/4 Game Series Collections/Developers/SNK/Cool Cool Jam (J) T+Eng v0.01 WyndCrosser.ngc
 71dd3240489eb0cbb843a135bcbe71e47f42f53e83deab7fb49ca76f08206fc4	NGPC RetroHQ/4 Game Series Collections/Developers/SNK/Dark Arms - Beast Buster 1999 (World) (En,Ja).ngc
@@ -197,12 +192,17 @@ b8405e71817b7f73b148f46599f950fee3edba32dd66e996112cddb9cc416d70	NGPC RetroHQ/4 
 b9394e92dc0215cafcc0087c0e26d0efafb49b5f5f899ede6ac4410072276ded	NGPC RetroHQ/4 Game Series Collections/Developers/SNK/Neo Geo Cup '98 (Japan, Europe) (En,Ja).ngp
 ab897e8bfa112a0056b75926ce771009cbcb2b05b4b256c2f1fc8f98350c1cb4	NGPC RetroHQ/4 Game Series Collections/Developers/SNK/Neo Geo Cup '98 Plus (World) (En,Ja).ngc
 6d0a19f5b976ce2a61140d956842366f87660ae7edd793d6508ee28baa1f2257	NGPC RetroHQ/4 Game Series Collections/Developers/SNK/Neo Turf Masters (World) (En,Ja).ngc
-7ff8599e6cd07e613fb46876d864653d6835a6ff60d851ebd131f508f94e11da	NGPC RetroHQ/4 Game Series Collections/Developers/SNK/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp
-f0d89fcef129450105e1e45bb29693f30d30a00dd2e92168e7253438dca38a63	NGPC RetroHQ/4 Game Series Collections/Developers/SNK/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).ngc
 b9c249cc03c6c115c7e887035de0386dc9ec6308d3bd8dba16c5e8bbf03fdb93	NGPC RetroHQ/4 Game Series Collections/Developers/SNK/SNK vs. Capcom - Card Fighters 2 - Expand Edition (J) T+Eng 5-03-08 CFC2 Translation Team.ngc
 b9c249cc03c6c115c7e887035de0386dc9ec6308d3bd8dba16c5e8bbf03fdb93	NGPC RetroHQ/4 Game Series Collections/Developers/SNK/SNK vs. Capcom - Card Fighters 2 - Expand Edition (J) T+Eng v1 Raohmaru.ngc
 e59e0ebf810200a634c6063fcbdf3489635d7d3521b43e569f7251236a4548f6	NGPC RetroHQ/4 Game Series Collections/Developers/SNK/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).ngc
 3c0e17694c9476fa8995b56b74a9f92966451025a5712ab8f9a7e08cffd86baf	NGPC RetroHQ/4 Game Series Collections/Developers/SNK/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).ngc
+7ff8599e6cd07e613fb46876d864653d6835a6ff60d851ebd131f508f94e11da	NGPC RetroHQ/4 Game Series Collections/Developers/SNK/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp
+f0d89fcef129450105e1e45bb29693f30d30a00dd2e92168e7253438dca38a63	NGPC RetroHQ/4 Game Series Collections/Developers/SNK/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).ngc
+977e4d520f4c885acc8b6ba815623d9b1ff8f3924ccab4db02a24b7bff0f80c7	NGPC RetroHQ/4 Game Series Collections/Developers/Sacnoth/Dive Alert - Becky's Version (USA, Europe).ngc
+7a16dda1c503e272544e25b336cd0e67c5c8e36ef57c4dedf72d590604893704	NGPC RetroHQ/4 Game Series Collections/Developers/Sacnoth/Dive Alert - Matt's Version (USA, Europe).ngc
+80bc61b6e63f53292a20f88277f2b3b706982779f79d4c383ee2b82ee035d279	NGPC RetroHQ/4 Game Series Collections/Developers/Sacnoth/Faselei! (Europe).ngc
+7be64b6d129454df8f6f434b4173065222079a10c6ecf80a3df472af7570586f	NGPC RetroHQ/4 Game Series Collections/Developers/Sega/Puyo Pop (World) (En,Ja) (v1.06).ngc
+86d592daafd3392b26246212da7e50fca400e9fb0c511eced30242881b9e781a	NGPC RetroHQ/4 Game Series Collections/Developers/Sega/Sonic The Hedgehog - Pocket Adventure (World).ngc
 b3cfd9fd8f0b5fe15eeffe347c0298c44e1e925baab0aa8f7327c3eb603fc5f1	NGPC RetroHQ/4 Game Series Collections/Developers/Taito/Bust-A-Move Pocket (USA).ngc
 2721b10ef9b1e488354f2f79037a3f55d799b354fa58ed1e110c1da8301fd200	NGPC RetroHQ/4 Game Series Collections/Developers/Taito/Puzzle Bobble Mini (Japan, Europe) (v1.10).ngc
 30fa480670a2d3d703289b4857cf5a2afc85cbd7495dec01aacba379554054f9	NGPC RetroHQ/4 Game Series Collections/Developers/Yumekobo/Biomotor Unitron (USA, Europe).ngc
@@ -218,10 +218,10 @@ d4c70b24a51923a60a715b77bbc205f6c06146bedb11d066e629f498af3392bd	NGPC RetroHQ/4 
 9d68850f2ab8f23aba5bea6fa58c0e1b62ef17fc2282281ed8722a5676e9fb24	NGPC RetroHQ/4 Game Series Collections/Genre/Fighters (1v1)/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).ngc
 3195add48337336c958eb2db285e6a0616d025d784ef0c8cb236da5342967bfd	NGPC RetroHQ/4 Game Series Collections/Genre/Fighters (1v1)/Last Blade, The - Beyond the Destiny (Europe).ngc
 374979c70bf702dbbaf5dac7c90f10cfd2d503f3ae10a0f5eac4976de39765d7	NGPC RetroHQ/4 Game Series Collections/Genre/Fighters (1v1)/Rockman - Battle & Fighters (J) T+Eng v0.10 Rockx2.ngc
-7ff8599e6cd07e613fb46876d864653d6835a6ff60d851ebd131f508f94e11da	NGPC RetroHQ/4 Game Series Collections/Genre/Fighters (1v1)/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp
-f0d89fcef129450105e1e45bb29693f30d30a00dd2e92168e7253438dca38a63	NGPC RetroHQ/4 Game Series Collections/Genre/Fighters (1v1)/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).ngc
 b002ff9568107834c170a4da03912e3a4b54d6cb767967fc6dae7fcaaa89c782	NGPC RetroHQ/4 Game Series Collections/Genre/Fighters (1v1)/SNK Gals' Fighters (USA, Europe).ngc
 70d77cefb8a99350a53790d04c23ad874e2ef2bc92d2bd4211ea4407c08c0bdc	NGPC RetroHQ/4 Game Series Collections/Genre/Fighters (1v1)/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).ngc
+7ff8599e6cd07e613fb46876d864653d6835a6ff60d851ebd131f508f94e11da	NGPC RetroHQ/4 Game Series Collections/Genre/Fighters (1v1)/Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp
+f0d89fcef129450105e1e45bb29693f30d30a00dd2e92168e7253438dca38a63	NGPC RetroHQ/4 Game Series Collections/Genre/Fighters (1v1)/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).ngc
 a3f8dda1b138384e41b410e6a0455f53ab773a6431873b23b55e5c6bd71b56ed	NGPC RetroHQ/4 Game Series Collections/Genre/Gambling/Neo 21 - Real Casino Series (World).ngc
 4056a358ea804d61f53dc876c3ce9da6dc3dd1a24a3916cdd8cb14c45839d6ce	NGPC RetroHQ/4 Game Series Collections/Genre/Gambling/Neo Baccarat - Real Casino Series (World).ngc
 c4b9dda5336df2f6fef6d81f65f39c4b1de0d17395baa29616fdad4562355c8a	NGPC RetroHQ/4 Game Series Collections/Genre/Gambling/Neo Cherry Master - Real Casino Series (Japan, Europe) (En,Ja).ngp
@@ -314,14 +314,14 @@ ab897e8bfa112a0056b75926ce771009cbcb2b05b4b256c2f1fc8f98350c1cb4	NGPC RetroHQ/4 
 a75ad5d83994d09f9acc7f8e1c538a0f58e0593d4fe362f2b03b9154ff118ad5	NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Puzzle Link (Europe).ngc
 7fb201f71eb4dac08fb351ab6c6bdc1dd3fde5681f0cc460a800696953a70d6e	NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Puzzle Link 2 (USA, Europe).ngc
 374979c70bf702dbbaf5dac7c90f10cfd2d503f3ae10a0f5eac4976de39765d7	NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Rockman - Battle & Fighters (J) T+Eng v0.10 Rockx2.ngc
-f0d89fcef129450105e1e45bb29693f30d30a00dd2e92168e7253438dca38a63	NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).ngc
-df62c25ab53620263cc7478708e982bf81e3a3fcdd1ef6c8b36a82f9226312a5	NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Shanghai Mini (World) (En,Ja).ngc
 b002ff9568107834c170a4da03912e3a4b54d6cb767967fc6dae7fcaaa89c782	NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/SNK Gals' Fighters (USA, Europe).ngc
 b9c249cc03c6c115c7e887035de0386dc9ec6308d3bd8dba16c5e8bbf03fdb93	NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/SNK vs. Capcom - Card Fighters 2 - Expand Edition (J) T+Eng 5-03-08 CFC2 Translation Team.ngc
 b9c249cc03c6c115c7e887035de0386dc9ec6308d3bd8dba16c5e8bbf03fdb93	NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/SNK vs. Capcom - Card Fighters 2 - Expand Edition (J) T+Eng v1 Raohmaru.ngc
 e59e0ebf810200a634c6063fcbdf3489635d7d3521b43e569f7251236a4548f6	NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).ngc
 3c0e17694c9476fa8995b56b74a9f92966451025a5712ab8f9a7e08cffd86baf	NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).ngc
 70d77cefb8a99350a53790d04c23ad874e2ef2bc92d2bd4211ea4407c08c0bdc	NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).ngc
+f0d89fcef129450105e1e45bb29693f30d30a00dd2e92168e7253438dca38a63	NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).ngc
+df62c25ab53620263cc7478708e982bf81e3a3fcdd1ef6c8b36a82f9226312a5	NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Shanghai Mini (World) (En,Ja).ngc
 86d592daafd3392b26246212da7e50fca400e9fb0c511eced30242881b9e781a	NGPC RetroHQ/4 Game Series Collections/Multiplayer/Link Cable Support/Sonic The Hedgehog - Pocket Adventure (World).ngc
 977e4d520f4c885acc8b6ba815623d9b1ff8f3924ccab4db02a24b7bff0f80c7	NGPC RetroHQ/4 Game Series Collections/Multiplayer/Wireless Communication Unit Support/Dive Alert - Becky's Version (USA, Europe).ngc
 7a16dda1c503e272544e25b336cd0e67c5c8e36ef57c4dedf72d590604893704	NGPC RetroHQ/4 Game Series Collections/Multiplayer/Wireless Communication Unit Support/Dive Alert - Matt's Version (USA, Europe).ngc
