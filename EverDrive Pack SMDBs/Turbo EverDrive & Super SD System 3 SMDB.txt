@@ -1278,7 +1278,6 @@ c478666710d0d180d30349bd9953529b942a64f486c026bc7055e59acf8a2156	Turbo EverDrive
 4f1e92875783c6fecfe7294e4778995d313b5c76d2704b899ec836d2f6ab98b3	Turbo EverDrive/4 Homebrew/Demos & Intros/Raster Effects - Chris Covell/Raster_Strider1.pce
 3949178589c049921ceed7fc0b64f1223d32e647e7c2df0c003769d181cca5d8	Turbo EverDrive/4 Homebrew/Demos & Intros/Raster Effects - Chris Covell/Raster_Strider2.pce
 9b2cac011c4f40c83c707bb902dbb49bc4f7effc25773cd0d6f89573f1658ac0	Turbo EverDrive/4 Homebrew/Demos & Intros/Raster Effects - Chris Covell/Raster_Strider3.pce
-548f0d84a996c45d7b3fe494d2ea16334881d3d979164fcbf418c1816c7017a4	Turbo EverDrive/4 Homebrew/Demos & Intros/Soundgen - Mindrec/snd.c
 d5f86507c343f441a089153c13d32ecde55ac82a766dec302609b617d4b1a986	Turbo EverDrive/4 Homebrew/Demos & Intros/Soundgen - Mindrec/soundgen.pce
 188f3389a4e749c79f0229abc96cd781619ee24d9af2708aa9f9e3e53ac7a45e	Turbo EverDrive/4 Homebrew/Demos & Intros/Visual Music Player UPD02 Chris Covell/visualV1-legaxe.pce
 1a7cdc54bcaa2dc5e8d78dc6cfac5399b7c4e13c17eef1188ebc5bb7b7e80bc7	Turbo EverDrive/4 Homebrew/Demos & Intros/Visual Music Player UPD02 Chris Covell/visualV2-aliencrush.pce

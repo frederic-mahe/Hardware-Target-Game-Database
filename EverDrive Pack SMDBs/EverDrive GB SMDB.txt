@@ -5812,7 +5812,6 @@ b546395009cd606389b9eba1ba980383e2abcdfaa642ef98777f92e4bb953bf5	EverDrive GB/4 
 4ce1820ce0b4f64180d5eafc08ac917c681e7592168d9a944291d82f96bfab6d	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/All Movie Based Games (GB & GBC)/E.T. - The Extra-Terrestrial - Escape from Planet Earth (USA).gbc
 a2cfcba43a11d8f4c05fb7b3926502c8bb0820fbdeb9dc3103865164e654a2bc	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/All Movie Based Games (GB & GBC)/E.T. - The Extra-Terrestrial and the Cosmic Garden (USA).gbc
 7027441b7ead92dcb5e931c8a3ac5608611717e2dafdab4741dca108e1a33027	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/All Movie Based Games (GB & GBC)/Emperor's New Groove, The (USA).gbc
-7027441b7ead92dcb5e931c8a3ac5608611717e2dafdab4741dca108e1a33027	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/All Movie Based Games (GB & GBC)/Emperor's New Groove, The (USA).gbc copy
 b7afe0e80e5fe6ebff53d7bff35befb329028a23e0ef0893dc508a496efb4908	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/All Movie Based Games (GB & GBC)/Extreme Ghostbusters (Europe) (En,Fr,De,Es,It,Pt).gbc
 c67ce6fbb81f0509d48b022db5a2d39f35c76788218c36cc144bfcec3f986e17	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/All Movie Based Games (GB & GBC)/Felix the Cat (USA, Europe).gb
 1d47b7e1d6654747e41bd38bf2f6064c23537e9bcea280634f263cdccc6ec5e4	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/All Movie Based Games (GB & GBC)/Ghostbusters II (USA, Europe).gb
@@ -5860,7 +5859,6 @@ a4dd02694ca2b9874fab8420193ba57968f7b179a5855cc0909d937b42553b44	EverDrive GB/4 
 6fa34986ea46897216a8eda2a083affa490fd68b59134285596ed17f628728f7	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/All Movie Based Games (GB & GBC)/New Batman Adventures, The - Chaos in Gotham (USA).gbc
 fddf9b0ebdc5294554339b59dd9b949286e5281bf81f05bc4c1759844effc0a9	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/All Movie Based Games (GB & GBC)/Pinocchio (USA).gb
 634c932dafbc56bdf9b88c02cd69540b327523c2b1d21edcb672884c9a06ef68	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/All Movie Based Games (GB & GBC)/Planet of the Apes (USA) (En,Fr,De,Es,It,Nl).gbc
-634c932dafbc56bdf9b88c02cd69540b327523c2b1d21edcb672884c9a06ef68	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/All Movie Based Games (GB & GBC)/Planet of the Apes (USA) (En,Fr,De,Es,It,Nl).gbc copy
 a11401735f5f16a7a9a7582cbd134ac7c467290278dedf7981bc899ec170619e	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/All Movie Based Games (GB & GBC)/Pocahontas (USA, Europe) (SGB Enhanced).gb
 2fbb8469ee2667af60f785498c40601f714538600aed333a285bd3d4384212b3	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/All Movie Based Games (GB & GBC)/Real Ghostbusters, The (USA).gb
 2fd6cc8f52e0c5f665b5c70368e4594aa93a4cbda7c76fd9c3ecc2b0724a5785	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/All Movie Based Games (GB & GBC)/Robin Hood - Prince of Thieves (USA).gb
@@ -5983,7 +5981,6 @@ aea0cd13dc84fcbdf541560c71add456248648b501eac03d3d591ccae18e00c2	EverDrive GB/4 
 4ce1820ce0b4f64180d5eafc08ac917c681e7592168d9a944291d82f96bfab6d	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/Sort By - GBC Only/E.T. - The Extra-Terrestrial - Escape from Planet Earth (USA).gbc
 a2cfcba43a11d8f4c05fb7b3926502c8bb0820fbdeb9dc3103865164e654a2bc	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/Sort By - GBC Only/E.T. - The Extra-Terrestrial and the Cosmic Garden (USA).gbc
 7027441b7ead92dcb5e931c8a3ac5608611717e2dafdab4741dca108e1a33027	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/Sort By - GBC Only/Emperor's New Groove, The (USA).gbc
-7027441b7ead92dcb5e931c8a3ac5608611717e2dafdab4741dca108e1a33027	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/Sort By - GBC Only/Emperor's New Groove, The (USA).gbc copy
 b7afe0e80e5fe6ebff53d7bff35befb329028a23e0ef0893dc508a496efb4908	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/Sort By - GBC Only/Extreme Ghostbusters (Europe) (En,Fr,De,Es,It,Pt).gbc
 d30e058e6cc5e7bd42d4616268af3a9cba9c47110585d579318f5dc85c9f9662	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/Sort By - GBC Only/Godzilla - The Series (USA) (En,Fr,De).gbc
 ef34c9b13105f87bdb679179548cac9f89220a08eb7d99287640552930b0f9bc	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/Sort By - GBC Only/Godzilla - The Series - Monster Wars (USA) (En,Fr,De).gbc
@@ -6009,7 +6006,6 @@ f8a9daa63a36874e56221c391182880b8ddc792da156f3fba0ca8266049df676	EverDrive GB/4 
 a4dd02694ca2b9874fab8420193ba57968f7b179a5855cc0909d937b42553b44	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/Sort By - GBC Only/Mummy, The (USA).gbc
 6fa34986ea46897216a8eda2a083affa490fd68b59134285596ed17f628728f7	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/Sort By - GBC Only/New Batman Adventures, The - Chaos in Gotham (USA).gbc
 634c932dafbc56bdf9b88c02cd69540b327523c2b1d21edcb672884c9a06ef68	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/Sort By - GBC Only/Planet of the Apes (USA) (En,Fr,De,Es,It,Nl).gbc
-634c932dafbc56bdf9b88c02cd69540b327523c2b1d21edcb672884c9a06ef68	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/Sort By - GBC Only/Planet of the Apes (USA) (En,Fr,De,Es,It,Nl).gbc copy
 d769aad02ded9685ae14a5286a0f0a2a109e444376e3956f3a99b9b1a07e7f5c	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/Sort By - GBC Only/Rugrats in Paris - The Movie (USA, Europe).gbc
 2de3baca10d62a1be7c2316516815e1988cb1661588d48f89928b365b9945f97	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/Sort By - GBC Only/Snow White and the Seven Dwarfs (USA).gbc
 3d1141ec4547e1809ddc5276c15427e1c1f5932de132bafb90dd153ba8f45b38	EverDrive GB/4 Game Series Collections/Franchise/Movie Based/Sort By - GBC Only/Star Wars Episode I - Obi-Wan's Adventures (USA).gbc
@@ -6122,7 +6118,6 @@ a4e0144c259a2ee1ac9c859161e483a0be36245ffac663f7475aeb8e7d3aa9fe	EverDrive GB/4 
 f4ef2ca5506f493f48833c16dff5eaa2b18ba488c352ed5bc03059d150e46620	EverDrive GB/4 Game Series Collections/Franchise/TV Show Based/All TV Based Games (GB & GBC)/Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA).gb
 b2588721a1a298cfbd1f2fca465ac70f0b2aa488fab8eed1b7f49cac592ac438	EverDrive GB/4 Game Series Collections/Franchise/TV Show Based/All TV Based Games (GB & GBC)/Teenage Mutant Ninja Turtles II - Back from the Sewers (USA).gb
 95c804c1a851b502c15a3418eef75e491aec9371e2fb2a34e4aaa27b37e02023	EverDrive GB/4 Game Series Collections/Franchise/TV Show Based/All TV Based Games (GB & GBC)/Teenage Mutant Ninja Turtles III - Radical Rescue (USA).gb
-b4fc212c96ca6f3e3520bce5f0f7bcb31726a6e9ee332882d248640b0f8657fd	EverDrive GB/4 Game Series Collections/Franchise/TV Show Based/All TV Based Games (GB & GBC)/Thomas the Tank Engine & Friends (USA).md
 a0a542454f26b2f19b3f6fba8815b25564cc44908a074ffa0773c6285efb75f7	EverDrive GB/4 Game Series Collections/Franchise/TV Show Based/All TV Based Games (GB & GBC)/Thunderbirds (Europe) (En,Fr,De,Es,It).gbc
 20a351a423108cb61528d22d3dc8314c66603332bf5c6e0b89190ec460a6af30	EverDrive GB/4 Game Series Collections/Franchise/TV Show Based/All TV Based Games (GB & GBC)/Tiny Toon Adventures - Babs' Big Break (USA, Europe).gb
 ef8b5fb4cc993f2e6093be5b106bb4d81b54dd00771f7191e92c6babae8b98f4	EverDrive GB/4 Game Series Collections/Franchise/TV Show Based/All TV Based Games (GB & GBC)/Tiny Toon Adventures - Buster Saves the Day (USA).gbc
@@ -6308,7 +6303,6 @@ fe53e8f020a9f522c41990f7f0f95443c9953117523299d1f57c7d318ce5422a	EverDrive GB/4 
 d79e0795066dad3b87f51965463715394769c8904352d6d429b4698067faef26	EverDrive GB/4 Game Series Collections/Franchise/TV Show Based/Sort By - GBC Only/SpongeBob SquarePants - Legend of the Lost Spatula (USA, Europe).gbc
 656d9d66826a80de3c8e7655d1a165232b0cb245df29f4e19691844d19551b11	EverDrive GB/4 Game Series Collections/Franchise/TV Show Based/Sort By - GBC Only/Sylvester and Tweety - Breakfast on the Run (Europe) (En,Fr,De,Es,It,Nl).gbc
 a4e0144c259a2ee1ac9c859161e483a0be36245ffac663f7475aeb8e7d3aa9fe	EverDrive GB/4 Game Series Collections/Franchise/TV Show Based/Sort By - GBC Only/Tazmanian Devil - Munching Madness (USA) (En,Fr,De,Es,It).gbc
-b4fc212c96ca6f3e3520bce5f0f7bcb31726a6e9ee332882d248640b0f8657fd	EverDrive GB/4 Game Series Collections/Franchise/TV Show Based/Sort By - GBC Only/Thomas the Tank Engine & Friends (USA).md
 a0a542454f26b2f19b3f6fba8815b25564cc44908a074ffa0773c6285efb75f7	EverDrive GB/4 Game Series Collections/Franchise/TV Show Based/Sort By - GBC Only/Thunderbirds (Europe) (En,Fr,De,Es,It).gbc
 ef8b5fb4cc993f2e6093be5b106bb4d81b54dd00771f7191e92c6babae8b98f4	EverDrive GB/4 Game Series Collections/Franchise/TV Show Based/Sort By - GBC Only/Tiny Toon Adventures - Buster Saves the Day (USA).gbc
 597f70c8d600427fee6f3a3714115bad30b24402dd830c36dc010a7b3a92a7a3	EverDrive GB/4 Game Series Collections/Franchise/TV Show Based/Sort By - GBC Only/Tom & Jerry (USA, Europe).gbc
@@ -6674,13 +6668,11 @@ d1a1777f915392fc2c4c55a9d5f2571707e56842aced754d2aab698a25fce0b8	EverDrive GB/4 
 2415b296a99b43f78291702b003dc0df350130dd1699dd341fa3a40f741cc6ed	EverDrive GB/4 Game Series Collections/Genre/Adventure/All Adventure Games (GB & GBC)/Meitantei Conan - Karakuri Jiin Satsujin Jiken (J) [C][T+Eng0.1_Lady Mariann].gbc
 f8a9daa63a36874e56221c391182880b8ddc792da156f3fba0ca8266049df676	EverDrive GB/4 Game Series Collections/Genre/Adventure/All Adventure Games (GB & GBC)/Mission Impossible (USA) (En,Fr,Es).gbc
 f6e4801331fc8cc44f005ca7269625922156878c19d3cbb558114bc9e35a5cec	EverDrive GB/4 Game Series Collections/Genre/Adventure/All Adventure Games (GB & GBC)/New Addams Family Series, The (Europe) (En,Fr,De,Es,It,Pt).gbc
-da63acd50ab980f10cf6d8de5c5079da5542a3e075df8d4a443439514e487e89	EverDrive GB/4 Game Series Collections/Genre/Adventure/All Adventure Games (GB & GBC)/Patlabor - The Mobile Police - Dai 2 Shoutai Shutsudou Seyo! (Japan) [b][t-Eng].fds
 da934314ae7934480bcb64b43046a1de8702b69b43439fa233fd67863b6dad1b	EverDrive GB/4 Game Series Collections/Genre/Adventure/All Adventure Games (GB & GBC)/Scooby-Doo! - Classic Creep Capers (USA, Europe).gbc
 0c3a0a0504d7babc64cdc39e6e24cf14731a9de38d111a8b4748b8869180ad3b	EverDrive GB/4 Game Series Collections/Genre/Adventure/All Adventure Games (GB & GBC)/Shadowgate Classic (USA, Europe) (En,Fr,De,Es,Sv) (Rev A).gbc
 ddb104cc59d5391cd5954e884c9e8f41f90b3ae6c35b7b77de845c63d1245270	EverDrive GB/4 Game Series Collections/Genre/Adventure/All Adventure Games (GB & GBC)/Star Trek - 25th Anniversary (USA, Europe).gb
 afce417f64b1858ed03cbe3fddc7936d2d728d75500e9d53c2fcb3e73bb29e8c	EverDrive GB/4 Game Series Collections/Genre/Adventure/All Adventure Games (GB & GBC)/Who Framed Roger Rabbit (USA).gb
 498d2fc2b818207b3ccde17e203f765cff469e04bd5597b5f4814f4f9a12442a	EverDrive GB/4 Game Series Collections/Genre/Adventure/Sort By - GB Only/DragonHeart (USA, Europe).gb
-da63acd50ab980f10cf6d8de5c5079da5542a3e075df8d4a443439514e487e89	EverDrive GB/4 Game Series Collections/Genre/Adventure/Sort By - GB Only/Patlabor - The Mobile Police - Dai 2 Shoutai Shutsudou Seyo! (Japan) [b][t-Eng].fds
 ddb104cc59d5391cd5954e884c9e8f41f90b3ae6c35b7b77de845c63d1245270	EverDrive GB/4 Game Series Collections/Genre/Adventure/Sort By - GB Only/Star Trek - 25th Anniversary (USA, Europe).gb
 afce417f64b1858ed03cbe3fddc7936d2d728d75500e9d53c2fcb3e73bb29e8c	EverDrive GB/4 Game Series Collections/Genre/Adventure/Sort By - GB Only/Who Framed Roger Rabbit (USA).gb
 da72b44e4023672bd79b063be100e569d629a542d809fe898a4da27682d0473f	EverDrive GB/4 Game Series Collections/Genre/Adventure/Sort By - GBC Only/Animorphs (USA).gbc
@@ -8088,7 +8080,6 @@ d83362d8a3c7e7ec799faa67255bd07a9a8b5600a7599de36b4c4757a10a83c9	EverDrive GB/4 
 a89338abb26bdfc74fcefcda505411bd7b5d47f805c779997d6409dc795cb3cd	EverDrive GB/4 Game Series Collections/Genre/Racing/All Racing Games (GB & GBC)/All Racing Games (GB & GBC)/LEGO Stunt Rally (USA).gbc
 dbcecd9ed9ee70e8f3a231eb0bda95c882ff0e9697d52fe919a02f076962de91	EverDrive GB/4 Game Series Collections/Genre/Racing/All Racing Games (GB & GBC)/All Racing Games (GB & GBC)/Lamborghini American Challenge (USA, Europe).gb
 e35c2f936f4dcffbb1fc3c5052e8f7c93594e42ee3e8765154741e258ee5172a	EverDrive GB/4 Game Series Collections/Genre/Racing/All Racing Games (GB & GBC)/All Racing Games (GB & GBC)/Looney Tunes Racing (USA) (En,Fr,De,Es,It,Nl).gbc
-feeec3eefa70d26e5f663305c9a0537da04cca774339c92f9d6d590d0016f0a0	EverDrive GB/4 Game Series Collections/Genre/Racing/All Racing Games (GB & GBC)/All Racing Games (GB & GBC)/Lotus Turbo Challenge (USA, Europe).md
 2af36e0a28de9fb7da48a042b9719b10e1d1ca571e2ce4bce9eacdf9ef804ff0	EverDrive GB/4 Game Series Collections/Genre/Racing/All Racing Games (GB & GBC)/All Racing Games (GB & GBC)/Matchbox Emergency Patrol (USA, Europe).gbc
 b289e0f55c6d3e8c230e2ccaa29f821e417e7a19e5b31d35b61c5f0516ccdca1	EverDrive GB/4 Game Series Collections/Genre/Racing/All Racing Games (GB & GBC)/All Racing Games (GB & GBC)/Mickey's Racing Adventure (USA, Europe) (En,Fr,De,Es,It).gbc
 9263a2138f5852177ea8a2436c6ddf6ec4ad41fc155d184b1773749533d6a470	EverDrive GB/4 Game Series Collections/Genre/Racing/All Racing Games (GB & GBC)/All Racing Games (GB & GBC)/Mickey's Speedway USA (USA, Europe) (En,Fr,De,Es).gbc
@@ -8323,7 +8314,6 @@ bd4e88fb311897cef99ffe8707e1ec04f6e9a832cc1f732b829bb74f192e8175	EverDrive GB/4 
 d83362d8a3c7e7ec799faa67255bd07a9a8b5600a7599de36b4c4757a10a83c9	EverDrive GB/4 Game Series Collections/Genre/Racing/Sort By - GBC Only/All GBC Racing Games/LEGO Racers (USA) (En,Fr,Es).gbc
 a89338abb26bdfc74fcefcda505411bd7b5d47f805c779997d6409dc795cb3cd	EverDrive GB/4 Game Series Collections/Genre/Racing/Sort By - GBC Only/All GBC Racing Games/LEGO Stunt Rally (USA).gbc
 e35c2f936f4dcffbb1fc3c5052e8f7c93594e42ee3e8765154741e258ee5172a	EverDrive GB/4 Game Series Collections/Genre/Racing/Sort By - GBC Only/All GBC Racing Games/Looney Tunes Racing (USA) (En,Fr,De,Es,It,Nl).gbc
-feeec3eefa70d26e5f663305c9a0537da04cca774339c92f9d6d590d0016f0a0	EverDrive GB/4 Game Series Collections/Genre/Racing/Sort By - GBC Only/All GBC Racing Games/Lotus Turbo Challenge (USA, Europe).md
 2af36e0a28de9fb7da48a042b9719b10e1d1ca571e2ce4bce9eacdf9ef804ff0	EverDrive GB/4 Game Series Collections/Genre/Racing/Sort By - GBC Only/All GBC Racing Games/Matchbox Emergency Patrol (USA, Europe).gbc
 b289e0f55c6d3e8c230e2ccaa29f821e417e7a19e5b31d35b61c5f0516ccdca1	EverDrive GB/4 Game Series Collections/Genre/Racing/Sort By - GBC Only/All GBC Racing Games/Mickey's Racing Adventure (USA, Europe) (En,Fr,De,Es,It).gbc
 9263a2138f5852177ea8a2436c6ddf6ec4ad41fc155d184b1773749533d6a470	EverDrive GB/4 Game Series Collections/Genre/Racing/Sort By - GBC Only/All GBC Racing Games/Mickey's Speedway USA (USA, Europe) (En,Fr,De,Es).gbc
