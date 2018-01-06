@@ -1,6 +1,6 @@
-1a5e28773a82fcf6770a076f4bf3123b08e78d0ede3ee25ebd249cf13d16b268	EverDrive 64/EverDrive 64 Game Series Collections Add-On 2017-1-2.7z.001
-85490843d1efcde604c3a5d8df672cac3b8691e810d121a90fb296eb6b71c65a	EverDrive 64/EverDrive 64 Game Series Collections Add-On 2017-1-2.7z.002
-f245b0c64cb0eede91ec949dd16ae077c044532fdd359a1a78c7bcf2f9c02172	EverDrive 64/EverDrive 64 Game Series Collections Add-On 2017-1-2.7z.003
+1a5e28773a82fcf6770a076f4bf3123b08e78d0ede3ee25ebd249cf13d16b268	EverDrive 64/EverDrive 64 Game Series Collections Add-On 2017-1-3.7z.001
+85490843d1efcde604c3a5d8df672cac3b8691e810d121a90fb296eb6b71c65a	EverDrive 64/EverDrive 64 Game Series Collections Add-On 2017-1-3.7z.002
+f245b0c64cb0eede91ec949dd16ae077c044532fdd359a1a78c7bcf2f9c02172	EverDrive 64/EverDrive 64 Game Series Collections Add-On 2017-1-3.7z.003
 33d4609661bd207d22146463e64edbcc5cc9a21668f4f8e450642d2a2f6d2de8	EverDrive 64/1 US - A-M/007 - GoldenEye (USA).z64
 87942bce2b6aff1c7091673282bbdaa7cc3d5ead6e7f1e5f3ce507fa779aabeb	EverDrive 64/1 US - A-M/007 - The World Is Not Enough (USA).z64
 b1c5e0fb41e20ca068d6e16246698474cb372aac2acea41ee950c68a1a5bbb67	EverDrive 64/1 US - A-M/1080 TenEighty Snowboarding (Japan, USA) (En,Ja).z64
@@ -749,7 +749,6 @@ bf05a7106942b76f4d461ed12b5e22d1feeb6b741774e2b63be7216a4ce708b2	EverDrive 64/2 
 47366c2b2a65d465213a6c894d75d1fc9c01797c7db4a01adbe0a486d66128c5	EverDrive 64/2 Japan - A-Z/Yuke Yuke!! Trouble Makers (Japan).z64
 a562f67e2448c5c39b923f45476eb9e82db38aa04682415deea31b919656620d	EverDrive 64/2 Japan - A-Z/Zelda no Densetsu - Mujura no Kamen (Japan) (Rev A).z64
 c8cbace47ae4d2bc36d75716d260c81956d7380b4812282f88b2a0b40e8e3e1d	EverDrive 64/2 Japan - A-Z/Zelda no Densetsu - Toki no Ocarina (Japan) (Rev B).z64
-da91bd0f0a4e8382838a4eac455ed09f7236d951423e8039dd308bc73be8b090	EverDrive 64/2 Japan - A-Z/Zelda no Densetsu - Toki no Ocarina - Zelda Collection Version (J) (GC) [!].z64
 d5b3bc6ce43e567ff879b6f004eaf54372d1bab8e88b6121ef3b74ba765b1006	EverDrive 64/2 Japan - A-Z/Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube Edition).z64
 9038c3bb202d9ac546ce156bcac7806451433cfdae6f92ea63b80e1873a7dfbc	EverDrive 64/2 Japan - A-Z/Zool - Majuu Tsukai Densetsu (Japan).z64
 c954df4098801649763119bf3e21ea21b1846ae0321f55813698fc8b2f53db73	EverDrive 64/2 Unreleased - A-Z/Jikkyou Powerful Pro Yakyuu 6 (unreleased) V1.2 Japan.z64
@@ -928,7 +927,6 @@ eb2d4ce64a082ecedbabf2a4adb362c005120478989767b7c7e2ffa56946ff21	EverDrive 64/4 
 a8588ffdfb628c0433a2a18664cf68942812b975d16ae4d8b1c66f2045920065	EverDrive 64/4 Game Series Collections/Best-Of Lists/Best Games That Still Matter Today - RacketBoy.com/Mario Kart 64 (USA).z64
 6ca0a1afe224831e202857ad64ef26bd429a034a4ea48404bb09621641a07b12	EverDrive 64/4 Game Series Collections/Best-Of Lists/Best Games That Still Matter Today - RacketBoy.com/Ogre Battle 64 - Person of Lordly Caliber (USA).z64
 ce2aec86fab0f082a20775082b894d8c3bfe3984efb33521f56096c1dd70ac70	EverDrive 64/4 Game Series Collections/Best-Of Lists/Best Games That Still Matter Today - RacketBoy.com/Pilotwings 64 (USA).z64
-29ac9164eba1e212a03beb7822fdfb74574004884a51b0d649266ec24f8141a0	EverDrive 64/4 Game Series Collections/Best-Of Lists/Best Games That Still Matter Today - RacketBoy.com/Sin And Punishment (J) English T-Eng v1.0 Zoinkity.aps
 25bc8e7c73918c8c3a510780b5da430d33f91d4e668b80d25cc32b1b7a1d6648	EverDrive 64/4 Game Series Collections/Best-Of Lists/Best Games That Still Matter Today - RacketBoy.com/SpaceStation Silicon Valley (USA).z64
 9a5ea73775054678055b54c67a0afe0bbe8fb4136dbb8a90fc8b13e4978c9aaf	EverDrive 64/4 Game Series Collections/Best-Of Lists/Best Games That Still Matter Today - RacketBoy.com/Star Fox 64 (USA).z64
 f3b0fc9f565f995368b6fa5aefc8ec1e5194c488948b41f3534dece4abcec2b4	EverDrive 64/4 Game Series Collections/Best-Of Lists/Best Games That Still Matter Today - RacketBoy.com/Super Mario 64 (USA).z64
@@ -957,7 +955,6 @@ c02d2a94ea720f790573853649f9453e2b6a4145a5bbf76945556c40cedcf7c0	EverDrive 64/4 
 6ca0a1afe224831e202857ad64ef26bd429a034a4ea48404bb09621641a07b12	EverDrive 64/4 Game Series Collections/Best-Of Lists/Best Undiscovered Games - RacketBoy.com/Ogre Battle 64 - Person of Lordly Caliber (USA).z64
 8e35b21dd0edc7c31a9d24fa28aea5fd2ed4f9cf130dccff5b0288c57eb7ad4d	EverDrive 64/4 Game Series Collections/Best-Of Lists/Best Undiscovered Games - RacketBoy.com/Pokemon Puzzle League (USA).z64
 6e4b392a19ee5e4c64e87b93061fb4eec5f1b17aa9dce3f8859936a21bcf84c5	EverDrive 64/4 Game Series Collections/Best-Of Lists/Best Undiscovered Games - RacketBoy.com/S.C.A.R.S. (USA).z64
-29ac9164eba1e212a03beb7822fdfb74574004884a51b0d649266ec24f8141a0	EverDrive 64/4 Game Series Collections/Best-Of Lists/Best Undiscovered Games - RacketBoy.com/Sin And Punishment (J) English T-Eng v1.0 Zoinkity.aps
 25bc8e7c73918c8c3a510780b5da430d33f91d4e668b80d25cc32b1b7a1d6648	EverDrive 64/4 Game Series Collections/Best-Of Lists/Best Undiscovered Games - RacketBoy.com/SpaceStation Silicon Valley (USA).z64
 2776e116c74b7a01eaeae4483e0c8260d03d732c76c8dcb0419b7b4e674107e1	EverDrive 64/4 Game Series Collections/Best-Of Lists/Best Undiscovered Games - RacketBoy.com/WinBack - Covert Operations (USA).z64
 33d4609661bd207d22146463e64edbcc5cc9a21668f4f8e450642d2a2f6d2de8	EverDrive 64/4 Game Series Collections/Best-Of Lists/Games That Defined the N64 - RacketBoy.com/007 - GoldenEye (USA).z64
@@ -1558,7 +1555,6 @@ dd869186f8dc8ca929eaaf08234c89f1829d949499030ae9826efcecf59c8836	EverDrive 64/4 
 f39e29f836fc3fa3071c0fa71a02f20c7bbedfe0cb247111f89bdcd24fe4a764	EverDrive 64/4 Game Series Collections/Developer/Titus/Virtual Chess 64 (USA) (En,Fr,Es).z64
 832345216413e0912aa0c6109029efa9198a8cdec2fb2fe9607707b21ce1d49b	EverDrive 64/4 Game Series Collections/Developer/Treasure/Bakuretsu Muteki Bangaioh (Japan).z64
 cb219554d18268e4df98e65528512e55a2d01a055ce9ef5cb04fcbd04e790cb1	EverDrive 64/4 Game Series Collections/Developer/Treasure/Mischief Makers (USA).z64
-29ac9164eba1e212a03beb7822fdfb74574004884a51b0d649266ec24f8141a0	EverDrive 64/4 Game Series Collections/Developer/Treasure/Sin And Punishment (J) English T-Eng v1.0 Zoinkity.aps
 3730b09958e7aa381a20cdd6f98fda53091d8002ab5e03f16e28f17e7fd131b1	EverDrive 64/4 Game Series Collections/Developer/id Soft (& Ion Storm)/Daikatana, John Romero's (USA).z64
 cdf5c6e86c5b4099286a8e7c8c55c22a14428c9d8f4fe5509218915669b37217	EverDrive 64/4 Game Series Collections/Developer/id Soft (& Ion Storm)/Quake 64 (USA).z64
 0ebddc19ea1813f7b045d01cf92637952c88e52ad85a00ef80ccbf424fc8679d	EverDrive 64/4 Game Series Collections/Developer/id Soft (& Ion Storm)/Quake II (USA).z64
@@ -2059,7 +2055,6 @@ d43c0337c56d6ebe72e121538e4a90afe7676a40976bbefd60768d2933bd0470	EverDrive 64/4 
 8ad4334fbf6d201b2442206d33e0316b3273523ad237b60015381cdbe086299b	EverDrive 64/4 Game Series Collections/Miscellaneous/2 Player Co-Op/Rampage - World Tour (USA).z64
 e928c018f496e1c8041d9a3e938cc0583a218fdcd85be9bbe88218e101539a3f	EverDrive 64/4 Game Series Collections/Miscellaneous/2 Player Co-Op/Rampage 2 - Universal Tour (USA).z64
 1fbb509b1cebc6e6c79d16f1b3f187ee7cd60ee3736da7fc86ad1708c1d07644	EverDrive 64/4 Game Series Collections/Miscellaneous/2 Player Co-Op/Robotron 64 (USA).z64
-29ac9164eba1e212a03beb7822fdfb74574004884a51b0d649266ec24f8141a0	EverDrive 64/4 Game Series Collections/Miscellaneous/2 Player Co-Op/Sin And Punishment (J) English T-Eng v1.0 Zoinkity.aps
 aaac729231f43a2e8ca6323e0dac6ab106ba328721cc4e37aa6fdfe0fd75c7e4	EverDrive 64/4 Game Series Collections/Miscellaneous/2 Player Co-Op/Space Invaders (USA).z64
 c1b38ab812389171682cc212e9337f87ce0f0b109e13c312ca957b28e143729a	EverDrive 64/4 Game Series Collections/Miscellaneous/2 Player Co-Op/Star Soldier - Vanishing Earth (USA).z64
 d04fd33c3aec1113ca3ae35f799cfeec5b6a37ed08f62a98bad9c8e1c02d0394	EverDrive 64/4 Game Series Collections/Miscellaneous/2 Player Co-Op/StarCraft 64 (USA).z64
