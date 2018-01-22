@@ -60,7 +60,7 @@ def parse_database(target_database):
     with open(target_database, "r") as target_database:
         number_of_entries = 0
         for line in target_database:
-            hash_value, filename = line.strip().split("\t", 1)
+            hash_value, filename, other_hash = line.strip().split("\t", 2)
             number_of_entries += 1
             if hash_value not in db:
                 db[hash_value] = [filename]
