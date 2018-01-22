@@ -12,6 +12,7 @@ __version__ = "$Revision: 3.1"
 
 import os
 import sys
+import zlib
 import hashlib
 import argparse
 
@@ -75,7 +76,10 @@ def parse_folder(target_folder, output_file):
                     os.path.isfile(absolute_filename)
                     # convert to Unix format by default
                     filename = filename.replace("\\", "/")
-                    h = hashlib.sha256()
+                    sha256 = hashlib.sha256()
+                    sha1 = hashlib.sha1()
+                    md5 = hashlib.md5()
+                    crc = 0
                     # exclude certain folders and files
                     if not (any(s in filename for s in banned_folders) or filename.endswith(banned_suffixes)):
                         try:
@@ -85,14 +89,21 @@ def parse_folder(target_folder, output_file):
                                 # in memory (changing buffer size does
                                 # not change parsing speed much)
                                 for b in iter(lambda : f.read(128 * 1024), b''):
-                                    h.update(b)
+                                    sha256.update(b)
+                                    sha1.update(b)
+                                    md5.update(b)
+                                    crc = zlib.crc32(b, crc)
                         except FileNotFoundError:
                             # Windows' default API is limited to paths of 260 characters
                             absolute_filename = u'\\\\?\\' + absolute_filename
                             with open(absolute_filename, "rb", buffering=0) as f:
                                 for b in iter(lambda : f.read(128 * 1024), b''):
-                                    h.update(b)
-                        print(h.hexdigest(), filename, sep="\t", file=output_file)
+                                    sha256.update(b)
+                                    sha1.update(b)
+                                    md5.update(b)
+                                    crc = zlib.crc32(b, crc)
+                        print(sha256.hexdigest(), filename, sha1.hexdigest(), md5.hexdigest(),
+                              hex(crc & 0xffffffff)[2:], sep="\t", file=output_file)
                         i += 1
                         print("processing file: {:>9}".format(i),
                               end="\r", file=sys.stdout, flush=True)
