@@ -6,8 +6,8 @@ paths and hash values.
 """
 
 __author__ = "aquaman"
-__date__ = "2017/11/17"
-__version__ = "$Revision: 3.1"
+__date__ = "2018/01/22"
+__version__ = "$Revision: 4.0"
 
 
 import os
