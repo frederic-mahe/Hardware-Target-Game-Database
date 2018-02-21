@@ -136,13 +136,13 @@ if __name__ == '__main__':
     DATABASE, NUMBER_OF_ENTRIES = parse_database(TARGET_DATABASE)
     FOUND_ENTRIES = parse_folder(SOURCE_FOLDER, DATABASE, OUTPUT_FOLDER)
     if MISSING_FILES:
-        list_of_missing_files = [os.path.basename(DATABASE[entry][0])
+        list_of_missing_files = [(os.path.basename(DATABASE[entry][0]), entry)
                                  for entry in DATABASE]
         if list_of_missing_files:
             list_of_missing_files.sort()
             with open(MISSING_FILES, "w") as missing_files:
-                for missing_file in list_of_missing_files:
-                    print(missing_file, file=missing_files)
+                for missing_file, entry in list_of_missing_files:
+                    print(missing_file, entry, sep = "\t", file=missing_files)
         else:
             print("no missing file")
 
