@@ -27,6 +27,8 @@ if __name__ == '__main__':
     Parse arguments from command line.
     """
     parser = argparse.ArgumentParser(description="use a database to identify and organize files.")
+    # Add support for boolean arguments.
+    parser.register('type', 'bool', (lambda x: x.lower() in ("yes", "true", "t", "1")))
 
     parser.add_argument("-i", "--input_folder",
                         dest="source_folder",
@@ -54,6 +56,15 @@ if __name__ == '__main__':
                         default="copy",
                         help=("Strategy for how to get files into the output "
                               "folder."))
+
+    parser.add_argument("-s", "--skip_existing",
+                        dest="skip_existing",
+                        default=False,
+                        nargs="?",
+                        const=True,
+                        type='bool',
+                        help=("Skip files which already exist at the "
+                              "destination without overwriting them."))
 
     ARGS = parser.parse_args()
 
@@ -135,8 +146,11 @@ def parse_folder(source_folder, db, output_folder):
                         # create directory structure if need be
                         if not os.path.exists(new_path):
                             os.makedirs(new_path, exist_ok=True)
-                        # copy the file to the new directory
-                        copy_file(filename, os.path.join(output_folder, entry))
+                        new_file = os.path.join(output_folder, entry)
+                        if (not ARGS.skip_existing or not
+                                os.path.exists(new_file)):
+                            # copy the file to the new directory
+                            copy_file(filename, new_file)
                     # remove the hit from the database
                     del db[h.hexdigest()]
                 i += 1
