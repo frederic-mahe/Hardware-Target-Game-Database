@@ -27,7 +27,8 @@ if __name__ == '__main__':
     Parse arguments from command line.
     """
     parser = argparse.ArgumentParser(description="use a database to identify and organize files.")
-    # Add support for boolean arguments.
+    # Add support for boolean arguments. Allows us to accept 1-argument forms of
+    # boolean flags whose values are any of "yes", "true", "t" or "1".
     parser.register('type', 'bool', (lambda x: x.lower() in ("yes", "true", "t", "1")))
 
     parser.add_argument("-i", "--input_folder",
@@ -57,9 +58,12 @@ if __name__ == '__main__':
                         help=("Strategy for how to get files into the output "
                               "folder."))
 
+    # Valid uses of this flag include: -s, -s true, -s yes, --skip_existing=1
     parser.add_argument("-s", "--skip_existing",
                         dest="skip_existing",
                         default=False,
+                        # nargs and const below allow us to accept the
+                        # zero-argument form of --skip_existing
                         nargs="?",
                         const=True,
                         type='bool',
