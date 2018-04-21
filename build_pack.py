@@ -52,7 +52,7 @@ if __name__ == '__main__':
                         help="list missing files")
 
     parser.add_argument("--file_strategy",
-                        choices=["copy", "hardlink", "symlink"],
+                        choices=["copy", "hardlink"],
                         dest="file_strategy",
                         default="copy",
                         help=("Strategy for how to get files into the output "
@@ -79,15 +79,13 @@ def copy_file(source, dest):
     is accomplished is controlled via the --file_strategy command.
 
     Args:
-      source - The file to copy/symlink/etc.
+      source - The file to copy/hardlink
       dest - The destination that the new file should appear at
     """
     if ARGS.file_strategy == "copy":
         copy_fn = shutil.copyfile
     elif ARGS.file_strategy == "hardlink":
         copy_fn = os.link
-    elif ARGS.file_strategy == "symlink":
-        copy_fn = os.symlink
     else:
         raise Exception("Unknown copy strategy {}".format(ARGS.file_strategy))
 

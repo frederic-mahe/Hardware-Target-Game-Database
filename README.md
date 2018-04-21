@@ -45,12 +45,12 @@ in order to reach the 100% mark
 
 Options for advanced users:
 
-`--file_strategy {copy,hardlink,symlink}` changes the way files are
-  copied to the destination folder. The default is to duplicate the
+`--file_strategy {copy,hardlink}` changes the way files are copied to
+  the destination folder. The default is to physically duplicate the
   files (`copy`). The option `hardlink` avoids file duplication and
   saves storage space for pack builders. Please note that when copying
   to a FAT32 SD card, hardlinks are automatically converted into
-  normal files, but symbolic links may not.
+  normal files.
 
 `-s` (or `--skip_existing`) avoids overwriting files that already
 exist in the destination folder.
