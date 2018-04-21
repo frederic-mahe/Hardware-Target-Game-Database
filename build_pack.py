@@ -22,11 +22,13 @@ import argparse
 #                                                                      #
 #**********************************************************************#
 
-def option_parse():
+if __name__ == '__main__':
     """
     Parse arguments from command line.
     """
     parser = argparse.ArgumentParser(description="use a database to identify and organize files.")
+    # Add support for boolean arguments.
+    parser.register('type', 'bool', (lambda x: x.lower() in ("yes", "true", "t", "1")))
 
     parser.add_argument("-i", "--input_folder",
                         dest="source_folder",
@@ -47,10 +49,51 @@ def option_parse():
                         dest="missing_files",
                         default=None,
                         help="list missing files")
-    
-    args = parser.parse_args()
-    return args.source_folder, args.target_database, args.output_folder, args.missing_files
 
+    parser.add_argument("--file_strategy",
+                        choices=["copy", "hardlink", "symlink"],
+                        dest="file_strategy",
+                        default="copy",
+                        help=("Strategy for how to get files into the output "
+                              "folder."))
+
+    parser.add_argument("-s", "--skip_existing",
+                        dest="skip_existing",
+                        default=False,
+                        nargs="?",
+                        const=True,
+                        type='bool',
+                        help=("Skip files which already exist at the "
+                              "destination without overwriting them."))
+
+    ARGS = parser.parse_args()
+
+def copy_file(source, dest):
+    """Get a file from source to destination, with a configurable strategy.
+
+    This method makes a file at source additionally appear at dest. The way this
+    is accomplished is controlled via the --file_strategy command.
+
+    Args:
+      source - The file to copy/symlink/etc.
+      dest - The destination that the new file should appear at
+    """
+    if ARGS.file_strategy == "copy":
+        copy_fn = shutil.copyfile
+    elif ARGS.file_strategy == "hardlink":
+        copy_fn = os.link
+    elif ARGS.file_strategy == "symlink":
+        copy_fn = os.symlink
+    else:
+        raise Exception("Unknown copy strategy {}".format(ARGS.file_strategy))
+
+    try:
+        # copy the file to the new directory
+        copy_fn(source, dest)
+    except FileNotFoundError:
+        # Windows' default API is limited to paths of 260 characters
+        fixed_dest = u'\\\\?\\' + os.path.abspath(dest)
+        copy_fn(absolute_filename, fixed_dest)
 
 def parse_database(target_database):
     """
@@ -93,7 +136,7 @@ def parse_folder(source_folder, db, output_folder):
                         # use a small buffer to compute hash to
                         # avoid memory overload
                         for b in iter(lambda : f.read(128 * 1024), b''):
-                            h.update(b)                    
+                            h.update(b)
                 if h.hexdigest() in db:
                     # we have a hit
                     for entry in db[h.hexdigest()]:
@@ -103,15 +146,11 @@ def parse_folder(source_folder, db, output_folder):
                         # create directory structure if need be
                         if not os.path.exists(new_path):
                             os.makedirs(new_path, exist_ok=True)
-                        try:
+                        new_file = os.path.join(output_folder, entry)
+                        if (not ARGS.skip_existing or not
+                                os.path.exists(new_file)):
                             # copy the file to the new directory
-                            shutil.copyfile(filename,
-                                            os.path.join(output_folder,
-                                                         entry))
-                        except FileNotFoundError:
-                            # Windows' default API is limited to paths of 260 characters
-                            new_file = u'\\\\?\\' + os.path.abspath(os.path.join(output_folder, entry))
-                            shutil.copyfile(absolute_filename, new_file)
+                            copy_file(filename, new_file)
                     # remove the hit from the database
                     del db[h.hexdigest()]
                 i += 1
@@ -131,8 +170,10 @@ def parse_folder(source_folder, db, output_folder):
 #**********************************************************************#
 
 if __name__ == '__main__':
-
-    SOURCE_FOLDER, TARGET_DATABASE, OUTPUT_FOLDER, MISSING_FILES = option_parse()
+    SOURCE_FOLDER = ARGS.source_folder
+    TARGET_DATABASE = ARGS.target_database
+    OUTPUT_FOLDER = ARGS.output_folder
+    MISSING_FILES = ARGS.missing_files
     DATABASE, NUMBER_OF_ENTRIES = parse_database(TARGET_DATABASE)
     FOUND_ENTRIES = parse_folder(SOURCE_FOLDER, DATABASE, OUTPUT_FOLDER)
     if MISSING_FILES:
