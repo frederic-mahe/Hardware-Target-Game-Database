@@ -43,6 +43,18 @@ pack
 `-m` (or `--missing`) is the text file that will list the ROMs missing
 in order to reach the 100% mark
 
+Options for advanced users:
+
+`--file_strategy {copy,hardlink,symlink}` changes the way files are
+  copied to the destination folder. The default is to duplicate the
+  files (`copy`). The option `hardlink` avoids file duplication and
+  saves storage space for pack builders. Please note that when copying
+  to a FAT32 SD card, hardlinks are automatically converted into
+  normal files, but symbolic links may not.
+
+`-s` (or `--skip_existing`) avoids overwriting files that already
+exist in the destination folder.
+
 Depending on your python installation, you may need to begin your
 command with the location of `python.exe` (for example,
 `C:\Users\XXX\AppData\Local\Programs\Python\Python36-32\python.exe`). More
