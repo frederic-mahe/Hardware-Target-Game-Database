@@ -12,6 +12,7 @@ __version__ = "$Revision: 4.0"
 
 import os
 import sys
+import time
 import zlib
 import hashlib
 import argparse
@@ -78,6 +79,12 @@ def parse_folder(target_folder, output_file):
                     os.path.isfile(absolute_filename)
                     # convert to Unix format by default
                     filename = filename.replace("\\", "/")
+                    # Report filenames with non-ASCII characters
+                    try:
+                        filename.encode('ascii')
+                    except UnicodeEncodeError:
+                        print("Error (non-ASCII character):", filename, file=sys.stdout)
+                        time.sleep(10)  # alternatively: sys.exit(1)
                     sha256 = hashlib.sha256()
                     sha1 = hashlib.sha1()
                     md5 = hashlib.md5()
