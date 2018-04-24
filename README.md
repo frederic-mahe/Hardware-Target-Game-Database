@@ -7,11 +7,11 @@ packs based on suggested file/folder layouts compiled by SmokeMonster.
 Because most flash-carts require specific ROMs and fixes, it is a
 monumental task to compile 100% complete/working setups, and is often
 beyond the capabilities of any one person. Thousands of hours have
-been invested in the SMDBs of this project with the goal of 100%
-complete, 100% working real-hardware compatible arrangements of the
-highest quality ROM dumps. File hierarchies are shared via SMDB
-database files which contain all of the information needed to identify
-and sort files.
+been invested in the *SmokeMonster databases* (or SMDBs) of this
+project with the goal of 100% complete, 100% working real-hardware
+compatible arrangements of the highest quality ROM dumps. File
+hierarchies are shared via SMDB database files which contain all of
+the information needed to identify and sort files.
 
 Text databases are provided for a range of flash-carts.  These SMDBs
 allow users to dump all of their legally acquired ROMs into a single
