@@ -86,15 +86,13 @@ first with the command `dos2unix`)
 
 ## Coding
 
-Scripts and code by @frederic-mahe, with awesome patches by
-[@eatnumber1](https://github.com/eatnumber1) and
+Scripts and code by
+[@frederic-mahe](https://github.com/frederic-mahe), with awesome
+patches by [@eatnumber1](https://github.com/eatnumber1) and
 [@coughlanio](https://github.com/coughlanio).
 
-https://github.com/frederic-mahe
-
-EverDrive Pack SMDB layouts by @SmokeMonsterPacks
-
-https://github.com/SmokeMonsterPacks
+EverDrive Pack SMDB layouts by
+[@SmokeMonsterPacks](https://github.com/SmokeMonsterPacks).
 
 ## Similar tools
 
