@@ -87,7 +87,8 @@ first with the command `dos2unix`)
 ## Coding
 
 Scripts and code by @frederic-mahe, with awesome patches by
-@eatnumber1 and @coughlanio.
+[@eatnumber1](https://github.com/eatnumber1) and
+[@coughlanio](https://github.com/coughlanio).
 
 https://github.com/frederic-mahe
 
