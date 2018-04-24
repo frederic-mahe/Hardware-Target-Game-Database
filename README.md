@@ -15,8 +15,8 @@ and sort files.
 
 Text databases are provided for a range of flash-carts.  These SMDBs
 allow users to dump all of their legally acquired ROMs into a single
-folder. When the build_pack script is run on that directory, the ROMs
-will be analyzed (via hash comparisons) and sorted into complete,
+folder. When the `build_pack` script is run on that directory, the
+ROMs will be analyzed (via hash comparisons) and sorted into complete,
 flash-cart friendly Packs, as described in an SMDB. This allows
 creators to share file and folder setups without having to share the
 ROMs themselves.
