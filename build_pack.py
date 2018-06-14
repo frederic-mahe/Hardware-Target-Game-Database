@@ -95,7 +95,7 @@ def copy_file(source, dest):
     except FileNotFoundError:
         # Windows' default API is limited to paths of 260 characters
         fixed_dest = u'\\\\?\\' + os.path.abspath(dest)
-        copy_fn(absolute_filename, fixed_dest)
+        copy_fn(source, fixed_dest)
 
 def parse_database(target_database):
     """
