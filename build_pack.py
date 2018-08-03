@@ -16,20 +16,22 @@ import hashlib
 import argparse
 
 
-#**********************************************************************#
+# *********************************************************************#
 #                                                                      #
 #                            Functions                                 #
 #                                                                      #
-#**********************************************************************#
+# *********************************************************************#
 
 if __name__ == '__main__':
     """
     Parse arguments from command line.
     """
-    parser = argparse.ArgumentParser(description="use a database to identify and organize files.")
-    # Add support for boolean arguments. Allows us to accept 1-argument forms of
-    # boolean flags whose values are any of "yes", "true", "t" or "1".
-    parser.register('type', 'bool', (lambda x: x.lower() in ("yes", "true", "t", "1")))
+    parser = argparse.ArgumentParser(
+        description="use a database to identify and organize files.")
+    # Add support for boolean arguments. Allows us to accept 1-argument forms
+    # of boolean flags whose values are any of "yes", "true", "t" or "1".
+    parser.register('type', 'bool', (lambda x: x.lower() in
+                                     ("yes", "true", "t", "1")))
 
     parser.add_argument("-i", "--input_folder",
                         dest="source_folder",
@@ -72,11 +74,12 @@ if __name__ == '__main__':
 
     ARGS = parser.parse_args()
 
+
 def copy_file(source, dest):
     """Get a file from source to destination, with a configurable strategy.
 
-    This method makes a file at source additionally appear at dest. The way this
-    is accomplished is controlled via the --file_strategy command.
+    This method makes a file at source additionally appear at dest. The way
+    this is accomplished is controlled via the --file_strategy command.
 
     Args:
       source - The file to copy/hardlink
@@ -96,6 +99,7 @@ def copy_file(source, dest):
         # Windows' default API is limited to paths of 260 characters
         fixed_dest = u'\\\\?\\' + os.path.abspath(dest)
         copy_fn(source, fixed_dest)
+
 
 def parse_database(target_database):
     """
@@ -131,13 +135,13 @@ def parse_folder(source_folder, db, output_folder):
                     with open(filename, "rb", buffering=0) as f:
                         # use a small buffer to compute hash to
                         # avoid memory overload
-                        for b in iter(lambda : f.read(128 * 1024), b''):
+                        for b in iter(lambda: f.read(128 * 1024), b''):
                             h.update(b)
                 except FileNotFoundError:
                     with open(absolute_filename, "rb", buffering=0) as f:
                         # use a small buffer to compute hash to
                         # avoid memory overload
-                        for b in iter(lambda : f.read(128 * 1024), b''):
+                        for b in iter(lambda: f.read(128 * 1024), b''):
                             h.update(b)
                 if h.hexdigest() in db:
                     # we have a hit
@@ -161,15 +165,14 @@ def parse_folder(source_folder, db, output_folder):
     else:
         print('processing file: {:>9}'.format(i), file=sys.stdout)
 
-
     return found_entries
 
 
-#**********************************************************************#
+# *********************************************************************#
 #                                                                      #
 #                              Body                                    #
 #                                                                      #
-#**********************************************************************#
+# *********************************************************************#
 
 if __name__ == '__main__':
     SOURCE_FOLDER = ARGS.source_folder
@@ -185,12 +188,14 @@ if __name__ == '__main__':
             list_of_missing_files.sort()
             with open(MISSING_FILES, "w") as missing_files:
                 for missing_file, entry in list_of_missing_files:
-                    print(missing_file, entry, sep = "\t", file=missing_files)
+                    print(missing_file, entry, sep="\t", file=missing_files)
         else:
             print("no missing file")
 
     COVERAGE = round(100.0 * FOUND_ENTRIES / NUMBER_OF_ENTRIES, 2)
-    print('coverage: {}/{} ({}%)'.format(FOUND_ENTRIES, NUMBER_OF_ENTRIES, COVERAGE),
+    print('coverage: {}/{} ({}%)'.format(FOUND_ENTRIES,
+                                         NUMBER_OF_ENTRIES,
+                                         COVERAGE),
           file=sys.stdout)
 
 sys.exit(0)
