@@ -27,6 +27,13 @@ flash-cart friendly Packs, as described in an SMDB. This allows
 creators to share file and folder setups without having to share the
 ROMs themselves.
 
+## GUI
+
+**gui_pack.py** Graphical User Interface for parse_pack.py and build_pack.py:
+```DOS .bat
+"C:\XXX\gui_pack.py"
+```
+
 ## Tools Included
 
 **parse_pack.py** For making SMDBs (example command):
