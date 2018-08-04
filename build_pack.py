@@ -3,17 +3,16 @@
 """
 use a database to identify and organize files.
 """
-
-__author__ = "aquaman"
-__date__ = "2017/11/17"
-__version__ = "$Revision: 3.1"
-
-
 import os
 import sys
 import shutil
 import hashlib
 import argparse
+
+
+__author__ = "aquaman"
+__date__ = "2017/11/17"
+__version__ = "$Revision: 3.1"
 
 
 # *********************************************************************#

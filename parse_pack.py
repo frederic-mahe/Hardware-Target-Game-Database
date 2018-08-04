@@ -4,18 +4,17 @@
 for a given folder, produce a list of file names with relative
 paths and hash values.
 """
-
-__author__ = "aquaman"
-__date__ = "2018/01/22"
-__version__ = "$Revision: 4.0"
-
-
 import os
 import sys
 import time
 import zlib
 import hashlib
 import argparse
+
+
+__author__ = "aquaman"
+__date__ = "2018/01/22"
+__version__ = "$Revision: 4.0"
 
 
 # *********************************************************************#
