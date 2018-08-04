@@ -20,7 +20,7 @@ __version__ = "$Revision: 0.1"
 #                                                                      #
 # *********************************************************************#
 
-class AppFrame(ttk.Frame):
+class ParseFrame(ttk.Frame):
     def __init__(self, parent, *args, **kwargs):
         ttk.Frame.__init__(self, parent, *args, **kwargs)
 
@@ -38,71 +38,84 @@ class AppFrame(ttk.Frame):
         self.overwrite = BooleanVar()
 
         # ROMs directory
-        textbox_roms = Entry(self, textvariable=self.path_dir_roms)
+        textbox_roms = Entry(self, width=50, textvariable=self.path_dir_roms)
         textbox_roms.grid(column=2, row=1, sticky=E)
         # textbox_roms.pack(pady=10, padx=10)
         ttk.Label(self, text="ROMs folder: ").grid(column=1, row=1, sticky=E)
         ttk.Button(self, text="Browse",
                    command=lambda:
-                   self.select_folder(self.path_dir_roms,
-                                      "Select ROMs folder")
+                   select_folder(self.path_dir_roms,
+                                 "Select ROMs folder")
                    ).grid(column=3, row=1, sticky=W)
 
         # Pack file
-        textbox_pack_file = Entry(self, textvariable=self.path_pack_file)
+        textbox_pack_file = Entry(self, width=50,
+                                  textvariable=self.path_pack_file)
         textbox_pack_file.grid(column=2, row=2, sticky=E)
         # textbox_roms.pack(pady=10, padx=10)
-        ttk.Label(self, text="SMDB/pack file: ").grid(column=1, row=2, 
-                                                      sticky=E)
+        ttk.Label(self, text="New pack file: ").grid(column=1, row=2,
+                                                     sticky=E)
         ttk.Button(self, text="Browse",
                    command=lambda:
-                   self.select_file_open(self.path_pack_file,
-                                         "Select SMDB/pack file")
+                   select_file_save(self.path_pack_file,
+                                    "Select SMDB/pack file")
                    ).grid(column=3, row=2, sticky=W)
 
         textbox_roms.focus_set()
 
-        # feet = StringVar()
-        # meters = StringVar()
 
-        # feet_entry = ttk.Entry(self, width=7, textvariable=feet)
-        # feet_entry.grid(column=2, row=1, sticky=(W, E))
+class BuildFrame(ttk.Frame):
+    def __init__(self, parent, *args, **kwargs):
+        ttk.Frame.__init__(self, parent, *args, **kwargs)
 
-        # ttk.Label(self, textvariable=meters).grid(column=2, row=2,
-        #                                                sticky=(W, E))
+        self.parent = parent
 
-        # ttk.Label(self, text="feet").grid(column=3, row=1, sticky=W)
-        # ttk.Label(self, text="is equivalent to").grid(column=1, row=2,
-        #                                                    sticky=E)
-        # ttk.Label(self, text="meters").grid(column=3, row=2, sticky=W)
-        # ttk.Button(self, text="Calculate", command=calculate).grid(column=3,
-        #                                                            row=3,
-        #                                                            sticky=W)
+        self.grid(column=0, row=0, sticky=(N, W, E, S))
+        self.columnconfigure(0, weight=1)
+        self.rowconfigure(0, weight=1)
 
-        # for child in self.winfo_children():
-        #     child.grid_configure(padx=5, pady=5)
+        self.path_dir_roms = StringVar()
+        self.path_pack_file = StringVar()
+        self.path_dir_pack = StringVar()
+        self.path_missing_file = StringVar()
+        self.file_strategy = StringVar()
+        self.overwrite = BooleanVar()
 
-        # feet_entry.focus()
-        # slef.parent.bind('<Return>', calculate)
+        # ROMs directory
+        textbox_roms = Entry(self, width=50, textvariable=self.path_dir_roms)
+        textbox_roms.grid(column=2, row=1, sticky=E)
+        # textbox_roms.pack(pady=10, padx=10)
+        ttk.Label(self, text="ROMs folder: ").grid(column=1, row=1, sticky=E)
+        ttk.Button(self, text="Browse",
+                   command=lambda:
+                   select_folder(self.path_dir_roms, "Select ROMs folder")
+                   ).grid(column=3, row=1, sticky=W)
 
-    def select_folder(self, directory, title):
-        directory = fd.askdirectory(initialdir=os.getcwd(), title=title)
-        # directory_wrp[0] = fd.askdirectory(initialdir=os.getcwd(),
-        #                                            title=title)
-        print(directory)
-        # return directory
+        # Pack file
+        textbox_pack_file = Entry(self, width=50,
+                                  textvariable=self.path_pack_file)
+        textbox_pack_file.grid(column=2, row=2, sticky=E)
+        # textbox_roms.pack(pady=10, padx=10)
+        ttk.Label(self, text="SMDB/pack file: ").grid(column=1, row=2,
+                                                      sticky=E)
+        ttk.Button(self, text="Browse",
+                   command=lambda:
+                   select_file_save(self.path_pack_file,
+                                    "Select SMDB/pack file")
+                   ).grid(column=3, row=2, sticky=W)
 
-    def select_file_open(self, filename, title):
-        filename = fd.askopenfilename(initialdir=os.getcwd(), title=title)
-        # filename_wrp[0] = fd.askopenfilename(initialdir=os.getcwd(),
-        #                                              title=title)
-        print(filename)
-        # return filename
+        textbox_roms.focus_set()
 
-    def select_file_save(self, filename, title):
-        filename = fd.asksaveasfilename(initialdir=os.getcwd(), title=title)
-        print(filename)
-        return filename
+
+# Step 2: Creating The App
+class App(Tk):
+    def __init__(self, *args, **kwargs):
+        # call the parent constructor
+        Tk.__init__(self, *args, **kwargs)
+
+        # show app frame
+        self.appFrame = ParseFrame(self, padding="3 3 12 12")
+        self.appFrame.pack(side="top", fill="both", expand=True)
 
 
 # *********************************************************************#
@@ -111,13 +124,29 @@ class AppFrame(ttk.Frame):
 #                                                                      #
 # *********************************************************************#
 
-def calculate(*args):
-    try:
-        value = float(feet.get())
-        meters.set((0.3048 * value * 10000.0 + 0.5) / 10000.0)
-    except ValueError:
-        pass
+def select_folder(self, directory, tb, title):
+    path = fd.askdirectory(initialdir=os.getcwd(), title=title)
+    if path:
+        directory.set(path)
 
+
+def select_file_open(self, filename, title):
+    path = fd.askopenfilename(initialdir=os.getcwd(), title=title)
+    if path:
+        filename.set(path)
+
+
+def select_file_save(self, filename, title):
+    path = fd.asksaveasfilename(initialdir=os.getcwd(), title=title)
+    if path:
+        filename.set(path)
+
+
+# Step 3: Bootstrap the app
+def main():
+    app = App()
+    app.title("EverDrive-Packs-Lists-Database")
+    app.mainloop()
 
 # *********************************************************************#
 #                                                                      #
@@ -125,10 +154,6 @@ def calculate(*args):
 #                                                                      #
 # *********************************************************************#
 
+
 if __name__ == '__main__':
-    root = Tk()
-    root.title("EverDrive-Packs-Lists-Database")
-
-    mainframe = AppFrame(root, padding="3 3 12 12")
-
-    root.mainloop()
+    main()
