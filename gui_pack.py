@@ -162,8 +162,8 @@ class BuildFrame(ttk.Frame):
         self.path_pack_file = StringVar()
         self.path_dir_pack = StringVar()
         self.path_missing_file = StringVar()
-        self.file_strategy = StringVar()
-        self.overwrite = BooleanVar()
+        self.file_strategy = IntVar()
+        self.overwrite = IntVar()
 
         # ROMs directory
         textbox_roms = Entry(self, width=50, textvariable=self.path_dir_roms)
@@ -207,15 +207,28 @@ class BuildFrame(ttk.Frame):
                                     "Save missing file")
                    ).grid(column=3, row=4, sticky=W)
 
+        ttk.Label(self, text="File strategy: "
+                  ).grid(column=1, row=5, sticky=E)
+        Radiobutton(self, text="Copy", variable=self.file_strategy, value=0
+                    ).grid(column=2, row=5, sticky=W)
+        Radiobutton(self, text="HardLink", variable=self.file_strategy, value=1
+                    ).grid(column=2, row=6, sticky=W)
+
+        ttk.Label(self, text="Skip existing: "
+                  ).grid(column=1, row=7, sticky=E)
+        Checkbutton(self, text="", variable=self.overwrite
+                    ).grid(column=2, row=7, sticky=W)
+        self.overwrite.set(1)
+
         ttk.Button(self, text="Clear", underline=0,
                    command=lambda:
                    self.click_clear()
-                   ).grid(column=2, row=5, sticky=E)
+                   ).grid(column=2, row=8, sticky=E)
         self.parent.bind("<Alt_L><c>", lambda e: self.click_clear())
         ttk.Button(self, text="Build", underline=0,
                    command=lambda:
                    self.click_build()
-                   ).grid(column=3, row=5, sticky=W)
+                   ).grid(column=3, row=8, sticky=W)
         self.parent.bind("<Alt_L><b>", lambda e: self.click_build())
 
         textbox_roms.focus_set()
@@ -225,8 +238,8 @@ class BuildFrame(ttk.Frame):
         self.path_pack_file.set('')
         self.path_dir_pack.set('')
         self.path_missing_file.set('')
-        self.file_strategy.set('')
-        self.overwrite.set(False)
+        self.file_strategy.set(0)
+        self.overwrite.set(1)
 
     def click_build(self):
         self.parent.destroy()
@@ -249,9 +262,9 @@ class App(Tk):
 
         tab_control.pack(expand=1, fill="both")
 
-        self.menu_bar = MenuBar(self)
+        menu_bar = MenuBar(self)
 
-        self.config(menu=self.menu_bar)
+        self.config(menu=menu_bar)
 
 
 # *********************************************************************#
