@@ -108,7 +108,8 @@ class ParseFrame(ttk.Frame):
         textbox_roms = Entry(self, width=50, textvariable=self.path_dir_roms)
         textbox_roms.grid(column=2, row=1, sticky=E)
         # textbox_roms.pack(pady=10, padx=10)
-        ttk.Label(self, text="ROMs folder: ").grid(column=1, row=1, sticky=E)
+        ttk.Label(self, text="ROMs folder: "
+                  ).grid(column=1, row=1, sticky=W)
         ttk.Button(self, text="Browse",
                    command=lambda:
                    select_folder(self.path_dir_roms,
@@ -120,8 +121,8 @@ class ParseFrame(ttk.Frame):
                                   textvariable=self.path_pack_file)
         textbox_pack_file.grid(column=2, row=2, sticky=E)
         # textbox_roms.pack(pady=10, padx=10)
-        ttk.Label(self, text="New pack file: ").grid(column=1, row=2,
-                                                     sticky=E)
+        ttk.Label(self, text="New pack file: "
+                  ).grid(column=1, row=2, sticky=W)
         ttk.Button(self, text="Browse",
                    command=lambda:
                    select_file_save(self.path_pack_file,
@@ -168,7 +169,8 @@ class BuildFrame(ttk.Frame):
         # ROMs directory
         textbox_roms = Entry(self, width=50, textvariable=self.path_dir_roms)
         textbox_roms.grid(column=2, row=1, sticky=E)
-        ttk.Label(self, text="ROMs folder: ").grid(column=1, row=1, sticky=E)
+        ttk.Label(self, text="ROMs folder: "
+                  ).grid(column=1, row=1, sticky=W)
         ttk.Button(self, text="Browse",
                    command=lambda:
                    select_folder(self.path_dir_roms, "Select ROMs folder")
@@ -178,8 +180,8 @@ class BuildFrame(ttk.Frame):
         textbox_pack_file = Entry(self, width=50,
                                   textvariable=self.path_pack_file)
         textbox_pack_file.grid(column=2, row=2, sticky=E)
-        ttk.Label(self, text="SMDB/pack file: ").grid(column=1, row=2,
-                                                      sticky=E)
+        ttk.Label(self, text="SMDB/pack file: "
+                  ).grid(column=1, row=2, sticky=W)
         ttk.Button(self, text="Browse",
                    command=lambda:
                    select_file_open(self.path_pack_file,
@@ -189,7 +191,8 @@ class BuildFrame(ttk.Frame):
         # Pack directory
         textbox_pack = Entry(self, width=50, textvariable=self.path_dir_pack)
         textbox_pack.grid(column=2, row=3, sticky=E)
-        ttk.Label(self, text="Pack folder: ").grid(column=1, row=3, sticky=E)
+        ttk.Label(self, text="Pack folder: "
+                  ).grid(column=1, row=3, sticky=W)
         ttk.Button(self, text="Browse",
                    command=lambda:
                    select_folder(self.path_dir_pack, "Select Pack folder")
@@ -199,8 +202,8 @@ class BuildFrame(ttk.Frame):
         textbox_missing_file = Entry(self, width=50,
                                      textvariable=self.path_missing_file)
         textbox_missing_file.grid(column=2, row=4, sticky=E)
-        ttk.Label(self, text="Missing file: ").grid(column=1, row=4,
-                                                    sticky=E)
+        ttk.Label(self, text="Missing file: "
+                  ).grid(column=1, row=4, sticky=W)
         ttk.Button(self, text="Browse",
                    command=lambda:
                    select_file_save(self.path_missing_file,
@@ -208,14 +211,14 @@ class BuildFrame(ttk.Frame):
                    ).grid(column=3, row=4, sticky=W)
 
         ttk.Label(self, text="File strategy: "
-                  ).grid(column=1, row=5, sticky=E)
+                  ).grid(column=1, row=5, sticky=W)
         Radiobutton(self, text="Copy", variable=self.file_strategy, value=0
                     ).grid(column=2, row=5, sticky=W)
         Radiobutton(self, text="HardLink", variable=self.file_strategy, value=1
                     ).grid(column=2, row=6, sticky=W)
 
         ttk.Label(self, text="Skip existing: "
-                  ).grid(column=1, row=7, sticky=E)
+                  ).grid(column=1, row=7, sticky=W)
         Checkbutton(self, text="", variable=self.overwrite
                     ).grid(column=2, row=7, sticky=W)
         self.overwrite.set(1)
@@ -252,13 +255,13 @@ class App(Tk):
 
         tab_control = ttk.Notebook(self)
 
-        parse_frame = ParseFrame(self, padding="3 3 12 12")
-        parse_frame.pack(side="top", fill="both", expand=True)
-        tab_control.add(parse_frame, text="Parse ROMs Folder", sticky=N)
-
         build_frame = BuildFrame(self, padding="3 3 12 12")
         build_frame.pack(side="top", fill="both", expand=True)
         tab_control.add(build_frame, text="Build Pack", sticky=N)
+
+        parse_frame = ParseFrame(self, padding="3 3 12 12")
+        parse_frame.pack(side="top", fill="both", expand=True)
+        tab_control.add(parse_frame, text="Parse ROMs Folder", sticky=N)
 
         tab_control.pack(expand=1, fill="both")
 
@@ -301,6 +304,7 @@ def main():
 #                              Body                                    #
 #                                                                      #
 # *********************************************************************#
+
 
 # Fonts
 if "Darwin" in system():
