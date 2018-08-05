@@ -237,9 +237,17 @@ class App(Tk):
         # call the parent constructor
         Tk.__init__(self, *args, **kwargs)
 
-        # self.app_frame = ParseFrame(self, padding="3 3 12 12")
-        self.app_frame = BuildFrame(self, padding="3 3 12 12")
-        self.app_frame.pack(side="top", fill="both", expand=True)
+        tab_control = ttk.Notebook(self)
+
+        parse_frame = ParseFrame(self, padding="3 3 12 12")
+        parse_frame.pack(side="top", fill="both", expand=True)
+        tab_control.add(parse_frame, text="Parse ROMs Folder", sticky=N)
+
+        build_frame = BuildFrame(self, padding="3 3 12 12")
+        build_frame.pack(side="top", fill="both", expand=True)
+        tab_control.add(build_frame, text="Build Pack", sticky=N)
+
+        tab_control.pack(expand=1, fill="both")
 
         self.menu_bar = MenuBar(self)
 
