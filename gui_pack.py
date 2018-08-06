@@ -9,6 +9,9 @@ from tkinter import ttk
 from tkinter import filedialog as fd
 import os
 from platform import system
+# import subprocess
+import parse_pack
+import threading
 
 
 __author__ = "aleyr"
@@ -32,7 +35,7 @@ class TextMessage(object):
         msg = tk.Text(top, width=90, font=('courier', size, 'normal'))
         msg.grid(stick=tk.N, padx=(10, 10), pady=(10, 10))
         msg.insert("1.0", about_message)
-        button = tk.Button(top, height=1, width=20, text="Dismiss",
+        button = tk.Button(top, height=1, width=20, text="OK", underline=0,
                            command=top.destroy, bg='gray97', relief=tk.GROOVE)
         button.grid(sticky=tk.S, pady=(0, 10))
         s = tk.Scrollbar(top, width=20)
@@ -40,6 +43,9 @@ class TextMessage(object):
         s['command'] = msg.yview
         msg['yscrollcommand'] = s.set
         top.resizable(width=tk.FALSE, height=tk.FALSE)
+        button.focus_set()
+        top.bind("<Alt_L><o>", lambda e: top.destroy())
+        top.bind('<Escape>', lambda e: top.destroy())
 
     def about(self, fontz):
         top = tk.Toplevel()
@@ -140,12 +146,12 @@ class ParseFrame(ttk.Frame):
                    self.click_command()
                    ).grid(column=2, row=1, sticky=E)
         self.parent.bind("<Alt_L><m>", lambda e: self.click_command())
-        ttk.Button(button_frame, text="Parse", underline=0,
-                   command=lambda:
-                   self.click_parse()
-                   ).grid(column=3, row=1, sticky=W)
-        self.parent.bind("<Alt_L><p>", lambda e: self.click_parse())
-        button_frame.grid(column=2, row=8, columnspan=3, sticky=E)
+        # ttk.Button(button_frame, text="Parse", underline=0,
+        #            command=lambda:
+        #            self.click_parse()
+        #            ).grid(column=3, row=1, sticky=W)
+        # self.parent.bind("<Alt_L><p>", lambda e: self.click_parse())
+        # button_frame.grid(column=2, row=8, columnspan=3, sticky=E)
 
         textbox_roms.focus_set()
 
@@ -154,10 +160,42 @@ class ParseFrame(ttk.Frame):
         self.path_pack_file.set("")
 
     def click_command(self):
-        self.parent.destroy()
+        if self.validate_info():
+            cmd = create_command(folder=self.path_dir_roms.get(),
+                                 output=self.path_pack_file.get())
+            TextMessage().popup("Python command", cmd)
+
+    def validate_info(self):
+        out = False
+        if (not self.path_dir_roms.get() == "" and
+                os.path.lexists(self.path_dir_roms.get()) and
+                not self.path_pack_file.get() == ""):
+            out = True
+        else:
+            error_msg = ""
+            if self.path_dir_roms.get() == "":
+                error_msg += "ROMs folder is a required field.\n"
+            if not os.path.lexists(self.path_dir_roms.get()):
+                error_msg += "ROMs folder does not exist, "
+                error_msg += "please select a valid folder.\n"
+            if self.path_pack_file.get() == "":
+                error_msg += "New pack file is a required field.\n"
+            TextMessage().popup("Error", error_msg)
+
+        return out
 
     def click_parse(self):
-        self.parent.destroy()
+        if self.validate_info():
+            # cmd = create_command_array(folder=self.path_dir_roms.get(),
+            #                            output=self.path_pack_file.get())
+            # print(str(cmd))
+            # subprocess.call(cmd, shell=True)
+            t = threading.Thread(target=parse_pack.parse_folder,
+                                 name="parsing",
+                                 args=[self.path_dir_roms.get(),
+                                       self.path_pack_file.get()])
+            t.daemon = True
+            t.start()
 
 
 class BuildFrame(ttk.Frame):
@@ -176,6 +214,9 @@ class BuildFrame(ttk.Frame):
         self.path_missing_file = StringVar()
         self.file_strategy = IntVar()
         self.overwrite = IntVar()
+
+        # self.file_strategy.set(0)
+        # self.overwrite.set(1)
 
         # ROMs directory
         textbox_roms = Entry(self, width=50, textvariable=self.path_dir_roms)
@@ -245,12 +286,12 @@ class BuildFrame(ttk.Frame):
                    self.click_command()
                    ).grid(column=2, row=1, sticky=E)
         self.parent.bind("<Alt_L><m>", lambda e: self.click_command())
-        ttk.Button(button_frame, text="Build", underline=0,
-                   command=lambda:
-                   self.click_build()
-                   ).grid(column=3, row=1, sticky=W)
-        self.parent.bind("<Alt_L><b>", lambda e: self.click_build())
-        button_frame.grid(column=2, row=8, columnspan=3, sticky=E)
+        # ttk.Button(button_frame, text="Build", underline=0,
+        #            command=lambda:
+        #            self.click_build()
+        #            ).grid(column=3, row=1, sticky=W)
+        # self.parent.bind("<Alt_L><b>", lambda e: self.click_build())
+        # button_frame.grid(column=2, row=8, columnspan=3, sticky=E)
 
         textbox_roms.focus_set()
 
@@ -263,10 +304,40 @@ class BuildFrame(ttk.Frame):
         self.overwrite.set(1)
 
     def click_command(self):
-        self.parent.destroy()
+        if self.validate_info():
+            cmd = create_command(input_folder=self.path_dir_roms.get(),
+                                 database=self.path_pack_file.get(),
+                                 output_folder=self.path_dir_pack.get(),
+                                 missing=self.path_missing_file.get(),
+                                 file_strategy=self.file_strategy.get(),
+                                 skip_eisting=self.overwrite.get())
+            TextMessage().popup("Python command", cmd)
+
+    def validate_info(self):
+        out = False
+        if (not self.path_dir_roms.get() == "" and
+                os.path.lexists(self.path_dir_roms.get()) and
+                not self.path_pack_file.get() == "" and
+                not self.path_dir_pack.get() == ""):
+            out = True
+        else:
+            error_msg = ""
+            if self.path_dir_roms.get() == "":
+                error_msg += "ROMs folder is a required field.\n"
+            if not os.path.lexists(self.path_dir_roms.get()):
+                error_msg += "ROMs folder does not exist, "
+                error_msg += "please select a valid folder.\n"
+            if self.path_pack_file.get() == "":
+                error_msg += "SMDB/pack file is a required field.\n"
+            if self.path_dir_pack.get() == "":
+                error_msg += "Pack folder is a required field.\n"
+            TextMessage().popup("Error", error_msg)
+
+        return out
 
     def click_build(self):
-        self.parent.destroy()
+        if self.validate_info():
+            print("Build")
 
 
 class App(Tk):
@@ -313,6 +384,65 @@ def select_file_save(filename, title):
     path = fd.asksaveasfilename(initialdir=os.getcwd(), title=title)
     if path:
         filename.set(path)
+
+
+def create_command(folder=None, output=None, input_folder=None,
+                   database=None, output_folder=None, missing=None,
+                   file_strategy=None, skip_eisting=None):
+    cmd = sys.executable
+    if folder:
+        cmd += " " + os.path.join(os.getcwd(), "parse_pack.py")
+        cmd += " -f " + folder
+        cmd += " -o " + output
+    else:
+        cmd += " " + os.path.join(os.getcwd(), "build_pack.py")
+        cmd += " -i " + input_folder
+        cmd += " -d " + database
+        cmd += (" -o " + output_folder) if output_folder else ""
+        cmd += (" -m " + missing) if missing else ""
+        if file_strategy == 0:
+            cmd += " --file_strategy copy"
+        else:
+            cmd += " --file_strategy hardlink"
+        cmd += " --skip_existing" if skip_eisting else ""
+
+    # cmd += "\n\n\nExecute above command on the folder where the script "
+    # cmd += "is located."
+
+    return cmd
+
+
+def create_command_array(folder=None, output=None, input_folder=None,
+                         database=None, output_folder=None, missing=None,
+                         file_strategy=None, skip_eisting=None):
+    # cmd = ["cmd", "/k", sys.executable]
+    cmd = [sys.executable]
+    if folder:
+        cmd.append(os.path.join(os.getcwd(), "parse_pack.py"))
+        cmd.append("-f")
+        cmd.append(folder)
+        cmd.append("-o")
+        cmd.append(output)
+    else:
+        cmd.append(os.path.join(os.getcwd(), "build_pack.py"))
+        cmd.append("-i")
+        cmd.append(input_folder)
+        cmd.append("-d")
+        cmd.append(database)
+        cmd.append("-o")
+        cmd.append(output_folder)
+        cmd.append("-m")
+        cmd.append(missing)
+        if file_strategy == 0:
+            cmd.append("--file_strategy")
+            cmd.append("copy")
+        else:
+            cmd.append("--file_strategy")
+            cmd.append("hardlink")
+        if skip_eisting:
+            cmd.append("--skip_existing")
+
+    return cmd
 
 
 def main():

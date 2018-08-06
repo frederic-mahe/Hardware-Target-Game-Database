@@ -10,6 +10,7 @@ import time
 import zlib
 import hashlib
 import argparse
+import logging
 
 
 __author__ = "aquaman"
@@ -44,7 +45,7 @@ def option_parse():
     return args.target_folder, args.output_file
 
 
-def parse_folder(target_folder, output_file):
+def parse_folder(target_folder, output_file, file=sys.stdout):
     """
     read each file and produce a hash value.
     """
@@ -89,8 +90,9 @@ def parse_folder(target_folder, output_file):
                     try:
                         filename.encode('ascii')
                     except UnicodeEncodeError:
-                        print("Error (non-ASCII character):", filename,
-                              file=sys.stdout)
+                        logging.error("Error (non-ASCII character):", filename)
+                        # print("Error (non-ASCII character):", filename,
+                        #       file=file)
                         time.sleep(10)  # alternatively: sys.exit(1)
                     sha256 = hashlib.sha256()
                     sha1 = hashlib.sha1()
@@ -132,12 +134,14 @@ def parse_folder(target_folder, output_file):
                               sep="\t",
                               file=output_file)
                         i += 1
-                        print("processing file: {:>9}".format(i),
-                              end="\r",
-                              file=sys.stdout,
-                              flush=True)
+                        logging.info("processing file: {:>9}".format(i))
+                        # print("processing file: {:>9}".format(i),
+                        #       end="\r",
+                        #       file=file,
+                        #       flush=True)
         else:
-            print('processing file: {:>9}'.format(i), file=sys.stdout)
+            # print('processing file: {:>9}'.format(i), file=file)
+            logging.info("processing file: {:>9}".format(i))
 
     return None
 
@@ -156,4 +160,4 @@ if __name__ == '__main__':
         parse_folder(TARGET_FOLDER, OUTPUT_FILE)
 
 
-sys.exit(0)
+    sys.exit(0)

@@ -118,7 +118,7 @@ def parse_database(target_database):
     return db, number_of_entries
 
 
-def parse_folder(source_folder, db, output_folder):
+def parse_folder(source_folder, db, output_folder, file=sys.stdout):
     """
     read each file, produce a hash value and place it in the directory tree.
     """
@@ -160,9 +160,9 @@ def parse_folder(source_folder, db, output_folder):
                     del db[h.hexdigest()]
                 i += 1
                 print("processing file: {:>9}".format(i),
-                      end="\r", file=sys.stdout, flush=True)
+                      end="\r", file=file, flush=True)
     else:
-        print('processing file: {:>9}'.format(i), file=sys.stdout)
+        print('processing file: {:>9}'.format(i), file=file)
 
     return found_entries
 
@@ -197,4 +197,4 @@ if __name__ == '__main__':
                                          COVERAGE),
           file=sys.stdout)
 
-sys.exit(0)
+    sys.exit(0)
