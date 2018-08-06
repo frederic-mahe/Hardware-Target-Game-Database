@@ -34,6 +34,27 @@ ROMs themselves.
 "C:\XXX\gui_pack.py"
 ```
 
+Since Python 3 is a requirement I decide to create a UI based on pythons's tkinter,
+to help more people use SmokeMonster scripts to manage their ROMs collections.
+
+Currently the UI uses file dialogs to help on selecting folders and files, performs
+some basic validation and generates the script to be pasted and ran on the console,
+I plan to allow for the script to be run from within but tkinter being single
+threaded is causing me issues, so I probably need to make more changes into the
+parse_pack.py and build_pack.py
+
+The Interface have 2 tabs, one for build_pack.py (default tab) and the other for 
+parse_pack.py.
+
+**Build tab**
+
+The first 3 input fields are required, the 4th is optional also the advanced options
+are present and preselected to default values.
+
+**Parse tab**
+
+The 2 input fields are required.
+
 ## Tools Included
 
 **parse_pack.py** For making SMDBs (example command):
