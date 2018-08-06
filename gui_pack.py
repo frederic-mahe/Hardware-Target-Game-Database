@@ -16,7 +16,7 @@ import threading
 
 __author__ = "aleyr"
 __date__ = "2018/08/03"
-__version__ = "$Revision: 0.1"
+__version__ = "$Revision: 0.3"
 
 
 # *********************************************************************#
@@ -151,7 +151,7 @@ class ParseFrame(ttk.Frame):
         #            self.click_parse()
         #            ).grid(column=3, row=1, sticky=W)
         # self.parent.bind("<Alt_L><p>", lambda e: self.click_parse())
-        # button_frame.grid(column=2, row=8, columnspan=3, sticky=E)
+        button_frame.grid(column=2, row=8, columnspan=3, sticky=E)
 
         textbox_roms.focus_set()
 
@@ -291,7 +291,7 @@ class BuildFrame(ttk.Frame):
         #            self.click_build()
         #            ).grid(column=3, row=1, sticky=W)
         # self.parent.bind("<Alt_L><b>", lambda e: self.click_build())
-        # button_frame.grid(column=2, row=8, columnspan=3, sticky=E)
+        button_frame.grid(column=2, row=8, columnspan=3, sticky=E)
 
         textbox_roms.focus_set()
 
@@ -392,8 +392,8 @@ def create_command(folder=None, output=None, input_folder=None,
     cmd = sys.executable
     if folder:
         cmd += " " + os.path.join(os.getcwd(), "parse_pack.py")
-        cmd += " -f " + folder
-        cmd += " -o " + output
+        cmd += " -f \"" + folder + "\""
+        cmd += " -o \"" + output + "\""
     else:
         cmd += " " + os.path.join(os.getcwd(), "build_pack.py")
         cmd += " -i " + input_folder

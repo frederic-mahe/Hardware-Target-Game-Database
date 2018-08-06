@@ -90,9 +90,9 @@ def parse_folder(target_folder, output_file, file=sys.stdout):
                     try:
                         filename.encode('ascii')
                     except UnicodeEncodeError:
-                        logging.error("Error (non-ASCII character):", filename)
-                        # print("Error (non-ASCII character):", filename,
-                        #       file=file)
+                        # logging.error("Error (non-ASCII character):", filename)
+                        print("Error (non-ASCII character):", filename,
+                              file=file)
                         time.sleep(10)  # alternatively: sys.exit(1)
                     sha256 = hashlib.sha256()
                     sha1 = hashlib.sha1()
@@ -134,14 +134,14 @@ def parse_folder(target_folder, output_file, file=sys.stdout):
                               sep="\t",
                               file=output_file)
                         i += 1
-                        logging.info("processing file: {:>9}".format(i))
-                        # print("processing file: {:>9}".format(i),
-                        #       end="\r",
-                        #       file=file,
-                        #       flush=True)
+                        # logging.info("processing file: {:>9}".format(i))
+                        print("processing/ file: {:>9}".format(i),
+                              end="\r",
+                              file=file,
+                              flush=True)
         else:
-            # print('processing file: {:>9}'.format(i), file=file)
-            logging.info("processing file: {:>9}".format(i))
+            print('processing file: {:>9}'.format(i), file=file)
+            # logging.info("processing file: {:>9}".format(i))
 
     return None
 
