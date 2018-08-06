@@ -129,20 +129,31 @@ class ParseFrame(ttk.Frame):
                                     "Save SMDB/pack file")
                    ).grid(column=3, row=2, sticky=W)
 
-        ttk.Button(self, text="Clear", underline=0,
+        button_frame = ttk.Frame(self)
+        ttk.Button(button_frame, text="Clear", underline=0,
                    command=lambda:
                    self.click_clear()
-                   ).grid(column=2, row=5, sticky=E)
+                   ).grid(column=1, row=1, sticky=E)
         self.parent.bind("<Alt_L><c>", lambda e: self.click_clear())
-        ttk.Button(self, text="Parse", underline=0,
+        ttk.Button(button_frame, text="Command", underline=2,
+                   command=lambda:
+                   self.click_command()
+                   ).grid(column=2, row=1, sticky=E)
+        self.parent.bind("<Alt_L><m>", lambda e: self.click_command())
+        ttk.Button(button_frame, text="Parse", underline=0,
                    command=lambda:
                    self.click_parse()
-                   ).grid(column=3, row=5, sticky=W)
+                   ).grid(column=3, row=1, sticky=W)
         self.parent.bind("<Alt_L><p>", lambda e: self.click_parse())
+        button_frame.grid(column=2, row=8, columnspan=3, sticky=E)
 
         textbox_roms.focus_set()
 
     def click_clear(self):
+        self.path_dir_roms.set("")
+        self.path_pack_file.set("")
+
+    def click_command(self):
         self.parent.destroy()
 
     def click_parse(self):
@@ -223,16 +234,23 @@ class BuildFrame(ttk.Frame):
                     ).grid(column=2, row=7, sticky=W)
         self.overwrite.set(1)
 
-        ttk.Button(self, text="Clear", underline=0,
+        button_frame = ttk.Frame(self)
+        ttk.Button(button_frame, text="Clear", underline=0,
                    command=lambda:
                    self.click_clear()
-                   ).grid(column=2, row=8, sticky=E)
+                   ).grid(column=1, row=1, sticky=E)
         self.parent.bind("<Alt_L><c>", lambda e: self.click_clear())
-        ttk.Button(self, text="Build", underline=0,
+        ttk.Button(button_frame, text="Command", underline=2,
+                   command=lambda:
+                   self.click_command()
+                   ).grid(column=2, row=1, sticky=E)
+        self.parent.bind("<Alt_L><m>", lambda e: self.click_command())
+        ttk.Button(button_frame, text="Build", underline=0,
                    command=lambda:
                    self.click_build()
-                   ).grid(column=3, row=8, sticky=W)
+                   ).grid(column=3, row=1, sticky=W)
         self.parent.bind("<Alt_L><b>", lambda e: self.click_build())
+        button_frame.grid(column=2, row=8, columnspan=3, sticky=E)
 
         textbox_roms.focus_set()
 
@@ -243,6 +261,9 @@ class BuildFrame(ttk.Frame):
         self.path_missing_file.set('')
         self.file_strategy.set(0)
         self.overwrite.set(1)
+
+    def click_command(self):
+        self.parent.destroy()
 
     def click_build(self):
         self.parent.destroy()
