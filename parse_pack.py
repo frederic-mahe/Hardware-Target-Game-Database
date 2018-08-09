@@ -45,7 +45,7 @@ def option_parse():
     return args.target_folder, args.output_file
 
 
-def parse_folder(target_folder, output_file, file=sys.stdout):
+def parse_folder(target_folder, output_file, progress_function=None):
     """
     read each file and produce a hash value.
     """
@@ -76,7 +76,9 @@ def parse_folder(target_folder, output_file, file=sys.stdout):
     with open(output_file, "w") as output_file:
         i = 0
         # make sure subfolders are alphanumerically sorted
-        for dirpath, dirnames, filenames in sorted(os.walk(target_folder)):
+        sorted_files = sorted(os.walk(target_folder))
+        # files_total = len(sorted_files)
+        for dirpath, dirnames, filenames in sorted_files:
             if filenames:
                 # make sure files are alphanumerically sorted
                 filenames.sort()
@@ -90,9 +92,10 @@ def parse_folder(target_folder, output_file, file=sys.stdout):
                     try:
                         filename.encode('ascii')
                     except UnicodeEncodeError:
-                        # logging.error("Error (non-ASCII character):", filename)
+                        # logging.error("Error (non-ASCII character):",
+                        #               filename)
                         print("Error (non-ASCII character):", filename,
-                              file=file)
+                              file=sys.stdout)
                         time.sleep(10)  # alternatively: sys.exit(1)
                     sha256 = hashlib.sha256()
                     sha1 = hashlib.sha1()
@@ -135,15 +138,27 @@ def parse_folder(target_folder, output_file, file=sys.stdout):
                               file=output_file)
                         i += 1
                         # logging.info("processing file: {:>9}".format(i))
-                        print("processing/ file: {:>9}".format(i),
-                              end="\r",
-                              file=file,
-                              flush=True)
+                        print_progress(i)
+                        # print("processing/ file: {:>9}".format(i),
+                        #       end="\r",
+                        #       file=sys.stdout,
+                        #       flush=True)
         else:
-            print('processing file: {:>9}'.format(i), file=file)
+            print_progress(i)
+            # print('processing file: {:>9}'.format(i), file=sys.stdout)
             # logging.info("processing file: {:>9}".format(i))
 
     return None
+
+
+def print_progress2(current, total):
+    print("{:>9}/{:>9}".format(current, total),
+          end="\r", file=sys.stdout, flush=True)
+
+
+def print_progress(current):
+    print("processing/ file: {:>9}".format(current),
+          file=sys.stdout, flush=True)
 
 
 # *********************************************************************#
@@ -158,6 +173,5 @@ if __name__ == '__main__':
     if os.path.lexists(TARGET_FOLDER):
         TARGET_FOLDER = os.path.normpath(TARGET_FOLDER)
         parse_folder(TARGET_FOLDER, OUTPUT_FILE)
-
 
     sys.exit(0)
