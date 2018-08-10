@@ -8,6 +8,7 @@ Graphical User Iterface for build_pack and parse_pack scripts.
 from tkinter import *
 from tkinter import filedialog as fd
 import os
+from pathlib import Path
 
 
 __author__ = "aleyr"
@@ -36,50 +37,59 @@ def select_file_save(filename, title):
 def create_command(folder=None, output=None, input_folder=None,
                    database=None, output_folder=None, missing=None,
                    file_strategy=None, skip_eisting=None):
-    cmd = sys.executable
-    if folder:
-        cmd += " " + os.path.join(os.getcwd(), "parse_pack.py")
-        cmd += " -f \"" + folder + "\""
-        cmd += " -o \"" + output + "\""
-    else:
-        cmd += " " + os.path.join(os.getcwd(), "build_pack.py")
-        cmd += " -i " + input_folder
-        cmd += " -d " + database
-        cmd += (" -o " + output_folder) if output_folder else ""
-        cmd += (" -m " + missing) if missing else ""
-        if file_strategy == 0:
-            cmd += " --file_strategy copy"
-        else:
-            cmd += " --file_strategy hardlink"
-        cmd += " --skip_existing" if skip_eisting else ""
+    # cmd = sys.executable
+    # if folder:
+    #     cmd += " " + os.path.join(os.getcwd(), "parse_pack.py")
+    #     cmd += " -f \"" + folder + "\""
+    #     cmd += " -o \"" + output + "\""
+    # else:
+    #     cmd += " " + os.path.join(os.getcwd(), "build_pack.py")
+    #     cmd += " -i \"" + input_folder + "\""
+    #     cmd += " -d " + database
+    #     cmd += (" -o \"" + output_folder + "\"") if output_folder else ""
+    #     cmd += (" -m \"" + missing + "\"") if missing else ""
+    #     if file_strategy == 0:
+    #         cmd += " --file_strategy copy"
+    #     else:
+    #         cmd += " --file_strategy hardlink"
+    #     cmd += " --skip_existing" if skip_eisting else ""
 
-    # cmd += "\n\n\nExecute above command on the folder where the script "
-    # cmd += "is located."
+    arr = create_command_array(folder=folder,
+                               output=output,
+                               input_folder=input_folder,
+                               database=database,
+                               output_folder=output_folder,
+                               missing=missing,
+                               file_strategy=file_strategy,
+                               skip_eisting=skip_eisting, 
+                               new_line=False)
+    cmd = " ".join(arr)
 
     return cmd
 
 
 def create_command_array(folder=None, output=None, input_folder=None,
                          database=None, output_folder=None, missing=None,
-                         file_strategy=None, skip_eisting=None):
+                         file_strategy=None, skip_eisting=None, new_line=True):
     # cmd = ["cmd", "/k", sys.executable]
     cmd = [sys.executable]
     if folder:
-        cmd.append(os.path.join(os.getcwd(), "parse_pack.py"))
+        cmd.append("\"" + os.path.join(os.getcwd(), "parse_pack.py") + "\"")
         cmd.append("-f")
-        cmd.append(folder)
+        cmd.append("\"" + folder + "\"")
         cmd.append("-o")
-        cmd.append(output)
+        cmd.append("\"" + output + "\"")
     else:
         cmd.append(os.path.join(os.getcwd(), "build_pack.py"))
         cmd.append("-i")
-        cmd.append(input_folder)
+        cmd.append("\"" + input_folder + "\"")
         cmd.append("-d")
-        cmd.append(database)
+        cmd.append("\"" + database + "\"")
         cmd.append("-o")
-        cmd.append(output_folder)
-        cmd.append("-m")
-        cmd.append(missing)
+        cmd.append("\"" + output_folder + "\"")
+        if missing and len(missing) > 0:
+            cmd.append("-m")
+            cmd.append("\"" + missing + "\"")
         if file_strategy == 0:
             cmd.append("--file_strategy")
             cmd.append("copy")
@@ -88,6 +98,8 @@ def create_command_array(folder=None, output=None, input_folder=None,
             cmd.append("hardlink")
         if skip_eisting:
             cmd.append("--skip_existing")
+        if new_line:
+            cmd.append("--new_line")
 
     return cmd
 

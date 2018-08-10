@@ -10,7 +10,6 @@ import time
 import zlib
 import hashlib
 import argparse
-import logging
 
 
 __author__ = "aquaman"
@@ -30,6 +29,10 @@ def option_parse():
     """
     parser = argparse.ArgumentParser(
         description="list file names and produce hash values.")
+    # Add support for boolean arguments. Allows us to accept 1-argument forms
+    # of boolean flags whose values are any of "yes", "true", "t" or "1".
+    parser.register('type', 'bool', (lambda x: x.lower() in
+                                     ("yes", "true", "t", "1")))
 
     parser.add_argument("-f", "--folder",
                         dest="target_folder",
@@ -41,13 +44,24 @@ def option_parse():
                         required=True,
                         help="set output file")
 
-    args = parser.parse_args()
-    return args.target_folder, args.output_file
+    # Valid uses of this flag include: -l, -l true, -l yes, --new_line=1
+    parser.add_argument("-l", "--new_line",
+                        dest="new_line",
+                        default=False,
+                        # nargs and const below allow us to accept the
+                        # zero-argument form of --skip_existing
+                        nargs="?",
+                        const=True,
+                        type='bool',
+                        help=("Changes the way the stdout is printed, and "
+                              "allows for UI subprocess monitoring."))
+
+    return parser.parse_args()
 
 
 def print_progress(current):
     print("processing file: {:>9}".format(current),
-          file=sys.stdout, flush=True)
+          end=NEW_LINE, file=sys.stdout, flush=True)
 
 
 def parse_folder(target_folder, output_file, progress_function=print_progress):
@@ -82,7 +96,6 @@ def parse_folder(target_folder, output_file, progress_function=print_progress):
         i = 0
         # make sure subfolders are alphanumerically sorted
         sorted_files = sorted(os.walk(target_folder))
-        # files_total = len(sorted_files)
         for dirpath, dirnames, filenames in sorted_files:
             if filenames:
                 # make sure files are alphanumerically sorted
@@ -97,8 +110,6 @@ def parse_folder(target_folder, output_file, progress_function=print_progress):
                     try:
                         filename.encode('ascii')
                     except UnicodeEncodeError:
-                        # logging.error("Error (non-ASCII character):",
-                        #               filename)
                         print("Error (non-ASCII character):", filename,
                               file=sys.stdout)
                         time.sleep(10)  # alternatively: sys.exit(1)
@@ -142,16 +153,9 @@ def parse_folder(target_folder, output_file, progress_function=print_progress):
                               sep="\t",
                               file=output_file)
                         i += 1
-                        # logging.info("processing file: {:>9}".format(i))
                         print_progress(i)
-                        # print("processing/ file: {:>9}".format(i),
-                        #       end="\r",
-                        #       file=sys.stdout,
-                        #       flush=True)
         else:
             print_progress(i)
-            # print('processing file: {:>9}'.format(i), file=sys.stdout)
-            # logging.info("processing file: {:>9}".format(i))
 
     return None
 
@@ -163,8 +167,10 @@ def parse_folder(target_folder, output_file, progress_function=print_progress):
 # *********************************************************************#
 
 if __name__ == '__main__':
-
-    TARGET_FOLDER, OUTPUT_FILE = option_parse()
+    args = option_parse()
+    TARGET_FOLDER = args.target_folder
+    OUTPUT_FILE = args.output_file
+    NEW_LINE = "\n" if args.new_line else "\r"
     if os.path.lexists(TARGET_FOLDER):
         TARGET_FOLDER = os.path.normpath(TARGET_FOLDER)
         parse_folder(TARGET_FOLDER, OUTPUT_FILE)

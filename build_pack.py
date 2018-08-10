@@ -71,6 +71,18 @@ if __name__ == '__main__':
                         help=("Skip files which already exist at the "
                               "destination without overwriting them."))
 
+    # Valid uses of this flag include: -l, -l true, -l yes, --new_line=1
+    parser.add_argument("-l", "--new_line",
+                        dest="new_line",
+                        default=False,
+                        # nargs and const below allow us to accept the
+                        # zero-argument form of --skip_existing
+                        nargs="?",
+                        const=True,
+                        type='bool',
+                        help=("Changes the way the stdout is printed, and "
+                              "allows for UI subprocess monitoring."))
+
     ARGS = parser.parse_args()
 
 
@@ -120,10 +132,11 @@ def parse_database(target_database):
 
 def print_progress(current):
     print("processing file: {:>9}".format(current),
-          file=sys.stdout, flush=True)
+          end=END_LINE, file=sys.stdout, flush=True)
 
 
-def parse_folder(source_folder, db, output_folder, progress_function=print_progress):
+def parse_folder(source_folder, db, output_folder,
+                 progress_function=print_progress):
     """
     read each file, produce a hash value and place it in the directory tree.
     """
@@ -182,6 +195,7 @@ if __name__ == '__main__':
     TARGET_DATABASE = ARGS.target_database
     OUTPUT_FOLDER = ARGS.output_folder
     MISSING_FILES = ARGS.missing_files
+    END_LINE = "\n" if ARGS.new_line else "\r"
     DATABASE, NUMBER_OF_ENTRIES = parse_database(TARGET_DATABASE)
     FOUND_ENTRIES = parse_folder(SOURCE_FOLDER, DATABASE, OUTPUT_FOLDER)
     if MISSING_FILES:
@@ -199,6 +213,6 @@ if __name__ == '__main__':
     print('coverage: {}/{} ({}%)'.format(FOUND_ENTRIES,
                                          NUMBER_OF_ENTRIES,
                                          COVERAGE),
-          file=sys.stdout)
+          end=END_LINE, file=sys.stdout)
 
     sys.exit(0)

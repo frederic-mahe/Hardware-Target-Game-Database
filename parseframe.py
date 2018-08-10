@@ -73,12 +73,6 @@ class ParseFrame(ttk.Frame):
         self.parent.bind("<Alt_L><p>", lambda e: self.click_parse())
         button_frame.grid(column=2, row=8, columnspan=3, sticky=E)
 
-        # self.label = ttk.Label(self,
-        #                        textvariable=self.text_label,
-        #                        font=(None, 50)
-        #                        ).grid(column=1, row=9,
-        #                               columnspan=5, sticky=W)
-
         textbox_roms.focus_set()
 
     def enable_components(self):
@@ -127,6 +121,7 @@ class ParseFrame(ttk.Frame):
             self.disable_components()
             cmd = create_command_array(folder=self.path_dir_roms.get(),
                                        output=self.path_pack_file.get())
+            print("cmd ", cmd)
             self.process = Popen(cmd, stdout=PIPE)
 
             q = Queue(maxsize=1024)

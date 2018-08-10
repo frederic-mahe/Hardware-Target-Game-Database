@@ -34,8 +34,8 @@ ROMs themselves.
 "C:\XXX\gui_pack.py"
 ```
 
-Since Python 3 is a requirement I decide to create a UI based on pythons's tkinter,
-to help more people use SmokeMonster scripts to manage their ROMs collections.
+Python 3 is a requirement the installer for Mac and Windows include tkinter by
+default, however on \*nix systems python3-tk is also a requirement.
 
 Currently the UI uses file dialogs to help on selecting folders and files, performs
 some basic validation and generates the script to be pasted and ran on the console,

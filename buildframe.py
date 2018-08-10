@@ -95,20 +95,20 @@ class BuildFrame(ttk.Frame):
                   ).grid(column=1, row=7, sticky=W)
         Checkbutton(self, text="", variable=self.overwrite
                     ).grid(column=2, row=7, sticky=W)
-        self.overwrite.set(1)
+        self.overwrite.set(0)
 
         button_frame = ttk.Frame(self)
         self.clear_btn = ttk.Button(button_frame, text="Clear", underline=0,
-                                    command=lambda: self.click_clear()
-                                    ).grid(column=1, row=1, sticky=E)
+                                    command=lambda: self.click_clear())
+        self.clear_btn.grid(column=1, row=1, sticky=E)
         self.parent.bind("<Alt_L><c>", lambda e: self.click_clear())
         self.cmd_btn = ttk.Button(button_frame, text="Command", underline=2,
-                                  command=lambda: self.click_command()
-                                  ).grid(column=2, row=1, sticky=E)
+                                  command=lambda: self.click_command())
+        self.cmd_btn.grid(column=2, row=1, sticky=E)
         self.parent.bind("<Alt_L><m>", lambda e: self.click_command())
         self.build_btn = ttk.Button(button_frame, text="Build", underline=0,
-                                    command=lambda: self.click_build()
-                                    ).grid(column=3, row=1, sticky=W)
+                                    command=lambda: self.click_build())
+        self.build_btn.grid(column=3, row=1, sticky=W)
         self.parent.bind("<Alt_L><b>", lambda e: self.click_build())
         button_frame.grid(column=2, row=8, columnspan=3, sticky=E)
 
@@ -175,6 +175,7 @@ class BuildFrame(ttk.Frame):
                                        missing=self.path_missing_file.get(),
                                        file_strategy=self.file_strategy.get(),
                                        skip_eisting=self.overwrite.get())
+            print("cmd ", cmd)
             self.process = Popen(cmd, stdout=PIPE)
 
             q = Queue(maxsize=1024)
