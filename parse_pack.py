@@ -45,7 +45,12 @@ def option_parse():
     return args.target_folder, args.output_file
 
 
-def parse_folder(target_folder, output_file, progress_function=None):
+def print_progress(current):
+    print("processing file: {:>9}".format(current),
+          file=sys.stdout, flush=True)
+
+
+def parse_folder(target_folder, output_file, progress_function=print_progress):
     """
     read each file and produce a hash value.
     """
@@ -149,16 +154,6 @@ def parse_folder(target_folder, output_file, progress_function=None):
             # logging.info("processing file: {:>9}".format(i))
 
     return None
-
-
-def print_progress2(current, total):
-    print("{:>9}/{:>9}".format(current, total),
-          end="\r", file=sys.stdout, flush=True)
-
-
-def print_progress(current):
-    print("processing/ file: {:>9}".format(current),
-          file=sys.stdout, flush=True)
 
 
 # *********************************************************************#

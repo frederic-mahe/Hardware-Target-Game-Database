@@ -5,7 +5,6 @@ Graphical User Iterface for build_pack and parse_pack scripts.
 """
 
 
-import tkinter as tk
 from tkinter import *
 from tkinter import filedialog as fd
 import os
@@ -13,7 +12,7 @@ import os
 
 __author__ = "aleyr"
 __date__ = "2018/08/09"
-__version__ = "$Revision: 0.3"
+__version__ = "$Revision: 0.8"
 
 
 def select_folder(directory, title):

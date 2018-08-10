@@ -5,14 +5,19 @@ Graphical User Iterface for build_pack and parse_pack scripts.
 """
 
 
-import tkinter as tk
 from tkinter import *
 from tkinter import ttk
+import os
+from subprocess import Popen, PIPE
+from threading import Thread
+from queue import Queue, Empty
+from textmessage import *
+from utils import *
 
 
 __author__ = "aleyr"
 __date__ = "2018/08/09"
-__version__ = "$Revision: 0.3"
+__version__ = "$Revision: 0.8"
 
 
 class BuildFrame(ttk.Frame):
@@ -93,24 +98,33 @@ class BuildFrame(ttk.Frame):
         self.overwrite.set(1)
 
         button_frame = ttk.Frame(self)
-        ttk.Button(button_frame, text="Clear", underline=0,
-                   command=lambda:
-                   self.click_clear()
-                   ).grid(column=1, row=1, sticky=E)
+        self.clear_btn = ttk.Button(button_frame, text="Clear", underline=0,
+                                    command=lambda: self.click_clear()
+                                    ).grid(column=1, row=1, sticky=E)
         self.parent.bind("<Alt_L><c>", lambda e: self.click_clear())
-        ttk.Button(button_frame, text="Command", underline=2,
-                   command=lambda:
-                   self.click_command()
-                   ).grid(column=2, row=1, sticky=E)
+        self.cmd_btn = ttk.Button(button_frame, text="Command", underline=2,
+                                  command=lambda: self.click_command()
+                                  ).grid(column=2, row=1, sticky=E)
         self.parent.bind("<Alt_L><m>", lambda e: self.click_command())
-        # ttk.Button(button_frame, text="Build", underline=0,
-        #            command=lambda:
-        #            self.click_build()
-        #            ).grid(column=3, row=1, sticky=W)
-        # self.parent.bind("<Alt_L><b>", lambda e: self.click_build())
+        self.build_btn = ttk.Button(button_frame, text="Build", underline=0,
+                                    command=lambda: self.click_build()
+                                    ).grid(column=3, row=1, sticky=W)
+        self.parent.bind("<Alt_L><b>", lambda e: self.click_build())
         button_frame.grid(column=2, row=8, columnspan=3, sticky=E)
 
         textbox_roms.focus_set()
+
+    def enable_components(self):
+        self.change_state('normal',
+                          [self.clear_btn, self.build_btn])
+
+    def disable_components(self):
+        self.change_state('disabled',
+                          [self.clear_btn, self.build_btn])
+
+    def change_state(self, state, components):
+        for component in components:
+            component.config(state=state)
 
     def click_clear(self):
         self.path_dir_roms.set('')
@@ -154,6 +168,54 @@ class BuildFrame(ttk.Frame):
 
     def click_build(self):
         if self.validate_info():
-            print("Build")
+            self.disable_components()
+            cmd = create_command_array(input_folder=self.path_dir_roms.get(),
+                                       database=self.path_pack_file.get(),
+                                       output_folder=self.path_dir_pack.get(),
+                                       missing=self.path_missing_file.get(),
+                                       file_strategy=self.file_strategy.get(),
+                                       skip_eisting=self.overwrite.get())
+            self.process = Popen(cmd, stdout=PIPE)
 
+            q = Queue(maxsize=1024)
+            t = Thread(target=self.reader_thread, args=[q])
+            t.daemon = True  # close pipe if GUI process exits
+            t.start()
 
+            self.update(q)  # start update loop
+
+    def reader_thread(self, q):
+        """Read subprocess output and put it into the queue."""
+        try:
+            with self.process.stdout as pipe:
+                for line in iter(pipe.readline, b''):
+                    q.put(line)
+        finally:
+            q.put(None)
+
+    def update(self, q):
+        """Update GUI with items from the queue."""
+        # display all content
+        for line in iter_except(q.get_nowait, Empty):
+            if line is None:
+                # print("Work is done!!!!")
+                self.quit()
+                return
+            else:
+                print("line " + str(line) + ", line[:1] " + str(line[:1]))
+                if line[:1] == str.encode("c"):
+                    self.parent.progress["mode"] = "determinate"
+                    self.parent.progress["value"] = 100
+                else:
+                    self.parent.progress["value"] = float(line[17:26])
+                    self.parent.text_label.set(line[:26])
+                break  # display no more than one line per 40 milliseconds
+        self.parent.after(40, self.update, q)  # schedule next update
+
+    def quit(self):
+        self.parent.text_label.set("Build completed.")
+        self.parent.progress["mode"] = "determinate"
+        self.parent.progress["value"] = 0
+        self.process.kill()  # exit subprocess if GUI is closed (zombie!)
+        self.enable_components()
+        # self.parent.destroy()

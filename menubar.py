@@ -11,7 +11,7 @@ from tkinter import *
 
 __author__ = "aleyr"
 __date__ = "2018/08/09"
-__version__ = "$Revision: 0.3"
+__version__ = "$Revision: 0.8"
 
 
 class MenuBar(tk.Menu):

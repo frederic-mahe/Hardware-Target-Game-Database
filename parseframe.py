@@ -5,7 +5,6 @@ Graphical User Iterface for build_pack and parse_pack scripts.
 """
 
 
-import tkinter as tk
 from tkinter import *
 from tkinter import ttk
 import os
@@ -17,7 +16,7 @@ from utils import *
 
 __author__ = "aleyr"
 __date__ = "2018/08/09"
-__version__ = "$Revision: 0.3"
+__version__ = "$Revision: 0.8"
 
 
 class ParseFrame(ttk.Frame):
@@ -60,30 +59,39 @@ class ParseFrame(ttk.Frame):
                    ).grid(column=3, row=2, sticky=W)
 
         button_frame = ttk.Frame(self)
-        ttk.Button(button_frame, text="Clear", underline=0,
-                   command=lambda:
-                   self.click_clear()
-                   ).grid(column=1, row=1, sticky=E)
+        self.clear_btn = ttk.Button(button_frame, text="Clear", underline=0,
+                                    command=lambda: self.click_clear())
+        self.clear_btn.grid(column=1, row=1, sticky=E)
         self.parent.bind("<Alt_L><c>", lambda e: self.click_clear())
-        ttk.Button(button_frame, text="Command", underline=2,
-                   command=lambda:
-                   self.click_command()
-                   ).grid(column=2, row=1, sticky=E)
+        self.cmd_btn = ttk.Button(button_frame, text="Command", underline=2,
+                                  command=lambda: self.click_command())
+        self.cmd_btn.grid(column=2, row=1, sticky=E)
         self.parent.bind("<Alt_L><m>", lambda e: self.click_command())
-        ttk.Button(button_frame, text="Parse", underline=0,
-                   command=lambda:
-                   self.click_parse()
-                   ).grid(column=3, row=1, sticky=W)
+        self.parse_btn = ttk.Button(button_frame, text="Parse", underline=0,
+                                    command=lambda: self.click_parse())
+        self.parse_btn.grid(column=3, row=1, sticky=W)
         self.parent.bind("<Alt_L><p>", lambda e: self.click_parse())
         button_frame.grid(column=2, row=8, columnspan=3, sticky=E)
 
-        self.label = ttk.Label(self,
-                               textvariable=self.text_label,
-                               font=(None, 50)
-                               ).grid(column=1, row=9,
-                                      columnspan=5, sticky=W)
+        # self.label = ttk.Label(self,
+        #                        textvariable=self.text_label,
+        #                        font=(None, 50)
+        #                        ).grid(column=1, row=9,
+        #                               columnspan=5, sticky=W)
 
         textbox_roms.focus_set()
+
+    def enable_components(self):
+        self.change_state('normal',
+                          [self.clear_btn, self.parse_btn])
+
+    def disable_components(self):
+        self.change_state('disabled',
+                          [self.clear_btn, self.parse_btn])
+
+    def change_state(self, state, components):
+        for component in components:
+            component.config(state=state)
 
     def click_clear(self):
         self.path_dir_roms.set("")
@@ -116,25 +124,17 @@ class ParseFrame(ttk.Frame):
 
     def click_parse(self):
         if self.validate_info():
+            self.disable_components()
             cmd = create_command_array(folder=self.path_dir_roms.get(),
                                        output=self.path_pack_file.get())
-            print(str(cmd))
-            # subprocess.call(cmd, shell=True)
-            # t = threading.Thread(target=parse_pack.parse_folder,
-            #                      name="parsing",
-            #                      args=[self.path_dir_roms.get(),
-            #                            self.path_pack_file.get()])
-            # t.daemon = True
-            # t.start()
-        self.process = Popen(cmd, stdout=PIPE)
+            self.process = Popen(cmd, stdout=PIPE)
 
-        q = Queue(maxsize=1024)
-        t = Thread(target=self.reader_thread, args=[q])
-        t.daemon = True  # close pipe if GUI process exits
-        t.start()
-
-        self.update(q)
-        # self.parent.after(40, self.update, q)  # start update loop
+            q = Queue(maxsize=1024)
+            t = Thread(target=self.reader_thread, args=[q])
+            t.daemon = True  # close pipe if GUI process exits
+            t.start()
+            self.parent.progress["mode"] = "indeterminate"
+            self.update(q)  # start update loop
 
     def reader_thread(self, q):
         """Read subprocess output and put it into the queue."""
@@ -154,16 +154,16 @@ class ParseFrame(ttk.Frame):
                 self.quit()
                 return
             else:
-                # if self.parent.progress["maximum"] < 0:
-                #     self.parent.progress["maximum"] = float(line[29:38])
                 # print("line " + str(line))
-                # print("progress number " + str(float(line[18:27])))
-                self.parent.progress["value"] = float(line[18:27])
-                self.text_label.set(line[18:27])
+                self.parent.progress["value"] = float(line[17:26])
+                self.parent.text_label.set(line[:26])
                 break  # display no more than one line per 40 milliseconds
         self.parent.after(40, self.update, q)  # schedule next update
 
     def quit(self):
+        self.parent.text_label.set("Parse completed.")
+        self.parent.progress["mode"] = "determinate"
         self.parent.progress["value"] = 0
         self.process.kill()  # exit subprocess if GUI is closed (zombie!)
+        self.enable_components()
         # self.parent.destroy()
