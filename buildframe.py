@@ -175,7 +175,7 @@ class BuildFrame(ttk.Frame):
                                        missing=self.path_missing_file.get(),
                                        file_strategy=self.file_strategy.get(),
                                        skip_eisting=self.overwrite.get())
-            print("cmd ", cmd)
+            # print("cmd ", cmd)
             self.process = Popen(cmd, stdout=PIPE)
 
             q = Queue(maxsize=1024)
@@ -203,7 +203,7 @@ class BuildFrame(ttk.Frame):
                 self.quit()
                 return
             else:
-                print("line " + str(line) + ", line[:1] " + str(line[:1]))
+                # print("line " + str(line) + ", line[:1] " + str(line[:1]))
                 if line[:1] == str.encode("c"):
                     self.parent.progress["mode"] = "determinate"
                     self.parent.progress["value"] = 100

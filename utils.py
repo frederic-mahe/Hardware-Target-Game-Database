@@ -61,35 +61,46 @@ def create_command(folder=None, output=None, input_folder=None,
                                output_folder=output_folder,
                                missing=missing,
                                file_strategy=file_strategy,
-                               skip_eisting=skip_eisting, 
-                               new_line=False)
+                               skip_eisting=skip_eisting,
+                               new_line=False,
+                               add_quotes=True)
     cmd = " ".join(arr)
 
     return cmd
 
 
+def get_abs_path(path, add_quotes=False):
+    out = os.path.abspath(str(path))
+    if add_quotes:
+        out = "\"" + out + "\""
+
+    return out
+
+
 def create_command_array(folder=None, output=None, input_folder=None,
                          database=None, output_folder=None, missing=None,
-                         file_strategy=None, skip_eisting=None, new_line=True):
-    # cmd = ["cmd", "/k", sys.executable]
-    cmd = [sys.executable]
+                         file_strategy=None, skip_eisting=None, new_line=True,
+                         add_quotes=False):
+    python_path = Path(sys.executable)
+    current_dir = Path(os.getcwd())
+    cmd = [get_abs_path(python_path, add_quotes)]
     if folder:
-        cmd.append("\"" + os.path.join(os.getcwd(), "parse_pack.py") + "\"")
+        cmd.append(get_abs_path(current_dir / "parse_pack.py", add_quotes))
         cmd.append("-f")
-        cmd.append("\"" + folder + "\"")
+        cmd.append(get_abs_path(Path(folder), add_quotes))
         cmd.append("-o")
-        cmd.append("\"" + output + "\"")
+        cmd.append(get_abs_path(Path(output), add_quotes))
     else:
-        cmd.append(os.path.join(os.getcwd(), "build_pack.py"))
+        cmd.append(get_abs_path(current_dir / "build_pack.py", add_quotes))
         cmd.append("-i")
-        cmd.append("\"" + input_folder + "\"")
+        cmd.append(get_abs_path(Path(input_folder), add_quotes))
         cmd.append("-d")
-        cmd.append("\"" + database + "\"")
+        cmd.append(get_abs_path(Path(database), add_quotes))
         cmd.append("-o")
-        cmd.append("\"" + output_folder + "\"")
+        cmd.append(get_abs_path(Path(output_folder), add_quotes))
         if missing and len(missing) > 0:
             cmd.append("-m")
-            cmd.append("\"" + missing + "\"")
+            cmd.append(get_abs_path(Path(missing), add_quotes))
         if file_strategy == 0:
             cmd.append("--file_strategy")
             cmd.append("copy")

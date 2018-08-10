@@ -121,7 +121,7 @@ class ParseFrame(ttk.Frame):
             self.disable_components()
             cmd = create_command_array(folder=self.path_dir_roms.get(),
                                        output=self.path_pack_file.get())
-            print("cmd ", cmd)
+            # print("cmd ", cmd)
             self.process = Popen(cmd, stdout=PIPE)
 
             q = Queue(maxsize=1024)
