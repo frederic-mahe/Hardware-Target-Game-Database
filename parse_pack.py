@@ -59,12 +59,15 @@ def option_parse():
     return parser.parse_args()
 
 
-def print_progress(current):
-    print("processing file: {:>9}".format(current),
-          end=NEW_LINE, file=sys.stdout, flush=True)
+def print_progress(current, end):
+    print_function("processing file: {:>9}".format(current), end=end)
 
 
-def parse_folder(target_folder, output_file, progress_function=print_progress):
+def print_function(text, end, file=sys.stdout, flush=True):
+    print(text, end=end, file=file, flush=flush)
+
+
+def parse_folder(target_folder, output_file):
     """
     read each file and produce a hash value.
     """
@@ -153,9 +156,9 @@ def parse_folder(target_folder, output_file, progress_function=print_progress):
                               sep="\t",
                               file=output_file)
                         i += 1
-                        print_progress(i)
+                        print_progress(i, END_LINE)
         else:
-            print_progress(i)
+            print_progress(i, END_LINE)
 
     return None
 
@@ -170,7 +173,7 @@ if __name__ == '__main__':
     args = option_parse()
     TARGET_FOLDER = args.target_folder
     OUTPUT_FILE = args.output_file
-    NEW_LINE = "\n" if args.new_line else "\r"
+    END_LINE = "\n" if args.new_line else "\r"
     if os.path.lexists(TARGET_FOLDER):
         TARGET_FOLDER = os.path.normpath(TARGET_FOLDER)
         parse_folder(TARGET_FOLDER, OUTPUT_FILE)

@@ -130,13 +130,15 @@ def parse_database(target_database):
     return db, number_of_entries
 
 
-def print_progress(current):
-    print("processing file: {:>9}".format(current),
-          end=END_LINE, file=sys.stdout, flush=True)
+def print_progress(current, end):
+    print_function("processing file: {:>9}".format(current), end=end)
 
 
-def parse_folder(source_folder, db, output_folder,
-                 progress_function=print_progress):
+def print_function(text, end, file=sys.stdout, flush=True):
+    print(text, end=end, file=file, flush=flush)
+
+
+def parse_folder(source_folder, db, output_folder):
     """
     read each file, produce a hash value and place it in the directory tree.
     """
@@ -177,9 +179,9 @@ def parse_folder(source_folder, db, output_folder,
                     # remove the hit from the database
                     del db[h.hexdigest()]
                 i += 1
-                progress_function(i)
+                print_progress(i, END_LINE)
     else:
-        progress_function(i)
+        print_progress(i, END_LINE)
 
     return found_entries
 
