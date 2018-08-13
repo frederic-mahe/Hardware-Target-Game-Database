@@ -3,12 +3,6 @@
 """
 use a database to identify and organize files.
 """
-
-__author__ = "aquaman"
-__date__ = "2017/11/17"
-__version__ = "$Revision: 3.1"
-
-
 import os
 import sys
 import shutil
@@ -16,20 +10,27 @@ import hashlib
 import argparse
 
 
-#**********************************************************************#
+__author__ = "aquaman"
+__date__ = "2017/11/17"
+__version__ = "$Revision: 3.1"
+
+
+# *********************************************************************#
 #                                                                      #
 #                            Functions                                 #
 #                                                                      #
-#**********************************************************************#
+# *********************************************************************#
 
 if __name__ == '__main__':
     """
     Parse arguments from command line.
     """
-    parser = argparse.ArgumentParser(description="use a database to identify and organize files.")
-    # Add support for boolean arguments. Allows us to accept 1-argument forms of
-    # boolean flags whose values are any of "yes", "true", "t" or "1".
-    parser.register('type', 'bool', (lambda x: x.lower() in ("yes", "true", "t", "1")))
+    parser = argparse.ArgumentParser(
+        description="use a database to identify and organize files.")
+    # Add support for boolean arguments. Allows us to accept 1-argument forms
+    # of boolean flags whose values are any of "yes", "true", "t" or "1".
+    parser.register('type', 'bool', (lambda x: x.lower() in
+                                     ("yes", "true", "t", "1")))
 
     parser.add_argument("-i", "--input_folder",
                         dest="source_folder",
@@ -70,13 +71,26 @@ if __name__ == '__main__':
                         help=("Skip files which already exist at the "
                               "destination without overwriting them."))
 
+    # Valid uses of this flag include: -l, -l true, -l yes, --new_line=1
+    parser.add_argument("-l", "--new_line",
+                        dest="new_line",
+                        default=False,
+                        # nargs and const below allow us to accept the
+                        # zero-argument form of --skip_existing
+                        nargs="?",
+                        const=True,
+                        type='bool',
+                        help=("Changes the way the stdout is printed, and "
+                              "allows for UI subprocess monitoring."))
+
     ARGS = parser.parse_args()
+
 
 def copy_file(source, dest):
     """Get a file from source to destination, with a configurable strategy.
 
-    This method makes a file at source additionally appear at dest. The way this
-    is accomplished is controlled via the --file_strategy command.
+    This method makes a file at source additionally appear at dest. The way
+    this is accomplished is controlled via the --file_strategy command.
 
     Args:
       source - The file to copy/hardlink
@@ -97,6 +111,7 @@ def copy_file(source, dest):
         fixed_dest = u'\\\\?\\' + os.path.abspath(dest)
         copy_fn(source, fixed_dest)
 
+
 def parse_database(target_database):
     """
     store hash values and filenames in a database.
@@ -115,6 +130,14 @@ def parse_database(target_database):
     return db, number_of_entries
 
 
+def print_progress(current, end):
+    print_function("processing file: {:>9}".format(current), end=end)
+
+
+def print_function(text, end, file=sys.stdout, flush=True):
+    print(text, end=end, file=file, flush=flush)
+
+
 def parse_folder(source_folder, db, output_folder):
     """
     read each file, produce a hash value and place it in the directory tree.
@@ -131,13 +154,13 @@ def parse_folder(source_folder, db, output_folder):
                     with open(filename, "rb", buffering=0) as f:
                         # use a small buffer to compute hash to
                         # avoid memory overload
-                        for b in iter(lambda : f.read(128 * 1024), b''):
+                        for b in iter(lambda: f.read(128 * 1024), b''):
                             h.update(b)
                 except FileNotFoundError:
                     with open(absolute_filename, "rb", buffering=0) as f:
                         # use a small buffer to compute hash to
                         # avoid memory overload
-                        for b in iter(lambda : f.read(128 * 1024), b''):
+                        for b in iter(lambda: f.read(128 * 1024), b''):
                             h.update(b)
                 if h.hexdigest() in db:
                     # we have a hit
@@ -156,26 +179,25 @@ def parse_folder(source_folder, db, output_folder):
                     # remove the hit from the database
                     del db[h.hexdigest()]
                 i += 1
-                print("processing file: {:>9}".format(i),
-                      end="\r", file=sys.stdout, flush=True)
+                print_progress(i, END_LINE)
     else:
-        print('processing file: {:>9}'.format(i), file=sys.stdout)
-
+        print_progress(i, END_LINE)
 
     return found_entries
 
 
-#**********************************************************************#
+# *********************************************************************#
 #                                                                      #
 #                              Body                                    #
 #                                                                      #
-#**********************************************************************#
+# *********************************************************************#
 
 if __name__ == '__main__':
     SOURCE_FOLDER = ARGS.source_folder
     TARGET_DATABASE = ARGS.target_database
     OUTPUT_FOLDER = ARGS.output_folder
     MISSING_FILES = ARGS.missing_files
+    END_LINE = "\n" if ARGS.new_line else "\r"
     DATABASE, NUMBER_OF_ENTRIES = parse_database(TARGET_DATABASE)
     FOUND_ENTRIES = parse_folder(SOURCE_FOLDER, DATABASE, OUTPUT_FOLDER)
     if MISSING_FILES:
@@ -185,12 +207,14 @@ if __name__ == '__main__':
             list_of_missing_files.sort()
             with open(MISSING_FILES, "w") as missing_files:
                 for missing_file, entry in list_of_missing_files:
-                    print(missing_file, entry, sep = "\t", file=missing_files)
+                    print(missing_file, entry, sep="\t", file=missing_files)
         else:
             print("no missing file")
 
     COVERAGE = round(100.0 * FOUND_ENTRIES / NUMBER_OF_ENTRIES, 2)
-    print('coverage: {}/{} ({}%)'.format(FOUND_ENTRIES, NUMBER_OF_ENTRIES, COVERAGE),
-          file=sys.stdout)
+    print('coverage: {}/{} ({}%)'.format(FOUND_ENTRIES,
+                                         NUMBER_OF_ENTRIES,
+                                         COVERAGE),
+          end=END_LINE, file=sys.stdout)
 
-sys.exit(0)
+    sys.exit(0)

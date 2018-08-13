@@ -79,7 +79,7 @@ information for pack builders in the
 
 A graphical user interface is available in
 [@Aleyr](https://github.com/Aleyr)'s
-[fork](https://github.com/Aleyr/EverDrive-Packs-Lists-Database) for
+[repository](https://github.com/Aleyr/EverDrive-Packs-Lists-Database-UI) for
 both the `build_pack.py` and `parse_pack.py` scripts. If you are
 having difficulty with the command line options, please consider
 trying the GUI version.
@@ -103,7 +103,7 @@ patches by [@eatnumber1](https://github.com/eatnumber1) and
 EverDrive Pack SMDB layouts by
 [@SmokeMonsterPacks](https://github.com/SmokeMonsterPacks).
 
-[GUI](https://github.com/Aleyr/EverDrive-Packs-Lists-Database) by [@Aleyr](https://github.com/Aleyr).
+[GUI](https://github.com/Aleyr/EverDrive-Packs-Lists-Database-UI) by [@Aleyr](https://github.com/Aleyr).
 
 ## Similar tools
 
