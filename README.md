@@ -79,7 +79,7 @@ information for pack builders in the
 
 A graphical user interface is available in
 [@Aleyr](https://github.com/Aleyr)'s
-[fork](https://github.com/Aleyr/EverDrive-Packs-Lists-Database) for
+[repository](https://github.com/Aleyr/EverDrive-Packs-Lists-Database-UI) for
 both the `build_pack.py` and `parse_pack.py` scripts. If you are
 having difficulty with the command line options, please consider
 trying the GUI version.
