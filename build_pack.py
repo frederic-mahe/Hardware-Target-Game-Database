@@ -8,6 +8,9 @@ import sys
 import shutil
 import hashlib
 import argparse
+from collections import defaultdict
+from glob import glob
+
 
 
 __author__ = "aquaman"
@@ -39,7 +42,7 @@ if __name__ == '__main__':
 
     parser.add_argument("-d", "--database",
                         dest="target_database",
-                        required=True,
+                        required=False,
                         help="set target database")
 
     parser.add_argument("-o", "--output_folder",
@@ -112,20 +115,22 @@ def copy_file(source, dest):
         copy_fn(source, fixed_dest)
 
 
-def parse_database(target_database):
+def parse_database(target_database=None):
     """
     store hash values and filenames in a database.
     """
-    db = dict()
-    with open(target_database, "r") as target_database:
-        number_of_entries = 0
-        for line in target_database:
-            hash_value, filename, other_hash = line.strip().split("\t", 2)
-            number_of_entries += 1
-            if hash_value not in db:
-                db[hash_value] = [filename]
-            else:
-                db[hash_value].append(filename)
+    db = defaultdict(list)
+    number_of_entries = 0
+
+    if not target_database:
+        target_database = [l for f in glob('./EverDrive Pack SMDBs/*.txt') for l in open(os.path.abspath(f))]
+    else:
+        target_database = [l for l in open(target_database)]
+
+    for line in target_database:
+        hash_value, filename, other_hash = line.strip().split("\t", 2)
+        number_of_entries += 1
+        db[hash_value].append(filename)
 
     return db, number_of_entries
 
