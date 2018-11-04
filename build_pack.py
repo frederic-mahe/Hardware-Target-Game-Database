@@ -181,7 +181,7 @@ def parse_folder(source_folder, db, output_folder):
                 i += 1
                 print_progress(i, END_LINE)
     else:
-        print_progress(i, END_LINE)
+        print_progress(i, "\n")
 
     return found_entries
 
