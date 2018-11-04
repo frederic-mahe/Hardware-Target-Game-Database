@@ -158,7 +158,8 @@ def parse_folder(target_folder, output_file):
                         i += 1
                         print_progress(i, END_LINE)
         else:
-            print_progress(i, "\n")
+            if not args.new_line:
+                print_progress(i, "\n")
 
     return None
 
