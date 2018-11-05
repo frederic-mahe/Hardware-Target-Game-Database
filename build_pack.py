@@ -213,10 +213,9 @@ if __name__ == '__main__':
             print("no missing file")
 
     COVERAGE = round(100.0 * FOUND_ENTRIES / NUMBER_OF_ENTRIES, 2)
-    if not ARGS.new_line:
-        print('coverage: {}/{} ({}%)'.format(FOUND_ENTRIES,
-                                             NUMBER_OF_ENTRIES,
-                                             COVERAGE),
-              file=sys.stdout)
+    print('coverage: {}/{} ({}%)'.format(FOUND_ENTRIES,
+                                         NUMBER_OF_ENTRIES,
+                                         COVERAGE),
+          file=sys.stdout)
 
     sys.exit(0)
