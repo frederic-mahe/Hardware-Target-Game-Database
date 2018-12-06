@@ -8,6 +8,7 @@ import sys
 import shutil
 import hashlib
 import argparse
+from collections import defaultdict
 
 
 __author__ = "aquaman"
@@ -116,16 +117,13 @@ def parse_database(target_database):
     """
     store hash values and filenames in a database.
     """
-    db = dict()
+    db = defaultdict(list)  # missing key's default value is an empty list
+    number_of_entries = 0
     with open(target_database, "r") as target_database:
-        number_of_entries = 0
         for line in target_database:
             hash_value, filename, other_hash = line.strip().split("\t", 2)
             number_of_entries += 1
-            if hash_value not in db:
-                db[hash_value] = [filename]
-            else:
-                db[hash_value].append(filename)
+            db[hash_value].append(filename)
 
     return db, number_of_entries
 
