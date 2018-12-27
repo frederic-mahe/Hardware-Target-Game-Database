@@ -623,6 +623,7 @@ ea3eafe036c12c55e452767adea35ec5c3ea29244e7b05e77aa5adaa529edb6b	EverDrive N8/1 
 a9880bb4dc249b0d191c2e6deea0c61cfb8b52f5e4c86db21f26af354d328cb5	EverDrive N8/1 US - R-Z/Town & Country Surf Designs - Thrilla's Surfari (USA).nes	592c8b6be5816ba771b4fc18ec6a72cfee06d2c7	e92ed6a8f0c9a4108525bbfd40f1ba79	54c4f37e
 7aab110bf765a5b8bc08fc92fc9baeacde556ad9057a8fab426db8947e7c1770	EverDrive N8/1 US - R-Z/Town & Country Surf Designs - Wood & Water Rage (USA).nes	7114bc8b0aad3094e59ccedba2845c1c032b15cc	0e66b4d4311922ebd00b968509ded1ca	9c94ed32
 275a6e3acffcb7abe8db7e52709c63c82c3e3fd7e1373c2b9d687fa866d84bd1	EverDrive N8/1 US - R-Z/Toxic Crusaders (USA).nes	81d4c3e501f85eb31d890bf0f5f44b43c3c5827b	21a7313a9324faea2d4cc994feaeb710	da9ad540
+cdb00a5d3f656b4b6b3751e46cefa4765f45d2e311b8e604ec3ac72ef93e5e42	EverDrive N8/1 US - R-Z/Track & Field (USA).nes	df8425d96b3ac613eec604d66b32e91b001488d0	6c55461fa24a94a2c95b504b43944dd2	d3b42f6d
 6ef3cbe33e2e17214b7f558d939a8f3d1dbf1db75e5b99c5396100a8e7556af7	EverDrive N8/1 US - R-Z/Track & Field II (USA) (Rev A).nes	768e8707b2af9167cfd2851c968988185d463f98	7beb92afe0702f61ab10995ea084590c	1212b0c9
 1639742d851c8495f3d10256f02dfecbe41408e4f3048a0d7c50721e5d91edad	EverDrive N8/1 US - R-Z/Treasure Master (USA).nes	c7f9d0502dd0f57789c7d802a6b69722edeb9c57	3eebc6b5527c53d5252e86c69bbab5fc	d4ab7922
 b5eae65d8f3a991a266523a60424a16c63623a7396c71c2ced8ef333dcc2091a	EverDrive N8/1 US - R-Z/Trog! (USA).nes	da36075188c98c0434bc78ce0554942948f4228e	8eb9626a8836017c420d43fb90fb2ec0	dd6141df
