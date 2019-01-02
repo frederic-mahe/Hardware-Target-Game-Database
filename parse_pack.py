@@ -95,7 +95,7 @@ def parse_folder(target_folder, output_file):
                        ".exe", ".ips", ".jpg", ".json", ".mso",
                        ".ods", ".odt", ".pc", ".pdf", ".png", ".sav", ".srm",
                        ".sto", ".txt", ".xdelta", ".xls", ".zip",
-                       "OS.PCE", "Thumbs.db", "menu.bin")
+                       "OS.PCE", "Thumbs.db", "menu.bin", "desktop.ini")
     with open(output_file, "w") as output_file:
         i = 0
         # make sure subfolders are alphanumerically sorted
