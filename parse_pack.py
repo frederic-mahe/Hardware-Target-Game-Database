@@ -83,7 +83,7 @@ def parse_folder(target_folder, output_file):
                       "/SNAP/", "/SOUNDS/",
                       "/SPED/", "/SYSTEM/",
                       "/System Test Images/",
-                      "/System Volume Information/"
+                      "/System Volume Information/",
                       "/TBED/", "/TEXT/",
                       "/_PREVIEW/", "/menu/",
                       "/ntm_firmware_ver", "/sd2snes Themes/",
