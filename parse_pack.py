@@ -153,7 +153,7 @@ def parse_folder(target_folder, output_file):
                               filename,
                               sha1.hexdigest(),
                               md5.hexdigest(),
-                              hex(crc & 0xffffffff)[2:],
+                              '{0:08x}'.format(crc & 0xffffffff),
                               sep="\t",
                               file=output_file)
                         i += 1
