@@ -89,12 +89,12 @@ def parse_folder(target_folder, output_file):
                       "/ntm_firmware_ver", "/sd2snes Themes/",
                       "/sd2snes/")
     banned_suffixes = (".001", ".002", ".003", ".004", ".005", ".006",
-                       ".007", ".008", ".009", ".7z", ".aps", ".asm",
+                       ".007", ".008", ".009", ".aps", ".asm",
                        ".bak", ".bat", ".bsa", ".bps", ".BPS",
                        ".bst", ".c", ".cht", ".dat", ".db", ".docx",
                        ".exe", ".ips", ".jpg", ".json", ".mso",
                        ".ods", ".odt", ".pc", ".pdf", ".png", ".sav", ".srm",
-                       ".sto", ".txt", ".tmp", ".xdelta", ".xls", ".zip",
+                       ".sto", ".txt", ".tmp", ".xdelta", ".xls",
                        "OS.PCE", "Thumbs.db", "menu.bin", "desktop.ini")
     with open(output_file, "w") as output_file:
         i = 0
