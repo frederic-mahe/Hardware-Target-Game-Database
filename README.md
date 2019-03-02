@@ -107,7 +107,7 @@ EverDrive Pack SMDB layouts by
 
 ## Similar tools
 
-- [GammaCopy](https://github.com/fartwhif/GammaCopy) (Windows only, direct support of SMDB files, fast execution times),
+- [GammaCopy](https://github.com/fartwhif/GammaCopy) (Windows only, direct support of SMDB files, fast execution)
 - [clrmamepro](https://mamedev.emulab.it/clrmamepro/),
 - [romcenter](http://www.romcenter.com/),
 - [romvault](http://www.romvault.com/)
