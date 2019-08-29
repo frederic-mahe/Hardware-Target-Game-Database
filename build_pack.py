@@ -10,11 +10,12 @@ import hashlib
 import argparse
 import zipfile
 from collections import defaultdict
+from collections import Counter
 
 
 __author__ = "aquaman"
-__date__ = "2017/11/17"
-__version__ = "$Revision: 3.1"
+__date__ = "2019/08/29"
+__version__ = "$Revision: 3.2"
 
 
 # *********************************************************************#
@@ -254,8 +255,15 @@ if __name__ == '__main__':
     DATABASE, NUMBER_OF_ENTRIES = parse_database(TARGET_DATABASE)
     FOUND_ENTRIES = parse_folder(SOURCE_FOLDER, DATABASE, OUTPUT_FOLDER)
     if MISSING_FILES:
+        # Observed files will have either the SHA256 or the CRC32
+        # entry deleted (or both). Missing files will have both
+        # entries. So, search for filenames occuring twice.
+        d = Counter([str(i) for i in DATABASE.values()])
+        d2 = set([str(i) for i in d if d[i] == 2])
+        # Each missing file is listed twice, keep only the SHA256 entry (64 chars)
         list_of_missing_files = [(os.path.basename(DATABASE[entry][0]), entry)
-                                 for entry in DATABASE]
+                                 for entry in DATABASE
+                                 if str(DATABASE[entry]) in d2 and len(entry) == 64]
         if list_of_missing_files:
             list_of_missing_files.sort()
             with open(MISSING_FILES, "w") as missing_files:
