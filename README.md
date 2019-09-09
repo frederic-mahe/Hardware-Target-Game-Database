@@ -29,6 +29,10 @@ having to share the ROMs themselves.
 
 ## Tools Included
 
+The `build_pack` and `parse_pack` scripts are written in python3. To launch
+a script, install [python](https://www.python.org) if need be, and then open
+a Windows console or a Unix terminal.
+
 **parse_pack.py** For making SMDBs (example command):
 ```DOS .bat
 "C:\XXX\parse_pack.py" -f "C:\XXX\Folder to be parsed" -o "C:\XXX\SMDB.txt"
