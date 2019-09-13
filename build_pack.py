@@ -139,6 +139,7 @@ def parse_database(target_database):
         for line in target_database:
             hash_sha256, filename, _, _, hash_crc = line.strip().split("\t", 4)
             number_of_entries += 1
+            filename = os.path.normpath(filename)
             db[hash_sha256].append(filename)
             db[hash_crc].append(filename)
     return db, number_of_entries
