@@ -20,14 +20,18 @@ SHA1, MD5 and CRC32) and the location of these files withing a folder
 hierarchy (folder and file names).
 
 SMDBs are provided for a range of flash-carts.  These SMDBs allow
-users to dump all of their legally acquired ROMs into a single
-folder. When the `build_pack` script is run on that directory, the
-ROMs will be analyzed (via hash comparisons), renamed and sorted into
-complete, flash-cart friendly Packs, as described in an SMDB. This
-allows creators to share file and folder setups without having to
-share the ROMs themselves.
+users to dump all of their legally acquired ROMs into a single folder
+(zip files accepted). When the `build_pack` script is run on that
+directory, the ROMs will be analyzed (via hash comparisons), renamed
+and sorted into complete, flash-cart friendly Packs, as described in
+an SMDB.  This allows creators to share file and folder setups without
+having to share the ROMs themselves.
 
 ## Tools Included
+
+The `build_pack` and `parse_pack` scripts are written in python3. To launch
+a script, install [python](https://www.python.org) if need be, and then open
+a Windows console or a Linux/Unix terminal.
 
 **parse_pack.py** For making SMDBs (example command):
 ```DOS .bat
@@ -97,8 +101,9 @@ first with the command `dos2unix`)
 
 Scripts and code by
 [@frederic-mahe](https://github.com/frederic-mahe), with awesome
-patches by [@eatnumber1](https://github.com/eatnumber1) and
-[@coughlanio](https://github.com/coughlanio).
+patches by [@eatnumber1](https://github.com/eatnumber1),
+[@coughlanio](https://github.com/coughlanio)
+and [@Slashbunny](https://github.com/Slashbunny).
 
 EverDrive Pack SMDB layouts by
 [@SmokeMonsterPacks](https://github.com/SmokeMonsterPacks).

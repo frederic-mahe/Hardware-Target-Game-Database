@@ -8,12 +8,14 @@ import sys
 import shutil
 import hashlib
 import argparse
+import zipfile
 from collections import defaultdict
+from collections import Counter
 
 
 __author__ = "aquaman"
-__date__ = "2017/11/17"
-__version__ = "$Revision: 3.1"
+__date__ = "2019/08/29"
+__version__ = "$Revision: 3.2"
 
 
 # *********************************************************************#
@@ -113,6 +115,20 @@ def copy_file(source, dest):
         copy_fn(source, fixed_dest)
 
 
+def extract_file(filename, entry, method, dest):
+    """
+    extracts entry from archive to given destination directory
+    """
+    if method == 'zip':
+        try:
+            # extract the file to the new directory
+            zipfile.ZipFile(filename).extract(entry, os.path.dirname(dest))
+        except FileNotFoundError:
+            # Windows' default API is limited to paths of 260 characters
+            fixed_dest = u'\\\\?\\' + os.path.abspath(dest)
+            zipfile.ZipFile(filename).extract(entry, os.path.dirname(fixed_dest))
+
+
 def parse_database(target_database):
     """
     store hash values and filenames in a database.
@@ -121,10 +137,11 @@ def parse_database(target_database):
     number_of_entries = 0
     with open(target_database, "r") as target_database:
         for line in target_database:
-            hash_value, filename, other_hash = line.strip().split("\t", 2)
+            hash_sha256, filename, _, _, hash_crc = line.strip().split("\t", 4)
             number_of_entries += 1
-            db[hash_value].append(filename)
-
+            filename = os.path.normpath(filename)
+            db[hash_sha256].append(filename)
+            db[hash_crc].append(filename)
     return db, number_of_entries
 
 
@@ -147,42 +164,81 @@ def parse_folder(source_folder, db, output_folder):
             for f in filenames:
                 filename = os.path.join(os.path.normpath(dirpath), f)
                 absolute_filename = u'\\\\?\\' + os.path.abspath(filename)
-                h = hashlib.sha256()
                 try:
-                    with open(filename, "rb", buffering=0) as f:
-                        # use a small buffer to compute hash to
-                        # avoid memory overload
-                        for b in iter(lambda: f.read(128 * 1024), b''):
-                            h.update(b)
+                    hashes = get_hashes(filename)
                 except FileNotFoundError:
-                    with open(absolute_filename, "rb", buffering=0) as f:
-                        # use a small buffer to compute hash to
-                        # avoid memory overload
-                        for b in iter(lambda: f.read(128 * 1024), b''):
-                            h.update(b)
-                if h.hexdigest() in db:
-                    # we have a hit
-                    for entry in db[h.hexdigest()]:
-                        found_entries += 1
-                        new_path = os.path.join(output_folder,
-                                                os.path.dirname(entry))
-                        # create directory structure if need be
-                        if not os.path.exists(new_path):
-                            os.makedirs(new_path, exist_ok=True)
-                        new_file = os.path.join(output_folder, entry)
-                        if (not ARGS.skip_existing or not
-                                os.path.exists(new_file)):
-                            # copy the file to the new directory
-                            copy_file(filename, new_file)
-                    # remove the hit from the database
-                    del db[h.hexdigest()]
-                i += 1
-                print_progress(i, END_LINE)
+                    hashes = get_hashes(absolute_filename)
+
+                for h, info in hashes.items():
+                    if h in db:
+                        # we have a hit
+                        for entry in db[h]:
+                            found_entries += 1
+                            new_path = os.path.join(output_folder,
+                                                    os.path.dirname(entry))
+                            # create directory structure if need be
+                            if not os.path.exists(new_path):
+                                os.makedirs(new_path, exist_ok=True)
+                            new_file = os.path.join(output_folder, entry)
+                            if (not ARGS.skip_existing or not
+                                    os.path.exists(new_file)):
+                                if info['archive']:
+                                    # extract file from archive to directory
+                                    extract_file(info['filename'],
+                                                 info['archive']['entry'],
+                                                 info['archive']['type'],
+                                                 new_file)
+                                else:
+                                    # copy the file to the new directory
+                                    copy_file(info['filename'], new_file)
+                        # remove the hit from the database
+                        del db[h]
+
+                    i += 1
+                    print_progress(i, END_LINE)
     else:
         if not ARGS.new_line:
             print_progress(i, "\n")
 
     return found_entries
+
+
+def get_hashes(filename):
+    """
+    return dictionary of hashes containing:
+        - sha256 hash of the file itself
+        - additional hashes if the file is a compressed archive
+    """
+    hashes = {}
+    h = hashlib.sha256()
+
+    # hash the file itself
+    with open(filename, "rb", buffering=0) as f:
+        # use a small buffer to compute hash to
+        # avoid memory overload
+        for b in iter(lambda: f.read(128 * 1024), b''):
+            h.update(b)
+
+    # add file hash to dict
+    hashes[h.hexdigest()] = {
+        'filename': filename,
+        'archive': None
+    }
+
+    # if this is a zipfile, extract CRCs from header
+    if zipfile.is_zipfile(filename):
+        with zipfile.ZipFile(filename, 'r') as z:
+            for info in z.infolist():
+                # add archive entry hash to dict
+                hashes[hex(info.CRC).lstrip('0x')] = {
+                    'filename': filename,
+                    'archive': {
+                        'entry': info.filename,
+                        'type': 'zip'
+                    }
+                }
+
+    return hashes
 
 
 # *********************************************************************#
@@ -200,8 +256,15 @@ if __name__ == '__main__':
     DATABASE, NUMBER_OF_ENTRIES = parse_database(TARGET_DATABASE)
     FOUND_ENTRIES = parse_folder(SOURCE_FOLDER, DATABASE, OUTPUT_FOLDER)
     if MISSING_FILES:
+        # Observed files will have either the SHA256 or the CRC32
+        # entry deleted (or both). Missing files will have both
+        # entries. So, search for filenames occuring twice.
+        d = Counter([str(i) for i in DATABASE.values()])
+        d2 = set([str(i) for i in d if d[i] == 2])
+        # Each missing file is listed twice, keep only the SHA256 entry (64 chars)
         list_of_missing_files = [(os.path.basename(DATABASE[entry][0]), entry)
-                                 for entry in DATABASE]
+                                 for entry in DATABASE
+                                 if str(DATABASE[entry]) in d2 and len(entry) == 64]
         if list_of_missing_files:
             list_of_missing_files.sort()
             with open(MISSING_FILES, "w") as missing_files:
