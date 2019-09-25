@@ -162,7 +162,8 @@ def parse_folder(source_folder, db, output_folder):
     for dirpath, dirnames, filenames in os.walk(source_folder):
         if filenames:
             for f in filenames:
-                filename = os.path.join(os.path.normpath(dirpath), f)
+                filename = os.path.join(os.path.normpath(dirpath),
+                                        os.path.normpath(f))
                 absolute_filename = u'\\\\?\\' + os.path.abspath(filename)
                 try:
                     hashes = get_hashes(filename)
