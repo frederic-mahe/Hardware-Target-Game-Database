@@ -123,6 +123,9 @@ def extract_file(filename, entry, method, dest):
         try:
             # extract the file to the new directory
             zipfile.ZipFile(filename).extract(entry, os.path.dirname(dest))
+            filename = os.path.join(os.path.dirname(dest), entry)
+            if filename != dest:
+                os.replace(filename, dest)
         except FileNotFoundError:
             # Windows' default API is limited to paths of 260 characters
             fixed_dest = u'\\\\?\\' + os.path.abspath(dest)
