@@ -14,8 +14,8 @@ from collections import Counter
 
 
 __author__ = "aquaman"
-__date__ = "2019/08/29"
-__version__ = "$Revision: 3.2"
+__date__ = "2019/09/30"
+__version__ = "$Revision: 3.3"
 
 
 # *********************************************************************#
@@ -231,16 +231,19 @@ def get_hashes(filename):
 
     # if this is a zipfile, extract CRCs from header
     if zipfile.is_zipfile(filename):
-        with zipfile.ZipFile(filename, 'r') as z:
-            for info in z.infolist():
-                # add archive entry hash to dict
-                hashes[hex(info.CRC).lstrip('0x')] = {
-                    'filename': filename,
-                    'archive': {
-                        'entry': info.filename,
-                        'type': 'zip'
+        try:
+            with zipfile.ZipFile(filename, 'r') as z:
+                for info in z.infolist():
+                    # add archive entry hash to dict
+                    hashes[hex(info.CRC).lstrip('0x')] = {
+                        'filename': filename,
+                        'archive': {
+                            'entry': info.filename,
+                            'type': 'zip'
+                        }
                     }
-                }
+        except OSError:  # normal file containing a zip magic number?
+            pass
 
     return hashes
 
