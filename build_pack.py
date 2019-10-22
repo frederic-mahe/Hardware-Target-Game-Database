@@ -160,7 +160,6 @@ def parse_folder(source_folder, db, output_folder):
     """
     read each file, produce a hash value and place it in the directory tree.
     """
-    found_entries = 0
     i = 0
     for dirpath, dirnames, filenames in os.walk(source_folder):
         if filenames:
@@ -177,7 +176,6 @@ def parse_folder(source_folder, db, output_folder):
                     if h in db:
                         # we have a hit
                         for entry in db[h]:
-                            found_entries += 1
                             new_path = os.path.join(output_folder,
                                                     os.path.dirname(entry))
                             # create directory structure if need be
@@ -203,8 +201,6 @@ def parse_folder(source_folder, db, output_folder):
     else:
         if not ARGS.new_line:
             print_progress(i, "\n")
-
-    return found_entries
 
 
 def get_hashes(filename):
@@ -261,7 +257,8 @@ if __name__ == '__main__':
     MISSING_FILES = ARGS.missing_files
     END_LINE = "\n" if ARGS.new_line else "\r"
     DATABASE, NUMBER_OF_ENTRIES = parse_database(TARGET_DATABASE)
-    FOUND_ENTRIES = parse_folder(SOURCE_FOLDER, DATABASE, OUTPUT_FOLDER)
+    parse_folder(SOURCE_FOLDER, DATABASE, OUTPUT_FOLDER)
+    FOUND_ENTRIES = NUMBER_OF_ENTRIES
     if MISSING_FILES:
         # Observed files will have either the SHA256 or the CRC32
         # entry deleted (or both). Missing files will have both
@@ -272,6 +269,7 @@ if __name__ == '__main__':
         list_of_missing_files = [(os.path.basename(DATABASE[entry][0]), entry)
                                  for entry in DATABASE
                                  if str(DATABASE[entry]) in d2 and len(entry) == 64]
+        FOUND_ENTRIES = NUMBER_OF_ENTRIES - len(list_of_missing_files)
         if list_of_missing_files:
             list_of_missing_files.sort()
             with open(MISSING_FILES, "w") as missing_files:
