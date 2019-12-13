@@ -13,8 +13,8 @@ import argparse
 
 
 __author__ = "aquaman"
-__date__ = "2018/01/22"
-__version__ = "$Revision: 4.0"
+__date__ = "2019/12/13"
+__version__ = "$Revision: 4.1"
 
 
 # *********************************************************************#
@@ -106,6 +106,7 @@ def parse_folder(target_folder, output_file):
                 filenames.sort()
                 for f in filenames:
                     filename = os.path.join(os.path.normpath(dirpath), f)
+                    filename = filename.lstrip("/")  # /root/a/b to root/a/b
                     absolute_filename = os.path.abspath(filename)
                     os.path.isfile(absolute_filename)
                     # convert to Unix format by default
