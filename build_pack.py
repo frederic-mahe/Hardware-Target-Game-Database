@@ -161,10 +161,10 @@ def parse_folder(source_folder, db, output_folder):
     read each file, produce a hash value and place it in the directory tree.
     """
     i = 0
-    total = 0
+    total = len([os.path.join(dp, f) for dp, dn, fn in
+            os.walk(os.path.expanduser(source_folder)) for f in fn])
     for dirpath, dirnames, filenames in os.walk(source_folder):
         if filenames:
-            total = len(filenames)
             for f in filenames:
                 filename = os.path.join(os.path.normpath(dirpath),
                                         os.path.normpath(f))
