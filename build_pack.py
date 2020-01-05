@@ -231,7 +231,8 @@ def get_hashes(filename):
             with zipfile.ZipFile(filename, 'r') as z:
                 for info in z.infolist():
                     # add archive entry hash to dict
-                    hashes[hex(info.CRC).lstrip('0x')] = {
+                    crc_formatted_hex = '{0:08x}'.format(info.CRC & 0xffffffff)
+                    hashes[crc_formatted_hex] = {
                         'filename': filename,
                         'archive': {
                             'entry': info.filename,
