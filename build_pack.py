@@ -240,6 +240,8 @@ def get_hashes(filename):
                     }
         except OSError:  # normal file containing a zip magic number?
             pass
+        except UnicodeDecodeError:
+            pass
 
     return hashes
 
