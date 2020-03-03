@@ -1,9 +1,3 @@
-# CHANGES
-
-Fixed Typo with "Secret Of The Moai"
-
-Added "Micro Mages" by Morphcat Games
-
 # EverDrive-Packs-Lists-Database
 
 The EverDrive Packs Lists Project is an archival research initiave
