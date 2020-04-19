@@ -238,7 +238,7 @@ def get_hashes(filename):
                             'type': 'zip'
                         }
                     }
-        except OSError:  # normal file containing a zip magic number?
+        except zipfile.BadZipfile:  # normal file containing a zip magic number?
             pass
 
     return hashes
