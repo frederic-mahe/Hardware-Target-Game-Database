@@ -106,6 +106,10 @@ def copy_file(source, dest):
     else:
         raise Exception("Unknown copy strategy {}".format(ARGS.file_strategy))
 
+    # force overwriting (remove before copy to avoid FileExistsError)
+    if not ARGS.skip_existing and os.path.exists(dest):
+        os.remove(dest)
+
     try:
         # copy the file to the new directory
         copy_fn(source, dest)
