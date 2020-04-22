@@ -244,7 +244,9 @@ def get_hashes(filename):
         except OSError:  # normal file containing a zip magic number?
             pass
         except UnicodeDecodeError:
-            print(f'error parsing {filename} as a zip archive\nunable to determine encoding of contained filenames\nif this file is not a zip archive, you may safely ignore this error')
+            print('error parsing {} as a zip archive'.format(filename))
+            print("unable to determine encoding of contained filenames")
+            print("if this file is not a zip archive, you may safely ignore this error")
             pass
 
     return hashes
