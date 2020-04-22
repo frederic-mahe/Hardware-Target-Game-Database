@@ -14,8 +14,8 @@ from collections import Counter
 
 
 __author__ = "aquaman"
-__date__ = "2019/09/30"
-__version__ = "$Revision: 3.3"
+__date__ = "2020/04/22"
+__version__ = "$Revision: 3.5"
 
 
 # *********************************************************************#
