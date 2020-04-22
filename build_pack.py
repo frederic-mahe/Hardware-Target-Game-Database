@@ -148,8 +148,8 @@ def parse_database(target_database):
     return db, number_of_entries
 
 
-def print_progress(current, end):
-    print_function("processing file: {:>9}".format(current), end=end)
+def print_progress(current, total, end):
+    print_function("processing file: {:>9} / {}".format(current, total), end=end)
 
 
 def print_function(text, end, file=sys.stdout, flush=True):
@@ -161,6 +161,8 @@ def parse_folder(source_folder, db, output_folder):
     read each file, produce a hash value and place it in the directory tree.
     """
     i = 0
+    total = len([os.path.join(dp, f) for dp, dn, fn in
+            os.walk(os.path.expanduser(source_folder)) for f in fn])
     for dirpath, dirnames, filenames in os.walk(source_folder):
         if filenames:
             for f in filenames:
@@ -196,11 +198,11 @@ def parse_folder(source_folder, db, output_folder):
                         # remove the hit from the database
                         del db[h]
 
-                    i += 1
-                    print_progress(i, END_LINE)
+                i += 1
+                print_progress(i, total, END_LINE)
     else:
         if not ARGS.new_line:
-            print_progress(i, "\n")
+            print_progress(i, total, "\n")
 
 
 def get_hashes(filename):
@@ -231,7 +233,8 @@ def get_hashes(filename):
             with zipfile.ZipFile(filename, 'r') as z:
                 for info in z.infolist():
                     # add archive entry hash to dict
-                    hashes[hex(info.CRC).lstrip('0x')] = {
+                    crc_formatted_hex = '{0:08x}'.format(info.CRC & 0xffffffff)
+                    hashes[crc_formatted_hex] = {
                         'filename': filename,
                         'archive': {
                             'entry': info.filename,
@@ -239,6 +242,11 @@ def get_hashes(filename):
                         }
                     }
         except OSError:  # normal file containing a zip magic number?
+            pass
+        except UnicodeDecodeError:
+            print('error parsing {} as a zip archive'.format(filename))
+            print("unable to determine encoding of contained filenames")
+            print("if this file is not a zip archive, you may safely ignore this error")
             pass
 
     return hashes
@@ -259,24 +267,24 @@ if __name__ == '__main__':
     DATABASE, NUMBER_OF_ENTRIES = parse_database(TARGET_DATABASE)
     parse_folder(SOURCE_FOLDER, DATABASE, OUTPUT_FOLDER)
     FOUND_ENTRIES = NUMBER_OF_ENTRIES
-    if MISSING_FILES:
-        # Observed files will have either the SHA256 or the CRC32
-        # entry deleted (or both). Missing files will have both
-        # entries. So, search for filenames occuring twice.
-        d = Counter([str(i) for i in DATABASE.values()])
-        d2 = set([str(i) for i in d if d[i] == 2])
-        # Each missing file is listed twice, keep only the SHA256 entry (64 chars)
-        list_of_missing_files = [(os.path.basename(DATABASE[entry][0]), entry)
-                                 for entry in DATABASE
-                                 if str(DATABASE[entry]) in d2 and len(entry) == 64]
-        FOUND_ENTRIES = NUMBER_OF_ENTRIES - len(list_of_missing_files)
-        if list_of_missing_files:
-            list_of_missing_files.sort()
+    # Observed files will have either the SHA256 or the CRC32
+    # entry deleted (or both). Missing files will have both
+    # entries. So, search for filenames occuring twice.
+    d = Counter([str(i) for i in DATABASE.values()])
+    d2 = set([str(i) for i in d if d[i] == 2])
+    # Each missing file is listed twice, keep only the SHA256 entry (64 chars)
+    list_of_missing_files = [(os.path.basename(DATABASE[entry][0]), entry)
+                             for entry in DATABASE
+                             if str(DATABASE[entry]) in d2 and len(entry) == 64]
+    FOUND_ENTRIES = NUMBER_OF_ENTRIES - len(list_of_missing_files)
+    if list_of_missing_files:
+        list_of_missing_files.sort()
+        if MISSING_FILES:
             with open(MISSING_FILES, "w") as missing_files:
                 for missing_file, entry in list_of_missing_files:
                     print(missing_file, entry, sep="\t", file=missing_files)
-        else:
-            print("no missing file")
+    else:
+        print("no missing file")
 
     COVERAGE = round(100.0 * FOUND_ENTRIES / NUMBER_OF_ENTRIES, 2)
     print('coverage: {}/{} ({}%)'.format(FOUND_ENTRIES,
