@@ -14,8 +14,8 @@ from collections import Counter
 
 
 __author__ = "aquaman"
-__date__ = "2019/09/30"
-__version__ = "$Revision: 3.3"
+__date__ = "2020/04/22"
+__version__ = "$Revision: 3.5"
 
 
 # *********************************************************************#
@@ -105,6 +105,10 @@ def copy_file(source, dest):
         copy_fn = os.link
     else:
         raise Exception("Unknown copy strategy {}".format(ARGS.file_strategy))
+
+    # force overwriting (remove before copy to avoid FileExistsError)
+    if not ARGS.skip_existing and os.path.exists(dest):
+        os.remove(dest)
 
     try:
         # copy the file to the new directory
