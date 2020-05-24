@@ -86,6 +86,18 @@ if __name__ == '__main__':
                         help=("Changes the way the stdout is printed, and "
                               "allows for UI subprocess monitoring."))
 
+    # Valid uses of this flag include: -c, -c true, -c yes, --custom_initial_directory=1
+    parser.add_argument("-c", "--custom_initial_directory",
+                        dest="custom_initial_directory",
+                        default=False,
+                        # nargs and const below allow us to accept the
+                        # zero-argument form of --skip_existing
+                        nargs="?",
+                        const=True,
+                        type='bool',
+                        help=("Ignores the first directory path in the SMDB file "
+                              "so you can customize the name."))
+
     ARGS = parser.parse_args()
 
 
@@ -160,7 +172,7 @@ def print_function(text, end, file=sys.stdout, flush=True):
     print(text, end=end, file=file, flush=flush)
 
 
-def parse_folder(source_folder, db, output_folder):
+def parse_folder(source_folder, db, output_folder, custom_initial_directory):
     """
     read each file, produce a hash value and place it in the directory tree.
     """
@@ -182,6 +194,11 @@ def parse_folder(source_folder, db, output_folder):
                     if h in db:
                         # we have a hit
                         for entry in db[h]:
+                            if custom_initial_directory:
+                                entry_list = entry.split('/')
+                                entry_list.pop(0)
+                                entry = '/'.join(entry_list)
+
                             new_path = os.path.join(output_folder,
                                                     os.path.dirname(entry))
                             # create directory structure if need be
@@ -268,8 +285,9 @@ if __name__ == '__main__':
     OUTPUT_FOLDER = ARGS.output_folder
     MISSING_FILES = ARGS.missing_files
     END_LINE = "\n" if ARGS.new_line else "\r"
+    CUSTOM_INITIAL_DIRECTORY = ARGS.custom_initial_directory
     DATABASE, NUMBER_OF_ENTRIES = parse_database(TARGET_DATABASE)
-    parse_folder(SOURCE_FOLDER, DATABASE, OUTPUT_FOLDER)
+    parse_folder(SOURCE_FOLDER, DATABASE, OUTPUT_FOLDER, CUSTOM_INITIAL_DIRECTORY)
     FOUND_ENTRIES = NUMBER_OF_ENTRIES
     # Observed files will have either the SHA256 or the CRC32
     # entry deleted (or both). Missing files will have both
