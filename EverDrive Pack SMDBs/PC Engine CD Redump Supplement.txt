@@ -1216,6 +1216,13 @@ a7c76d3a4cc18a7b946474df3b0c18ec2a6bf30ff990994cc334221354e84d1a	PC Engine CD Re
 ac05d58943004a7e8fc0afedd8bff75c890f98dfe581923780ce8d42d587b3cb	PC Engine CD Redump Supplement/@Non-Redump Official/Mahou no Shoujo Silky Lip (Japan) (Prototype Rev 3.1) (Telenet Japan)/Mahou no Shoujo Silky Lip (Japan) (Prototype Rev 3.1) (Telenet Japan).cue	fd054dd07a46db4d9d060a6486ba61b27f7a6b1a	85e366e176f23a4996ba06c50ba2c41e	fd2727a0
 fe7068a607af3ef412384ac5012b87c93cdf90f4f82a1bd7f64dc8fd33fd6c63	PC Engine CD Redump Supplement/@Non-Redump Official/Mahou no Shoujo Silky Lip (Japan) (Prototype Rev 5.0) (Telenet Japan)/Mahou no Shoujo Silky Lip (Japan) (Prototype Rev 5.0) (Telenet Japan).bin	98c7c1bdd55732b464c89369d46c2a9a53cf9c03	6272138162402e79c96630ab8d62f71a	30d8b2e0
 b417d61a8ca3941a723f16ce39552563a099a33bf8e2fcac99f5d21648a3d1e9	PC Engine CD Redump Supplement/@Non-Redump Official/Mahou no Shoujo Silky Lip (Japan) (Prototype Rev 5.0) (Telenet Japan)/Mahou no Shoujo Silky Lip (Japan) (Prototype Rev 5.0) (Telenet Japan).cue	c593b41da409347eb5d1974c156fb17059ae1e79	4669ee242a73e7b90336372a875e2bc1	ece9e404
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
+>>>>>>> master
 c1ead5c4d4baeb90d0ce5bc5653489623614928fda13b9c514d114a01963311e	PC Engine CD Redump Supplement/@Un-Worked Designs/Cosmic Fantasy 2 - Un-Worked Designs (Hack) v0 Supper 2017-03-21/CosmicFantasy2UnWorked.cue	ae70bbfc4b0fe24ca09be606d3d60808d4d086d2	f7e56435603eed0c54c737cf15f7bbea	f4a6e5ab
 5dabc700eef53e9a92b248f8892ac58eea8577800135357632088f77fd86187d	PC Engine CD Redump Supplement/@Un-Worked Designs/Cosmic Fantasy 2 - Un-Worked Designs (Hack) v0 Supper 2017-03-21/CosmicFantasy2UnWorked_01.wav	d1f7c582beebb2f92c793b3bd08717a1dfb3a5c4	e79d9107bdcb405410801f5a2a5ee5e6	d5616670
 a0fc27122b1a6210ec11b0845250b1548114c6352ee50d73d515d84d79bc0b8c	PC Engine CD Redump Supplement/@Un-Worked Designs/Cosmic Fantasy 2 - Un-Worked Designs (Hack) v0 Supper 2017-03-21/CosmicFantasy2UnWorked_02.iso	d144661a179a6a0c72c07660912738446e0bedf8	9f2af5b49925da6ddda12970ad414cf3	7871d325
@@ -1383,6 +1390,14 @@ b970daf705ec933bd9cbb3d3cfbedd6b88c5e9d2bb3f0e7ac295843e54280b1a	PC Engine CD Re
 cd500969f0f59607be0507f0d141fb85930322ad771d8910dbc72f1038228659	PC Engine CD Redump Supplement/@Un-Worked Designs/Exile II - Un-Worked Designs (Hack) v1 Supper 2017-02-10/Exile2UnWorked_26.wav	281d108c347403d6b7666dd5ceb011de7b503896	e3ad7ecdd998ad84aa63a41c5689bce1	19f5c915
 0d4776fdcc07aa8d5bfbd4b8336611a07b7775e2708124f14a62755367110097	PC Engine CD Redump Supplement/@Un-Worked Designs/Exile II - Un-Worked Designs (Hack) v1 Supper 2017-02-10/Exile2UnWorked_27.wav	aff2ead80681fa4cd76478a5559542a972baadee	6246d964fbdde8a838c5bd3ca42ada2c	12d5f713
 41b64ec3cc0bdb9110bdbce888e0bff5aa7ff83221e3b2331aeb7d3e066e9b47	PC Engine CD Redump Supplement/@Un-Worked Designs/Exile II - Un-Worked Designs (Hack) v1 Supper 2017-02-10/Exile2UnWorked_28.wav	0e07b1a995270a63e0848a7104294fbf5145ae95	ef6ce78494215d82a64ed02363306079	ea3e2af6
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> master
+>>>>>>> master
+>>>>>>> master
 9d2b7f99584dfd4a6c04c94ee390c8caeff82e9b7a83b94c598b0c2972ad7e26	PC Engine CD Redump Supplement/Bishoujo Senshi Sailor Moon - English (Japan) T+Eng v1 Supper/Bishoujo Senshi Sailor Moon - English (Japan) T+Eng v1 Supper.bin	8e25dc7111e0ecd3b5b2e5e2df2a5555953f5f99	c54a4956f59e3deeb8c79224e17f8da7	c97ff453
 e1912bd77e874203dca563ac55fb2f38a60eb4724edc2cbed959f03acc998d07	PC Engine CD Redump Supplement/Bishoujo Senshi Sailor Moon - English (Japan) T+Eng v1 Supper/Bishoujo Senshi Sailor Moon - English (Japan) T+Eng v1 Supper.cue	0f9afe8c8074f8c50d8562860eae240c9a29cceb	60fbf4f3eb244cc508591423c61af186	bd5cc7df
 207ad75fee31105d1ab3ee33cc906593a2baf62bac8ff6279a38a8c64d62b3ee	PC Engine CD Redump Supplement/Bishoujo Senshi Sailor Moon - English+Honorifics (Japan) T+Eng v1 Supper/Bishoujo Senshi Sailor Moon - English+Honorifics (Japan) T+Eng v1 Supper.bin	96ed2e8504e8b545b4652febd367fa4df439d6c3	3df02da1a39a0c7262f5c744f2e9fa8d	9f6b5759
@@ -1543,6 +1558,10 @@ af382f4aceb011fcd70962c46078dcd0e77c01abfaea70aa48d8561254abf228	PC Engine CD Re
 fbe8da3a0d4a700f81b96859a7768d52dc536efc13f433286af2f5e6c562d18c	PC Engine CD Redump Supplement/Godzilla - Audio Track Restore (Unl)/Godzilla - English (U) T+Eng (Track 24).iso	188067582d7c9d81657e13c375ead9fd95f2660b	7a239d9150f99ca013d0d0fe955e6e74	7ea00bd1
 96f5034125d68e6d05d96405509205532e6632de7a886574a718f152a70a0f46	PC Engine CD Redump Supplement/Godzilla - Audio Track Restore (Unl)/Godzilla - English (U) T+Eng.cue	6424cb72586338ab1d62efcae1e657bddcd2c994	3f0f02b2e94e3743ddc058812547d62a	3185a65f
 76f55270a64f3c43936244ed4aac7a43cc6d004f49792a7f5b6e75b02f457321	PC Engine CD Redump Supplement/Godzilla - Audio Track Restore (Unl)/Godzilla - English (U) T+Eng.toc	0fbc45479aeda9e70d4b7ad8d862b0cccbce36fd	9fc9b65c4026a6ccbec075b38fb4cbd1	ab578e05
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
 e0beb9b383213f98985309100360674bf755119451f7b94fd6295e40f85a7d70	PC Engine CD Redump Supplement/Gradius II - X68k FM+MT-32 OST (Hack) v1 protogem/01 Gradius II - Gofer no Yabou (J).wav	ba102bced3bb8137084f9b7af2161a5d2c62e3c5	58973c5390f06fe750e7792e5d725ab8	51590d70
 40d647c10acd8db5ca00764960ae480201327d5ef9c90169240cde0961c104d6	PC Engine CD Redump Supplement/Gradius II - X68k FM+MT-32 OST (Hack) v1 protogem/02 Gradius II - Gofer no Yabou (J).iso	11c70ca543f9235e7ae90b96f1afdbaff58cdddb	bd78908cb253d4be561ed3ce584efaab	d43aff91
 7afcae790a9aacc36b143a54e16035e5074ba3d2ff7a513ccb4269fe9617d5ad	PC Engine CD Redump Supplement/Gradius II - X68k FM+MT-32 OST (Hack) v1 protogem/03 Gradius II - Gofer no Yabou (J).wav	3193ea1a775d12322fb6fe348357ad2b7847234d	6a2297c94d6f5807c1fec19f5365f5b8	a5755a88
@@ -1573,6 +1592,11 @@ b60e6552d674064b07c2c0897ed5ea9279f0cec7da6719a9530a70745364d3ad	PC Engine CD Re
 e51810bed827be8d190e8eccad117c339604f43322ef33fb282d2f8cbe4da6a0	PC Engine CD Redump Supplement/Gradius II - X68k FM+MT-32 OST (Hack) v1 protogem/28 Gradius II - Gofer no Yabou (J).iso	32b425406ab7888df4b0d20a27647f23eabbb9d7	e58e722e74fb5c2559ab50f57b3a83f9	92ec99d7
 7c323249562935630d5e2588909873dfb9718965334ff6694fb92cc608aa88e7	PC Engine CD Redump Supplement/Gradius II - X68k FM+MT-32 OST (Hack) v1 protogem/Gradius II - Gofer no Yabou (J).cue	566671065c25e1a86e0412b3800379912a371c4b	f910c0806beebdd9409aeea4aeada302	586d6a6c
 65da18f37c1d608410b1f11ee2bf9fc8573a6ed1119640c441f518eaab05173a	PC Engine CD Redump Supplement/Gradius II - X68k FM+MT-32 OST (Hack) v1 protogem/Gradius II - Gofer no Yabou (J).toc	14c81d06a790daec354dae6e3416c7296085619d	c5b1034adebbafeb549e20349ad8779f	2aea8d82
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> master
+>>>>>>> master
 c8ee2c0344a951e74e870067afd92884e57702e01281ca7cb43633328757776d	PC Engine CD Redump Supplement/Insantaty (Unl) 2016 Aetherbyte [bin-cue]/Insantaty (Unl) 2016 Aetherbyte.bin	e4bc117ac485911b1b102724c71877d630d27f4f	99527a60a24518c6e2e9da5d65904762	bb76a6bf
 5a47480920e9022f946aa77bd770d3d7a2559d6082fa1ebec05f29b5178c8918	PC Engine CD Redump Supplement/Insantaty (Unl) 2016 Aetherbyte [bin-cue]/Insantaty (Unl) 2016 Aetherbyte.cue	0c86da109f33498efc3b5ff49b1f031d132fd948	4a1494160c8d0c67de4f766208589a0f	d6ec9d72
 306224fa7c95dc67b01c341b56d086f0b37827ede1f459aa93edebc6e1a0e071	PC Engine CD Redump Supplement/Lords of Thunder - Sega CD OST  (Hack) v1 R1ggles/01 Lords of Thunder (U).wav	843324b16e08c7c11feaca073ff3ab631d2051ed	7967ddbba404ad49ca867b222d6a6265	7bae9459
