@@ -125,6 +125,13 @@ def copy_file(source, dest, original):
         # Windows' default API is limited to paths of 260 characters
         fixed_dest = u'\\\\?\\' + os.path.abspath(dest)
         copy_fn(source, fixed_dest)
+    except OSError:
+        try:
+            shutil.copyfile(source, dest)
+        except FileNotFoundError:
+            # Windows' default API is limited to paths of 260 characters
+            fixed_dest = u'\\\\?\\' + os.path.abspath(dest)
+            shutil.copyfile(source, fixed_dest)
 
 
 def extract_file(filename, entry, method, dest):
