@@ -56,11 +56,13 @@ if __name__ == '__main__':
                         help="list missing files")
 
     parser.add_argument("--file_strategy",
-                        choices=["copy", "hardlink"],
+                        choices=["copy", "hardlink", "smart"],
                         dest="file_strategy",
                         default="copy",
                         help=("Strategy for how to get files into the output "
-                              "folder."))
+                              "folder. Smart uses copy for first instance of "
+                              "of a file and hardlinks to that first one for "
+                              "successive files."))
 
     # Valid uses of this flag include: -s, -s true, -s yes, --skip_existing=1
     parser.add_argument("-s", "--skip_existing",
@@ -89,7 +91,7 @@ if __name__ == '__main__':
     ARGS = parser.parse_args()
 
 
-def copy_file(source, dest):
+def copy_file(source, dest, original):
     """Get a file from source to destination, with a configurable strategy.
 
     This method makes a file at source additionally appear at dest. The way
@@ -99,10 +101,16 @@ def copy_file(source, dest):
       source - The file to copy/hardlink
       dest - The destination that the new file should appear at
     """
-    if ARGS.file_strategy == "copy":
+    if (ARGS.file_strategy == "copy"):
         copy_fn = shutil.copyfile
-    elif ARGS.file_strategy == "hardlink":
+    elif (ARGS.file_strategy == "hardlink"):
         copy_fn = os.link
+    elif (ARGS.file_strategy == "smart"):
+        if original == dest:
+            copy_fn = shutil.copyfile
+        else:
+            copy_fn = os.link
+            source = original
     else:
         raise Exception("Unknown copy strategy {}".format(ARGS.file_strategy))
 
@@ -124,16 +132,20 @@ def extract_file(filename, entry, method, dest):
     extracts entry from archive to given destination directory
     """
     if method == 'zip':
-        try:
-            # extract the file to the new directory
-            zipfile.ZipFile(filename).extract(entry, os.path.dirname(dest))
-            filename = os.path.join(os.path.dirname(dest), entry)
-            if filename != dest:
-                os.replace(filename, dest)
-        except FileNotFoundError:
-            # Windows' default API is limited to paths of 260 characters
-            fixed_dest = u'\\\\?\\' + os.path.abspath(dest)
-            zipfile.ZipFile(filename).extract(entry, os.path.dirname(fixed_dest))
+        # Stolen shamelessly from https://stackoverflow.com/questions/4917284/extract-files-from-zip-without-keeping-the-structure-using-python-zipfile
+        # Eliminates the random directories that appear when a file is extracted from a zip file
+        with zipfile.ZipFile(filename) as zip_file:  
+            for member in zip_file.namelist():
+                filename = os.path.basename(member)
+                # skip directories
+                if not filename:
+                    continue
+
+                # copy file (taken from zipfile's extract)
+                source = zip_file.open(member)
+                target = open(dest, "wb")
+                with source, target:
+                    shutil.copyfileobj(source, target)
 
 
 def parse_database(target_database):
@@ -181,13 +193,17 @@ def parse_folder(source_folder, db, output_folder):
                 for h, info in hashes.items():
                     if h in db:
                         # we have a hit
+                        loop = 0
                         for entry in db[h]:
+                            loop += 1
                             new_path = os.path.join(output_folder,
                                                     os.path.dirname(entry))
                             # create directory structure if need be
                             if not os.path.exists(new_path):
                                 os.makedirs(new_path, exist_ok=True)
                             new_file = os.path.join(output_folder, entry)
+                            if loop == 1:
+                                original = new_file
                             if (not ARGS.skip_existing or not
                                     os.path.exists(new_file)):
                                 if info['archive']:
@@ -198,7 +214,7 @@ def parse_folder(source_folder, db, output_folder):
                                                  new_file)
                                 else:
                                     # copy the file to the new directory
-                                    copy_file(info['filename'], new_file)
+                                    copy_file(info['filename'], new_file, original)
                         # remove the hit from the database
                         del db[h]
 
@@ -245,12 +261,11 @@ def get_hashes(filename):
                             'type': 'zip'
                         }
                     }
-        except OSError:  # normal file containing a zip magic number?
-            pass
-        except UnicodeDecodeError:
-            print('error parsing {} as a zip archive'.format(filename))
-            print("unable to determine encoding of contained filenames")
-            print("if this file is not a zip archive, you may safely ignore this error")
+        except (OSError, UnicodeDecodeError, zipfile.BadZipFile):  # normal file containing a zip magic number?
+            print('**** ERROR ****')
+            print('**** Attempted to parse {} as a zip archive.'.format(filename))
+            print('**** If this file is not a zip archive, you may safely ignore this error.')
+            print('***************')
             pass
 
     return hashes
