@@ -79,12 +79,25 @@ if __name__ == '__main__':
                         dest="new_line",
                         default=False,
                         # nargs and const below allow us to accept the
-                        # zero-argument form of --skip_existing
+                        # zero-argument form of --new_line
                         nargs="?",
                         const=True,
                         type='bool',
                         help=("Changes the way the stdout is printed, and "
                               "allows for UI subprocess monitoring."))
+
+    # Valid uses of this flag include: -x, -x true, -x yes,
+    # --drop_initial_directory=1
+    parser.add_argument("-x", "--drop_initial_directory",
+                        dest="drop_initial_directory",
+                        default=False,
+                        # nargs and const below allow us to accept the
+                        # zero-argument form of --drop_initial_directory
+                        nargs="?",
+                        const=True,
+                        type='bool',
+                        help=("Drops the 1st directory path in the SMDB file "
+                              "so you can customize the name."))
 
     ARGS = parser.parse_args()
 
@@ -136,7 +149,7 @@ def extract_file(filename, entry, method, dest):
             zipfile.ZipFile(filename).extract(entry, os.path.dirname(fixed_dest))
 
 
-def parse_database(target_database):
+def parse_database(target_database, drop_initial_directory):
     """
     store hash values and filenames in a database.
     """
@@ -146,6 +159,8 @@ def parse_database(target_database):
         for line in target_database:
             hash_sha256, filename, _, _, hash_crc = line.strip().split("\t", 4)
             number_of_entries += 1
+            if drop_initial_directory:
+                first_level, filename = filename.split("/", 1)
             filename = os.path.normpath(filename)
             db[hash_sha256].append(filename)
             db[hash_crc].append(filename)
@@ -166,7 +181,7 @@ def parse_folder(source_folder, db, output_folder):
     """
     i = 0
     total = len([os.path.join(dp, f) for dp, dn, fn in
-            os.walk(os.path.expanduser(source_folder)) for f in fn])
+                 os.walk(os.path.expanduser(source_folder)) for f in fn])
     for dirpath, dirnames, filenames in os.walk(source_folder):
         if filenames:
             for f in filenames:
@@ -268,7 +283,9 @@ if __name__ == '__main__':
     OUTPUT_FOLDER = ARGS.output_folder
     MISSING_FILES = ARGS.missing_files
     END_LINE = "\n" if ARGS.new_line else "\r"
-    DATABASE, NUMBER_OF_ENTRIES = parse_database(TARGET_DATABASE)
+    DROP_INITIAL_DIRECTORY = ARGS.drop_initial_directory
+
+    DATABASE, NUMBER_OF_ENTRIES = parse_database(TARGET_DATABASE, DROP_INITIAL_DIRECTORY)
     parse_folder(SOURCE_FOLDER, DATABASE, OUTPUT_FOLDER)
     FOUND_ENTRIES = NUMBER_OF_ENTRIES
     # Observed files will have either the SHA256 or the CRC32
