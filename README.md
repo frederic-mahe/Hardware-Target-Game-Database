@@ -73,6 +73,13 @@ Options for advanced users:
 `-s` (or `--skip_existing`) avoids overwriting files that already
 exist in the destination folder.
 
+`-x` (or `--drop_initial_directory`) skips the first directory level
+of the SMDB pack, so you can rename it to your convenience. For
+instance, if your output folder is `./NES/`, the pack will be built
+under `./NES/EverDrive N8/...`. With the option
+`--drop_initial_directory`, the pack will be built directly under
+`./NES/...`.
+
 Depending on your python installation, you may need to begin your
 command with the location of `python.exe` (for example,
 `C:\Users\XXX\AppData\Local\Programs\Python\Python36-32\python.exe`). More
