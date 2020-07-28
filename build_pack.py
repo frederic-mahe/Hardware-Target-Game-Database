@@ -309,17 +309,18 @@ if __name__ == '__main__':
 
     DATABASE, NUMBER_OF_ENTRIES = parse_database(TARGET_DATABASE, DROP_INITIAL_DIRECTORY)
     parse_folder(SOURCE_FOLDER, DATABASE, OUTPUT_FOLDER)
-    FOUND_ENTRIES = NUMBER_OF_ENTRIES
-    # Observed files will have either the SHA256 or the CRC32
-    # entry deleted (or both). Missing files will have both
-    # entries. So, search for filenames occuring twice.
+    # Observed files will have either their SHA256 or the CRC32 entry
+    # deleted (or both). For missing files, both entries are
+    # present. So, filenames are counted twice, fix that by keeping
+    # only the SHA256 entry (64 chars)
     d = Counter([str(i) for i in DATABASE.values()])
     d2 = set([str(i) for i in d if d[i] == 2])
-    # Each missing file is listed twice, keep only the SHA256 entry (64 chars)
     list_of_missing_files = [(os.path.basename(DATABASE[entry][0]), entry)
                              for entry in DATABASE
                              if str(DATABASE[entry]) in d2 and len(entry) == 64]
-    FOUND_ENTRIES = NUMBER_OF_ENTRIES - len(list_of_missing_files)
+    number_of_missing_entries = sum([len(DATABASE[missing_file[1]])
+                                     for missing_file in list_of_missing_files])
+    FOUND_ENTRIES = NUMBER_OF_ENTRIES - number_of_missing_entries
     if list_of_missing_files:
         list_of_missing_files.sort()
         if MISSING_FILES:
