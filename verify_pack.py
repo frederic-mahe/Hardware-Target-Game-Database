@@ -182,41 +182,34 @@ if __name__ == '__main__':
         for file in DATABASE[key]:
             MISSING_FILES.append((file, key))
     
-    number_bad_loc_files = len(BAD_LOCATION_FILES)
-    number_extra_files = len(EXTRA_FILES)
-    number_missing_files = len(MISSING_FILES)
-    
     # write information to log file only if there are any bad, extra or missing files to report
-    if MISMATCH_FILES and (number_bad_loc_files > 0 or number_extra_files > 0 or number_missing_files > 0):
+    if MISMATCH_FILES and (BAD_LOCATION_FILES or EXTRA_FILES or MISSING_FILES):
         BAD_LOCATION_FILES.sort()
         EXTRA_FILES.sort()
         MISSING_FILES.sort()
         
         with open(MISMATCH_FILES, "w") as mismatch_files:
-            if number_bad_loc_files > 0:
+            if BAD_LOCATION_FILES:
                 print("Incorrect Location Files:", file=mismatch_files)
-            for file, hash_sha256 in BAD_LOCATION_FILES:
-                print(os.path.abspath(file), hash_sha256, sep="\t", file=mismatch_files)
-            if number_bad_loc_files > 0:
+                for file, hash_sha256 in BAD_LOCATION_FILES:
+                    print(os.path.abspath(file), hash_sha256, sep="\t", file=mismatch_files)
                 print("\n", file=mismatch_files)
             
-            if number_extra_files > 0:
+            if EXTRA_FILES:
                 print("Extra Files:", file=mismatch_files)
-            for file, hash_sha256 in EXTRA_FILES:
-                print(os.path.abspath(file), hash_sha256, sep="\t", file=mismatch_files)
-            if number_extra_files > 0:
+                for file, hash_sha256 in EXTRA_FILES:
+                    print(os.path.abspath(file), hash_sha256, sep="\t", file=mismatch_files)
                 print("\n", file=mismatch_files)
             
-            if number_missing_files > 0:
+            if MISSING_FILES:
                 print("Missing Files:", file=mismatch_files)
-            for file, hash_sha256 in MISSING_FILES:
-                print(file, hash_sha256, sep="\t", file=mismatch_files)
-            if number_missing_files > 0:
+                for file, hash_sha256 in MISSING_FILES:
+                    print(file, hash_sha256, sep="\t", file=mismatch_files)
                 print("\n", file=mismatch_files)
                 
-    print("incorrect location: {}".format(number_bad_loc_files), file=sys.stdout)
-    print("extra: {}".format(number_extra_files), file=sys.stdout)
-    print("missing: {}".format(number_missing_files), file=sys.stdout)
+    print("incorrect location: {}".format(len(BAD_LOCATION_FILES)), file=sys.stdout)
+    print("extra: {}".format(len(EXTRA_FILES)), file=sys.stdout)
+    print("missing: {}".format(len(MISSING_FILES)), file=sys.stdout)
     
     sys.exit(0)
     
