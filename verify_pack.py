@@ -109,7 +109,7 @@ def parse_folder(target_folder, db):
     """
     current_file = 0
     total_files = len([os.path.join(dp, f) for dp, dn, fn in
-                 os.walk(os.path.expanduser(target_folder)) for f in fn])
+                       os.walk(os.path.expanduser(target_folder)) for f in fn])
 
     bad_location_files = []
     extra_files = []
