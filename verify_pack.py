@@ -85,13 +85,13 @@ def parse_database(target_database, drop_initial_directory):
         for line in target_database:
             hash_sha256, filename, other_hash = line.strip().split("\t", 2)
             number_of_entries += 1
-            
+
             if drop_initial_directory:
                 first_level, filename = filename.split("/", 1)
-                
+
             filename = os.path.normpath(filename)
             db[hash_sha256].append(filename)
-            
+
     return db, number_of_entries
 
 
@@ -123,10 +123,10 @@ def parse_folder(target_folder, db):
                     hash_sha256 = get_hash(filename)
                 except FileNotFoundError:
                     hash_sha256 = get_hash(absolute_filename)
-                    
+
                 if hash_sha256 in db:
                     rel_path = os.path.relpath(filename, target_folder)
-                    
+
                     if rel_path in db[hash_sha256]:
                         # file found (correct location)
                         # remove file name from database
@@ -137,13 +137,13 @@ def parse_folder(target_folder, db):
                 else:
                     # hash not in database (extra file)
                     extra_files.append((filename, hash_sha256))
-                    
+
                 current_file += 1
                 print_progress(current_file, total_files, END_LINE)
     else:
         if not ARGS.new_line:
             print_progress(current_file, total_files, "\n")
-            
+
     return bad_location_files, extra_files
 
 
@@ -176,39 +176,39 @@ if __name__ == '__main__':
 
     DATABASE, NUMBER_OF_ENTRIES = parse_database(TARGET_DATABASE, DROP_INITIAL_DIRECTORY)
     BAD_LOCATION_FILES, EXTRA_FILES = parse_folder(TARGET_FOLDER, DATABASE)
-    
+
     MISSING_FILES = []
     for key in DATABASE:
         for file in DATABASE[key]:
             MISSING_FILES.append((file, key))
-    
+
     # write information to log file only if there are any bad, extra or missing files to report
     if MISMATCH_FILES and (BAD_LOCATION_FILES or EXTRA_FILES or MISSING_FILES):
         BAD_LOCATION_FILES.sort()
         EXTRA_FILES.sort()
         MISSING_FILES.sort()
-        
+
         with open(MISMATCH_FILES, "w") as mismatch_files:
             if BAD_LOCATION_FILES:
                 print("Incorrect Location Files:", file=mismatch_files)
                 for file, hash_sha256 in BAD_LOCATION_FILES:
                     print(os.path.abspath(file), hash_sha256, sep="\t", file=mismatch_files)
                 print("\n", file=mismatch_files)
-            
+
             if EXTRA_FILES:
                 print("Extra Files:", file=mismatch_files)
                 for file, hash_sha256 in EXTRA_FILES:
                     print(os.path.abspath(file), hash_sha256, sep="\t", file=mismatch_files)
                 print("\n", file=mismatch_files)
-            
+
             if MISSING_FILES:
                 print("Missing Files:", file=mismatch_files)
                 for file, hash_sha256 in MISSING_FILES:
                     print(file, hash_sha256, sep="\t", file=mismatch_files)
                 print("\n", file=mismatch_files)
-                
+
     print("incorrect location: {}".format(len(BAD_LOCATION_FILES)), file=sys.stdout)
     print("extra: {}".format(len(EXTRA_FILES)), file=sys.stdout)
     print("missing: {}".format(len(MISSING_FILES)), file=sys.stdout)
-    
+
     sys.exit(0)
