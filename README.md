@@ -1,6 +1,6 @@
 # EverDrive-Packs-Lists-Database
 
-The EverDrive Packs Lists Project is an archival research initiave
+The EverDrive Packs Lists Project is an archival research initiative
 with the goal of allowing users to build real-hardware optimized ROM
 packs based on suggested file/folder layouts compiled by SmokeMonster.
 
@@ -29,7 +29,7 @@ having to share the ROMs themselves.
 
 ## Tools Included
 
-The `build_pack` and `parse_pack` scripts are written in python3. To launch
+The `build_pack`, `parse_pack` and `verify_pack` scripts are written in python3. To launch
 a script, install [python](https://www.python.org) if need be, and then open
 a Windows console or a Linux/Unix terminal.
 
@@ -83,6 +83,27 @@ under `./NES/EverDrive N8/...`. With the option
 `--drop_initial_directory`, the pack will be built directly under
 `./NES/...`.
 
+
+**verify_pack.py** For verifying pack folders match up correctly with SMDBs (example command):
+```DOS .bat
+"C:\XXX\verify_pack.py" -f "C:\XXX\Folder to be parsed" -d "C:\XXX\SMDB.txt" -m "C:\XXX\Mismatch.txt"
+```
+
+`-f` (or `--folder`) indicates the target ROM pack
+
+`-d` (or `--database`) is the SMDB file describing the way your ROMs
+are organized
+
+`-m` (or `--mismatch`) is the text file that will list the ROMs in incorrect locations,
+extra files, and ROMs missing when compared to the SMDB.
+
+`-x` (or `--drop_initial_directory`) skips the first directory level
+of the SMDB pack, so you can rename it to your convenience. For
+instance, if your pack folder is `./NES/`, the pack will be verified
+using `./NES/EverDrive N8/...`. With the option
+`--drop_initial_directory`, the pack will be verified using `./NES/...`.
+
+
 Depending on your python installation, you may need to begin your
 command with the location of `python.exe` (for example,
 `C:\Users\XXX\AppData\Local\Programs\Python\Python36-32\python.exe`). More
@@ -110,7 +131,8 @@ first with the command `dos2unix`)
 ## Coding
 
 Scripts and code by
-[@frederic-mahe](https://github.com/frederic-mahe), with awesome
+[@frederic-mahe](https://github.com/frederic-mahe) and
+[@steve1515](https://github.com/steve1515), with awesome
 patches by [@eatnumber1](https://github.com/eatnumber1),
 [@coughlanio](https://github.com/coughlanio)
 and [@Slashbunny](https://github.com/Slashbunny).
