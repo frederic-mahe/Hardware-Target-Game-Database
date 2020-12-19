@@ -104,16 +104,51 @@ if __name__ == '__main__':
     ARGS = parser.parse_args()
 
 
-def copy_file(source, dest, original):
-    """Get a file from source to destination, with a configurable strategy.
-
-    This method makes a file at source additionally appear at dest. The way
-    this is accomplished is controlled via the --file_strategy command.
-
-    Args:
-      source - The file to copy/hardlink
-      dest - The destination that the new file should appear at
+def write_empty_file(dest):
     """
+    Creates an empty file at the destination path
+
+    Arguments:
+      dest - The destination where the empty file will be located
+    """
+
+    # When destination file exists...
+    # Do nothing if skip_existing is set, otherwise remove file (to
+    # avoid FileExistsError when writing new file).
+    if os.path.exists(dest):
+        if ARGS.skip_existing:
+            return
+        else:
+            os.remove(dest)
+
+    # Create directories if needed
+    base_dir = os.path.dirname(os.path.abspath(dest))
+    if not os.path.exists(base_dir):
+        try:
+            os.makedirs(base_dir, exist_ok=True)
+        except (FileNotFoundError, OSError):
+            fixed_base_dir = u'\\\\?\\' + base_dir
+            os.makedirs(fixed_base_dir, exist_ok=True)
+
+    # Create empty file
+    try:
+        open(dest, 'a').close()
+    except (FileNotFoundError, OSError):
+        fixed_dest = u'\\\\?\\' + os.path.abspath(dest)
+        open(fixed_dest, 'a').close()
+
+
+def copy_file(source, dest, original):
+    """
+    Copy a file from source to destination using a configurable file copy
+    strategy controlled by the --file_strategy command.
+
+    Arguments:
+      source   - The file to copy/hardlink
+      dest     - The destination where the new file will be located
+      original - The first file associated with a specific hash value
+    """
+
     if (ARGS.file_strategy == "copy"):
         copy_fn = shutil.copyfile
     elif (ARGS.file_strategy == "hardlink"):
@@ -127,9 +162,14 @@ def copy_file(source, dest, original):
     else:
         raise Exception("Unknown copy strategy {}".format(ARGS.file_strategy))
 
-    # force overwriting (remove before copy to avoid FileExistsError)
-    if not ARGS.skip_existing and os.path.exists(dest):
-        os.remove(dest)
+    # When destination file exists...
+    # Do nothing if skip_existing is set, otherwise remove file (to
+    # avoid FileExistsError when writing new file).
+    if os.path.exists(dest):
+        if ARGS.skip_existing:
+            return
+        else:
+            os.remove(dest)
 
     try:
         # copy the file to the new directory
@@ -152,9 +192,10 @@ def extract_file(filename, entry, method, dest):
     extracts entry from archive to given destination directory
     """
     if method == 'zip':
-        # Stolen shamelessly from https://stackoverflow.com/questions/4917284/extract-files-from-zip-without-keeping-the-structure-using-python-zipfile
-        # Eliminates the random directories that appear when a file is extracted from a zip file
-        with zipfile.ZipFile(filename) as zip_file:  
+        # Stolen shamelessly from https://stackoverflow.com/a/4917469
+        # Eliminates the random directories that appear when a file is
+        # extracted from a zip file
+        with zipfile.ZipFile(filename) as zip_file:
             for member in zip_file.namelist():
                 filename = os.path.basename(member)
                 # skip directories
@@ -187,7 +228,8 @@ def parse_database(target_database, drop_initial_directory):
 
 
 def print_progress(current, total, end):
-    print_function("processing file: {:>9} / {}".format(current, total), end=end)
+    print_function("processing file: {:>9} / {}".format(current, total),
+                   end=end)
 
 
 def print_function(text, end, file=sys.stdout, flush=True):
@@ -236,7 +278,9 @@ def parse_folder(source_folder, db, output_folder):
                                                  new_file)
                                 else:
                                     # copy the file to the new directory
-                                    copy_file(info['filename'], new_file, original)
+                                    copy_file(info['filename'],
+                                              new_file,
+                                              original)
                         # remove the hit from the database
                         del db[h]
 
@@ -283,10 +327,13 @@ def get_hashes(filename):
                             'type': 'zip'
                         }
                     }
-        except (OSError, UnicodeDecodeError, zipfile.BadZipFile):  # normal file containing a zip magic number?
+        except (OSError, UnicodeDecodeError, zipfile.BadZipFile):
+            # Possible normal file containing a zip magic number?
             print('**** ERROR ****')
-            print('**** Attempted to parse {} as a zip archive.'.format(filename))
-            print('**** If this file is not a zip archive, you may safely ignore this error.')
+            print('**** Attempted to parse {} as a zip archive.'.format(
+                  filename))
+            print('**** If this file is not a zip archive, you may safely'
+                  ' ignore this error.')
             print('***************')
             pass
 
@@ -307,25 +354,48 @@ if __name__ == '__main__':
     END_LINE = "\n" if ARGS.new_line else "\r"
     DROP_INITIAL_DIRECTORY = ARGS.drop_initial_directory
 
-    DATABASE, NUMBER_OF_ENTRIES = parse_database(TARGET_DATABASE, DROP_INITIAL_DIRECTORY)
+    DATABASE, NUMBER_OF_ENTRIES = parse_database(TARGET_DATABASE,
+                                                 DROP_INITIAL_DIRECTORY)
     parse_folder(SOURCE_FOLDER, DATABASE, OUTPUT_FOLDER)
-    # Observed files will have either their SHA256 or the CRC32 entry
-    # deleted (or both). For missing files, both entries are
-    # present. So, filenames are counted twice, fix that by keeping
-    # only the SHA256 entry (64 chars)
-    d = Counter([str(i) for i in DATABASE.values()])
-    d2 = set([str(i) for i in d if d[i] == 2])
-    list_of_missing_files = [(os.path.basename(DATABASE[entry][0]), entry)
-                             for entry in DATABASE
-                             if str(DATABASE[entry]) in d2 and len(entry) == 64]
-    number_of_missing_entries = sum([len(DATABASE[missing_file[1]])
-                                     for missing_file in list_of_missing_files])
-    FOUND_ENTRIES = NUMBER_OF_ENTRIES - number_of_missing_entries
-    if list_of_missing_files:
-        list_of_missing_files.sort()
+
+    # Observed files will have either their SHA256 or their CRC32 entry
+    # deleted (or both) from the database. For missing files, both entries
+    # will still be present. If the hash for an empty file exists as both
+    # SHA256 and CRC32, then it is missing and will be created below.
+    #
+    # For reference, an empty file will always have the following hashes:
+    # SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+    # SHA1:   da39a3ee5e6b4b0d3255bfef95601890afd80709
+    # MD5SUM: d41d8cd98f00b204e9800998ecf8427e
+    # CRC32:  00000000
+    if (('e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+            in DATABASE) and ('00000000' in DATABASE)):
+        for file in DATABASE['00000000']:
+            empty_file = os.path.join(OUTPUT_FOLDER, file)
+            write_empty_file(empty_file)
+
+    # Since missing files will be in the database twice as explained above,
+    # only keep the SHA256 entry (64 char length hash) when listing out the
+    # missing files. This will prevent missing files from being counted more
+    # than once.
+    file_counts = Counter([str(i) for i in DATABASE.values()])
+    duplicate_files = set([str(i) for i in file_counts if file_counts[i] == 2])
+
+    missing_file_list = [(os.path.basename(DATABASE[entry][0]), entry)
+                         for entry in DATABASE
+                         if (str(DATABASE[entry]) in duplicate_files
+                         and len(entry) == 64)]
+
+    missing_entry_count = sum([len(DATABASE[missing_file[1]])
+                               for missing_file in missing_file_list])
+
+    FOUND_ENTRIES = NUMBER_OF_ENTRIES - missing_entry_count
+
+    if missing_file_list:
+        missing_file_list.sort()
         if MISSING_FILES:
             with open(MISSING_FILES, "w") as missing_files:
-                for missing_file, entry in list_of_missing_files:
+                for missing_file, entry in missing_file_list:
                     print(missing_file, entry, sep="\t", file=missing_files)
     else:
         print("no missing file")
