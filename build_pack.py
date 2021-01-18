@@ -197,9 +197,13 @@ def extract_file(filename, entry, method, dest):
         # extracted from a zip file
         with zipfile.ZipFile(filename) as zip_file:
             for member in zip_file.namelist():
-                filename = os.path.basename(member)
+                # skip other files in the zip
+                if member != entry:
+                    continue
+
+                basename = os.path.basename(member)
                 # skip directories
-                if not filename:
+                if not basename:
                     continue
 
                 # copy file (taken from zipfile's extract)
