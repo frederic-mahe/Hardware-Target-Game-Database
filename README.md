@@ -2,12 +2,12 @@
 
 The EverDrive Packs Lists Project is an archival research initiative
 with the goal of allowing users to build real-hardware optimized ROM
-packs based on suggested file/folder layouts compiled by SmokeMonster.
+packs based on suggested file/folder layouts.
 
 Because most flash-carts require specific ROMs and fixes, it is a
 monumental task to compile 100% complete/working setups, and is often
 beyond the capabilities of any one person. Thousands of hours have
-been invested in the *SmokeMonster DataBases* (or SMDBs) of this
+been invested in the *SourceMaterial DataBases* (or SMDBs) of this
 project with the goal of 100% complete, 100% working real-hardware
 compatible arrangements of the highest quality ROM dumps. File
 hierarchies are shared via SMDB text files which contain all of the
