@@ -1,6 +1,6 @@
-# EverDrive-Packs-Lists-Database
+# Hardware Target Game Database
 
-The EverDrive Packs Lists Project is an archival research initiative
+The Hardware Target Game Database is an archival research initiative
 with the goal of allowing users to build real-hardware optimized ROM
 packs based on suggested file/folder layouts.
 
