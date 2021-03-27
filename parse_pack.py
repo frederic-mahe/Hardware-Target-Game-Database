@@ -13,8 +13,8 @@ import argparse
 
 
 __author__ = "aquaman"
-__date__ = "2019/12/13"
-__version__ = "$Revision: 4.1"
+__date__ = "2021/03/27"
+__version__ = "$Revision: 4.2"
 
 
 # *********************************************************************#
@@ -104,7 +104,7 @@ def parse_folder(target_folder, output_file):
         for dirpath, dirnames, filenames in sorted_files:
             if filenames:
                 # make sure files are alphanumerically sorted
-                filenames.sort()
+                filenames.sort(key=lambda v: (v.upper(), v[0].islower()))
                 for f in filenames:
                     filename = os.path.join(os.path.normpath(dirpath), f)
                     absolute_filename = os.path.abspath(filename)
