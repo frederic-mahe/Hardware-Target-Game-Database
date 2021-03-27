@@ -90,13 +90,13 @@ def parse_folder(target_folder, output_file):
                       "/sd2snes/")
     banned_suffixes = (".001", ".002", ".003", ".004", ".005", ".006",
                        ".007", ".008", ".009", ".aps", ".asm",
-                       ".bak", ".bat", ".bsa", ".bps", ".BPS",
+                       ".bak", ".bat", ".bsa", ".bps",
                        ".bst", ".c", ".cht", ".dat", ".db", ".docx",
                        ".exe", ".ips", ".jpg", ".json", ".mso",
                        ".ods", ".odt", ".pc", ".pdf", ".png", ".sav", ".srm",
                        ".sto", ".txt", ".tmp", ".xdelta", ".xls",
-                       "OS.PCE", "Thumbs.db", "menu.bin", "desktop.ini",
-                       ".DS_Store")
+                       "os.pce", "thumbs.db", "menu.bin", "desktop.ini",
+                       ".ds_store")  # must be lowercase
     with open(output_file, "w") as output_file:
         i = 0
         # make sure subfolders are alphanumerically sorted
@@ -124,7 +124,7 @@ def parse_folder(target_folder, output_file):
                     crc = 0
                     # exclude certain folders and files
                     if not (any(s in filename for s in banned_folders) or
-                            filename.endswith(banned_suffixes)):
+                            filename.lower().endswith(banned_suffixes)):
                         try:
                             with open(absolute_filename,
                                       "rb",
