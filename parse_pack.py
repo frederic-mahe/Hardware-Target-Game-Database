@@ -122,6 +122,8 @@ def parse_folder(target_folder, output_file):
                     sha1 = hashlib.sha1()
                     md5 = hashlib.md5()
                     crc = 0
+                    size = 0
+
                     # exclude certain folders and files
                     if not (any(s in filename for s in banned_folders) or
                             filename.lower().endswith(banned_suffixes)):
@@ -138,6 +140,8 @@ def parse_folder(target_folder, output_file):
                                     sha1.update(b)
                                     md5.update(b)
                                     crc = zlib.crc32(b, crc)
+                                size = f.tell()
+
                         except FileNotFoundError:
                             # Windows default API is limited to paths of
                             # 260 characters
@@ -150,11 +154,14 @@ def parse_folder(target_folder, output_file):
                                     sha1.update(b)
                                     md5.update(b)
                                     crc = zlib.crc32(b, crc)
+                                size = f.tell()
+
                         print(sha256.hexdigest(),
                               filename,
                               sha1.hexdigest(),
                               md5.hexdigest(),
                               '{0:08x}'.format(crc & 0xffffffff),
+                              size,
                               sep="\t",
                               file=output_file)
                         i += 1
