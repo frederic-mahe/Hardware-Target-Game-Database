@@ -140,7 +140,7 @@ def parse_folder(target_folder, output_file):
                                     sha1.update(b)
                                     md5.update(b)
                                     crc = zlib.crc32(b, crc)
-                                size = f.tell()
+                                size = os.path.getsize(f.name)
 
                         except FileNotFoundError:
                             # Windows default API is limited to paths of
@@ -154,7 +154,7 @@ def parse_folder(target_folder, output_file):
                                     sha1.update(b)
                                     md5.update(b)
                                     crc = zlib.crc32(b, crc)
-                                size = f.tell()
+                                size = os.path.getsize(f.name)
 
                         print(sha256.hexdigest(),
                               filename,
