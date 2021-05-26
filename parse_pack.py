@@ -13,8 +13,8 @@ import argparse
 
 
 __author__ = "aquaman"
-__date__ = "2021/05/11"
-__version__ = "$Revision: 4.3"
+__date__ = "2021/05/26"
+__version__ = "$Revision: 4.4"
 
 
 # *********************************************************************#
@@ -94,9 +94,10 @@ def parse_folder(target_folder, output_file):
                        ".bst", ".c", ".cht", ".dat", ".db", ".docx",
                        ".exe", ".ips", ".jpg", ".json", ".mso",
                        ".ods", ".odt", ".pc", ".pdf", ".png", ".sav", ".srm",
-                       ".sto", ".txt", ".tmp", ".xdelta", ".xls",
-                       "os.pce", "thumbs.db", "menu.bin", "desktop.ini",
-                       ".ds_store")  # must be lowercase
+                       ".sto", ".txt", ".tmp", ".xdelta", ".xls")
+    banned_filenames = set(["os.pce", "thumbs.db", "menu.bin", "desktop.ini",
+                            ".ds_store"])  # must be lowercase
+
     with open(output_file, "w") as output_file:
         i = 0
         # make sure subfolders are alphanumerically sorted
@@ -126,6 +127,7 @@ def parse_folder(target_folder, output_file):
 
                     # exclude certain folders and files
                     if not (any(s in filename for s in banned_folders) or
+                            filename.lower() in banned_filenames or
                             filename.lower().endswith(banned_suffixes)):
                         try:
                             with open(absolute_filename,
