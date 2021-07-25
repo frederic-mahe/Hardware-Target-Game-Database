@@ -14,8 +14,8 @@ from collections import Counter
 
 
 __author__ = "aquaman"
-__date__ = "2020/12/20"
-__version__ = "$Revision: 3.6"
+__date__ = "2021/07/25"
+__version__ = "$Revision: 3.7"
 
 
 # *********************************************************************#
@@ -221,7 +221,7 @@ def parse_database(target_database, drop_initial_directory):
     number_of_entries = 0
     with open(target_database, "r") as target_database:
         for line in target_database:
-            hash_sha256, filename, _, _, hash_crc = line.strip().split("\t", 4)
+            hash_sha256, filename, _, _, hash_crc = line.strip().split("\t")[0:4]
             number_of_entries += 1
             if drop_initial_directory:
                 first_level, filename = filename.split("/", 1)
