@@ -1547,7 +1547,6 @@ b83177efe4031612fa9f731eb8ff2b9cba0c767fa462feb28130ccca720bb518	Game Boy/2 GB U
 25e71b379c43ed85f06604965feb41e2c04cd7b13a789070a76d4c6164f20ad2	Game Boy/2 GB Unlicensed/Crazy Burger (Sachen) [!].gb	7c100be43ed57b4011bfa5dceab244da8f987305	2028ab8ca756addb6817cd3993c7a799	cd6e3136
 435b1eb4fbe51261a886953e72a5a76e143ccb8cd2c0b065170bdadfdb1e1014	Game Boy/2 GB Unlicensed/Dan Laser (Sachen) [!].gb	54ac969c8c3e36d9a24e7862cd1f81b3f23772f9	1fca063770dda5cdfae166a4dcb3c6c5	aabc00f6
 5dc356538ee21a97b2283788ee1a0793ad0aab5dbb835dc9f5e2cbc17728d0ee	Game Boy/2 GB Unlicensed/Deep - Final Mission (Sachen) [!].gb	70c90365f4aefe5e320f9459e63b2ba9bccbfa3c	dd20af800479bbb6025cda8bb6466fb7	44e97af9
-e1876c08b69f937e9dd6fba7b7ca2bf3b9b80cf9808504b477409b1ffcdfd607	Game Boy/2 GB Unlicensed/Densha de Go! (Unl) [!].gb	1b7bddbe92cbade35af9bd40e425c82bdbf16969	464caf719fb18992ecaeedd64c215836	9d3a098e
 3a2220d2878e5b3e60382f1158873fc080c6be669c4ed496fbce374c891a5dd5	Game Boy/2 GB Unlicensed/Duck Adventures (Sachen 4-in-1 Vol. 1) (Unl) [!].gb	eae872c3f3e0d29dd18bc5c82f248e09af7a5888	ff9ab59d374510425089d200df9097c3	d25f3b3c
 b6dcde70ef6ff32ad96e45fa25bf77ba8bfcee763006669b195f4246cfb1b1fa	Game Boy/2 GB Unlicensed/Exodus - Journey to the Promised Land (USA) (Unl).gb	685d5a47a1fc386d7b451c8b2733e654b7779b71	ab1fa0ed0207b1d0d5f401f0cd17bebf	2e5497ef
 d9d5b3db3b9cc01be03224b7f2bc2007e0ff484a9695fab44b15eaedb30b2ef8	Game Boy/2 GB Unlicensed/Explosive Brick '94 (Sachen) [!].gb	81bac46c005183313117d3e9145122db6a3e6227	377d58fdbc0928ebb4516e41885c5b4b	e5541ff5
