@@ -1575,7 +1575,6 @@ aaa5c4f4975764fc6603bb76e5f86090a351d65087df46926b7a6278b2e9714f	Game Boy/2 GB U
 5c72bc65b71b429a8f2b7905f1048903fc38787e040962e9ef53213d5ff89e8b	Game Boy/2 GB Unlicensed/Meng Huan Zhi Xing (Phantasy Star) (Unl).gb	40bf296ee9d89a8c4e7bd8ca9f19cd4e449dfd6c	d1022f01c020a43dd7a2f4b398f38b9c	76fd8bc5
 aa078d42d918dd4fdd80c94d4ccee8024f27f09dd4f5dd5547baf95d2d189a0b	Game Boy/2 GB Unlicensed/Mi Tu De Lu (Puzzle Path) (Unl).gb	20dba42f083ae1d7c9f384ac2b3130e0c0abc550	0a64590ce2dbf3af82ae4b1404a942bf	9039cbdb
 662ea71ce31d7e3a8a4869d61863b61e786eaf9d16b9c3bcefe38934dd7beb0d	Game Boy/2 GB Unlicensed/NIV Bible & the 20 Lost Levels of Joshua (USA) (Unl).gb	136cf97a8c3560ec9db3d8f354d91b7de27e0743	8cddb8b2dcd3ec1a3fdd770df8bda07c	e7a26b31
-421351efec2b243c1c526f461a6087f4fe8a6399cc8295df0ad451276626b3d7	Game Boy/2 GB Unlicensed/Pocket GT 2005 (Unl).gb	5501c090428baf826a1a6078f02422dee2b4819f	c13810a45527f46cb586152d6b2c30ff	69bc5006
 534564bae30879b45844169b1bd5469379c97988bec00b3e912a5102de0b4cce	Game Boy/2 GB Unlicensed/Pocket Voice Multi-ROM Menu V2.0 (Unl).gb	cf23fbe98dad18c1a088fda9811246dea0f56f5f	1abec554177e66ecffc3e1669600ea4a	20418ff9
 98a844a6570c4af3a8be3a882620f5d119c8dd229f4b912048230f7234a8e647	Game Boy/2 GB Unlicensed/Pokemon Red-Blue 2-in-1 (Unl) [S].gb	b0f020d3e4b3940577cbd332c56b83479f3c1d00	c16d65c7acc708e06138f06a7f61c791	abb17913
 e2cc6655b63357448bd02af8ee954256c7ce3ab86bb3519d7d4de48d9a386a4d	Game Boy/2 GB Unlicensed/Prince YehRude (Unl).gb	9afe8af53cac1d3520ff512d61c5e86ed700dc25	c653dcd38bf684adf54c6c26579ba385	db8f4cf7
