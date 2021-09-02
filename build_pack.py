@@ -61,7 +61,7 @@ if __name__ == '__main__':
                         default="copy",
                         help=("Strategy for how to get files into the output "
                               "folder. Smart uses copy for first instance of "
-                              "of a file and hardlinks to that first one for "
+                              "a file and hardlinks to that first one for "
                               "successive files."))
 
     # Valid uses of this flag include: -s, -s true, -s yes, --skip_existing=1
