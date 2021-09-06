@@ -1547,7 +1547,6 @@ b83177efe4031612fa9f731eb8ff2b9cba0c767fa462feb28130ccca720bb518	Game Boy/2 GB U
 25e71b379c43ed85f06604965feb41e2c04cd7b13a789070a76d4c6164f20ad2	Game Boy/2 GB Unlicensed/Crazy Burger (Sachen) [!].gb	7c100be43ed57b4011bfa5dceab244da8f987305	2028ab8ca756addb6817cd3993c7a799	cd6e3136
 435b1eb4fbe51261a886953e72a5a76e143ccb8cd2c0b065170bdadfdb1e1014	Game Boy/2 GB Unlicensed/Dan Laser (Sachen) [!].gb	54ac969c8c3e36d9a24e7862cd1f81b3f23772f9	1fca063770dda5cdfae166a4dcb3c6c5	aabc00f6
 5dc356538ee21a97b2283788ee1a0793ad0aab5dbb835dc9f5e2cbc17728d0ee	Game Boy/2 GB Unlicensed/Deep - Final Mission (Sachen) [!].gb	70c90365f4aefe5e320f9459e63b2ba9bccbfa3c	dd20af800479bbb6025cda8bb6466fb7	44e97af9
-e1876c08b69f937e9dd6fba7b7ca2bf3b9b80cf9808504b477409b1ffcdfd607	Game Boy/2 GB Unlicensed/Densha de Go! (Unl) [!].gb	1b7bddbe92cbade35af9bd40e425c82bdbf16969	464caf719fb18992ecaeedd64c215836	9d3a098e
 3a2220d2878e5b3e60382f1158873fc080c6be669c4ed496fbce374c891a5dd5	Game Boy/2 GB Unlicensed/Duck Adventures (Sachen 4-in-1 Vol. 1) (Unl) [!].gb	eae872c3f3e0d29dd18bc5c82f248e09af7a5888	ff9ab59d374510425089d200df9097c3	d25f3b3c
 b6dcde70ef6ff32ad96e45fa25bf77ba8bfcee763006669b195f4246cfb1b1fa	Game Boy/2 GB Unlicensed/Exodus - Journey to the Promised Land (USA) (Unl).gb	685d5a47a1fc386d7b451c8b2733e654b7779b71	ab1fa0ed0207b1d0d5f401f0cd17bebf	2e5497ef
 d9d5b3db3b9cc01be03224b7f2bc2007e0ff484a9695fab44b15eaedb30b2ef8	Game Boy/2 GB Unlicensed/Explosive Brick '94 (Sachen) [!].gb	81bac46c005183313117d3e9145122db6a3e6227	377d58fdbc0928ebb4516e41885c5b4b	e5541ff5
@@ -1575,7 +1574,6 @@ aaa5c4f4975764fc6603bb76e5f86090a351d65087df46926b7a6278b2e9714f	Game Boy/2 GB U
 5c72bc65b71b429a8f2b7905f1048903fc38787e040962e9ef53213d5ff89e8b	Game Boy/2 GB Unlicensed/Meng Huan Zhi Xing (Phantasy Star) (Unl).gb	40bf296ee9d89a8c4e7bd8ca9f19cd4e449dfd6c	d1022f01c020a43dd7a2f4b398f38b9c	76fd8bc5
 aa078d42d918dd4fdd80c94d4ccee8024f27f09dd4f5dd5547baf95d2d189a0b	Game Boy/2 GB Unlicensed/Mi Tu De Lu (Puzzle Path) (Unl).gb	20dba42f083ae1d7c9f384ac2b3130e0c0abc550	0a64590ce2dbf3af82ae4b1404a942bf	9039cbdb
 662ea71ce31d7e3a8a4869d61863b61e786eaf9d16b9c3bcefe38934dd7beb0d	Game Boy/2 GB Unlicensed/NIV Bible & the 20 Lost Levels of Joshua (USA) (Unl).gb	136cf97a8c3560ec9db3d8f354d91b7de27e0743	8cddb8b2dcd3ec1a3fdd770df8bda07c	e7a26b31
-421351efec2b243c1c526f461a6087f4fe8a6399cc8295df0ad451276626b3d7	Game Boy/2 GB Unlicensed/Pocket GT 2005 (Unl).gb	5501c090428baf826a1a6078f02422dee2b4819f	c13810a45527f46cb586152d6b2c30ff	69bc5006
 534564bae30879b45844169b1bd5469379c97988bec00b3e912a5102de0b4cce	Game Boy/2 GB Unlicensed/Pocket Voice Multi-ROM Menu V2.0 (Unl).gb	cf23fbe98dad18c1a088fda9811246dea0f56f5f	1abec554177e66ecffc3e1669600ea4a	20418ff9
 98a844a6570c4af3a8be3a882620f5d119c8dd229f4b912048230f7234a8e647	Game Boy/2 GB Unlicensed/Pokemon Red-Blue 2-in-1 (Unl) [S].gb	b0f020d3e4b3940577cbd332c56b83479f3c1d00	c16d65c7acc708e06138f06a7f61c791	abb17913
 e2cc6655b63357448bd02af8ee954256c7ce3ab86bb3519d7d4de48d9a386a4d	Game Boy/2 GB Unlicensed/Prince YehRude (Unl).gb	9afe8af53cac1d3520ff512d61c5e86ed700dc25	c653dcd38bf684adf54c6c26579ba385	db8f4cf7
