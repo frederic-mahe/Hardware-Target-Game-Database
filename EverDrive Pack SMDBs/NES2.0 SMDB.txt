@@ -1354,7 +1354,7 @@ a413567542aab4cf27ff835fd390773455bb61f2af9711ad85043e0a9196033e	NES/2 Japan/Jap
 ecbd65549e1295ba9213f5f81b4936c0af7c712d591d506023fcc4981a715138	NES/2 Japan/Japan E-J/Gimmi a Break - Shijou Saikyou no Quiz Ou Ketteisen (Japan).nes	6aad95484dc275d5480bed59e32c8fe8438a43be	4f685da34c09355feb54530760b6ea30	5a449a3e
 d0eb41686e9296f05b67b67ef53aca765022c8c25a992b232ff2ca574e1ccb76	NES/2 Japan/Japan E-J/Gimmi a Break - Shijou Saikyou no Quiz Ou Ketteisen 2 (Japan).nes	903f55dcb6907f76348dcf9ced99d0ac8b73e186	e3874108d8c76fd9edacff800219ffbd	b9d34258
 ce2f84618dfe3d5581fcdf11a10190b717853af3be0bea7988cd27cd1498c092	NES/2 Japan/Japan E-J/Gimmick! (Japan).nes	bb19be49dad26236b03c91d086e90abdbc94da1d	5ff815533e1044d2c1035a65be37f8f1	ee8879d5
-ce621e07d4a77109fd3bec121314d386a76cabea6f197d2fa3c5baedf80e2404	NES/2 Japan/Japan E-J/Ginga Eiyuu Densetsu (Japan).nes	43aa7de962d2a2199f6e23a1fcb4acd2c9c0bf70	b339ecd8106a0ada5070387e8ff26bde	1e3097e4
+37fa4c0db9fbfabcf95b18120585ff5f36b27722efc5ab0c237324dbdcc3297f	NES/2 Japan/Japan E-J/Ginga Eiyuu Densetsu (Japan).nes	9f99e2a1edff7b9ee71ffa9335043614c52abe7a	d53dc94a88e0162a9efb3b0fdaca7537	de874be1
 8ab41331f89612819f65099ad9a971ce967b8b78e0d822aa1bfd934ca737ac38	NES/2 Japan/Japan E-J/Ginga no Sannin (Japan).nes	c2ffe139e9be5cda99c16a56df56e74c6ec67795	e2486d2f635d473d50e60079b27adac0	2ef88bac
 d2e11912c7141f3c7e700143143f0e53a3d3fdbafbcfafbbe37bd37c103f4c34	NES/2 Japan/Japan E-J/Goal!! (Japan).nes	058ae40cf9fdca8f013ad4dd1a2a7aec64da4f8c	24693ed48bfba10a9136000893d7e8f6	b59d253b
 d060dcfae261bac4b6fb9b603faee2702dd89ca4d508c44538836bdb53ffa531	NES/2 Japan/Japan E-J/God Slayer - Haruka Tenkuu no Sonata (Japan).nes	518a51f79d3df096ff9c705d5c031e66f5df490a	6cc6e1115cc3695fdaa13f29c0d792ce	92adc6c0
