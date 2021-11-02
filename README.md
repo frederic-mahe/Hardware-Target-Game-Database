@@ -132,9 +132,6 @@ trying the GUI version.
 
 Linux, MacOS, or Windows
 
-(Linux and MacOS users might need to convert the script and SMDB files
-first with the command `dos2unix`)
-
 ## Coding
 
 Scripts and code by
