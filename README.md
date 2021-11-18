@@ -132,9 +132,6 @@ trying the GUI version.
 
 Linux, MacOS, or Windows
 
-(Linux and MacOS users might need to convert the script and SMDB files
-first with the command `dos2unix`)
-
 ## Coding
 
 Scripts and code by
@@ -154,4 +151,5 @@ EverDrive Pack SMDB layouts by
 - [GammaCopy](https://github.com/fartwhif/GammaCopy) (Windows only, direct support of SMDB files, fast execution)
 - [clrmamepro](https://mamedev.emulab.it/clrmamepro/),
 - [romcenter](http://www.romcenter.com/),
-- [romvault](http://www.romvault.com/)
+- [romvault](http://www.romvault.com/),
+- [SabreTools](https://github.com/SabreTools/SabreTools)
