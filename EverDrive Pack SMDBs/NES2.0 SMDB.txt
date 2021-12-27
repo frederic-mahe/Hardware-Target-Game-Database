@@ -1268,7 +1268,7 @@ cfba44634b44c27186611a343cd1fa03f95211df15a73a29393c89cd080c571d	NES/2 Japan/Jap
 976e9b665a274b05ad7fb3d179226ea9b8ab1f584a8f08c21ede1e716c617dc1	NES/2 Japan/Japan E-J/Famicom Jump - Eiyuu Retsuden (Japan).nes	fc99b28e592abd17af7d9f4cc0a5f0f12442888b	8d8f6600197f0f4e9f92c5ef72ec9b9d	80b4c1de
 e8914e73c2c2e6ddc2bd4021eaf215e446fba70e5561021cb83250adcfa949fe	NES/2 Japan/Japan E-J/Famicom Jump II - Saikyou no 7 Nin (Japan).nes	bc1f74fe4ef3d6c2bbf3e30dcc72b7619c1fa348	47910069aa92dcac1b0fa4929cc7ceff	32e1c19b
 367d5a583c7e8be9cc8f780a183ebae835b7188468e370d60dcba5c54e501252	NES/2 Japan/Japan E-J/Famicom Meijin Sen (Japan) (Rev 1).nes	ba3a4627149041d443b49ca2df2cf2dde88ea538	4f6242ad8df4b176851b800a948dff75	be31381c
-b7396f79afe188b381c5e1d4f65fc1a881810bdb680370f1bec659eba8edd133	NES/2 Japan/Japan E-J/Famicom Shougi - Ryuuousen (Japan).nes	93028c3ac6e457da0a7469ee778f8c0aef5945e2	fe62344e64d2185a5033522ad19903c0	474032e2
+554650440f00cbd997530acbd589f9921dcdfa76d68e6c44bb4b1b25794c7031	NES/2 Japan/Japan E-J/Famicom Shougi - Ryuuousen (Japan).nes	a0f33ddbfd118ddebb8868498dfcdf745adf4428	0dd1e4a7f1263203f8e0d62a200db03c	f8abcc27
 3aef9fabc966274564ed568e1d6cad772bc7e21224ce428159d42ce59de94256	NES/2 Japan/Japan E-J/Famicom Top Management (Japan).nes	dd51f09682b04456275ca4d6c2623510eeaccf6a	fefa825699e0785d9f4a1c0f696ad78c	17c8e1e1
 4d7f0449361fd8a0f3337a2e70de76445a75326316e2702126de89927bdef3e6	NES/2 Japan/Japan E-J/Famicom Wars (Japan).nes	38d05f876e6873f0d1aeaa8a1d5e211dc99a4de7	9dad65bfaa2d11d91161b58a928a2f8b	d70c59b9
 3d3338018bf6b8b4b6e170665445ae7db3c09795f47ac782b3f17a9af83602cd	NES/2 Japan/Japan E-J/Famicom Yakyuu Ban (Japan).nes	e8db00aa760ce6f789050fabbbbc188860b87347	b4fe6d53b0011a380233f193b275afe7	ec87e362
@@ -1277,7 +1277,7 @@ b7195bd2e70d9020951e93877c5167bdd1427b85901e7005ed91e3b5bd5ff7f7	NES/2 Japan/Jap
 8800d57d348af3ac48d0d373718cd571e790618652b2fe5f509e0eaf8a8313c9	NES/2 Japan/Japan E-J/Family Boxing (Japan).nes	caeea521c53560bac88e4375da529fe297fc1fe8	0cef020ab2041047d33328ac532b64ba	8f5c467f
 073905b9f2b8efd6f6a2560fe486e10fb61ac081d094b9d6c90296abeb44383a	NES/2 Japan/Japan E-J/Family Circuit '91 (Japan) (En).nes	89a79a601b8e900378035cb54248843eee24aafc	663858f282a83a72e00b455e10cc66ee	364a8730
 4dfbb8ecda1e2b758cf470252a53a8fbd4990e0d433ca5b0a5aec2df777ec2c2	NES/2 Japan/Japan E-J/Family Circuit (Japan).nes	981d2e078b3a82e0975d281b98eab118591ea97f	b881365401e79815c559a3c85ccad4ea	111be233
-7a7bf96cdc4c5999dc12a4c16bca0af3752f274856d8ea4e1f1a4109f13c3360	NES/2 Japan/Japan E-J/Family Jockey (Japan).nes	cd48f2394ceb19176118e3ca1e283f04fc8b2b30	0655bbf22c9e17098bdc4a9800cd1633	26da2793
+dfc15e2b835f2acfd555a7c1bb88d9f7350666dc8273b8207fe153e67215c93a	NES/2 Japan/Japan E-J/Family Jockey (Japan).nes	049ec27ab3250bad619d0bd401ae9b8eaff23467	cdfc533f3e89e6c5a0df4602ca55147e	08c2f782
 41ffca6fa1a6067ecd0ba9d1cf8938799f84b83b151dde679a65bd57c5210daf	NES/2 Japan/Japan E-J/Family Mahjong (Japan) (Rev A).nes	9fd896c9e5389adff8f8e8c09fbb0f43d9debce6	d22dd9318aa261aea044361afb3a63e6	b9afa3c1
 8a071c1c0acf3d3893033ef5cc22cd98a56dedfe48bd50810c14a3ca9a7f10f1	NES/2 Japan/Japan E-J/Family Mahjong II - Shanghai e no Michi (Japan).nes	1771d2e1c1d59482ff7d506276b1d6bb6917010a	815532513ebcd02ceb6aa9b22d10e4ac	9148b117
 fc71bd49704abe6aa2dc69832f0197da1b93bd3c9a3c08ad7df22b649de1a483	NES/2 Japan/Japan E-J/Family Pinball (Japan).nes	49108301c9c025f954f791ee6ac5992a86b88c4e	023d43182b08ee17f793601f757ec5fe	057cc095
@@ -1606,7 +1606,7 @@ d1fba9ecd0e8463b98aa15cb07a4054275c56121223442e9b9e81ef1fc343307	NES/2 Japan/Jap
 da3ce676296d1b01ee4415dc926cf74abde2267d51202e309b9eb006868a7088	NES/2 Japan/Japan K-O/Metal Gear (Japan).nes	5fbff72f40a9c04240f71ae04188da78efdc1111	c8b808643a90aeb805556ddae8dc6108	24918d54
 8e60036a93b448a4bdf848efe423d1a678f11e7fa21a8d3a8bade64c8d4fc88e	NES/2 Japan/Japan K-O/Metal Max (Japan).nes	f572565ed3ff22ea8cfa8fa133d4259075d87506	9f2283f41b025aa80982fe470f5e825e	6d1e1743
 936126ea727bce3e58ca3f511ffcdae71db0c9b376ced74f70d179f88dec3dd2	NES/2 Japan/Japan K-O/Metal Slader Glory (Japan).nes	cd35ea69d481aebd9ebeb6dd61a8226db9122a50	776140a96b14cb35f2ac545b1a7dcb55	8ce3504c
-16240fb1f6e733c74f83b3bc1440785f2cefb01b625c96416c219bc68b44bfc0	NES/2 Japan/Japan K-O/Metro-Cross (Japan).nes	d64349b61ea9894ce57b85733aeafdf93a8c22a5	2d1d064aeb42bbc5b8810de8b78e7ba0	63fca3c0
+974ad23c1998f17c3d5c7f3232a8d1467207c0d3fbaa55f0503278beab9c4985	NES/2 Japan/Japan K-O/Metro-Cross (Japan).nes	c396ceb2c52e9dbc227c05f6a3e39f7c39c33547	54b5091a521ff99c78948395ca5c963f	4de473d1
 03019cad65f2d2fc8c51702dda245da44d81b0cf0cefe73d3d44ae414ab17463	NES/2 Japan/Japan K-O/Mezase Pachi Pro - Pachio-kun (Japan).nes	fc54e91e9b2c0358d31d942ecc845e9fc6c45d98	206313d10ad20a847a6ceaa43979e0ef	cba0f046
 69a16e9406a1b315af5ea4c77afdbeab95245bd0bb650d233f02a2db28cbbff9	NES/2 Japan/Japan K-O/Mezase! Top Pro - Green ni Kakeru Yume (Japan).nes	f33a59b1f515d9dfeafb7c8428e1d59de6876627	ace2e5961a3b7c0b64c828f5315b4ac9	209f8830
 cb048cb34ff75ad0884d7e096162be332282d9aba21aa80ad2619054de88d3bd	NES/2 Japan/Japan K-O/Mickey Mouse - Fushigi no Kuni no Daibouken (Japan).nes	4c25c0b3ae4d4bde0b7b72ff7b084592227b60fe	7e3a664caa9786fee2a05a2f2d396177	ffbb2d8a
@@ -1640,7 +1640,7 @@ adc7c4dd7126ed3117830a2c30452564a1bd09fb0f52e133af261362540806a5	NES/2 Japan/Jap
 48f8394c22f67b8c042459accaae771c8d13a92a2b70ccf5792f60523ef8fc76	NES/2 Japan/Japan K-O/Momotarou Densetsu (Japan).nes	2b3982477aa371593aea086a6e9a0c0aa0cdb9df	637bd350bdbe2658509a3e2a863d2a0e	3a782e0d
 40044321cc8d9d4eb57eef1c02a7cb775240d3d7ef8ba289df54cac1b83b20d9	NES/2 Japan/Japan K-O/Momotarou Densetsu Gaiden (Japan).nes	4f03aab8e5d585f30d9516a35bea82efa2f916af	566efa33b2d7167b20d5f2b900e52a37	851b3400
 f06cacedb7552b25197ba49761b1359aa1e35726f620bd601216e4a9c8c20f13	NES/2 Japan/Japan K-O/Momotarou Dentetsu (Japan).nes	d05b3e5f047997e7be4a396f39d0e6bea70addb3	c1c707689f32316950b726c668a571eb	48f43b2e
-579fd46d0f9f63a34b9ea7747a4687bc01300be202cda36198a1dbf669af7839	NES/2 Japan/Japan K-O/Money Game II, The - Kabutochou no Kiseki (Japan).nes	5d03770cfac545cbd1ea48bb16fa5c41d6afbd34	0febe86898bd4c28cbf6e64eb1019af6	4532cd2c
+ca5ef49bf7dd65fc87724767d9705f0c59180c943057ecfd0e21a7463310100e	NES/2 Japan/Japan K-O/Money Game II, The - Kabutochou no Kiseki (Japan).nes	c3401ed65abb2bfda26a8ad65a7819e9fa793f03	8eabc4e1b10b9902ed43d6cb8aed9a81	fad933e9
 f5b11fc474b8dd9e6751b6c4e73a9a65769e43b395620982cea1f19e54208f1f	NES/2 Japan/Japan K-O/Money Game, The (Japan).nes	26f61f9e116738124bc49400dd643673a2b07ac9	10472e36965b6e08d401ed60c6d7f9c4	f5014d25
 06eb8c4509d28db3fe3d934e05028ee863a2ae980634f50b47e0b18045fc0c08	NES/2 Japan/Japan K-O/Monopoly (Japan).nes	8f098e6dbf848da6f13470bf3ccde1c58b803062	46f9362babb6819d71e87300d8bd7fde	095ada22
 5503de45b1e58fda3b5b9e2aa3f5ff03d4011f5f422853639e5e7a453946881e	NES/2 Japan/Japan K-O/Monster Maker - 7 Tsu no Hihou (Japan).nes	41e4bdab4e34112ed43f19c531aa4b995f1c9f6f	b10e90e81f3bdbe5a232ee34d746327e	b4849f79
@@ -1858,7 +1858,7 @@ be413fae2e0e3450ff86c54a633b1fa9911b23463ab88788b0133aaf8cb55e81	NES/2 Japan/Jap
 5954bbe3b716f6a36d3e0279fdb0959af69b214efe37d8367ad676ce9e170f1c	NES/2 Japan/Japan P-S/Side Pocket (Japan).nes	8606ecee84618bae70041672dded7f605860f996	b25348ddf62d5b51c3694eec5276c338	bd52d4d0
 05ead8c0b81ebce6c616a9352a778f661304e7f91efa026d517c62477e886c28	NES/2 Japan/Japan P-S/Silva Saga (Japan).nes	44337b32ab3452b3b6f0811e7de826f6df3bdc28	5fb256cc3cba58cabb2ba49a39dd9fe4	6819da63
 f973676a4b13f97292e12ae19e9317730b2a8b0c323fc9bea7da63b1f38dcfa4	NES/2 Japan/Japan P-S/Sky Destroyer (Japan).nes	850b769e79f5108d340f294c55d65e64151c3842	0ef4c02871817980fe54eb08252fd3c9	23b8eeeb
-071c1609df0a0d56563d452224367976211943ebe42fd79516a67796cfc91061	NES/2 Japan/Japan P-S/Sky Kid (Japan).nes	84b45ea02c74894a9f885f734e23f8c19695dace	2a5efc084bec27c1b978f82f0e92156f	4d9d9142
+0441d82fc542424025fa1fec181e5b5a963fca1b25d331091b26f012bad481a7	NES/2 Japan/Japan P-S/Sky Kid (Japan).nes	5d54cbfc19403bc0c10a74473beca4c4b7a0e9a3	09ecf76f7a12278ed1e8a64ea3aa3052	63854153
 ccedd34cfb713b9739456f926f77f48877aae23a33d52ec79bde715e28ef3ad6	NES/2 Japan/Japan P-S/Snow Bros. (Japan).nes	5d3158d81ba732fe3f4ef3a1532ead28a8e8a046	074f1822da84fde48aabb18199604d50	566d58c2
 6e31b8724dc2db8560e6b776f7661005e7851a54f72b6957f3398b9ee2a84962	NES/2 Japan/Japan P-S/Soccer League - Winner's Cup (Japan).nes	b053f2849c7e8cb976b94937432ec16d898ee1dc	f541c00d8b04615f949777406a73fdae	71a5f835
 683f4fef7757fa7f90919331b546dc88ca26ba6b2139df1450e00e22d1565a40	NES/2 Japan/Japan P-S/Softball Tengoku (Japan).nes	f4ad3e7c950de17e54a51d0871128d394b2fef5c	570a844d730e144fb32d9aed50941815	7eb6dc6d
@@ -1898,7 +1898,7 @@ a1ab96cba2efd69da352f56159c8ef9841a45b04c98f77fa2fe5f5462d30a5ec	NES/2 Japan/Jap
 b4197f6d0bb517d5144bfe799e1c03c9ff07048b72884a4487821f1711a59d25	NES/2 Japan/Japan P-S/Summer Carnival '92 - Recca (Japan) (En).nes	7e8506e047699bdef04a77c2cf50335be8133121	d1977209742b71a93e4ebc1afa0063dc	48a42e2f
 ded5347d6c3e3b40eefc3513f8048295db00a2cb09a06834ce6d8105b5d98c68	NES/2 Japan/Japan P-S/Super Arabian (Japan).nes	2679269ca26e89ca0f546ca156d804afc7735faf	e9f74b80e8d8dcc12626736ad28ebdd6	574374a2
 74614b33a702f6ccf1beece1118bdd52d501980d109edefdf5d6bacf17cfa0ad	NES/2 Japan/Japan P-S/Super Black Onyx (Japan).nes	0fb01f3a70886c868b1c0f7fdcefc28bd29e7a30	d4374dd100c815fd17044de91748ba25	90585409
-273e387bb4329376dfaacf0b87b47513fa630c5fc3693f3c498404771401bbca	NES/2 Japan/Japan P-S/Super Chinese (Japan).nes	27ac89cc96a9bc36783e70279202e31a5a12b7ca	ff985d4baa2e5f0044c2ef7ff61a0d23	5f12e057
+d621e639f24758b5a67cb262a409a2db25fd1ebdac0aa51ec4a896be7913174b	NES/2 Japan/Japan P-S/Super Chinese (Japan).nes	4dc5a289020ff5fe1f8ece28c0cbbc3c253ed98d	77bea8169d59583bf473736d27682d0e	1ddceb54
 d04f1c5ca72ab770ac86267fc0d6a2764a8d2c47c9932ff2668f7a34d92b0375	NES/2 Japan/Japan P-S/Super Chinese 2 - Dragon Kid (Japan).nes	a34c2ca8f86b999131ad2ea165f60470b2cba3af	ec1556c83cc3c1449608db715ec7bb6a	9d060f1d
 3ba8738fe8104929f3c1c2732300f13722547dff9a640bf4b035ee851c23b2f2	NES/2 Japan/Japan P-S/Super Chinese 3 (Japan).nes	dbca6551f535735f11313d9ce61064cdd7de6315	962ddc17174a6db2d3acd2ae88679f90	0ded4d59
 ac29ca3a5d5d7347f79e774813834df3e9826fd5b4fd0cbf4bfee6ca17493757	NES/2 Japan/Japan P-S/Super Contra (Japan).nes	92fbbb836cc34ce16b80641b78d3a1254561cc48	76a1bb61480db03fbb6f5d13a39f3e40	0a9cef36
@@ -2007,7 +2007,7 @@ abcdea41ea138dc70cc5740b1ce902e8c34076353d2b0dcc21d7993a5081c3d7	NES/2 Japan/Jap
 ac85b4ddfa5f7aa003123d557231cdc8a520fdb51c2bd2d78024903b00e1fecb	NES/2 Japan/Japan T-Z/Urusei Yatsura - Lum no Wedding Bell (Japan).nes	811eea6dfac344557f65f3adbb5f8d57d5691be5	bd3a773a99993563df93b1df357cddb0	c936c254
 ade58b4d9c392e575e040794f0eccc2615fe98f7f4e6c124b6ca18d9b041523b	NES/2 Japan/Japan T-Z/Ushio to Tora - Shinen no Taiyou (Japan).nes	758a59397034d286badabb283770d1eafd56a3f4	6ef40979664615152a527206c9bdb351	4f3bab82
 8896f995c0550a8f75bb8ea429ca81bf8df1747ad5fa5beb7184f02f0da8f04b	NES/2 Japan/Japan T-Z/Utsurun Desu - Kawauso Hawaii e Iku (Japan).nes	6ce0bdc5e6f596ba60db980d28f2f07ec1cbed44	da9eb3677851244cd33dc879566a22bb	9b7c33bd
-a4d7cdc6cbc4d8b30820ae680bfb40feae3b79bd0277a04e161ecfbeb8cddf39	NES/2 Japan/Japan T-Z/Valkyrie no Bouken - Toki no Kagi Densetsu (Japan).nes	3f32bdf88be8f3fe95f38ae873a301bc04d34b02	2dfea21817cb082d7013441eb6855fe0	d76e5d3b
+ebc7d8a42e374c77770165cca941baaa5cf18933140a516c787e08adba323789	NES/2 Japan/Japan T-Z/Valkyrie no Bouken - Toki no Kagi Densetsu (Japan).nes	4374adefaa1d96597b26f9af6a9f39f4f09bc75c	414830dda0377f1e1d9dac3017e438d4	f9768d2a
 c030660ea7313b8b79d070f8c1cfb6df802d3309d79741f697a290fccea62c9c	NES/2 Japan/Japan T-Z/Vegas Connection - Casino kara Ai o Komete (Japan).nes	a6cc86bcf8e1d7c024e0b93e9decd6875fbb66c9	c5b9588bf1d1914274644ef1e857421a	18712834
 944c325a2f70d5b680ffa2f4d4873c9cbda900396287c220fc37ad3ca197f4d8	NES/2 Japan/Japan T-Z/Venus Senki - Back the City (Japan).nes	30d2ab4aaad05c2202b1ad89abf93f4871b3fe21	1eb4b0e8e51a51f5714d87823952580f	e1123ca2
 11d5188ac8bff41ed7313f56c3b359c97822329a9743d341d170400b7f0d89b4	NES/2 Japan/Japan T-Z/Viva! Las Vegas (Japan).nes	584806a24fd0aa31e2f3b6ec41ae7f509cfa8165	7c79410e33e2d32ff7c58ae2fd0a5af0	8522a407
@@ -2916,7 +2916,7 @@ c75bd392a6b2b348603964540f5e0731b817eca27a509f24d320bc42bebab2cf	NES/3 Nintendo 
 7f2d7e7d0b59088206c1ad53da9b8df6ecd308c3e8365c88daa3ff6963259c16	NES/3 Nintendo VS. System Arcade/VS. System Arcade/Vs. Stroke & Match Golf - Ladies (LG4 X).nes	9314052dd779fbba4e9e3ae1367c877ef48a338d	599670ff5f327ea7722a398fbd1d260f	b6c6076e
 7c0224612a4c42b826af2796b325f5b0ac273a3e24b7b405b99fcb807c27b87d	NES/3 Nintendo VS. System Arcade/VS. System Arcade/Vs. Super Mario Bros. (SM4-4 E).nes	db307d8e33df1df90b950b4bd2bad9700d314356	10088526627d6fb6933f84bce4d4be03	1209d959
 61074394b313e9860df45c52b284c08702cce8e5fdcf4ecca7c741109822632a	NES/3 Nintendo VS. System Arcade/VS. System Arcade/Vs. Super Mario Bros. (X).nes	43c9491c8a90306b8e3cb3c5c519e8659b6a98c1	6940418bf7f83cb19ae5958a73b487cf	f6151187
-6511996f709a11dce0031a383eabf2ab89dddad2b169e9c3373f13d408184af6	NES/3 Nintendo VS. System Arcade/VS. System Arcade/Vs. Super Sky Kid.nes	89c6b90676617ccd8eaf06eb26ec9dae78cb877d	c668d76d5ca7c1a4d38552cc11dde94b	dbee29fd
+98b3036ff53198cff47b3817822ba0674bf9dd6394eaf9af4d71e9b6f6a3349c	NES/3 Nintendo VS. System Arcade/VS. System Arcade/Vs. Super Sky Kid.nes	8ee0c410d69f9aed0c62504e46f18a68ace25387	f8c5e71b2f315112b5ad3f45e2302dcf	f5f6f9ec
 c301f95fac6e67740c05f33fc5e26aa174aa7ad835613f748e0e563069c852fd	NES/3 Nintendo VS. System Arcade/VS. System Arcade/Vs. Super Xevious - GAMP no Nazo.nes	158c20b93379025fc852e9924b4851c7c69165dd	a87417fd2d442b5f05d7ed4ee3dc4ad8	e0939efb
 bfcb69092a047373243bc72fa4ba0b6707907c3fd5bbe6b7034e77e9d28c09ed	NES/3 Nintendo VS. System Arcade/VS. System Arcade/Vs. T.K.O. Boxing.nes	57364e0824a230d15229c34c88ce1fca218255cf	e5890cc17a1912fee5b7bbdb5dcc1318	09ecffa7
 b5b83d8206f528c937db847a4b19c223c829b0a886bd61c6276b84f176386061	NES/3 Nintendo VS. System Arcade/VS. System Arcade/Vs. Tetris [NT Fixed].nes	3e45cd66c1ccde3180d23dc542fc6caeb91c0fb2	3414f0fd22abd0b5f59f161e3fbbc3cb	b8f7195f
