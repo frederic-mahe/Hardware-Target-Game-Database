@@ -43,8 +43,8 @@ console or a Linux/Unix terminal.
 
 (note to Windows users: for arguments expecting a folder name, please
 use `"C:\My Folder"` or `"C:\My Folder\\"`, but not `"C:\My
-Folder\"`. The trailing backslash escapes the closing quote `"`, which
-breaks the argument list)
+Folder\"`. The trailing backslash `\` escapes the closing quote `"`,
+which breaks the argument list)
 
 **parse_pack.py** For making SMDBs (example command):
 ```DOS .bat
