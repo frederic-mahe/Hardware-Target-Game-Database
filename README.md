@@ -36,9 +36,10 @@ having to share the ROMs themselves.
 
 ## Tools Included
 
-The `build_pack`, `parse_pack` and `verify_pack` scripts are written in python3. To launch
-a script, install [python](https://www.python.org) if need be, and then open
-a Windows console or a Linux/Unix terminal.
+The `build_pack`, `parse_pack` and `verify_pack` scripts are written
+in python3. To launch a script, install
+[python](https://www.python.org) if need be, and then open a Windows
+console or a Linux/Unix terminal.
 
 (note to Windows users: for arguments expecting a folder name, please
 use `"C:\My Folder"` or `"C:\My Folder\\"`, but not `"C:\My
