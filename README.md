@@ -40,6 +40,11 @@ The `build_pack`, `parse_pack` and `verify_pack` scripts are written in python3.
 a script, install [python](https://www.python.org) if need be, and then open
 a Windows console or a Linux/Unix terminal.
 
+(note to Windows users: for arguments expecting a folder name, please
+use `"C:\My Folder"` or `"C:\My Folder\\"`, but not `"C:\My
+Folder\"`. The trailing backslash escapes the closing quote `"`, which
+breaks the argument list)
+
 **parse_pack.py** For making SMDBs (example command):
 ```DOS .bat
 "C:\XXX\parse_pack.py" -f "C:\XXX\Folder to be parsed" -o "C:\XXX\SMDB.txt"
