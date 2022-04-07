@@ -8,7 +8,7 @@ Because most flash-carts and optical drive emulators require specific
 ROMs and fixes, it is a monumental task to compile 100%
 complete/working setups, and is often beyond the capabilities of any
 one person. Thousands of hours have been invested in the
-*SourceMaterial DataBases* (or SMDBs) of this project with the goal of
+_SourceMaterial DataBases_ (or SMDBs) of this project with the goal of
 100% complete, 100% working real-hardware compatible arrangements of
 the highest quality ROM dumps. File hierarchies are shared via SMDB
 text files which contain all of the information needed to identify,
@@ -26,27 +26,27 @@ hierarchy. One record per line, six tab-separated columns per record:
 5. CRC32,
 6. file size (in bytes, **new feature not yet available in all SMDBs**)
 
-SMDBs are provided for a range of flash-carts.  These SMDBs allow
+SMDBs are provided for a range of flash-carts. These SMDBs allow
 users to dump all of their legally acquired ROMs into a single folder
 (zip files accepted). When the `build_pack` script is run on that
 directory, the ROMs will be analyzed (via hash comparisons), renamed
 and sorted into complete, flash-cart friendly Packs, as described in
-an SMDB.  This allows creators to share file and folder setups without
+an SMDB. This allows creators to share file and folder setups without
 having to share the ROMs themselves.
 
 ## Tools Included
 
-The `build_pack`, `parse_pack` and `verify_pack` scripts are written
+The `build_pack`, `parse_pack`, `verify_pack` and `base_sorter` scripts are written
 in python3. To launch a script, install
 [python](https://www.python.org) if need be, and then open a Windows
 console or a Linux/Unix terminal.
 
 (note to Windows users: for arguments expecting a folder name, please
-use `"C:\My Folder"` or `"C:\My Folder\\"`, but not `"C:\My
-Folder\"`. The trailing backslash `\` escapes the closing quote `"`,
+use `"C:\My Folder"` or `"C:\My Folder\\"`, but not `"C:\My Folder\"`. The trailing backslash `\` escapes the closing quote `"`,
 which breaks the argument list)
 
 **parse_pack.py** For making SMDBs (example command):
+
 ```DOS .bat
 "C:\XXX\parse_pack.py" -f "C:\XXX\Folder to be parsed" -o "C:\XXX\SMDB.txt"
 ```
@@ -56,8 +56,8 @@ which breaks the argument list)
 `-o` (or `--output`) is the text file that will contain the hash
 values, filenames, and folder structure
 
-
 **build_pack.py** For building a pack based on a pre-made SMDB (example command):
+
 ```DOS .bat
 "C:\XXX\build_pack.py" -i "C:\XXX\Folder with unorganized ROMs" -d "C:\XXX\SMDB.txt" -o "C:\XXX\Output folder for rebuilt pack" -m "C:\XXX\Missing.txt"
 ```
@@ -96,8 +96,8 @@ under `./NES/EverDrive N8/...`. With the option
 `--drop_initial_directory`, the pack will be built directly under
 `./NES/...`.
 
-
 **verify_pack.py** For verifying pack folders match up correctly with SMDBs (example command):
+
 ```DOS .bat
 "C:\XXX\verify_pack.py" -f "C:\XXX\Folder to be parsed" -d "C:\XXX\SMDB.txt" -m "C:\XXX\Mismatch.txt"
 ```
@@ -116,6 +116,22 @@ instance, if your pack folder is `./NES/`, the pack will be verified
 using `./NES/EverDrive N8/...`. With the option
 `--drop_initial_directory`, the pack will be verified using `./NES/...`.
 
+**base_sorter.py** For automatically sorting an unsorted ROM pack with no available SMDB.
+Useful for starting a new SMDB:
+
+```DOS .bat
+"C:\XXX\base_sorter.py" -i "C:\XXX\Folder to be sorted"
+```
+
+`-i` (or `--input_folder`) is the folder containing the unorganized ROMs
+
+`-g` (or `--alphabetical_group_min_count`) sets the minimun file count
+for the alphabetical group dirs (defaults to 149)
+
+`-t` (or `--file_type`) limits the sorting to one specific file type or extension.
+eg: `-t 7z` will only sort `.7z` files
+
+`-d` (or `--debug`) turns debug messages on
 
 Depending on your python installation, you may need to begin your
 command with the location of `python.exe` (for example,
