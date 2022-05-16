@@ -10,7 +10,7 @@ import re
 import sys
 
 __author__ = "BuraBure"
-__date__ = "2022/04/07"
+__date__ = "2022/05/16"
 __version__ = "$Revision: 1.0"
 
 
@@ -33,6 +33,7 @@ JAPAN_DIR = '2 Japan - A-Z/'
 EUROPE_REGEX = ' \([^\)]*Europe[^\)]*\)'
 EUROPE_DIR = '2 Europe - A-Z/'
 OTHERS_DIR = '2 Other Regions - A-Z/'
+DISC_REGEX = '(^.*)\s\(Disc \d\)'
 RESERVED_DIRS = [
     '^1 USA',
     '^2 Japan',
@@ -70,13 +71,21 @@ if __name__ == '__main__':
     parser.register('type', 'bool', (lambda x: x.lower() in
                                      ("yes", "true", "t", "1")))
 
-    parser.add_argument("-d", "--debug",
+    parser.add_argument("--debug",
                         dest="debug",
                         required=False,
                         nargs="?",
                         const=True,
                         type='bool',
                         help="debug output")
+
+    parser.add_argument("-d", "--discs",
+                        dest="discs",
+                        required=False,
+                        nargs="?",
+                        const=True,
+                        type='bool',
+                        help="put discs into folders")
 
     parser.add_argument("-i", "--input_folder",
                         dest="source_dir",
@@ -117,15 +126,38 @@ def get_file_list(dir):
         return filter(lambda file: True if re.search(FILE_TYPE + '$', file) else False, safe_files)
 
 
-def move_files(file_or_file_list, destination):
+def move_files(file_list, destination, process_discs=False):
     """
-    Moves a file or a list of files to a destination
+    Moves a list of files to a destination
     """
+    if process_discs:
+        move_disc_files(file_list, destination)
+        return
+
+    __move_files(file_list, destination)
+
+
+def __move_files(file_or_file_list, destination):
     for file in file_or_file_list if isinstance(file_or_file_list, list) else [file_or_file_list]:
         result_path = shutil.move(file, destination)
         if DEBUG:
             print('Moved: "', reset, blue, file, reset, '" => "',
                   reset, blue, result_path, reset, '"', reset, sep='')
+
+
+def move_disc_files(file_list, destination):
+    """
+    Groups discs into folders and Moves them to a destination
+    """
+    for file in file_list:
+        (_, filename) = os.path.split(file)
+        (extensionless, _) = os.path.splitext(filename)
+        discless_match = re.search(DISC_REGEX, filename)
+        discless_name = discless_match.group(
+            1) if discless_match != None else extensionless
+        disc_dir = os.path.join(destination, discless_name)
+        os.makedirs(disc_dir, mode=511, exist_ok=True)
+        __move_files(file, disc_dir)
 
 
 def is_revision(prev_file, curr_file):
@@ -166,7 +198,7 @@ def move_revisions(source_dir):
         prev_file = file_abs
 
     os.makedirs(revisions_dir, mode=511, exist_ok=True)
-    move_files(early_revisions, revisions_dir)
+    move_files(early_revisions, revisions_dir, DISCS)
 
 
 def is_beta(file):
@@ -198,13 +230,16 @@ def move_files_conditionally(source_dir, destination_dir, predicate_fn):
     Moves files to destination if the predicate returns true
     """
     files = get_file_list(source_dir)
+    abs_paths = []
 
     os.makedirs(destination_dir, mode=511, exist_ok=True)
 
     for file in files:
         file_abs = os.path.join(source_dir, file)
         if predicate_fn(file_abs):
-            move_files(file_abs, destination_dir)
+            abs_paths.append(file_abs)
+
+    move_files(abs_paths, destination_dir, DISCS)
 
 
 def move_alphabetical_batch(batch, base_dir, dir_prefix, batch_starting_letter, batch_ending_letter):
@@ -215,7 +250,7 @@ def move_alphabetical_batch(batch, base_dir, dir_prefix, batch_starting_letter, 
         os.path.join(base_dir, batch_dir_name))
 
     os.makedirs(batch_dir_path, mode=511, exist_ok=True)
-    move_files(batch, batch_dir_path)
+    move_files(batch, batch_dir_path, False)
 
 
 def group_files_alphabetically(base_dir, dir_prefix, destination_dir=None):
@@ -224,24 +259,22 @@ def group_files_alphabetically(base_dir, dir_prefix, destination_dir=None):
     """
     files = get_file_list(base_dir)
     batch = []
-    batches_count = 0
     prev_file_name = '0'
     batch_starting_letter = 'A'
     destination_dir = base_dir if destination_dir == None else destination_dir
 
     for file in files:
         file_abs = os.path.join(base_dir, file)
-        if (len(batch) >= ALPHABETICAL_GROUP_MIN_COUNT) & (prev_file_name.lower()[0] != file.lower()[0]):
+        if (len(batch) >= int(ALPHABETICAL_GROUP_MIN_COUNT)) & (prev_file_name.lower()[0] != file.lower()[0]):
             move_alphabetical_batch(
                 batch, destination_dir, dir_prefix, batch_starting_letter, prev_file_name.upper()[0])
             batch = []
-            batches_count = batches_count + 1
             batch_starting_letter = file.upper()[0]
 
         batch.append(file_abs)
         prev_file_name = file
 
-    if batches_count > 0:
+    if len(batch) > 0:
         move_alphabetical_batch(
             batch, destination_dir, dir_prefix, batch_starting_letter, prev_file_name.upper()[0])
 
@@ -256,6 +289,7 @@ if __name__ == '__main__':
     DEBUG = ARGS.debug
     FILE_TYPE = ARGS.file_type
     ALPHABETICAL_GROUP_MIN_COUNT = ARGS.alphabetical_group_min_count
+    DISCS = ARGS.discs
     SOURCE_DIR = os.path.abspath(ARGS.source_dir)
 
     debug_banner('MOVING REVISIONS')

@@ -131,7 +131,9 @@ for the alphabetical group dirs (defaults to 149)
 `-t` (or `--file_type`) limits the sorting to one specific file type or extension.
 eg: `-t 7z` will only sort `.7z` files
 
-`-d` (or `--debug`) turns debug messages on
+`-d` (or `--discs`) puts discs into a folder (single discs will be put into a folder also)
+
+`--debug` turns debug messages on
 
 Depending on your python installation, you may need to begin your
 command with the location of `python.exe` (for example,
