@@ -101,7 +101,8 @@ def parse_folder(target_folder, output_file):
     with open(output_file, "w") as output_file:
         i = 0
         # make sure subfolders are alphanumerically sorted
-        sorted_files = sorted(os.walk(target_folder))
+        sorted_files = sorted(os.walk(target_folder),
+                             key=lambda v: (v.upper(), v[0].islower()))
         for dirpath, dirnames, filenames in sorted_files:
             if filenames:
                 # make sure files are alphanumerically sorted
