@@ -93,8 +93,8 @@ def parse_folder(target_folder, output_file):
                        ".bak", ".bat", ".bsa", ".bps",
                        ".bst", ".c", ".cht", ".dat", ".db", ".docx",
                        ".exe", ".ips", ".jpg", ".json", ".mso",
-                       ".ods", ".odt", ".pc", ".pdf", ".png", ".sav", ".srm",
-                       ".sto", ".txt", ".tmp", ".xdelta", ".xls",
+                       ".ods", ".odt", ".pc", ".pdf", ".srm",
+                       ".sto", ".tmp", ".xdelta", ".xls",
                        "/os.pce", "/thumbs.db", "/menu.bin", "/desktop.ini",
                        "/.ds_store")  # must be lowercase
 
