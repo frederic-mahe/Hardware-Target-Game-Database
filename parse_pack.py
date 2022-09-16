@@ -13,8 +13,8 @@ import argparse
 
 
 __author__ = "aquaman"
-__date__ = "2021/05/27"
-__version__ = "$Revision: 4.5"
+__date__ = "2022/06/10"
+__version__ = "$Revision: 4.6"
 
 
 # *********************************************************************#
@@ -93,15 +93,15 @@ def parse_folder(target_folder, output_file):
                        ".bak", ".bat", ".bsa", ".bps",
                        ".bst", ".c", ".cht", ".dat", ".db", ".docx",
                        ".exe", ".ips", ".jpg", ".json", ".mso",
-                       ".ods", ".odt", ".pc", ".pdf", ".png", ".sav", ".srm",
-                       ".sto", ".txt", ".tmp", ".xdelta", ".xls",
+                       ".ods", ".odt", ".pc", ".pdf", ".srm",
+                       ".sto", ".tmp", ".xdelta", ".xls",
                        "/os.pce", "/thumbs.db", "/menu.bin", "/desktop.ini",
                        "/.ds_store")  # must be lowercase
 
     with open(output_file, "w") as output_file:
         i = 0
         # make sure subfolders are alphanumerically sorted
-        sorted_files = sorted(os.walk(target_folder))
+        sorted_files = sorted(os.walk(target_folder), key=lambda x: x[0].lower())
         for dirpath, dirnames, filenames in sorted_files:
             if filenames:
                 # make sure files are alphanumerically sorted
