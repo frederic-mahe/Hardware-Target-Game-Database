@@ -71,6 +71,9 @@ are organized
 `-o` (or `--output_folder`) is the folder in which to build the ROM
 pack
 
+`-e` (or `--extras_folder`) is the folder to copy files to that are 
+not found in the db
+
 `-m` (or `--missing`) is the text file that will list the ROMs missing
 in order to reach the 100% mark
 
