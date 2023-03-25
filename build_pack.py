@@ -3,6 +3,7 @@
 """
 use a database to identify and organize files.
 """
+import copy
 import os
 import sys
 import shutil
@@ -49,6 +50,11 @@ if __name__ == '__main__':
                         dest="output_folder",
                         required=True,
                         help="set output folder")
+    
+    parser.add_argument("-e", "--extra_files_folder",
+                        dest="extras_folder",
+                        required=False,
+                        help="set output folder for files not found in db")
 
     parser.add_argument("-m", "--missing",
                         dest="missing_files",
@@ -240,10 +246,11 @@ def print_function(text, end, file=sys.stdout, flush=True):
     print(text, end=end, file=file, flush=flush)
 
 
-def parse_folder(source_folder, db, output_folder):
+def parse_folder(source_folder, db, output_folder, extras_folder):
     """
     read each file, produce a hash value and place it in the directory tree.
     """
+    db2 = copy.deepcopy(db)
     i = 0
     total = len([os.path.join(dp, f) for dp, dn, fn in
                  os.walk(os.path.expanduser(source_folder)) for f in fn])
@@ -287,7 +294,34 @@ def parse_folder(source_folder, db, output_folder):
                                               original)
                         # remove the hit from the database
                         del db[h]
-
+                        break
+                    if extras_folder and h not in db2:
+                        new_path = os.path.join(extras_folder)
+                        # create directory structure if need be
+                        if not os.path.exists(new_path):
+                            os.makedirs(new_path, exist_ok=True)
+                        new_file = os.path.join(extras_folder, os.path.split(info['filename'])[-1])
+                        if os.path.exists(new_file):
+                            # add a folder with part of the hash in case of non duplicate file
+                            # todo: compare hashes
+                            new_path = os.path.join(extras_folder, h[0:4])
+                            # create directory structure if need be
+                            if not os.path.exists(new_path):
+                                os.makedirs(new_path, exist_ok=True)
+                            new_file = os.path.join(extras_folder, h[0:4], os.path.split(info['filename'])[-1])
+                        if (not ARGS.skip_existing or not
+                                os.path.exists(new_file)):
+                            if info['archive']:
+                                # extract file from archive to directory
+                                extract_file(info['filename'],
+                                                info['archive']['entry'],
+                                                info['archive']['type'],
+                                                new_file)
+                            else:
+                                # copy the file to the new directory
+                                copy_file(info['filename'],
+                                            new_file,
+                                            new_file)
                 i += 1
                 print_progress(i, total, END_LINE)
     else:
@@ -354,13 +388,14 @@ if __name__ == '__main__':
     SOURCE_FOLDER = ARGS.source_folder
     TARGET_DATABASE = ARGS.target_database
     OUTPUT_FOLDER = ARGS.output_folder
+    EXTRAS_FOLDER = ARGS.extras_folder
     MISSING_FILES = ARGS.missing_files
     END_LINE = "\n" if ARGS.new_line else "\r"
     DROP_INITIAL_DIRECTORY = ARGS.drop_initial_directory
 
     DATABASE, NUMBER_OF_ENTRIES = parse_database(TARGET_DATABASE,
                                                  DROP_INITIAL_DIRECTORY)
-    parse_folder(SOURCE_FOLDER, DATABASE, OUTPUT_FOLDER)
+    parse_folder(SOURCE_FOLDER, DATABASE, OUTPUT_FOLDER, EXTRAS_FOLDER)
 
     # Observed files will have either their SHA256 or their CRC32 entry
     # deleted (or both) from the database. For missing files, both entries
