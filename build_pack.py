@@ -298,28 +298,41 @@ def parse_folder(source_folder, db, output_folder, extras_folder):
                     if extras_folder and h not in db2:
                         new_path = os.path.join(extras_folder)
                         # create directory structure if need be
-                        if not os.path.exists(new_path):
-                            os.makedirs(new_path, exist_ok=True)
-                        new_file = os.path.join(extras_folder, os.path.split(info['filename'])[-1])
-                        if os.path.exists(new_file):
-                            # add a folder with part of the hash in case of non duplicate file
-                            # todo: compare hashes
-                            new_path = os.path.join(extras_folder, h[0:4])
-                            # create directory structure if need be
-                            if not os.path.exists(new_path):
-                                os.makedirs(new_path, exist_ok=True)
-                            new_file = os.path.join(extras_folder, h[0:4], os.path.split(info['filename'])[-1])
+                        # if not os.path.exists(new_path):
+                        #     os.makedirs(new_path, exist_ok=True)
+                        # new_file = os.path.join(extras_folder, os.path.split(info['filename'])[-1])
+                        # if os.path.exists(new_file):
+                        # add a folder with part of the hash in case of non duplicate file
+                        # todo: compare hashes
+                        new_path = os.path.join(extras_folder, dirpath)
+                        # create directory structure if need be
+                        # if not os.path.exists(new_path):
+                        #     os.makedirs(new_path, exist_ok=True)
+                        new_file = os.path.join(extras_folder, dirpath, os.path.split(info['filename'])[-1])
                         if (not ARGS.skip_existing or not
                                 os.path.exists(new_file)):
                             if info['archive']:
                                 # extract file from archive to directory
-                                extract_file(info['filename'],
+                                try:
+                                    extract_file(info['filename'],
+                                                info['archive']['entry'],
+                                                info['archive']['type'],
+                                                new_file)
+                                except FileNotFoundError:
+                                    os.makedirs(new_path, exist_ok=True)
+                                    extract_file(info['filename'],
                                                 info['archive']['entry'],
                                                 info['archive']['type'],
                                                 new_file)
                             else:
                                 # copy the file to the new directory
-                                copy_file(info['filename'],
+                                try:
+                                    copy_file(info['filename'],
+                                            new_file,
+                                            new_file)
+                                except FileNotFoundError:
+                                    os.makedirs(new_path, exist_ok=True)
+                                    copy_file(info['filename'],
                                             new_file,
                                             new_file)
                 i += 1
