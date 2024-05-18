@@ -90,9 +90,9 @@ def parse_folder(target_folder, output_file):
                       "/sd2snes/")
     banned_suffixes = (".001", ".002", ".003", ".004", ".005", ".006",
                        ".007", ".008", ".009", ".aps", ".asm",
-                       ".bak", ".bat", ".bsa", ".bps",
+                       ".bat", ".bsa", ".bps",
                        ".bst", ".c", ".cht", ".dat", ".db", ".docx",
-                       ".exe", ".ips", ".jpg", ".json", ".mso",
+                       ".exe", ".ips", ".jpg", ".mso",
                        ".ods", ".odt", ".pc", ".pdf", ".srm",
                        ".sto", ".tmp", ".xdelta", ".xls",
                        "/os.pce", "/thumbs.db", "/menu.bin", "/desktop.ini",
