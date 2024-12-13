@@ -221,13 +221,14 @@ def parse_database(target_database, drop_initial_directory):
     number_of_entries = 0
     with open(target_database, "r") as target_database:
         for line in target_database:
-            hash_sha256, filename, _, _, hash_crc = line.strip().split("\t")[0:5]
-            number_of_entries += 1
-            if drop_initial_directory:
-                first_level, filename = filename.split("/", 1)
-            filename = os.path.normpath(filename)
-            db[hash_sha256].append(filename)
-            db[hash_crc].append(filename)
+            if not line.startswith("#"):  # allows for comment lines starting with '#' in databases
+                hash_sha256, filename, _, _, hash_crc = line.strip().split("\t")[0:5]
+                number_of_entries += 1
+                if drop_initial_directory:
+                    first_level, filename = filename.split("/", 1)
+                filename = os.path.normpath(filename)
+                db[hash_sha256].append(filename)
+                db[hash_crc].append(filename)
     return db, number_of_entries
 
 
