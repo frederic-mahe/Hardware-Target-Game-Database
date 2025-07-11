@@ -20,20 +20,20 @@ __version__ = "$Revision: 1.0"
 #                                                                      #
 # *********************************************************************#
 
-REVISION_REGEX = ' \(Rev(\s\d)?\)'
+REVISION_REGEX = r' \(Rev(\s\d)?\)'
 REVISIONS_DIR = '4 Beta, Prototypes, Revisions/Revisions/'
-BETAS_REGEX = ' \(Beta(\s\d)?\)'
+BETAS_REGEX = r' \(Beta(\s\d)?\)'
 BETAS_DIR = '4 Beta, Prototypes, Revisions/Betas/'
-DEMOS_REGEX = ' \(Demo(\s\d)?\)'
+DEMOS_REGEX = r' \(Demo(\s\d)?\)'
 DEMOS_DIR = '4 Beta, Prototypes, Revisions/Samples/'
-USA_REGEX = ' \([^\)]*USA[^\)]*\)'
+USA_REGEX = r' \([^\)]*USA[^\)]*\)'
 USA_TMP_DIR = '1 USA - TMP/'
-JAPAN_REGEX = ' \([^\)]*Japan[^\)]*\)'
+JAPAN_REGEX = r' \([^\)]*Japan[^\)]*\)'
 JAPAN_DIR = '2 Japan - A-Z/'
-EUROPE_REGEX = ' \([^\)]*Europe[^\)]*\)'
+EUROPE_REGEX = r' \([^\)]*Europe[^\)]*\)'
 EUROPE_DIR = '2 Europe - A-Z/'
 OTHERS_DIR = '2 Other Regions - A-Z/'
-DISC_REGEX = '(^.*)\s\(Disc \d\)'
+DISC_REGEX = r'(^.*)\s\(Disc \d\)'
 RESERVED_DIRS = [
     '^1 USA',
     '^2 Japan',
