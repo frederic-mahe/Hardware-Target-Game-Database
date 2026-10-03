@@ -1,5 +1,5 @@
-# Development / test dependencies only.
-# The scripts themselves depend on the Python standard library exclusively.
+# Development / test dependencies. Pulls in the archive dependencies too, so
+# the full test suite (including 7z/RAR tests) runs without extra steps.
+-r requirements-archives.txt
 pytest>=7.0
 coverage>=7.0
-

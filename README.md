@@ -28,11 +28,11 @@ hierarchy. One record per line, six tab-separated columns per record:
 
 SMDBs are provided for a range of flash-carts. These SMDBs allow
 users to dump all of their legally acquired ROMs into a single folder
-(zip files accepted). When the `build_pack` script is run on that
-directory, the ROMs will be analyzed (via hash comparisons), renamed
-and sorted into complete, flash-cart friendly Packs, as described in
-an SMDB. This allows creators to share file and folder setups without
-having to share the ROMs themselves.
+(zip and 7-zip files accepted). When the `build_pack` script is run
+on that directory, the ROMs will be analyzed (via hash comparisons),
+renamed and sorted into complete, flash-cart friendly Packs, as
+described in an SMDB. This allows creators to share file and folder
+setups without having to share the ROMs themselves.
 
 ## Tools Included
 
@@ -57,6 +57,11 @@ which breaks the argument list)
 values, filenames, and folder structure
 
 **build_pack.py** For building a pack based on a pre-made SMDB (example command):
+
+7-zip archive (`.7z`) support requires the optional `py7zr` package — see
+[Requirements](#requirements) below. Install it first with `pip install -r
+requirements-archives.txt`. Without it, `build_pack.py` will not recognize `.7z`
+files as archives and will treat them as any other unsupported file type.
 
 ```DOS .bat
 "C:\XXX\build_pack.py" -i "C:\XXX\Folder with unorganized ROMs" -d "C:\XXX\SMDB.txt" -o "C:\XXX\Output folder for rebuilt pack" -m "C:\XXX\Missing.txt"
@@ -152,9 +157,13 @@ trying the GUI version.
 
 ## Requirements
 
-[python](https://www.python.org) 3.8 or newer
+- [python](https://www.python.org) 3.8 or newer
+- Linux, MacOS, or Windows
 
-Linux, MacOS, or Windows
+Optional, for extended archive format support in `build_pack.py` (`pip install
+-r requirements-archives.txt`):
+
+- [py7zr](https://pypi.org/project/py7zr/), for 7z support
 
 ## Coding
 

@@ -10,6 +10,9 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = { file = "LICENSE" }
 
+[project.optional-dependencies]
+archives = ["py7zr>=0.20.0"]
+
 [project.scripts]
 parse-pack = "parse_pack:main"
 build-pack = "build_pack:main"

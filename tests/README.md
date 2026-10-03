@@ -27,7 +27,7 @@ expected SMDB lines are computed from the fixture content (see the helpers in
 |------------------|------------------------|-------------------------------------------------------------------------|
 | `parse_pack.py`  | `test_parse_pack.py`   | SMDB contents/format, case-insensitive walk order, banned folders/suffixes |
 | `verify_pack.py` | `test_verify_pack.py`  | correct / extra / missing / misplaced counts, mismatch report sections  |
-| `build_pack.py`  | `test_build_pack.py`   | copy & hardlink strategies, zip extraction, missing report, skip-existing |
+| `build_pack.py`  | `test_build_pack.py`   | copy & hardlink strategies, zip/7z extraction, corrupt-archive handling, missing report, skip-existing, graceful behavior w/out optional dependencies |
 | `base_sorter.py` | `test_base_sorter.py`  | region/type sorting layout, disc grouping, file-type filter             |
 
 ## Running
@@ -37,8 +37,11 @@ python -m pip install -r requirements-dev.txt   # installs pytest
 pytest                                           # from the repository root
 ```
 
-The scripts themselves depend only on the Python standard library; `pytest`
-and `coverage` are the only development dependencies.
+The `build_pack.py` script optionally uses the `py7zr` package for 7z support;
+without it, `.7z` files are not recognized as archives. The other scripts depend
+only on the Python standard library. `requirements-dev.txt` installs `py7zr`
+anyway so the full test suite runs by default. `pytest` and `coverage` are the
+only required development dependencies.
 
 ## Measuring coverage
 
@@ -74,7 +77,10 @@ out of scope:
 - **`if __name__ == '__main__'` guard branches** — only taken when a module is
   *imported* rather than executed, which the subprocess tests never do.
 - **Unreachable defensive code** — e.g. build_pack's `raise` for an unknown
-  `--file_strategy` (argparse already restricts the choices) and its non-`zip`
-  branch in `extract_file` (only `zip` is ever passed).
+  `--file_strategy` (argparse already restricts the choices).
+- **`BaseArchive` abstract-method stubs** — `looks_like`, `_read_entries`,
+  and `extract_entry` all just `raise NotImplementedError`. `BaseArchive`
+  is never instantiated directly, so these methods never run by
+  design; subclasses always override them.
 - **parse_pack's non-ASCII filename handler** — reachable, but it calls
   `time.sleep(10)`, so exercising it would add a 10-second hang to the suite.

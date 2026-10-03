@@ -31,7 +31,7 @@ def repo_root():
     return REPO_ROOT
 
 
-def run_script(script_name, args, cwd):
+def run_script(script_name, args, cwd, env=None):
     """
     Run one of the repository's scripts via its CLI.
 
@@ -40,6 +40,10 @@ def run_script(script_name, args, cwd):
       args        - list of additional command-line arguments
       cwd         - working directory to run the script from (so that
                     relative paths in the output are deterministic)
+      env         - optional dict of environment variables to overlay on top
+                    of the current environment (e.g. to simulate a missing
+                    optional dependency via PYTHONPATH). Defaults to the
+                    current environment, unmodified.
 
     Returns a ``subprocess.CompletedProcess`` (stdout/stderr captured as text).
     """
@@ -53,12 +57,17 @@ def run_script(script_name, args, cwd):
                "--rcfile=" + rcfile, script_path] + list(args)
     else:
         cmd = [sys.executable, script_path] + list(args)
+    run_env = None
+    if env is not None:
+        run_env = os.environ.copy()
+        run_env.update(env)
     return subprocess.run(
         cmd,
         cwd=str(cwd),
         stdout=subprocess.PIPE,
         stderr=subprocess.PIPE,
         universal_newlines=True,
+        env=run_env,
     )
 
 

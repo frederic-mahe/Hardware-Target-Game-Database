@@ -14,6 +14,7 @@ their crc, so the fixtures use full 6-column SMDB lines.
 import os
 import struct
 import zipfile
+import py7zr
 
 
 def write_db(path, lines):
@@ -85,7 +86,7 @@ def test_missing_file_reported_and_coverage(tmp_path, run, make_tree, line):
     assert "gone.bin" in missing.read_text()
 
 
-def test_extract_from_zip_archive(tmp_path, run, make_tree):
+def test_extract_from_zip_archive(tmp_path, run):
     # Build a zip whose entry's CRC we look up to drive the SMDB.
     src = tmp_path / "src"
     src.mkdir()
@@ -228,7 +229,7 @@ def test_existing_empty_target_kept_with_skip(tmp_path, run, make_tree, line):
     assert read(out / "outpack" / "empty.bin") == b"stale-content"
 
 
-def test_zip_with_extra_entries_skips_nonmatching(tmp_path, run, make_tree):
+def test_zip_with_extra_entries_skips_nonmatching(tmp_path, run):
     src = tmp_path / "src"
     src.mkdir()
     zip_path = src / "games.zip"
@@ -253,7 +254,7 @@ def test_zip_with_extra_entries_skips_nonmatching(tmp_path, run, make_tree):
     assert not (out / "outpack" / "other.bin").exists()
 
 
-def test_corrupt_zip_is_reported_but_not_fatal(tmp_path, run, make_tree, line):
+def test_corrupt_zip_is_reported_but_not_fatal(tmp_path, run, line):
     # A file that looks like a zip (valid end-of-central-directory record) but
     # cannot actually be opened triggers the "attempted to parse as a zip"
     # warning; the run still completes successfully.
@@ -271,6 +272,121 @@ def test_corrupt_zip_is_reported_but_not_fatal(tmp_path, run, make_tree, line):
 
     assert result.returncode == 0
     assert "as a zip archive" in result.stdout
+
+
+def test_corrupt_7z_is_reported_but_not_fatal(tmp_path, run, line):
+    # A file with a genuine 7z magic number but garbage after it triggers
+    # the "failed to read as a 7z archive" warning; the run still
+    # completes successfully.
+    src = tmp_path / "src"
+    src.mkdir()
+    magic = b"7z\xbc\xaf\x27\x1c"
+    (src / "corrupt.7z").write_bytes(magic + b"not-a-real-header")
+    db = tmp_path / "db.txt"
+    write_db(db, [line("outpack/USA/unrelated.bin", "unrelated")])
+    out = tmp_path / "out"
+
+    result = run("build_pack.py",
+                 ["-i", "src", "-d", str(db), "-o", str(out)],
+                 cwd=tmp_path)
+
+    assert result.returncode == 0
+    assert "as a 7z archive" in result.stdout
+
+
+def test_extract_from_7z_archive(tmp_path, run):
+    src = tmp_path / "src"
+    src.mkdir()
+    sz_path = src / "games.7z"
+    rom_file = tmp_path / "rom.bin"
+    rom_file.write_bytes(b"7z-rom-contents")
+    with py7zr.SevenZipFile(str(sz_path), "w") as szf:
+        szf.write(str(rom_file), arcname="rom.bin")
+    with py7zr.SevenZipFile(str(sz_path)) as szf:
+        crc = "{0:08x}".format(szf.getinfo("rom.bin").crc32)
+
+    db = tmp_path / "db.txt"
+    write_db(db, ["\t".join(["0" * 64, "outpack/rom.bin",
+                             "0" * 40, "0" * 32, crc, "15"])])
+    out = tmp_path / "out"
+
+    result = run("build_pack.py",
+                 ["-i", "src", "-d", str(db), "-o", str(out)],
+                 cwd=tmp_path)
+
+    assert result.returncode == 0
+    assert read(out / "outpack" / "rom.bin") == b"7z-rom-contents"
+
+
+def test_extract_from_zip_and_7z(tmp_path, run):
+    # Source folder contains both a zip and a 7z archive
+    src = tmp_path / "src"
+    src.mkdir()
+
+    zip_path = src / "games.zip"
+    with zipfile.ZipFile(str(zip_path), "w") as zf:
+        zf.writestr("zip-rom.bin", "zip-rom-contents")
+    with zipfile.ZipFile(str(zip_path)) as zf:
+        zip_crc = "{0:08x}".format(zf.getinfo("zip-rom.bin").CRC & 0xffffffff)
+
+    sz_path = src / "games.7z"
+    rom_file = tmp_path / "rom.bin"
+    rom_file.write_bytes(b"7z-rom-contents")
+    with py7zr.SevenZipFile(str(sz_path), "w") as szf:
+        szf.write(str(rom_file), arcname="7z-rom.bin")
+    with py7zr.SevenZipFile(str(sz_path)) as szf:
+        sz_crc = "{0:08x}".format(szf.getinfo("7z-rom.bin").crc32)
+
+    db = tmp_path / "db.txt"
+    write_db(db, [
+        "\t".join(["0" * 64, "outpack/zip-rom.bin",
+                   "0" * 40, "0" * 32, zip_crc, "16"]),
+        "\t".join(["0" * 64, "outpack/7z-rom.bin",
+                   "0" * 40, "0" * 32, sz_crc, "15"]),
+    ])
+    out = tmp_path / "out"
+
+    result = run("build_pack.py",
+                 ["-i", "src", "-d", str(db), "-o", str(out)],
+                 cwd=tmp_path)
+
+    assert result.returncode == 0
+    assert read(out / "outpack" / "zip-rom.bin") == b"zip-rom-contents"
+    assert read(out / "outpack" / "7z-rom.bin") == b"7z-rom-contents"
+
+
+def test_missing_py7zr_treats_7z_as_ordinary_file(tmp_path, run, line):
+    # Simulate py7zr not being installed using a stub module that fails to
+    # import, earlier on PYTHONPATH than the real package. build_pack.py should
+    # behave exactly as it did prior to 7z support: a .7z file is simply not
+    # recognized as an archive.
+    stub_dir = tmp_path / "stub_py7zr"
+    stub_dir.mkdir()
+    (stub_dir / "py7zr.py").write_text(
+        "raise ImportError('py7zr intentionally unavailable for this test')\n")
+
+    src = tmp_path / "src"
+    src.mkdir()
+    magic = b"7z\xbc\xaf\x27\x1c"
+    (src / "games.7z").write_bytes(magic + b"not-really-parsed")
+
+    db = tmp_path / "db.txt"
+    write_db(db, [line("outpack/USA/unrelated.bin", "unrelated")])
+    out = tmp_path / "out"
+
+    existing_pythonpath = os.environ.get("PYTHONPATH", "")
+    pythonpath = str(stub_dir)
+    if existing_pythonpath:
+        pythonpath += os.pathsep + existing_pythonpath
+
+    result = run("build_pack.py",
+                 ["-i", "src", "-d", str(db), "-o", str(out)],
+                 cwd=tmp_path,
+                 env={"PYTHONPATH": pythonpath})
+
+    assert result.returncode == 0
+    assert "7z" not in result.stdout
+    assert "coverage: 0/1 (0.0%)" in result.stdout
 
 
 def test_missing_file_without_report_flag(tmp_path, run, make_tree, line):
